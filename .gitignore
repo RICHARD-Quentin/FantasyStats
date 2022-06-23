@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+lfl-items.json
+lfl-itemsResults.json
+lfl-matchs.json
+lec-items.json
+lec-itemsResults.json
+lec-matchs.json
+controller.py
+main.py
+items.json
+venv/
