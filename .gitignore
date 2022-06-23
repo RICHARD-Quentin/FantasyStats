@@ -10,3 +10,5 @@ controller.py
 main.py
 items.json
 venv/
+lec-items2.json
+lfl-items2.json
