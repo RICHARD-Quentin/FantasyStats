@@ -24,64 +24,21 @@ Esquive Salvatrice,7,48,0.14583333333333334,15%,15.0,2.1875,105,0,Gratuit,Gratui
 Force Divine,9,48,0.1875,19%,11.0,2.0625,99,0,Gratuit,Gratuit
 Masse de Siège,3,48,0.0625,6%,16.0,1.0,48,0,Gratuit,Gratuit
 Épée Obscure,3,48,0.0625,6%,15.0,0.9375,45,1,0.9375,15.0
-Aura Légendaire,1,48,0.020833333333333332,2%,40.0,0.8333333333333334,40,3,0.2777777777777778,13.333333333333334
 Épées Jumelles,3,48,0.0625,6%,13.333333333333334,0.8333333333333334,40,1,0.8333333333333334,13.333333333333334
+Aura Légendaire,1,48,0.020833333333333332,2%,40.0,0.8333333333333334,40,3,0.2777777777777778,13.333333333333334
 Enchaînement Éclair,2,48,0.041666666666666664,4%,18.0,0.75,36,1,0.75,18.0
 Économe Sagesse du Trésorier,2,48,0.041666666666666664,4%,17.0,0.7083333333333334,34,2,0.3541666666666667,8.5
 Bâton du Conquérant,3,48,0.0625,6%,11.0,0.6875,33,0,Gratuit,Gratuit
-Elan de Fureur,2,48,0.041666666666666664,4%,15.0,0.625,30,2,0.3125,7.5
 Triple Météore,1,48,0.020833333333333332,2%,30.0,0.625,30,0,Gratuit,Gratuit
-Le Croque-mort,2,48,0.041666666666666664,4%,14.0,0.5833333333333334,28,1,0.5833333333333334,14.0
+Elan de Fureur,2,48,0.041666666666666664,4%,15.0,0.625,30,2,0.3125,7.5
 Hache Frénétique,2,48,0.041666666666666664,4%,14.0,0.5833333333333334,28,2,0.2916666666666667,7.0
+Le Croque-mort,2,48,0.041666666666666664,4%,14.0,0.5833333333333334,28,1,0.5833333333333334,14.0
 Ascension Divine,1,48,0.020833333333333332,2%,25.0,0.5208333333333334,25,3,0.17361111111111113,8.333333333333334
 Lance Doublée,3,48,0.0625,6%,8.0,0.5,24,0,Gratuit,Gratuit
 Désintégrateur Magnétique,2,48,0.041666666666666664,4%,11.0,0.4583333333333333,22,0,Gratuit,Gratuit
-Épé Sainte,2,48,0.041666666666666664,4%,10.0,0.4166666666666667,20,0,Gratuit,Gratuit
 Lance Triplée,1,48,0.020833333333333332,2%,20.0,0.4166666666666667,20,0,Gratuit,Gratuit
+Épé Sainte,2,48,0.041666666666666664,4%,10.0,0.4166666666666667,20,0,Gratuit,Gratuit
 Danse Macabre,2,48,0.041666666666666664,4%,8.0,0.3333333333333333,16,1,0.3333333333333333,8.0
-Bâton Élémentaire,1,48,0.020833333333333332,2%,15.0,0.3125,15,0,Gratuit,Gratuit
 Soif de Sang,1,48,0.020833333333333332,2%,15.0,0.3125,15,0,Gratuit,Gratuit
+Bâton Élémentaire,1,48,0.020833333333333332,2%,15.0,0.3125,15,0,Gratuit,Gratuit
 Griffes Sauvages,5,48,0.10416666666666667,10%,1.4,0.14583333333333334,7,3,0.04861111111111111,0.4666666666666666
-Esprit Guerrier,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Horloge Divine,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Faux Assoiffées,0,48,0.0,0%,0,0.0,0,3,0.0,0.0
-Adrénaline Arcanique,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Marteau Conquérant,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Frappes Éclair,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Pluie de Météorites,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Masse Colossale,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Frappe Chirurgicale,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Première Ligne,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Destruction Royale,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Parchemin Secret,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Lame Insatiable,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Tombeau Rocheux,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Poigne d'Or,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Griffes Démoniaques,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Astéroïde Fatal,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Explosion Arcanique,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Glaive Vindicatif,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Esprit de la Faille,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Chasseur de Bêtes,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Bouclier Efficient,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Sceau Profanateur,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Masque du Baron,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Folie Meurtrière,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Décharge Élémentaire,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Chasseresse d'Âmes,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-L'Oeil du Héraut,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Protection Royale,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Perce-Écailles,0,48,0.0,0%,0,0.0,0,3,0.0,0.0
-Brise-remparts,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Chasse au Gros,0,48,0.0,0%,0,0.0,0,3,0.0,0.0
-Pillard Féroce,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Marteau Dévastateur,0,48,0.0,0%,0,0.0,0,3,0.0,0.0
-Écailles Magiques,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
-Emblème Ancien,0,48,0.0,0%,0,0.0,0,3,0.0,0.0
-Gardien Sous-terrain,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Couronne du Roi Nain,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Âme de Dragon Élémentaire,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Chasseur d'Âmes,0,48,0.0,0%,0,0.0,0,1,0.0,0.0
-Esprit Sauvage,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Sceau Draconique Ancestral,0,48,0.0,0%,0,0.0,0,0,Gratuit,Gratuit
-Mental d'Acier,0,48,0.0,0%,0,0.0,0,2,0.0,0.0
