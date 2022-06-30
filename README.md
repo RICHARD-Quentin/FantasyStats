@@ -3,7 +3,10 @@
 Les données sont sous forme de csv, vous pouvez facilement les importer dans votre tableur préféré, vous pouvez cliquer sur le bouton "tag" au dessus des fichiers pour avoir les stats a une semaine donnée ( première semaine étant celle du 23/06/2022 )
 ![tags fantasy](https://user-images.githubusercontent.com/56677909/175285418-5c0594bb-e8dd-4aed-a786-d4ad6793a395.PNG)
 
-Les données prennent en compte toute les données des games qu'elles soient des victoires ou des defaites, si il y a deux fois plus de "total games" c'est parce qu'il y a deux equipes par partie, par exemple au bout d'une journée ( 5 games ) il y aura les data de 10 games jouées (2 supp, 2 adc, etc...)
+Les données prennent en compte toute les données des games qu'elles soient des victoires ou des defaites.
+Dans chaque dossier de chaque ligue se trouve les données de chaque joueurs ainsi que celles pour tout les joueurs confondus.
+
+Di il y a deux fois plus de "total games" c'est parce qu'il y a deux equipes par partie, par exemple au bout d'une journée ( 5 games ) il y aura les data de 10 games jouées (2 supp, 2 adc, etc...)
 
 ## Download
 
@@ -40,3 +43,15 @@ Correspond a la moyenne de pts que l'objet a rapporté sur toute les games joué
 ## Total point
 
 Correspond au nombre de point total que l'objet a rapporté
+
+## Cout
+
+Correspond au coût de l'objet
+
+## Pts par cout moy
+
+Correspond a la moyenne de pts que l'objet a rapporté quand il est passé pour chaque points qu'il a couté
+
+## Pts par cout total
+
+Correspond a la moyenne de pts que l'objet a rapporté sur toute les games jouées pour chaque points qu'il a couté
