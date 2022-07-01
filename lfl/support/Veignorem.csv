@@ -1,31 +1,31 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Aveuglement,Incapacitor,10,10,1.0,100%,34.2,34.2,342,3,11.4,11.4
-Totem du Gardien,Guardian Totem,10,10,1.0,100%,22.7,22.7,227,3,7.57,7.57
-Vision Céleste,Heavenly Vision,7,10,0.7,70%,22.0,15.4,154,2,11.0,7.7
-Le Traqueur,The Stalker,8,10,0.8,80%,18.0,14.4,144,3,6.0,4.8
-Le Visionnaire,The Visionary,7,10,0.7,70%,18.0,12.6,126,2,9.0,6.3
-Bâton de Conquête,Conquering Staff,5,10,0.5,50%,24.0,12.0,120,2,12.0,6.0
-Esprit de l'Écuyer,Spirit of the Squire,8,10,0.8,80%,11.62,9.3,93,3,3.87,3.1
-Armure d'Obsidienne,Obsidian Battle Plate,4,10,0.4,40%,20.0,8.0,80,2,10.0,4.0
-Bâton du Conquérant,Staff of Conquered Worlds,6,10,0.6,60%,11.0,6.6,66,0,Gratuit,Gratuit
-Œil de Lynx,Hawk's Eye,8,10,0.8,80%,8.0,6.4,64,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,4,10,0.4,40%,12.0,4.8,48,3,4.0,1.6
-Coup de Mort,Death Helper,4,10,0.4,40%,10.0,4.0,40,1,10.0,4.0
-Faux,Scythe,10,10,1.0,100%,3.8,3.8,38,3,1.27,1.27
-Amulette Omnisciente,Omnipresent Amulet,3,10,0.3,30%,11.0,3.3,33,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,3,10,0.3,30%,8.0,2.4,24,1,8.0,2.4
-Force Divine,Divine Impetu,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,2,10,0.2,20%,11.0,2.2,22,1,11.0,2.2
-Le Marionnettiste,The Puppeteer,1,10,0.1,10%,20.0,2.0,20,2,10.0,1.0
-Assistance Divine,Sacred Help,1,10,0.1,10%,20.0,2.0,20,2,10.0,1.0
-Être de Lumière,Being of Light,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8
-Esprit omniprésent,Omnipresent Spirit,1,10,0.1,10%,18.0,1.8,18,2,9.0,0.9
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,10,0.1,10%,17.0,1.7,17,2,8.5,0.85
-Soif de Sang,Thirsty Dagger,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit
-Épée Obscure,Swords of Darkness,1,10,0.1,10%,15.0,1.5,15,1,15.0,1.5
-Elan de Fureur,Rampage Momentum,1,10,0.1,10%,15.0,1.5,15,2,7.5,0.75
-Le Croque-mort,The Undertaker,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4
-Armure d'Immortel,Immortal Breastplate,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4
-Désintégrateur Magnétique,Magnetic Disintegrator,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
-Épées Jumelles,Twin Swords,1,10,0.1,10%,10.0,1.0,10,1,10.0,1.0
-Épé Sainte,Holy Sword,1,10,0.1,10%,10.0,1.0,10,0,Gratuit,Gratuit
+Aveuglement,Incapacitor,11,11,1.0,100%,32.45,32.45,357,3,10.82,10.82
+Totem du Gardien,Guardian Totem,11,11,1.0,100%,22.09,22.09,243,3,7.36,7.36
+Vision Céleste,Heavenly Vision,8,11,0.73,73%,22.0,16.0,176,2,11.0,8.0
+Le Traqueur,The Stalker,9,11,0.82,82%,18.0,14.73,162,3,6.0,4.91
+Le Visionnaire,The Visionary,8,11,0.73,73%,18.0,13.09,144,2,9.0,6.54
+Bâton de Conquête,Conquering Staff,5,11,0.45,45%,24.0,10.91,120,2,12.0,5.46
+Esprit de l'Écuyer,Spirit of the Squire,9,11,0.82,82%,11.33,9.27,102,3,3.78,3.09
+Armure d'Obsidienne,Obsidian Battle Plate,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63
+Œil de Lynx,Hawk's Eye,9,11,0.82,82%,8.0,6.55,72,0,Gratuit,Gratuit
+Bâton du Conquérant,Staff of Conquered Worlds,6,11,0.55,55%,11.0,6.0,66,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,5,11,0.45,45%,10.2,4.64,51,3,3.4,1.55
+Faux,Scythe,11,11,1.0,100%,3.73,3.73,41,3,1.24,1.24
+Coup de Mort,Death Helper,4,11,0.36,36%,10.0,3.64,40,1,10.0,3.64
+Amulette Omnisciente,Omnipresent Amulet,3,11,0.27,27%,11.0,3.0,33,0,Gratuit,Gratuit
+Danse Macabre,Dance of Death,3,11,0.27,27%,8.0,2.18,24,1,8.0,2.18
+Force Divine,Divine Impetu,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,2,11,0.18,18%,11.0,2.0,22,1,11.0,2.0
+Le Marionnettiste,The Puppeteer,1,11,0.09,9%,20.0,1.82,20,2,10.0,0.91
+Assistance Divine,Sacred Help,1,11,0.09,9%,20.0,1.82,20,2,10.0,0.91
+Être de Lumière,Being of Light,1,11,0.09,9%,18.0,1.64,18,1,18.0,1.64
+Esprit omniprésent,Omnipresent Spirit,1,11,0.09,9%,18.0,1.64,18,2,9.0,0.82
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,11,0.09,9%,17.0,1.55,17,2,8.5,0.78
+Soif de Sang,Thirsty Dagger,1,11,0.09,9%,15.0,1.36,15,0,Gratuit,Gratuit
+Épée Obscure,Swords of Darkness,1,11,0.09,9%,15.0,1.36,15,1,15.0,1.36
+Elan de Fureur,Rampage Momentum,1,11,0.09,9%,15.0,1.36,15,2,7.5,0.68
+Le Croque-mort,The Undertaker,1,11,0.09,9%,14.0,1.27,14,1,14.0,1.27
+Armure d'Immortel,Immortal Breastplate,1,11,0.09,9%,14.0,1.27,14,1,14.0,1.27
+Désintégrateur Magnétique,Magnetic Disintegrator,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,1,11,0.09,9%,10.0,0.91,10,1,10.0,0.91
+Épé Sainte,Holy Sword,1,11,0.09,9%,10.0,0.91,10,0,Gratuit,Gratuit
