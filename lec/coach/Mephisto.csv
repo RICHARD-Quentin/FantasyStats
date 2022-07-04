@@ -1,17 +1,19 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,18.0,18.0,90,3,6.0,6.0
-Esprit de la Faille,Spirit of the Rift,4,5,0.8,80%,20.0,16.0,80,2,10.0,8.0
-Masque du Baron,Baron' s Mask,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0
-Perce-Écailles,Scale Tearer,5,5,1.0,100%,10.8,10.8,54,3,3.6,3.6
-L'Oeil du Héraut,Eye of the Void,4,5,0.8,80%,12.0,9.6,48,0,Gratuit,Gratuit
-Gardien Sous-terrain,Underworld Guardian,3,5,0.6,60%,15.0,9.0,45,1,15.0,9.0
-Emblème Ancien,Ancient Emblem,1,5,0.2,20%,40.0,8.0,40,3,13.33,2.67
-Première Ligne,First Line,5,5,1.0,100%,8.0,8.0,40,0,Gratuit,Gratuit
-Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,13.0,7.8,39,3,4.33,2.6
-Marteau Conquérant,Conquest Hammer,2,5,0.4,40%,18.0,7.2,36,1,18.0,7.2
-Protection Royale,Royal Protector,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8
-Folie Meurtrière,Killer Momentum,1,5,0.2,20%,30.0,6.0,30,0,Gratuit,Gratuit
-Sceau Profanateur,Seal of Desecration,2,5,0.4,40%,12.0,4.8,24,2,6.0,2.4
-Frappes Éclair,Light Swords,2,5,0.4,40%,12.0,4.8,24,0,Gratuit,Gratuit
-Poigne d'Or,Golden Force,1,5,0.2,20%,23.0,4.6,23,1,23.0,4.6
-Écailles Magiques,Magic Scales,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
+Marteau Dévastateur,Destroyer Hammer,7,7,1.0,100%,21.86,21.86,153,3,7.29,7.29
+Masque du Baron,Baron' s Mask,5,7,0.71,71%,20.0,14.29,100,2,10.0,7.14
+Perce-Écailles,Scale Tearer,7,7,1.0,100%,13.71,13.71,96,3,4.57,4.57
+Esprit de la Faille,Spirit of the Rift,4,7,0.57,57%,20.0,11.43,80,2,10.0,5.71
+Chasse au Gros,Big Worm Hunter,5,7,0.71,71%,15.6,11.14,78,3,5.2,3.71
+Gardien Sous-terrain,Underworld Guardian,5,7,0.71,71%,15.0,10.71,75,1,15.0,10.71
+Marteau Conquérant,Conquest Hammer,4,7,0.57,57%,18.0,10.29,72,1,18.0,10.29
+Poigne d'Or,Golden Force,3,7,0.43,43%,23.0,9.86,69,1,23.0,9.86
+Protection Royale,Royal Protector,4,7,0.57,57%,17.0,9.71,68,1,17.0,9.71
+Sceau Profanateur,Seal of Desecration,4,7,0.57,57%,16.0,9.14,64,2,8.0,4.57
+L'Oeil du Héraut,Eye of the Void,5,7,0.71,71%,11.2,8.0,56,0,Gratuit,Gratuit
+Première Ligne,First Line,7,7,1.0,100%,8.0,8.0,56,0,Gratuit,Gratuit
+Frappes Éclair,Light Swords,4,7,0.57,57%,12.0,6.86,48,0,Gratuit,Gratuit
+Écailles Magiques,Magic Scales,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85
+Emblème Ancien,Ancient Emblem,1,7,0.14,14%,40.0,5.71,40,3,13.33,1.9
+Folie Meurtrière,Killer Momentum,1,7,0.14,14%,30.0,4.29,30,0,Gratuit,Gratuit
+Brise-remparts,Wall Breaker,1,7,0.14,14%,30.0,4.29,30,0,Gratuit,Gratuit
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,7,0.14,14%,25.0,3.57,25,1,25.0,3.57

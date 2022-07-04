@@ -1,11 +1,22 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Visionnaire,The Visionary,4,4,1.0,100%,18.0,18.0,72,2,9.0,9.0
-Le Traqueur,The Stalker,4,4,1.0,100%,18.0,18.0,72,3,6.0,6.0
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,16.5,16.5,66,3,5.5,5.5
-Aveuglement,Incapacitor,4,4,1.0,100%,11.25,11.25,45,3,3.75,3.75
-Esprit omniprésent,Omnipresent Spirit,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5
-Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
-Vision Céleste,Heavenly Vision,1,4,0.25,25%,22.0,5.5,22,2,11.0,2.75
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,3.75,3.75,15,3,1.25,1.25
-Faux,Scythe,4,4,1.0,100%,1.0,1.0,4,3,0.33,0.33
+Le Traqueur,The Stalker,6,6,1.0,100%,18.0,18.0,108,3,6.0,6.0
+Aveuglement,Incapacitor,6,6,1.0,100%,15.0,15.0,90,3,5.0,5.0
+Totem du Gardien,Guardian Totem,6,6,1.0,100%,14.83,14.83,89,3,4.94,4.94
+Le Visionnaire,The Visionary,4,6,0.67,67%,18.0,12.0,72,2,9.0,6.0
+Esprit omniprésent,Omnipresent Spirit,3,6,0.5,50%,18.0,9.0,54,2,9.0,4.5
+Œil de Lynx,Hawk's Eye,6,6,1.0,100%,8.0,8.0,48,0,Gratuit,Gratuit
+Assistance Divine,Sacred Help,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33
+Armure d'Obsidienne,Obsidian Battle Plate,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33
+Esprit de l'Écuyer,Spirit of the Squire,6,6,1.0,100%,5.5,5.5,33,3,1.83,1.83
+Bâton de Conquête,Conquering Staff,1,6,0.17,17%,24.0,4.0,24,2,12.0,2.0
+Vision Céleste,Heavenly Vision,1,6,0.17,17%,22.0,3.67,22,2,11.0,1.83
+Bâton du Conquérant,Staff of Conquered Worlds,2,6,0.33,33%,11.0,3.67,22,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67
+Frappe Chirurgicale,Accurate Sword,1,6,0.17,17%,16.0,2.67,16,1,16.0,2.67
+Masse de Siège,Siege Mace,1,6,0.17,17%,16.0,2.67,16,0,Gratuit,Gratuit
+Instinct Sanguinaire,Bloody Instinct,1,6,0.17,17%,15.0,2.5,15,2,7.5,1.25
+Hache Frénétique,Berseker Ax,1,6,0.17,17%,14.0,2.33,14,2,7.0,1.17
+Lame Affutée,Sharp Blade,2,6,0.33,33%,6.0,2.0,12,3,2.0,0.67
+Sabre Versatile,Versatil Saber,1,6,0.17,17%,11.0,1.83,11,1,11.0,1.83
+Faux,Scythe,6,6,1.0,100%,1.17,1.17,7,3,0.39,0.39
+Griffes Sauvages,Wild Claw,1,6,0.17,17%,2.0,0.33,2,3,0.67,0.11

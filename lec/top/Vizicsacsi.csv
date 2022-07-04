@@ -1,24 +1,25 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Faux,Scythe,5,5,1.0,100%,12.8,12.8,64,3,4.27,4.27
-Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,11.4,11.4,57,3,3.8,3.8
-Aveuglement,Incapacitor,5,5,1.0,100%,10.2,10.2,51,3,3.4,3.4
-Hache Frénétique,Berseker Ax,3,5,0.6,60%,14.0,8.4,42,2,7.0,4.2
-Le Marionnettiste,The Puppeteer,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,6.2,6.2,31,3,2.07,2.07
-Coup de Mort,Death Helper,3,5,0.6,60%,10.0,6.0,30,1,10.0,6.0
-Instinct Sanguinaire,Bloody Instinct,2,5,0.4,40%,15.0,6.0,30,2,7.5,3.0
-Bâton de Conquête,Conquering Staff,1,5,0.2,20%,24.0,4.8,24,2,12.0,2.4
-Explosion Arcanique,Arcane Explosive,2,5,0.4,40%,12.0,4.8,24,1,12.0,4.8
-Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
-Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8
-Parchemin Secret,Secret Scroll,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,5,0.2,20%,17.0,3.4,17,2,8.5,1.7
-Esquive Salvatrice,Evasive Protection,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,3,5,0.6,60%,5.0,3.0,15,3,1.67,1.0
-Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,14.0,2.8,14,1,14.0,2.8
-Couronne du Roi Nain,Crown of the Dwarf King,1,5,0.2,20%,13.0,2.6,13,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2
-Amulette Omnisciente,Omnipresent Amulet,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit
-Tombeau Rocheux,Rock Tomb,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0
-Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit
-Griffes Sauvages,Wild Claw,2,5,0.4,40%,1.0,0.4,2,3,0.33,0.13
+Faux,Scythe,7,7,1.0,100%,12.57,12.57,88,3,4.19,4.19
+Esprit de l'Écuyer,Spirit of the Squire,7,7,1.0,100%,10.29,10.29,72,3,3.43,3.43
+Le Marionnettiste,The Puppeteer,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29
+Aveuglement,Incapacitor,6,7,0.86,86%,9.0,7.71,54,3,3.0,2.57
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,6.0,6.0,42,3,2.0,2.0
+Hache Frénétique,Berseker Ax,3,7,0.43,43%,14.0,6.0,42,2,7.0,3.0
+Mental d'Acier,Steel Aura,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57
+Coup de Mort,Death Helper,3,7,0.43,43%,10.0,4.29,30,1,10.0,4.29
+Instinct Sanguinaire,Bloody Instinct,2,7,0.29,29%,15.0,4.29,30,2,7.5,2.15
+Bâton de Conquête,Conquering Staff,1,7,0.14,14%,24.0,3.43,24,2,12.0,1.72
+Explosion Arcanique,Arcane Explosive,2,7,0.29,29%,12.0,3.43,24,1,12.0,3.43
+Armure d'Obsidienne,Obsidian Battle Plate,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43
+Esprit omniprésent,Omnipresent Spirit,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28
+Parchemin Secret,Secret Scroll,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,7,0.14,14%,17.0,2.43,17,2,8.5,1.22
+Esquive Salvatrice,Evasive Protection,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,3,7,0.43,43%,5.0,2.14,15,3,1.67,0.71
+Armure d'Immortel,Immortal Breastplate,1,7,0.14,14%,14.0,2.0,14,1,14.0,2.0
+Couronne du Roi Nain,Crown of the Dwarf King,1,7,0.14,14%,13.0,1.86,13,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,7,0.14,14%,11.0,1.57,11,1,11.0,1.57
+Amulette Omnisciente,Omnipresent Amulet,1,7,0.14,14%,11.0,1.57,11,0,Gratuit,Gratuit
+Tombeau Rocheux,Rock Tomb,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43
+Œil de Lynx,Hawk's Eye,1,7,0.14,14%,8.0,1.14,8,0,Gratuit,Gratuit
+Griffes Sauvages,Wild Claw,2,7,0.29,29%,1.0,0.29,2,3,0.33,0.1
