@@ -1,29 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Traqueur,The Stalker,10,10,1.0,100%,18.0,18.0,180,3,6.0,6.0
-Totem du Gardien,Guardian Totem,10,10,1.0,100%,16.6,16.6,166,3,5.53,5.53
-Aveuglement,Incapacitor,10,10,1.0,100%,15.6,15.6,156,3,5.2,5.2
-Armure d'Obsidienne,Obsidian Battle Plate,6,10,0.6,60%,20.0,12.0,120,2,10.0,6.0
-Esprit de l'Écuyer,Spirit of the Squire,9,10,0.9,90%,11.67,10.5,105,3,3.89,3.5
-Le Visionnaire,The Visionary,5,10,0.5,50%,18.0,9.0,90,2,9.0,4.5
-Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit
-Bâton de Conquête,Conquering Staff,3,10,0.3,30%,24.0,7.2,72,2,12.0,3.6
-Vision Céleste,Heavenly Vision,3,10,0.3,30%,22.0,6.6,66,2,11.0,3.3
-Le Marionnettiste,The Puppeteer,3,10,0.3,30%,20.0,6.0,60,2,10.0,3.0
-Instinct Sanguinaire,Bloody Instinct,3,10,0.3,30%,15.0,4.5,45,2,7.5,2.25
-Amulette Omnisciente,Omnipresent Amulet,4,10,0.4,40%,11.0,4.4,44,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,4,10,0.4,40%,11.0,4.4,44,1,11.0,4.4
-Coup de Mort,Death Helper,3,10,0.3,30%,10.0,3.0,30,1,10.0,3.0
-Soif de Sang,Thirsty Dagger,2,10,0.2,20%,15.0,3.0,30,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,7,10,0.7,70%,3.86,2.7,27,3,1.29,0.9
-Bâton du Conquérant,Staff of Conquered Worlds,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Assistance Divine,Sacred Help,1,10,0.1,10%,20.0,2.0,20,2,10.0,1.0
-Être de Lumière,Being of Light,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8
-Marteleur précis,Precise Hammer,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8
-Esprit omniprésent,Omnipresent Spirit,1,10,0.1,10%,18.0,1.8,18,2,9.0,0.9
-Masse de Siège,Siege Mace,1,10,0.1,10%,16.0,1.6,16,0,Gratuit,Gratuit
-Épée Obscure,Swords of Darkness,1,10,0.1,10%,15.0,1.5,15,1,15.0,1.5
-Esquive Salvatrice,Evasive Protection,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4
-Faux,Scythe,8,10,0.8,80%,1.5,1.2,12,3,0.5,0.4
-Force Divine,Divine Impetu,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
-Épées Jumelles,Twin Swords,1,10,0.1,10%,10.0,1.0,10,1,10.0,1.0
+Le Traqueur,The Stalker,11,11,1.0,100%,18.0,18.0,198,3,6.0,6.0
+Totem du Gardien,Guardian Totem,11,11,1.0,100%,16.82,16.82,185,3,5.61,5.61
+Aveuglement,Incapacitor,11,11,1.0,100%,15.27,15.27,168,3,5.09,5.09
+Esprit de l'Écuyer,Spirit of the Squire,10,11,0.91,91%,13.2,12.0,132,3,4.4,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,6,11,0.55,55%,20.0,10.91,120,2,10.0,5.46
+Le Visionnaire,The Visionary,6,11,0.55,55%,18.0,9.82,108,2,9.0,4.91
+Vision Céleste,Heavenly Vision,4,11,0.36,36%,22.0,8.0,88,2,11.0,4.0
+Œil de Lynx,Hawk's Eye,11,11,1.0,100%,8.0,8.0,88,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63
+Bâton de Conquête,Conquering Staff,3,11,0.27,27%,24.0,6.55,72,2,12.0,3.27
+Instinct Sanguinaire,Bloody Instinct,4,11,0.36,36%,15.0,5.45,60,2,7.5,2.73
+Amulette Omnisciente,Omnipresent Amulet,5,11,0.45,45%,11.0,5.0,55,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,4,11,0.36,36%,11.0,4.0,44,1,11.0,4.0
+Coup de Mort,Death Helper,4,11,0.36,36%,10.0,3.64,40,1,10.0,3.64
+Soif de Sang,Thirsty Dagger,2,11,0.18,18%,15.0,2.73,30,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,7,11,0.64,64%,3.86,2.45,27,3,1.29,0.82
+Bâton du Conquérant,Staff of Conquered Worlds,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit
+Assistance Divine,Sacred Help,1,11,0.09,9%,20.0,1.82,20,2,10.0,0.91
+Être de Lumière,Being of Light,1,11,0.09,9%,18.0,1.64,18,1,18.0,1.64
+Esprit omniprésent,Omnipresent Spirit,1,11,0.09,9%,18.0,1.64,18,2,9.0,0.82
+Marteleur précis,Precise Hammer,1,11,0.09,9%,18.0,1.64,18,1,18.0,1.64
+Masse de Siège,Siege Mace,1,11,0.09,9%,16.0,1.45,16,0,Gratuit,Gratuit
+Épée Obscure,Swords of Darkness,1,11,0.09,9%,15.0,1.36,15,1,15.0,1.36
+Esquive Salvatrice,Evasive Protection,1,11,0.09,9%,15.0,1.36,15,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,1,11,0.09,9%,14.0,1.27,14,1,14.0,1.27
+Faux,Scythe,9,11,0.82,82%,1.44,1.18,13,3,0.48,0.39
+Force Divine,Divine Impetu,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,1,11,0.09,9%,10.0,0.91,10,1,10.0,0.91
