@@ -1,21 +1,21 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Traqueur,The Stalker,9,10,0.9,90%,18.0,16.2,162,3,6.0,5.4
-Totem du Gardien,Guardian Totem,10,10,1.0,100%,15.9,15.9,159,3,5.3,5.3
-Aveuglement,Incapacitor,10,10,1.0,100%,15.3,15.3,153,3,5.1,5.1
-Esprit de l'Écuyer,Spirit of the Squire,9,10,0.9,90%,11.33,10.2,102,3,3.78,3.4
-Vision Céleste,Heavenly Vision,4,10,0.4,40%,22.0,8.8,88,2,11.0,4.4
-Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit
-Le Marionnettiste,The Puppeteer,4,10,0.4,40%,20.0,8.0,80,2,10.0,4.0
-Armure d'Obsidienne,Obsidian Battle Plate,4,10,0.4,40%,20.0,8.0,80,2,10.0,4.0
-Coup de Mort,Death Helper,6,10,0.6,60%,10.0,6.0,60,1,10.0,6.0
-Armure d'Immortel,Immortal Breastplate,3,10,0.3,30%,14.0,4.2,42,1,14.0,4.2
-Assistance Divine,Sacred Help,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
-Le Visionnaire,The Visionary,2,10,0.2,20%,18.0,3.6,36,2,9.0,1.8
-Amulette Omnisciente,Omnipresent Amulet,3,10,0.3,30%,11.0,3.3,33,0,Gratuit,Gratuit
-Esquive Salvatrice,Evasive Protection,2,10,0.2,20%,15.0,3.0,30,0,Gratuit,Gratuit
-Bâton de Conquête,Conquering Staff,1,10,0.1,10%,24.0,2.4,24,2,12.0,1.2
-Force Divine,Divine Impetu,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,2,10,0.2,20%,11.0,2.2,22,1,11.0,2.2
-Bâton du Conquérant,Staff of Conquered Worlds,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Faux,Scythe,7,10,0.7,70%,1.57,1.1,11,3,0.52,0.37
-Lame Affutée,Sharp Blade,1,10,0.1,10%,3.0,0.3,3,3,1.0,0.1
+Totem du Gardien,Guardian Totem,11,11,1.0,100%,16.36,16.36,180,3,5.45,5.45
+Le Traqueur,The Stalker,10,11,0.91,91%,18.0,16.36,180,3,6.0,5.45
+Aveuglement,Incapacitor,11,11,1.0,100%,15.27,15.27,168,3,5.09,5.09
+Esprit de l'Écuyer,Spirit of the Squire,10,11,0.91,91%,13.2,12.0,132,3,4.4,4.0
+Vision Céleste,Heavenly Vision,4,11,0.36,36%,22.0,8.0,88,2,11.0,4.0
+Œil de Lynx,Hawk's Eye,11,11,1.0,100%,8.0,8.0,88,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63
+Armure d'Obsidienne,Obsidian Battle Plate,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63
+Coup de Mort,Death Helper,7,11,0.64,64%,10.0,6.36,70,1,10.0,6.36
+Le Visionnaire,The Visionary,3,11,0.27,27%,18.0,4.91,54,2,9.0,2.46
+Amulette Omnisciente,Omnipresent Amulet,4,11,0.36,36%,11.0,4.0,44,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,3,11,0.27,27%,14.0,3.82,42,1,14.0,3.82
+Assistance Divine,Sacred Help,2,11,0.18,18%,20.0,3.64,40,2,10.0,1.82
+Sabre Versatile,Versatil Saber,3,11,0.27,27%,11.0,3.0,33,1,11.0,3.0
+Esquive Salvatrice,Evasive Protection,2,11,0.18,18%,15.0,2.73,30,0,Gratuit,Gratuit
+Bâton de Conquête,Conquering Staff,1,11,0.09,9%,24.0,2.18,24,2,12.0,1.09
+Force Divine,Divine Impetu,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit
+Bâton du Conquérant,Staff of Conquered Worlds,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit
+Faux,Scythe,8,11,0.73,73%,1.5,1.09,12,3,0.5,0.36
+Lame Affutée,Sharp Blade,2,11,0.18,18%,3.0,0.55,6,3,1.0,0.18

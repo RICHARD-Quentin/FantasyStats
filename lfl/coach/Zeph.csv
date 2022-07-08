@@ -1,20 +1,21 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Marteau Dévastateur,Destroyer Hammer,11,11,1.0,100%,27.82,27.82,306,3,9.27,9.27
-Perce-Écailles,Scale Tearer,11,11,1.0,100%,19.09,19.09,210,3,6.36,6.36
-Masque du Baron,Baron' s Mask,10,11,0.91,91%,20.0,18.18,200,2,10.0,9.09
-Protection Royale,Royal Protector,11,11,1.0,100%,17.0,17.0,187,1,17.0,17.0
-Poigne d'Or,Golden Force,8,11,0.73,73%,23.0,16.73,184,1,23.0,16.73
-Marteau Conquérant,Conquest Hammer,9,11,0.82,82%,18.0,14.73,162,1,18.0,14.73
-Chasse au Gros,Big Worm Hunter,11,11,1.0,100%,13.0,13.0,143,3,4.33,4.33
-Écailles Magiques,Magic Scales,7,11,0.64,64%,20.0,12.73,140,2,10.0,6.37
-Sceau Profanateur,Seal of Desecration,11,11,1.0,100%,12.36,12.36,136,2,6.18,6.18
-Âme de Dragon Élémentaire,Elemental Dragon Soul,5,11,0.45,45%,25.0,11.36,125,1,25.0,11.36
-Frappes Éclair,Light Swords,10,11,0.91,91%,12.0,10.91,120,0,Gratuit,Gratuit
-Folie Meurtrière,Killer Momentum,4,11,0.36,36%,30.0,10.91,120,0,Gratuit,Gratuit
-Gardien Sous-terrain,Underworld Guardian,8,11,0.73,73%,15.0,10.91,120,1,15.0,10.91
-Sceau Draconique Ancestral,Ancestral Dragon Seal,3,11,0.27,27%,35.0,9.55,105,0,Gratuit,Gratuit
-Première Ligne,First Line,11,11,1.0,100%,8.0,8.0,88,0,Gratuit,Gratuit
-L'Oeil du Héraut,Eye of the Void,7,11,0.64,64%,12.57,8.0,88,0,Gratuit,Gratuit
-Emblème Ancien,Ancient Emblem,2,11,0.18,18%,40.0,7.27,80,3,13.33,2.42
-Esprit de la Faille,Spirit of the Rift,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63
-Brise-remparts,Wall Breaker,1,11,0.09,9%,30.0,2.73,30,0,Gratuit,Gratuit
+Marteau Dévastateur,Destroyer Hammer,12,12,1.0,100%,27.25,27.25,327,3,9.08,9.08
+Perce-Écailles,Scale Tearer,12,12,1.0,100%,19.0,19.0,228,3,6.33,6.33
+Masque du Baron,Baron' s Mask,11,12,0.92,92%,20.0,18.33,220,2,10.0,9.16
+Protection Royale,Royal Protector,12,12,1.0,100%,17.0,17.0,204,1,17.0,17.0
+Poigne d'Or,Golden Force,8,12,0.67,67%,23.0,15.33,184,1,23.0,15.33
+Marteau Conquérant,Conquest Hammer,9,12,0.75,75%,18.0,13.5,162,1,18.0,13.5
+Écailles Magiques,Magic Scales,8,12,0.67,67%,20.0,13.33,160,2,10.0,6.67
+Chasse au Gros,Big Worm Hunter,12,12,1.0,100%,13.0,13.0,156,3,4.33,4.33
+Sceau Profanateur,Seal of Desecration,12,12,1.0,100%,12.0,12.0,144,2,6.0,6.0
+Sceau Draconique Ancestral,Ancestral Dragon Seal,4,12,0.33,33%,35.0,11.67,140,0,Gratuit,Gratuit
+Gardien Sous-terrain,Underworld Guardian,9,12,0.75,75%,15.0,11.25,135,1,15.0,11.25
+Frappes Éclair,Light Swords,11,12,0.92,92%,12.0,11.0,132,0,Gratuit,Gratuit
+Âme de Dragon Élémentaire,Elemental Dragon Soul,5,12,0.42,42%,25.0,10.42,125,1,25.0,10.42
+Folie Meurtrière,Killer Momentum,4,12,0.33,33%,30.0,10.0,120,0,Gratuit,Gratuit
+Première Ligne,First Line,12,12,1.0,100%,8.0,8.0,96,0,Gratuit,Gratuit
+L'Oeil du Héraut,Eye of the Void,7,12,0.58,58%,12.57,7.33,88,0,Gratuit,Gratuit
+Emblème Ancien,Ancient Emblem,2,12,0.17,17%,40.0,6.67,80,3,13.33,2.22
+Esprit de la Faille,Spirit of the Rift,4,12,0.33,33%,20.0,6.67,80,2,10.0,3.33
+Brise-remparts,Wall Breaker,1,12,0.08,8%,30.0,2.5,30,0,Gratuit,Gratuit
+Horloge Divine,Divine Compass,1,12,0.08,8%,25.0,2.08,25,0,Gratuit,Gratuit
