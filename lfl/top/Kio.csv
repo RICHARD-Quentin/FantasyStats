@@ -1,28 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Faux,Scythe,14,14,1.0,100%,11.07,11.07,155,3,3.69,3.69
-Armure d'Obsidienne,Obsidian Battle Plate,4,14,0.29,29%,20.0,5.71,80,2,10.0,2.85
-Aveuglement,Incapacitor,10,14,0.71,71%,6.9,4.93,69,3,2.3,1.64
-Esprit de l'Écuyer,Spirit of the Squire,10,14,0.71,71%,6.9,4.93,69,3,2.3,1.64
-Totem du Gardien,Guardian Totem,14,14,1.0,100%,4.64,4.64,65,3,1.55,1.55
-Ascension Divine,Divine Ascent,2,14,0.14,14%,25.0,3.57,50,3,8.33,1.19
-Soif de Sang,Thirsty Dagger,3,14,0.21,21%,15.0,3.21,45,0,Gratuit,Gratuit
-Le Marionnettiste,The Puppeteer,2,14,0.14,14%,20.0,2.86,40,2,10.0,1.43
-Sabre Versatile,Versatil Saber,3,14,0.21,21%,11.0,2.36,33,1,11.0,2.36
-Instinct Sanguinaire,Bloody Instinct,2,14,0.14,14%,15.0,2.14,30,2,7.5,1.07
-Lame Affutée,Sharp Blade,7,14,0.5,50%,4.29,2.14,30,3,1.43,0.71
-Faux Assoiffées,Thirsty Scythes,1,14,0.07,7%,25.0,1.79,25,3,8.33,0.6
-Désintégrateur Magnétique,Magnetic Disintegrator,2,14,0.14,14%,11.0,1.57,22,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,2,14,0.14,14%,10.0,1.43,20,1,10.0,1.43
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,14,0.07,7%,17.0,1.21,17,2,8.5,0.6
-Esprit Guerrier,Spirit of the Warrior,1,14,0.07,7%,16.0,1.14,16,1,16.0,1.14
-Chasseur d'Âmes,Soul Hunter,1,14,0.07,7%,15.0,1.07,15,1,15.0,1.07
-Esquive Salvatrice,Evasive Protection,1,14,0.07,7%,15.0,1.07,15,0,Gratuit,Gratuit
-Épée Obscure,Swords of Darkness,1,14,0.07,7%,15.0,1.07,15,1,15.0,1.07
-Armure d'Immortel,Immortal Breastplate,1,14,0.07,7%,14.0,1.0,14,1,14.0,1.0
-Hache Frénétique,Berseker Ax,1,14,0.07,7%,14.0,1.0,14,2,7.0,0.5
-Destruction Royale,Royal Destroyer,1,14,0.07,7%,11.0,0.79,11,0,Gratuit,Gratuit
-Amulette Omnisciente,Omnipresent Amulet,1,14,0.07,7%,11.0,0.79,11,0,Gratuit,Gratuit
-Griffes Sauvages,Wild Claw,6,14,0.43,43%,1.83,0.79,11,3,0.61,0.26
-Épées Jumelles,Twin Swords,1,14,0.07,7%,10.0,0.71,10,1,10.0,0.71
-Lance Doublée,Dual Spear,1,14,0.07,7%,8.0,0.57,8,0,Gratuit,Gratuit
-Œil de Lynx,Hawk's Eye,1,14,0.07,7%,8.0,0.57,8,0,Gratuit,Gratuit
+Faux,Scythe,15,15,1.0,100%,11.0,11.0,165,3,3.67,3.67
+Armure d'Obsidienne,Obsidian Battle Plate,5,15,0.33,33%,20.0,6.67,100,2,10.0,3.33
+Esprit de l'Écuyer,Spirit of the Squire,11,15,0.73,73%,7.91,5.8,87,3,2.64,1.93
+Aveuglement,Incapacitor,11,15,0.73,73%,6.82,5.0,75,3,2.27,1.67
+Totem du Gardien,Guardian Totem,15,15,1.0,100%,4.73,4.73,71,3,1.58,1.58
+Ascension Divine,Divine Ascent,2,15,0.13,13%,25.0,3.33,50,3,8.33,1.11
+Soif de Sang,Thirsty Dagger,3,15,0.2,20%,15.0,3.0,45,0,Gratuit,Gratuit
+Instinct Sanguinaire,Bloody Instinct,3,15,0.2,20%,15.0,3.0,45,2,7.5,1.5
+Sabre Versatile,Versatil Saber,4,15,0.27,27%,11.0,2.93,44,1,11.0,2.93
+Le Marionnettiste,The Puppeteer,2,15,0.13,13%,20.0,2.67,40,2,10.0,1.33
+Lame Affutée,Sharp Blade,8,15,0.53,53%,4.12,2.2,33,3,1.37,0.73
+Coup de Mort,Death Helper,3,15,0.2,20%,10.0,2.0,30,1,10.0,2.0
+Hache Frénétique,Berseker Ax,2,15,0.13,13%,14.0,1.87,28,2,7.0,0.94
+Faux Assoiffées,Thirsty Scythes,1,15,0.07,7%,25.0,1.67,25,3,8.33,0.56
+Amulette Omnisciente,Omnipresent Amulet,2,15,0.13,13%,11.0,1.47,22,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,2,15,0.13,13%,11.0,1.47,22,0,Gratuit,Gratuit
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,15,0.07,7%,17.0,1.13,17,2,8.5,0.56
+Esprit Guerrier,Spirit of the Warrior,1,15,0.07,7%,16.0,1.07,16,1,16.0,1.07
+Esquive Salvatrice,Evasive Protection,1,15,0.07,7%,15.0,1.0,15,0,Gratuit,Gratuit
+Épée Obscure,Swords of Darkness,1,15,0.07,7%,15.0,1.0,15,1,15.0,1.0
+Chasseur d'Âmes,Soul Hunter,1,15,0.07,7%,15.0,1.0,15,1,15.0,1.0
+Armure d'Immortel,Immortal Breastplate,1,15,0.07,7%,14.0,0.93,14,1,14.0,0.93
+Griffes Sauvages,Wild Claw,7,15,0.47,47%,1.86,0.87,13,3,0.62,0.29
+Destruction Royale,Royal Destroyer,1,15,0.07,7%,11.0,0.73,11,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,1,15,0.07,7%,10.0,0.67,10,1,10.0,0.67
+Lance Doublée,Dual Spear,1,15,0.07,7%,8.0,0.53,8,0,Gratuit,Gratuit
+Œil de Lynx,Hawk's Eye,1,15,0.07,7%,8.0,0.53,8,0,Gratuit,Gratuit
