@@ -1,24 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Faux,Scythe,7,7,1.0,100%,11.86,11.86,83,3,3.95,3.95
-Aveuglement,Incapacitor,7,7,1.0,100%,8.57,8.57,60,3,2.86,2.86
-Esprit de l'Écuyer,Spirit of the Squire,4,7,0.57,57%,13.5,7.71,54,3,4.5,2.57
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,7,0.43,43%,17.0,7.29,51,2,8.5,3.65
-Lame Affutée,Sharp Blade,6,7,0.86,86%,7.5,6.43,45,3,2.5,2.14
-Hache Frénétique,Berseker Ax,3,7,0.43,43%,14.0,6.0,42,2,7.0,3.0
-Armure d'Obsidienne,Obsidian Battle Plate,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85
-Le Marionnettiste,The Puppeteer,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85
-Explosion Arcanique,Arcane Explosive,3,7,0.43,43%,12.0,5.14,36,1,12.0,5.14
-Sabre Versatile,Versatil Saber,2,7,0.29,29%,11.0,3.14,22,1,11.0,3.14
-Coup de Mort,Death Helper,2,7,0.29,29%,10.0,2.86,20,1,10.0,2.86
-Mental d'Acier,Steel Aura,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,2.43,2.43,17,3,0.81,0.81
-Danse Macabre,Dance of Death,2,7,0.29,29%,8.0,2.29,16,1,8.0,2.29
-Elan de Fureur,Rampage Momentum,1,7,0.14,14%,15.0,2.14,15,2,7.5,1.07
-Esquive Salvatrice,Evasive Protection,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit
-Épée Obscure,Swords of Darkness,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14
-Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14
-Soif de Sang,Thirsty Dagger,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,7,0.14,14%,14.0,2.0,14,1,14.0,2.0
-Le Croque-mort,The Undertaker,1,7,0.14,14%,14.0,2.0,14,1,14.0,2.0
-Épées Jumelles,Twin Swords,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43
-Griffes Sauvages,Wild Claw,3,7,0.43,43%,2.0,0.86,6,3,0.67,0.29
+Faux,Scythe,8,8,1.0,100%,12.25,12.25,98,3,4.08,4.08
+Esprit de l'Écuyer,Spirit of the Squire,5,8,0.62,62%,15.0,9.38,75,3,5.0,3.13
+Aveuglement,Incapacitor,8,8,1.0,100%,9.0,9.0,72,3,3.0,3.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,4,8,0.5,50%,17.0,8.5,68,2,8.5,4.25
+Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75
+Hache Frénétique,Berseker Ax,4,8,0.5,50%,14.0,7.0,56,2,7.0,3.5
+Lame Affutée,Sharp Blade,7,8,0.88,88%,7.29,6.38,51,3,2.43,2.13
+Explosion Arcanique,Arcane Explosive,4,8,0.5,50%,12.0,6.0,48,1,12.0,6.0
+Le Marionnettiste,The Puppeteer,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5
+Sabre Versatile,Versatil Saber,3,8,0.38,38%,11.0,4.12,33,1,11.0,4.12
+Coup de Mort,Death Helper,3,8,0.38,38%,10.0,3.75,30,1,10.0,3.75
+Ascension Divine,Divine Ascent,1,8,0.12,12%,25.0,3.12,25,3,8.33,1.04
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.5,2.5,20,3,0.83,0.83
+Mental d'Acier,Steel Aura,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12
+Danse Macabre,Dance of Death,2,8,0.25,25%,8.0,2.0,16,1,8.0,2.0
+Elan de Fureur,Rampage Momentum,1,8,0.12,12%,15.0,1.88,15,2,7.5,0.94
+Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit
+Esquive Salvatrice,Evasive Protection,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit
+Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88
+Épée Obscure,Swords of Darkness,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88
+Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75
+Le Croque-mort,The Undertaker,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75
+Amulette Omnisciente,Omnipresent Amulet,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,1,8,0.12,12%,10.0,1.25,10,1,10.0,1.25
+Griffes Sauvages,Wild Claw,4,8,0.5,50%,2.0,1.0,8,3,0.67,0.33

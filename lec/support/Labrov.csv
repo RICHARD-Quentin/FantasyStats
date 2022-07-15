@@ -1,22 +1,22 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,15.57,15.57,109,3,5.19,5.19
-Le Traqueur,The Stalker,6,7,0.86,86%,18.0,15.43,108,3,6.0,5.14
-Le Visionnaire,The Visionary,5,7,0.71,71%,18.0,12.86,90,2,9.0,6.43
-Vision Céleste,Heavenly Vision,4,7,0.57,57%,22.0,12.57,88,2,11.0,6.29
-Esprit de l'Écuyer,Spirit of the Squire,7,7,1.0,100%,12.43,12.43,87,3,4.14,4.14
-Aveuglement,Incapacitor,7,7,1.0,100%,11.14,11.14,78,3,3.71,3.71
-Armure d'Obsidienne,Obsidian Battle Plate,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29
-Esprit omniprésent,Omnipresent Spirit,3,7,0.43,43%,18.0,7.71,54,2,9.0,3.85
-Assistance Divine,Sacred Help,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85
-Œil de Lynx,Hawk's Eye,5,7,0.71,71%,8.0,5.71,40,0,Gratuit,Gratuit
-Instinct Sanguinaire,Bloody Instinct,2,7,0.29,29%,15.0,4.29,30,2,7.5,2.15
-Coup de Mort,Death Helper,3,7,0.43,43%,10.0,4.29,30,1,10.0,4.29
-Amulette Omnisciente,Omnipresent Amulet,2,7,0.29,29%,11.0,3.14,22,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,2,7,0.29,29%,11.0,3.14,22,1,11.0,3.14
-Faux,Scythe,5,7,0.71,71%,4.4,3.14,22,3,1.47,1.05
-Marteleur précis,Precise Hammer,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57
-Être de Lumière,Being of Light,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57
-Lame Affutée,Sharp Blade,4,7,0.57,57%,4.5,2.57,18,3,1.5,0.86
-Esquive Salvatrice,Evasive Protection,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,7,0.14,14%,14.0,2.0,14,1,14.0,2.0
-Force Divine,Divine Impetu,1,7,0.14,14%,11.0,1.57,11,0,Gratuit,Gratuit
+Le Traqueur,The Stalker,7,8,0.88,88%,18.0,15.75,126,3,6.0,5.25
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,15.62,15.62,125,3,5.21,5.21
+Le Visionnaire,The Visionary,6,8,0.75,75%,18.0,13.5,108,2,9.0,6.75
+Aveuglement,Incapacitor,8,8,1.0,100%,11.25,11.25,90,3,3.75,3.75
+Esprit de l'Écuyer,Spirit of the Squire,8,8,1.0,100%,11.25,11.25,90,3,3.75,3.75
+Vision Céleste,Heavenly Vision,4,8,0.5,50%,22.0,11.0,88,2,11.0,5.5
+Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75
+Esprit omniprésent,Omnipresent Spirit,3,8,0.38,38%,18.0,6.75,54,2,9.0,3.38
+Œil de Lynx,Hawk's Eye,6,8,0.75,75%,8.0,6.0,48,0,Gratuit,Gratuit
+Assistance Divine,Sacred Help,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5
+Instinct Sanguinaire,Bloody Instinct,2,8,0.25,25%,15.0,3.75,30,2,7.5,1.88
+Coup de Mort,Death Helper,3,8,0.38,38%,10.0,3.75,30,1,10.0,3.75
+Faux,Scythe,6,8,0.75,75%,4.0,3.0,24,3,1.33,1.0
+Amulette Omnisciente,Omnipresent Amulet,2,8,0.25,25%,11.0,2.75,22,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,2,8,0.25,25%,11.0,2.75,22,1,11.0,2.75
+Être de Lumière,Being of Light,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25
+Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25
+Lame Affutée,Sharp Blade,4,8,0.5,50%,4.5,2.25,18,3,1.5,0.75
+Esquive Salvatrice,Evasive Protection,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75
+Force Divine,Divine Impetu,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit

@@ -1,26 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Faux,Scythe,6,6,1.0,100%,16.0,16.0,96,3,5.33,5.33
-Aveuglement,Incapacitor,6,6,1.0,100%,8.5,8.5,51,3,2.83,2.83
-Lame Affutée,Sharp Blade,5,6,0.83,83%,10.2,8.5,51,3,3.4,2.83
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,6,0.5,50%,17.0,8.5,51,2,8.5,4.25
-Ascension Divine,Divine Ascent,2,6,0.33,33%,25.0,8.33,50,3,8.33,2.78
-Hache Frénétique,Berseker Ax,3,6,0.5,50%,14.0,7.0,42,2,7.0,3.5
-Armure d'Obsidienne,Obsidian Battle Plate,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33
-Esprit de l'Écuyer,Spirit of the Squire,5,6,0.83,83%,7.2,6.0,36,3,2.4,2.0
-Adrénaline Arcanique,Arcane Adrenaline,2,6,0.33,33%,16.0,5.33,32,1,16.0,5.33
-Épée Obscure,Swords of Darkness,2,6,0.33,33%,15.0,5.0,30,1,15.0,5.0
-Totem du Gardien,Guardian Totem,6,6,1.0,100%,5.0,5.0,30,3,1.67,1.67
-Elan de Fureur,Rampage Momentum,2,6,0.33,33%,15.0,5.0,30,2,7.5,2.5
-Faux Assoiffées,Thirsty Scythes,1,6,0.17,17%,25.0,4.17,25,3,8.33,1.39
-Glaive Vindicatif,Large Sword of Hate,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33
-Épées Jumelles,Twin Swords,2,6,0.33,33%,10.0,3.33,20,1,10.0,3.33
-Esprit omniprésent,Omnipresent Spirit,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5
-Lance Doublée,Dual Spear,2,6,0.33,33%,8.0,2.67,16,0,Gratuit,Gratuit
-Lame Insatiable,Fast Furious Blade,1,6,0.17,17%,16.0,2.67,16,2,8.0,1.33
-Danse Macabre,Dance of Death,2,6,0.33,33%,8.0,2.67,16,1,8.0,2.67
-Chasseur d'Âmes,Soul Hunter,1,6,0.17,17%,15.0,2.5,15,1,15.0,2.5
-Griffes Sauvages,Wild Claw,5,6,0.83,83%,3.0,2.5,15,3,1.0,0.83
-Soif de Sang,Thirsty Dagger,1,6,0.17,17%,15.0,2.5,15,0,Gratuit,Gratuit
-Épé Sainte,Holy Sword,1,6,0.17,17%,10.0,1.67,10,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,6,0.17,17%,10.0,1.67,10,1,10.0,1.67
-Œil de Lynx,Hawk's Eye,1,6,0.17,17%,8.0,1.33,8,0,Gratuit,Gratuit
+Faux,Scythe,7,7,1.0,100%,15.43,15.43,108,3,5.14,5.14
+Aveuglement,Incapacitor,7,7,1.0,100%,9.0,9.0,63,3,3.0,3.0
+Lame Affutée,Sharp Blade,6,7,0.86,86%,9.0,7.71,54,3,3.0,2.57
+Économe Sagesse du Trésorier,Treasurer's Wisdom,3,7,0.43,43%,17.0,7.29,51,2,8.5,3.65
+Ascension Divine,Divine Ascent,2,7,0.29,29%,25.0,7.14,50,3,8.33,2.38
+Hache Frénétique,Berseker Ax,3,7,0.43,43%,14.0,6.0,42,2,7.0,3.0
+Armure d'Obsidienne,Obsidian Battle Plate,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85
+Esprit omniprésent,Omnipresent Spirit,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57
+Esprit de l'Écuyer,Spirit of the Squire,5,7,0.71,71%,7.2,5.14,36,3,2.4,1.71
+Adrénaline Arcanique,Arcane Adrenaline,2,7,0.29,29%,16.0,4.57,32,1,16.0,4.57
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,4.43,4.43,31,3,1.48,1.48
+Elan de Fureur,Rampage Momentum,2,7,0.29,29%,15.0,4.29,30,2,7.5,2.15
+Épée Obscure,Swords of Darkness,2,7,0.29,29%,15.0,4.29,30,1,15.0,4.29
+Faux Assoiffées,Thirsty Scythes,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19
+Épées Jumelles,Twin Swords,2,7,0.29,29%,10.0,2.86,20,1,10.0,2.86
+Le Marionnettiste,The Puppeteer,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43
+Glaive Vindicatif,Large Sword of Hate,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86
+Lance Doublée,Dual Spear,2,7,0.29,29%,8.0,2.29,16,0,Gratuit,Gratuit
+Lame Insatiable,Fast Furious Blade,1,7,0.14,14%,16.0,2.29,16,2,8.0,1.15
+Griffes Sauvages,Wild Claw,6,7,0.86,86%,2.67,2.29,16,3,0.89,0.76
+Danse Macabre,Dance of Death,2,7,0.29,29%,8.0,2.29,16,1,8.0,2.29
+Soif de Sang,Thirsty Dagger,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit
+Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14
+Coup de Mort,Death Helper,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43
+Épé Sainte,Holy Sword,1,7,0.14,14%,10.0,1.43,10,0,Gratuit,Gratuit
+Œil de Lynx,Hawk's Eye,1,7,0.14,14%,8.0,1.14,8,0,Gratuit,Gratuit
