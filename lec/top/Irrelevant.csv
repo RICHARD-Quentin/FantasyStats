@@ -1,27 +1,33 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Faux,Scythe,8,8,1.0,100%,12.25,12.25,98,3,4.08,4.08
-Esprit de l'Écuyer,Spirit of the Squire,5,8,0.62,62%,15.0,9.38,75,3,5.0,3.13
-Aveuglement,Incapacitor,8,8,1.0,100%,9.0,9.0,72,3,3.0,3.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,4,8,0.5,50%,17.0,8.5,68,2,8.5,4.25
-Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75
-Hache Frénétique,Berseker Ax,4,8,0.5,50%,14.0,7.0,56,2,7.0,3.5
-Lame Affutée,Sharp Blade,7,8,0.88,88%,7.29,6.38,51,3,2.43,2.13
-Explosion Arcanique,Arcane Explosive,4,8,0.5,50%,12.0,6.0,48,1,12.0,6.0
-Le Marionnettiste,The Puppeteer,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5
-Sabre Versatile,Versatil Saber,3,8,0.38,38%,11.0,4.12,33,1,11.0,4.12
-Coup de Mort,Death Helper,3,8,0.38,38%,10.0,3.75,30,1,10.0,3.75
-Ascension Divine,Divine Ascent,1,8,0.12,12%,25.0,3.12,25,3,8.33,1.04
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.5,2.5,20,3,0.83,0.83
-Mental d'Acier,Steel Aura,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12
-Danse Macabre,Dance of Death,2,8,0.25,25%,8.0,2.0,16,1,8.0,2.0
-Elan de Fureur,Rampage Momentum,1,8,0.12,12%,15.0,1.88,15,2,7.5,0.94
-Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit
-Esquive Salvatrice,Evasive Protection,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit
-Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88
-Épée Obscure,Swords of Darkness,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88
-Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75
-Le Croque-mort,The Undertaker,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75
-Amulette Omnisciente,Omnipresent Amulet,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit
-Force Divine,Divine Impetu,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit
-Épées Jumelles,Twin Swords,1,8,0.12,12%,10.0,1.25,10,1,10.0,1.25
-Griffes Sauvages,Wild Claw,4,8,0.5,50%,2.0,1.0,8,3,0.67,0.33
+Faux,Scythe,9,9,1.0,100%,12.89,12.89,116,3,4.3,4.3
+Aveuglement,Incapacitor,9,9,1.0,100%,11.0,11.0,99,3,3.67,3.67
+Économe Sagesse du Trésorier,Treasurer's Wisdom,5,9,0.56,56%,17.0,9.44,85,2,8.5,4.72
+Esprit de l'Écuyer,Spirit of the Squire,5,9,0.56,56%,15.0,8.33,75,3,5.0,2.78
+Hache Frénétique,Berseker Ax,5,9,0.56,56%,14.0,7.78,70,2,7.0,3.89
+Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33
+Explosion Arcanique,Arcane Explosive,5,9,0.56,56%,12.0,6.67,60,1,12.0,6.67
+Lame Affutée,Sharp Blade,8,9,0.89,89%,7.5,6.67,60,3,2.5,2.22
+Ascension Divine,Divine Ascent,2,9,0.22,22%,25.0,5.56,50,3,8.33,1.85
+Le Marionnettiste,The Puppeteer,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22
+Sabre Versatile,Versatil Saber,3,9,0.33,33%,11.0,3.67,33,1,11.0,3.67
+Épée Obscure,Swords of Darkness,2,9,0.22,22%,15.0,3.33,30,1,15.0,3.33
+Coup de Mort,Death Helper,3,9,0.33,33%,10.0,3.33,30,1,10.0,3.33
+Chasseur d'Âmes,Soul Hunter,2,9,0.22,22%,15.0,3.33,30,1,15.0,3.33
+Faux Assoiffées,Thirsty Scythes,1,9,0.11,11%,25.0,2.78,25,3,8.33,0.93
+Bâton de Conquête,Conquering Staff,1,9,0.11,11%,24.0,2.67,24,2,12.0,1.33
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,2.56,2.56,23,3,0.85,0.85
+Épées Jumelles,Twin Swords,2,9,0.22,22%,10.0,2.22,20,1,10.0,2.22
+Mental d'Acier,Steel Aura,1,9,0.11,11%,18.0,2.0,18,2,9.0,1.0
+Danse Macabre,Dance of Death,2,9,0.22,22%,8.0,1.78,16,1,8.0,1.78
+Elan de Fureur,Rampage Momentum,1,9,0.11,11%,15.0,1.67,15,2,7.5,0.83
+Esquive Salvatrice,Evasive Protection,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit
+Soif de Sang,Thirsty Dagger,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,1,9,0.11,11%,14.0,1.56,14,1,14.0,1.56
+Le Croque-mort,The Undertaker,1,9,0.11,11%,14.0,1.56,14,1,14.0,1.56
+Destruction Royale,Royal Destroyer,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Amulette Omnisciente,Omnipresent Amulet,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Masse Colossale,Colossal Mace,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Tombeau Rocheux,Rock Tomb,1,9,0.11,11%,10.0,1.11,10,1,10.0,1.11
+Griffes Sauvages,Wild Claw,5,9,0.56,56%,1.8,1.0,9,3,0.6,0.33
