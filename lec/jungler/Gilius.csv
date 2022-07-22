@@ -1,25 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Aveuglement,Incapacitor,8,8,1.0,100%,21.0,21.0,168,3,7.0,7.0
-Griffes Sauvages,Wild Claw,8,8,1.0,100%,16.0,16.0,128,3,5.33,5.33
-Bâton de Conquête,Conquering Staff,4,8,0.5,50%,24.0,12.0,96,2,12.0,6.0
-Mental d'Acier,Steel Aura,4,8,0.5,50%,18.0,9.0,72,2,9.0,4.5
-Chasseur de Bêtes,Beast Hunter,4,8,0.5,50%,18.0,9.0,72,2,9.0,4.5
-Faux,Scythe,8,8,1.0,100%,8.12,8.12,65,3,2.71,2.71
-Assistance Divine,Sacred Help,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75
-Tombeau Rocheux,Rock Tomb,6,8,0.75,75%,10.0,7.5,60,1,10.0,7.5
-Être de Lumière,Being of Light,3,8,0.38,38%,18.0,6.75,54,1,18.0,6.75
-Bâton du Conquérant,Staff of Conquered Worlds,4,8,0.5,50%,11.0,5.5,44,0,Gratuit,Gratuit
-Armure d'Obsidienne,Obsidian Battle Plate,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5
-Pillard Féroce,Savage Looter,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0
-Décharge Élémentaire,Elemental Discharge,2,8,0.25,25%,18.0,4.5,36,1,18.0,4.5
-Esprit de l'Écuyer,Spirit of the Squire,7,8,0.88,88%,5.14,4.5,36,3,1.71,1.5
-Bâton Élémentaire,Earthly Staff,2,8,0.25,25%,15.0,3.75,30,0,Gratuit,Gratuit
-Instinct Sanguinaire,Bloody Instinct,2,8,0.25,25%,15.0,3.75,30,2,7.5,1.88
-Esprit Sauvage,Wild Spirit,3,8,0.38,38%,10.0,3.75,30,0,Gratuit,Gratuit
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,3.5,3.5,28,3,1.17,1.17
-Lame Affutée,Sharp Blade,6,8,0.75,75%,4.5,3.38,27,3,1.5,1.13
-Œil de Lynx,Hawk's Eye,3,8,0.38,38%,8.0,3.0,24,0,Gratuit,Gratuit
-Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25
-Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12
-Masse de Siège,Siege Mace,1,8,0.12,12%,16.0,2.0,16,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,8,0.12,12%,10.0,1.25,10,1,10.0,1.25
+Aveuglement,Incapacitor,9,9,1.0,100%,20.33,20.33,183,3,6.78,6.78
+Griffes Sauvages,Wild Claw,9,9,1.0,100%,16.0,16.0,144,3,5.33,5.33
+Bâton de Conquête,Conquering Staff,4,9,0.44,44%,24.0,10.67,96,2,12.0,5.33
+Chasseur de Bêtes,Beast Hunter,5,9,0.56,56%,18.0,10.0,90,2,9.0,5.0
+Faux,Scythe,9,9,1.0,100%,8.0,8.0,72,3,2.67,2.67
+Mental d'Acier,Steel Aura,4,9,0.44,44%,18.0,8.0,72,2,9.0,4.0
+Être de Lumière,Being of Light,4,9,0.44,44%,18.0,8.0,72,1,18.0,8.0
+Tombeau Rocheux,Rock Tomb,7,9,0.78,78%,10.0,7.78,70,1,10.0,7.78
+Pillard Féroce,Savage Looter,3,9,0.33,33%,20.0,6.67,60,1,20.0,6.67
+Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33
+Assistance Divine,Sacred Help,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33
+Bâton du Conquérant,Staff of Conquered Worlds,5,9,0.56,56%,11.0,6.11,55,0,Gratuit,Gratuit
+Esprit de l'Écuyer,Spirit of the Squire,8,9,0.89,89%,6.0,5.33,48,3,2.0,1.78
+Décharge Élémentaire,Elemental Discharge,2,9,0.22,22%,18.0,4.0,36,1,18.0,4.0
+Lame Affutée,Sharp Blade,7,9,0.78,78%,5.14,4.0,36,3,1.71,1.33
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,3.44,3.44,31,3,1.15,1.15
+Bâton Élémentaire,Earthly Staff,2,9,0.22,22%,15.0,3.33,30,0,Gratuit,Gratuit
+Instinct Sanguinaire,Bloody Instinct,2,9,0.22,22%,15.0,3.33,30,2,7.5,1.67
+Esprit Sauvage,Wild Spirit,3,9,0.33,33%,10.0,3.33,30,0,Gratuit,Gratuit
+Œil de Lynx,Hawk's Eye,3,9,0.33,33%,8.0,2.67,24,0,Gratuit,Gratuit
+Coup de Mort,Death Helper,2,9,0.22,22%,10.0,2.22,20,1,10.0,2.22
+Marteleur précis,Precise Hammer,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0
+Esprit omniprésent,Omnipresent Spirit,1,9,0.11,11%,18.0,2.0,18,2,9.0,1.0
+Masse de Siège,Siege Mace,1,9,0.11,11%,16.0,1.78,16,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,9,0.11,11%,11.0,1.22,11,1,11.0,1.22
+Amulette Omnisciente,Omnipresent Amulet,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
