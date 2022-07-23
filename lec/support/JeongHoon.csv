@@ -1,31 +1,31 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,9,9,1.0,100%,23.11,23.11,208,3,7.7,7.7
-Aveuglement,Incapacitor,9,9,1.0,100%,18.0,18.0,162,3,6.0,6.0
-Le Traqueur,The Stalker,9,9,1.0,100%,18.0,18.0,162,3,6.0,6.0
-Le Visionnaire,The Visionary,7,9,0.78,78%,18.0,14.0,126,2,9.0,7.0
-Vision Céleste,Heavenly Vision,5,9,0.56,56%,22.0,12.22,110,2,11.0,6.11
-Esprit de l'Écuyer,Spirit of the Squire,9,9,1.0,100%,10.67,10.67,96,3,3.56,3.56
-Bâton de Conquête,Conquering Staff,3,9,0.33,33%,24.0,8.0,72,2,12.0,4.0
-Œil de Lynx,Hawk's Eye,9,9,1.0,100%,8.0,8.0,72,0,Gratuit,Gratuit
-Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33
-Coup de Mort,Death Helper,5,9,0.56,56%,10.0,5.56,50,1,10.0,5.56
-Lame Affutée,Sharp Blade,6,9,0.67,67%,8.0,5.33,48,3,2.67,1.78
-Assistance Divine,Sacred Help,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22
-Le Marionnettiste,The Puppeteer,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22
-Amulette Omnisciente,Omnipresent Amulet,3,9,0.33,33%,11.0,3.67,33,0,Gratuit,Gratuit
-Instinct Sanguinaire,Bloody Instinct,2,9,0.22,22%,15.0,3.33,30,2,7.5,1.67
-Triple Météore,Trimeteor,1,9,0.11,11%,30.0,3.33,30,0,Gratuit,Gratuit
-Épée Obscure,Swords of Darkness,2,9,0.22,22%,15.0,3.33,30,1,15.0,3.33
-Lance Triplée,Triple Spear,1,9,0.11,11%,20.0,2.22,20,0,Gratuit,Gratuit
-Épées Jumelles,Twin Swords,2,9,0.22,22%,10.0,2.22,20,1,10.0,2.22
-Esprit omniprésent,Omnipresent Spirit,1,9,0.11,11%,18.0,2.0,18,2,9.0,1.0
-Enchaînement Éclair,Unstoppable Lightning,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0
-Lance Doublée,Dual Spear,2,9,0.22,22%,8.0,1.78,16,0,Gratuit,Gratuit
-Elan de Fureur,Rampage Momentum,1,9,0.11,11%,15.0,1.67,15,2,7.5,0.83
-Soif de Sang,Thirsty Dagger,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit
-Le Croque-mort,The Undertaker,1,9,0.11,11%,14.0,1.56,14,1,14.0,1.56
-Sabre Versatile,Versatil Saber,1,9,0.11,11%,11.0,1.22,11,1,11.0,1.22
-Bâton du Conquérant,Staff of Conquered Worlds,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
-Faux,Scythe,7,9,0.78,78%,1.43,1.11,10,3,0.48,0.37
-Épé Sainte,Holy Sword,1,9,0.11,11%,10.0,1.11,10,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,9,0.11,11%,8.0,0.89,8,1,8.0,0.89
+Totem du Gardien,Guardian Totem,10,10,1.0,100%,22.7,22.7,227,3,7.57,7.57
+Le Traqueur,The Stalker,10,10,1.0,100%,18.0,18.0,180,3,6.0,6.0
+Aveuglement,Incapacitor,10,10,1.0,100%,16.8,16.8,168,3,5.6,5.6
+Le Visionnaire,The Visionary,8,10,0.8,80%,18.0,14.4,144,2,9.0,7.2
+Vision Céleste,Heavenly Vision,5,10,0.5,50%,22.0,11.0,110,2,11.0,5.5
+Esprit de l'Écuyer,Spirit of the Squire,10,10,1.0,100%,10.2,10.2,102,3,3.4,3.4
+Armure d'Obsidienne,Obsidian Battle Plate,4,10,0.4,40%,20.0,8.0,80,2,10.0,4.0
+Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit
+Bâton de Conquête,Conquering Staff,3,10,0.3,30%,24.0,7.2,72,2,12.0,3.6
+Le Marionnettiste,The Puppeteer,3,10,0.3,30%,20.0,6.0,60,2,10.0,3.0
+Coup de Mort,Death Helper,5,10,0.5,50%,10.0,5.0,50,1,10.0,5.0
+Lame Affutée,Sharp Blade,6,10,0.6,60%,8.0,4.8,48,3,2.67,1.6
+Assistance Divine,Sacred Help,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
+Amulette Omnisciente,Omnipresent Amulet,3,10,0.3,30%,11.0,3.3,33,0,Gratuit,Gratuit
+Instinct Sanguinaire,Bloody Instinct,2,10,0.2,20%,15.0,3.0,30,2,7.5,1.5
+Triple Météore,Trimeteor,1,10,0.1,10%,30.0,3.0,30,0,Gratuit,Gratuit
+Épée Obscure,Swords of Darkness,2,10,0.2,20%,15.0,3.0,30,1,15.0,3.0
+Lance Triplée,Triple Spear,1,10,0.1,10%,20.0,2.0,20,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,2,10,0.2,20%,10.0,2.0,20,1,10.0,2.0
+Esprit omniprésent,Omnipresent Spirit,1,10,0.1,10%,18.0,1.8,18,2,9.0,0.9
+Enchaînement Éclair,Unstoppable Lightning,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8
+Lance Doublée,Dual Spear,2,10,0.2,20%,8.0,1.6,16,0,Gratuit,Gratuit
+Elan de Fureur,Rampage Momentum,1,10,0.1,10%,15.0,1.5,15,2,7.5,0.75
+Soif de Sang,Thirsty Dagger,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit
+Le Croque-mort,The Undertaker,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4
+Sabre Versatile,Versatil Saber,1,10,0.1,10%,11.0,1.1,11,1,11.0,1.1
+Bâton du Conquérant,Staff of Conquered Worlds,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
+Faux,Scythe,8,10,0.8,80%,1.38,1.1,11,3,0.46,0.37
+Épé Sainte,Holy Sword,1,10,0.1,10%,10.0,1.0,10,0,Gratuit,Gratuit
+Danse Macabre,Dance of Death,1,10,0.1,10%,8.0,0.8,8,1,8.0,0.8
