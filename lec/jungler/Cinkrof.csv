@@ -1,32 +1,32 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Aveuglement,Incapacitor,9,9,1.0,100%,20.0,20.0,180,3,6.67,6.67
-Griffes Sauvages,Wild Claw,9,9,1.0,100%,16.0,16.0,144,3,5.33,5.33
-Assistance Divine,Sacred Help,4,9,0.44,44%,20.0,8.89,80,2,10.0,4.45
-Faux,Scythe,9,9,1.0,100%,8.44,8.44,76,3,2.81,2.81
-Bâton de Conquête,Conquering Staff,3,9,0.33,33%,24.0,8.0,72,2,12.0,4.0
-Tombeau Rocheux,Rock Tomb,6,9,0.67,67%,10.0,6.67,60,1,10.0,6.67
-Totem du Gardien,Guardian Totem,9,9,1.0,100%,6.22,6.22,56,3,2.07,2.07
-Esprit omniprésent,Omnipresent Spirit,3,9,0.33,33%,18.0,6.0,54,2,9.0,3.0
-Mental d'Acier,Steel Aura,3,9,0.33,33%,18.0,6.0,54,2,9.0,3.0
-Esprit de l'Écuyer,Spirit of the Squire,6,9,0.67,67%,8.5,5.67,51,3,2.83,1.89
-Esprit Sauvage,Wild Spirit,5,9,0.56,56%,10.0,5.56,50,0,Gratuit,Gratuit
-Décharge Élémentaire,Elemental Discharge,2,9,0.22,22%,18.0,4.0,36,1,18.0,4.0
-Chasseur de Bêtes,Beast Hunter,2,9,0.22,22%,18.0,4.0,36,2,9.0,2.0
-Le Traqueur,The Stalker,2,9,0.22,22%,18.0,4.0,36,3,6.0,1.33
-Soif de Sang,Thirsty Dagger,2,9,0.22,22%,15.0,3.33,30,0,Gratuit,Gratuit
-Instinct Sanguinaire,Bloody Instinct,2,9,0.22,22%,15.0,3.33,30,2,7.5,1.67
-Ascension Divine,Divine Ascent,1,9,0.11,11%,25.0,2.78,25,3,8.33,0.93
-Bâton du Conquérant,Staff of Conquered Worlds,2,9,0.22,22%,11.0,2.44,22,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,4,9,0.44,44%,5.25,2.33,21,3,1.75,0.78
-Pillard Féroce,Savage Looter,1,9,0.11,11%,20.0,2.22,20,1,20.0,2.22
-Armure d'Obsidienne,Obsidian Battle Plate,1,9,0.11,11%,20.0,2.22,20,2,10.0,1.11
-Coup de Mort,Death Helper,2,9,0.22,22%,10.0,2.22,20,1,10.0,2.22
-Être de Lumière,Being of Light,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,9,0.11,11%,17.0,1.89,17,2,8.5,0.94
-Œil de Lynx,Hawk's Eye,2,9,0.22,22%,8.0,1.78,16,0,Gratuit,Gratuit
-Masse de Siège,Siege Mace,1,9,0.11,11%,16.0,1.78,16,0,Gratuit,Gratuit
-Bâton Élémentaire,Earthly Staff,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,9,0.11,11%,14.0,1.56,14,1,14.0,1.56
-Sabre Versatile,Versatil Saber,1,9,0.11,11%,11.0,1.22,11,1,11.0,1.22
-Amulette Omnisciente,Omnipresent Amulet,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
-Force Divine,Divine Impetu,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit
+Aveuglement,Incapacitor,10,10,1.0,100%,21.3,21.3,213,3,7.1,7.1
+Griffes Sauvages,Wild Claw,10,10,1.0,100%,16.2,16.2,162,3,5.4,5.4
+Assistance Divine,Sacred Help,5,10,0.5,50%,20.0,10.0,100,2,10.0,5.0
+Bâton de Conquête,Conquering Staff,4,10,0.4,40%,24.0,9.6,96,2,12.0,4.8
+Faux,Scythe,10,10,1.0,100%,8.6,8.6,86,3,2.87,2.87
+Tombeau Rocheux,Rock Tomb,7,10,0.7,70%,10.0,7.0,70,1,10.0,7.0
+Totem du Gardien,Guardian Totem,10,10,1.0,100%,6.0,6.0,60,3,2.0,2.0
+Esprit Sauvage,Wild Spirit,6,10,0.6,60%,10.0,6.0,60,0,Gratuit,Gratuit
+Mental d'Acier,Steel Aura,3,10,0.3,30%,18.0,5.4,54,2,9.0,2.7
+Esprit de l'Écuyer,Spirit of the Squire,7,10,0.7,70%,7.71,5.4,54,3,2.57,1.8
+Esprit omniprésent,Omnipresent Spirit,3,10,0.3,30%,18.0,5.4,54,2,9.0,2.7
+Instinct Sanguinaire,Bloody Instinct,3,10,0.3,30%,15.0,4.5,45,2,7.5,2.25
+Chasseur de Bêtes,Beast Hunter,2,10,0.2,20%,18.0,3.6,36,2,9.0,1.8
+Décharge Élémentaire,Elemental Discharge,2,10,0.2,20%,18.0,3.6,36,1,18.0,3.6
+Le Traqueur,The Stalker,2,10,0.2,20%,18.0,3.6,36,3,6.0,1.2
+Bâton du Conquérant,Staff of Conquered Worlds,3,10,0.3,30%,11.0,3.3,33,0,Gratuit,Gratuit
+Soif de Sang,Thirsty Dagger,2,10,0.2,20%,15.0,3.0,30,0,Gratuit,Gratuit
+Ascension Divine,Divine Ascent,1,10,0.1,10%,25.0,2.5,25,3,8.33,0.83
+Lame Affutée,Sharp Blade,5,10,0.5,50%,4.8,2.4,24,3,1.6,0.8
+Œil de Lynx,Hawk's Eye,3,10,0.3,30%,8.0,2.4,24,0,Gratuit,Gratuit
+Armure d'Obsidienne,Obsidian Battle Plate,1,10,0.1,10%,20.0,2.0,20,2,10.0,1.0
+Pillard Féroce,Savage Looter,1,10,0.1,10%,20.0,2.0,20,1,20.0,2.0
+Coup de Mort,Death Helper,2,10,0.2,20%,10.0,2.0,20,1,10.0,2.0
+Être de Lumière,Being of Light,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,10,0.1,10%,17.0,1.7,17,2,8.5,0.85
+Masse de Siège,Siege Mace,1,10,0.1,10%,16.0,1.6,16,0,Gratuit,Gratuit
+Bâton Élémentaire,Earthly Staff,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4
+Sabre Versatile,Versatil Saber,1,10,0.1,10%,11.0,1.1,11,1,11.0,1.1
+Amulette Omnisciente,Omnipresent Amulet,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
