@@ -1,13 +1,13 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Écailles Magiques,Magic Scales,8,10,0.8,80%,20.0,16.0,160,2,10.0,8.0
-Perce-Écailles,Scale Tearer,9,10,0.9,90%,14.67,13.2,132,3,4.89,4.4
-Marteau Dévastateur,Destroyer Hammer,8,10,0.8,80%,9.75,7.8,78,3,3.25,2.6
-L'Oeil du Héraut,Eye of the Void,7,10,0.7,70%,8.0,5.6,56,0,Gratuit,Gratuit
-Âme de Dragon Élémentaire,Elemental Dragon Soul,2,10,0.2,20%,25.0,5.0,50,1,25.0,5.0
-Esprit de la Faille,Spirit of the Rift,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
-Première Ligne,First Line,4,10,0.4,40%,8.0,3.2,32,0,Gratuit,Gratuit
-Gardien Sous-terrain,Underworld Guardian,2,10,0.2,20%,15.0,3.0,30,1,15.0,3.0
-Chasse au Gros,Big Worm Hunter,2,10,0.2,20%,13.0,2.6,26,3,4.33,0.87
-Masque du Baron,Baron' s Mask,1,10,0.1,10%,20.0,2.0,20,2,10.0,1.0
-Protection Royale,Royal Protector,1,10,0.1,10%,17.0,1.7,17,1,17.0,1.7
-Sceau Profanateur,Seal of Desecration,2,10,0.2,20%,8.0,1.6,16,2,4.0,0.8
+Écailles Magiques,Magic Scales,8,11,0.73,73%,20.0,14.55,160,2,10.0,7.28
+Perce-Écailles,Scale Tearer,10,11,0.91,91%,13.8,12.55,138,3,4.6,4.18
+Marteau Dévastateur,Destroyer Hammer,9,11,0.82,82%,10.0,8.18,90,3,3.33,2.73
+L'Oeil du Héraut,Eye of the Void,8,11,0.73,73%,9.0,6.55,72,0,Gratuit,Gratuit
+Esprit de la Faille,Spirit of the Rift,3,11,0.27,27%,20.0,5.45,60,2,10.0,2.73
+Âme de Dragon Élémentaire,Elemental Dragon Soul,2,11,0.18,18%,25.0,4.55,50,1,25.0,4.55
+Première Ligne,First Line,5,11,0.45,45%,8.0,3.64,40,0,Gratuit,Gratuit
+Gardien Sous-terrain,Underworld Guardian,2,11,0.18,18%,15.0,2.73,30,1,15.0,2.73
+Chasse au Gros,Big Worm Hunter,2,11,0.18,18%,13.0,2.36,26,3,4.33,0.79
+Masque du Baron,Baron' s Mask,1,11,0.09,9%,20.0,1.82,20,2,10.0,0.91
+Protection Royale,Royal Protector,1,11,0.09,9%,17.0,1.55,17,1,17.0,1.55
+Sceau Profanateur,Seal of Desecration,2,11,0.18,18%,8.0,1.45,16,2,4.0,0.72

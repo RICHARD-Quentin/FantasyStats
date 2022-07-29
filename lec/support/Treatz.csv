@@ -1,29 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Traqueur,The Stalker,10,10,1.0,100%,18.0,18.0,180,3,6.0,6.0
-Totem du Gardien,Guardian Totem,10,10,1.0,100%,15.1,15.1,151,3,5.03,5.03
-Aveuglement,Incapacitor,10,10,1.0,100%,13.5,13.5,135,3,4.5,4.5
-Le Visionnaire,The Visionary,6,10,0.6,60%,18.0,10.8,108,2,9.0,5.4
-Armure d'Obsidienne,Obsidian Battle Plate,5,10,0.5,50%,20.0,10.0,100,2,10.0,5.0
-Vision Céleste,Heavenly Vision,4,10,0.4,40%,22.0,8.8,88,2,11.0,4.4
-Esprit de l'Écuyer,Spirit of the Squire,10,10,1.0,100%,8.7,8.7,87,3,2.9,2.9
-Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit
-Esprit omniprésent,Omnipresent Spirit,3,10,0.3,30%,18.0,5.4,54,2,9.0,2.7
-Le Marionnettiste,The Puppeteer,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
-Assistance Divine,Sacred Help,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
-Coup de Mort,Death Helper,4,10,0.4,40%,10.0,4.0,40,1,10.0,4.0
-Sabre Versatile,Versatil Saber,3,10,0.3,30%,11.0,3.3,33,1,11.0,3.3
-Instinct Sanguinaire,Bloody Instinct,2,10,0.2,20%,15.0,3.0,30,2,7.5,1.5
-Bâton de Conquête,Conquering Staff,1,10,0.1,10%,24.0,2.4,24,2,12.0,1.2
-Bâton du Conquérant,Staff of Conquered Worlds,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Amulette Omnisciente,Omnipresent Amulet,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,4,10,0.4,40%,5.25,2.1,21,3,1.75,0.7
-Frappe Chirurgicale,Accurate Sword,1,10,0.1,10%,16.0,1.6,16,1,16.0,1.6
-Masse de Siège,Siege Mace,1,10,0.1,10%,16.0,1.6,16,0,Gratuit,Gratuit
-Esquive Salvatrice,Evasive Protection,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4
-Hache Frénétique,Berseker Ax,1,10,0.1,10%,14.0,1.4,14,2,7.0,0.7
-Force Divine,Divine Impetu,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
-Destruction Royale,Royal Destroyer,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
-Faux,Scythe,8,10,0.8,80%,1.12,0.9,9,3,0.37,0.3
-Griffes Sauvages,Wild Claw,1,10,0.1,10%,2.0,0.2,2,3,0.67,0.07
+Le Traqueur,The Stalker,11,11,1.0,100%,18.0,18.0,198,3,6.0,6.0
+Totem du Gardien,Guardian Totem,11,11,1.0,100%,15.18,15.18,167,3,5.06,5.06
+Aveuglement,Incapacitor,11,11,1.0,100%,13.91,13.91,153,3,4.64,4.64
+Armure d'Obsidienne,Obsidian Battle Plate,6,11,0.55,55%,20.0,10.91,120,2,10.0,5.46
+Le Visionnaire,The Visionary,6,11,0.55,55%,18.0,9.82,108,2,9.0,4.91
+Esprit de l'Écuyer,Spirit of the Squire,11,11,1.0,100%,9.55,9.55,105,3,3.18,3.18
+Œil de Lynx,Hawk's Eye,11,11,1.0,100%,8.0,8.0,88,0,Gratuit,Gratuit
+Vision Céleste,Heavenly Vision,4,11,0.36,36%,22.0,8.0,88,2,11.0,4.0
+Esprit omniprésent,Omnipresent Spirit,3,11,0.27,27%,18.0,4.91,54,2,9.0,2.46
+Coup de Mort,Death Helper,5,11,0.45,45%,10.0,4.55,50,1,10.0,4.55
+Sabre Versatile,Versatil Saber,4,11,0.36,36%,11.0,4.0,44,1,11.0,4.0
+Le Marionnettiste,The Puppeteer,2,11,0.18,18%,20.0,3.64,40,2,10.0,1.82
+Assistance Divine,Sacred Help,2,11,0.18,18%,20.0,3.64,40,2,10.0,1.82
+Instinct Sanguinaire,Bloody Instinct,2,11,0.18,18%,15.0,2.73,30,2,7.5,1.36
+Armure d'Immortel,Immortal Breastplate,2,11,0.18,18%,14.0,2.55,28,1,14.0,2.55
+Lame Affutée,Sharp Blade,5,11,0.45,45%,5.4,2.45,27,3,1.8,0.82
+Bâton de Conquête,Conquering Staff,1,11,0.09,9%,24.0,2.18,24,2,12.0,1.09
+Bâton du Conquérant,Staff of Conquered Worlds,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit
+Amulette Omnisciente,Omnipresent Amulet,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit
+Frappe Chirurgicale,Accurate Sword,1,11,0.09,9%,16.0,1.45,16,1,16.0,1.45
+Masse de Siège,Siege Mace,1,11,0.09,9%,16.0,1.45,16,0,Gratuit,Gratuit
+Esquive Salvatrice,Evasive Protection,1,11,0.09,9%,15.0,1.36,15,0,Gratuit,Gratuit
+Hache Frénétique,Berseker Ax,1,11,0.09,9%,14.0,1.27,14,2,7.0,0.64
+Force Divine,Divine Impetu,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit
+Destruction Royale,Royal Destroyer,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit
+Faux,Scythe,9,11,0.82,82%,1.11,0.91,10,3,0.37,0.3
+Griffes Sauvages,Wild Claw,1,11,0.09,9%,2.0,0.18,2,3,0.67,0.06
