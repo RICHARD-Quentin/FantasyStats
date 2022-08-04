@@ -1,30 +1,30 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Traqueur,The Stalker,17,17,1.0,100%,18.0,18.0,306,3,6.0,6.0
-Totem du Gardien,Guardian Totem,17,17,1.0,100%,17.71,17.71,301,3,5.9,5.9
-Aveuglement,Incapacitor,17,17,1.0,100%,17.29,17.29,294,3,5.76,5.76
-Esprit de l'Écuyer,Spirit of the Squire,15,17,0.88,88%,14.0,12.35,210,3,4.67,4.12
-Le Visionnaire,The Visionary,11,17,0.65,65%,18.0,11.65,198,2,9.0,5.83
-Armure d'Obsidienne,Obsidian Battle Plate,9,17,0.53,53%,20.0,10.59,180,2,10.0,5.29
-Vision Céleste,Heavenly Vision,8,17,0.47,47%,22.0,10.35,176,2,11.0,5.17
-Bâton de Conquête,Conquering Staff,6,17,0.35,35%,24.0,8.47,144,2,12.0,4.24
-Œil de Lynx,Hawk's Eye,17,17,1.0,100%,8.0,8.0,136,0,Gratuit,Gratuit
-Amulette Omnisciente,Omnipresent Amulet,8,17,0.47,47%,11.0,5.18,88,0,Gratuit,Gratuit
-Le Marionnettiste,The Puppeteer,4,17,0.24,24%,20.0,4.71,80,2,10.0,2.35
-Sabre Versatile,Versatil Saber,7,17,0.41,41%,11.0,4.53,77,1,11.0,4.53
-Instinct Sanguinaire,Bloody Instinct,5,17,0.29,29%,15.0,4.41,75,2,7.5,2.21
-Coup de Mort,Death Helper,7,17,0.41,41%,10.0,4.12,70,1,10.0,4.12
-Assistance Divine,Sacred Help,3,17,0.18,18%,20.0,3.53,60,2,10.0,1.76
-Bâton du Conquérant,Staff of Conquered Worlds,4,17,0.24,24%,11.0,2.59,44,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,3,17,0.18,18%,14.0,2.47,42,1,14.0,2.47
-Lame Affutée,Sharp Blade,11,17,0.65,65%,3.82,2.47,42,3,1.27,0.82
-Esprit omniprésent,Omnipresent Spirit,2,17,0.12,12%,18.0,2.12,36,2,9.0,1.06
-Force Divine,Divine Impetu,3,17,0.18,18%,11.0,1.94,33,0,Gratuit,Gratuit
-Masse de Siège,Siege Mace,2,17,0.12,12%,16.0,1.88,32,0,Gratuit,Gratuit
-Esquive Salvatrice,Evasive Protection,2,17,0.12,12%,15.0,1.76,30,0,Gratuit,Gratuit
-Soif de Sang,Thirsty Dagger,2,17,0.12,12%,15.0,1.76,30,0,Gratuit,Gratuit
-Faux,Scythe,14,17,0.82,82%,1.43,1.18,20,3,0.48,0.39
-Être de Lumière,Being of Light,1,17,0.06,6%,18.0,1.06,18,1,18.0,1.06
-Marteleur précis,Precise Hammer,1,17,0.06,6%,18.0,1.06,18,1,18.0,1.06
-Épée Obscure,Swords of Darkness,1,17,0.06,6%,15.0,0.88,15,1,15.0,0.88
-Désintégrateur Magnétique,Magnetic Disintegrator,1,17,0.06,6%,11.0,0.65,11,0,Gratuit,Gratuit
-Épées Jumelles,Twin Swords,1,17,0.06,6%,10.0,0.59,10,1,10.0,0.59
+Le Traqueur,The Stalker,19,20,0.95,95%,18.0,17.1,342,3,6.0,5.7
+Totem du Gardien,Guardian Totem,20,20,1.0,100%,16.75,16.75,335,3,5.58,5.58
+Aveuglement,Incapacitor,19,20,0.95,95%,16.74,15.9,318,3,5.58,5.3
+Esprit de l'Écuyer,Spirit of the Squire,18,20,0.9,90%,12.67,11.4,228,3,4.22,3.8
+Vision Céleste,Heavenly Vision,9,20,0.45,45%,22.0,9.9,198,2,11.0,4.95
+Le Visionnaire,The Visionary,11,20,0.55,55%,18.0,9.9,198,2,9.0,4.95
+Armure d'Obsidienne,Obsidian Battle Plate,9,20,0.45,45%,20.0,9.0,180,2,10.0,4.5
+Œil de Lynx,Hawk's Eye,20,20,1.0,100%,8.0,8.0,160,0,Gratuit,Gratuit
+Bâton de Conquête,Conquering Staff,6,20,0.3,30%,24.0,7.2,144,2,12.0,3.6
+Amulette Omnisciente,Omnipresent Amulet,8,20,0.4,40%,11.0,4.4,88,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,4,20,0.2,20%,20.0,4.0,80,2,10.0,2.0
+Assistance Divine,Sacred Help,4,20,0.2,20%,20.0,4.0,80,2,10.0,2.0
+Coup de Mort,Death Helper,8,20,0.4,40%,10.0,4.0,80,1,10.0,4.0
+Sabre Versatile,Versatil Saber,7,20,0.35,35%,11.0,3.85,77,1,11.0,3.85
+Instinct Sanguinaire,Bloody Instinct,5,20,0.25,25%,15.0,3.75,75,2,7.5,1.88
+Lame Affutée,Sharp Blade,13,20,0.65,65%,3.92,2.55,51,3,1.31,0.85
+Bâton du Conquérant,Staff of Conquered Worlds,4,20,0.2,20%,11.0,2.2,44,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,3,20,0.15,15%,14.0,2.1,42,1,14.0,2.1
+Esprit omniprésent,Omnipresent Spirit,2,20,0.1,10%,18.0,1.8,36,2,9.0,0.9
+Marteleur précis,Precise Hammer,2,20,0.1,10%,18.0,1.8,36,1,18.0,1.8
+Force Divine,Divine Impetu,3,20,0.15,15%,11.0,1.65,33,0,Gratuit,Gratuit
+Masse de Siège,Siege Mace,2,20,0.1,10%,16.0,1.6,32,0,Gratuit,Gratuit
+Esquive Salvatrice,Evasive Protection,2,20,0.1,10%,15.0,1.5,30,0,Gratuit,Gratuit
+Soif de Sang,Thirsty Dagger,2,20,0.1,10%,15.0,1.5,30,0,Gratuit,Gratuit
+Faux,Scythe,15,20,0.75,75%,1.4,1.05,21,3,0.47,0.35
+Être de Lumière,Being of Light,1,20,0.05,5%,18.0,0.9,18,1,18.0,0.9
+Épée Obscure,Swords of Darkness,1,20,0.05,5%,15.0,0.75,15,1,15.0,0.75
+Désintégrateur Magnétique,Magnetic Disintegrator,1,20,0.05,5%,11.0,0.55,11,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,1,20,0.05,5%,10.0,0.5,10,1,10.0,0.5
