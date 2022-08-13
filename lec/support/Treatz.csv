@@ -1,29 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Traqueur,The Stalker,12,12,1.0,100%,18.0,18.0,216,3,6.0,6.0
-Totem du Gardien,Guardian Totem,12,12,1.0,100%,15.0,15.0,180,3,5.0,5.0
-Aveuglement,Incapacitor,12,12,1.0,100%,13.5,13.5,162,3,4.5,4.5
-Le Visionnaire,The Visionary,7,12,0.58,58%,18.0,10.5,126,2,9.0,5.25
-Armure d'Obsidienne,Obsidian Battle Plate,6,12,0.5,50%,20.0,10.0,120,2,10.0,5.0
-Esprit de l'Écuyer,Spirit of the Squire,11,12,0.92,92%,9.55,8.75,105,3,3.18,2.92
-Œil de Lynx,Hawk's Eye,12,12,1.0,100%,8.0,8.0,96,0,Gratuit,Gratuit
-Vision Céleste,Heavenly Vision,4,12,0.33,33%,22.0,7.33,88,2,11.0,3.67
-Esprit omniprésent,Omnipresent Spirit,4,12,0.33,33%,18.0,6.0,72,2,9.0,3.0
-Coup de Mort,Death Helper,5,12,0.42,42%,10.0,4.17,50,1,10.0,4.17
-Sabre Versatile,Versatil Saber,4,12,0.33,33%,11.0,3.67,44,1,11.0,3.67
-Le Marionnettiste,The Puppeteer,2,12,0.17,17%,20.0,3.33,40,2,10.0,1.67
-Assistance Divine,Sacred Help,2,12,0.17,17%,20.0,3.33,40,2,10.0,1.67
-Instinct Sanguinaire,Bloody Instinct,2,12,0.17,17%,15.0,2.5,30,2,7.5,1.25
-Lame Affutée,Sharp Blade,6,12,0.5,50%,5.0,2.5,30,3,1.67,0.83
-Armure d'Immortel,Immortal Breastplate,2,12,0.17,17%,14.0,2.33,28,1,14.0,2.33
-Bâton de Conquête,Conquering Staff,1,12,0.08,8%,24.0,2.0,24,2,12.0,1.0
-Bâton du Conquérant,Staff of Conquered Worlds,2,12,0.17,17%,11.0,1.83,22,0,Gratuit,Gratuit
-Amulette Omnisciente,Omnipresent Amulet,2,12,0.17,17%,11.0,1.83,22,0,Gratuit,Gratuit
-Frappe Chirurgicale,Accurate Sword,1,12,0.08,8%,16.0,1.33,16,1,16.0,1.33
-Masse de Siège,Siege Mace,1,12,0.08,8%,16.0,1.33,16,0,Gratuit,Gratuit
-Esquive Salvatrice,Evasive Protection,1,12,0.08,8%,15.0,1.25,15,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,1,12,0.08,8%,14.0,1.17,14,2,7.0,0.58
-Force Divine,Divine Impetu,1,12,0.08,8%,11.0,0.92,11,0,Gratuit,Gratuit
-Faux,Scythe,10,12,0.83,83%,1.1,0.92,11,3,0.37,0.31
-Destruction Royale,Royal Destroyer,1,12,0.08,8%,11.0,0.92,11,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,1,12,0.08,8%,11.0,0.92,11,0,Gratuit,Gratuit
-Griffes Sauvages,Wild Claw,1,12,0.08,8%,2.0,0.17,2,3,0.67,0.06
+Le Traqueur,The Stalker,15,16,0.94,94%,18.0,16.88,270,3,6.0,5.63
+Totem du Gardien,Guardian Totem,16,16,1.0,100%,15.56,15.56,249,3,5.19,5.19
+Aveuglement,Incapacitor,16,16,1.0,100%,13.69,13.69,219,3,4.56,4.56
+Armure d'Obsidienne,Obsidian Battle Plate,8,16,0.5,50%,20.0,10.0,160,2,10.0,5.0
+Esprit de l'Écuyer,Spirit of the Squire,14,16,0.88,88%,10.5,9.19,147,3,3.5,3.06
+Le Visionnaire,The Visionary,8,16,0.5,50%,18.0,9.0,144,2,9.0,4.5
+Vision Céleste,Heavenly Vision,6,16,0.38,38%,22.0,8.25,132,2,11.0,4.12
+Œil de Lynx,Hawk's Eye,15,16,0.94,94%,8.0,7.5,120,0,Gratuit,Gratuit
+Esprit omniprésent,Omnipresent Spirit,5,16,0.31,31%,18.0,5.62,90,2,9.0,2.81
+Instinct Sanguinaire,Bloody Instinct,5,16,0.31,31%,15.0,4.69,75,2,7.5,2.35
+Bâton de Conquête,Conquering Staff,3,16,0.19,19%,24.0,4.5,72,2,12.0,2.25
+Coup de Mort,Death Helper,7,16,0.44,44%,10.0,4.38,70,1,10.0,4.38
+Amulette Omnisciente,Omnipresent Amulet,5,16,0.31,31%,11.0,3.44,55,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,5,16,0.31,31%,11.0,3.44,55,1,11.0,3.44
+Armure d'Immortel,Immortal Breastplate,3,16,0.19,19%,14.0,2.62,42,1,14.0,2.62
+Assistance Divine,Sacred Help,2,16,0.12,12%,20.0,2.5,40,2,10.0,1.25
+Le Marionnettiste,The Puppeteer,2,16,0.12,12%,20.0,2.5,40,2,10.0,1.25
+Masse de Siège,Siege Mace,2,16,0.12,12%,16.0,2.0,32,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,6,16,0.38,38%,5.0,1.88,30,3,1.67,0.63
+Esquive Salvatrice,Evasive Protection,2,16,0.12,12%,15.0,1.88,30,0,Gratuit,Gratuit
+Bâton du Conquérant,Staff of Conquered Worlds,2,16,0.12,12%,11.0,1.38,22,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,2,16,0.12,12%,11.0,1.38,22,0,Gratuit,Gratuit
+Frappe Chirurgicale,Accurate Sword,1,16,0.06,6%,16.0,1.0,16,1,16.0,1.0
+Faux,Scythe,12,16,0.75,75%,1.25,0.94,15,3,0.42,0.31
+Hache Frénétique,Berseker Ax,1,16,0.06,6%,14.0,0.88,14,2,7.0,0.44
+Destruction Royale,Royal Destroyer,1,16,0.06,6%,11.0,0.69,11,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,1,16,0.06,6%,11.0,0.69,11,0,Gratuit,Gratuit
+Griffes Sauvages,Wild Claw,1,16,0.06,6%,2.0,0.12,2,3,0.67,0.04

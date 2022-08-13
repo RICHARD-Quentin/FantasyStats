@@ -1,28 +1,33 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Traqueur,The Stalker,11,13,0.85,85%,18.0,15.23,198,3,6.0,5.08
-Totem du Gardien,Guardian Totem,13,13,1.0,100%,14.54,14.54,189,3,4.85,4.85
-Esprit de l'Écuyer,Spirit of the Squire,12,13,0.92,92%,12.5,11.54,150,3,4.17,3.85
-Aveuglement,Incapacitor,13,13,1.0,100%,11.31,11.31,147,3,3.77,3.77
-Le Visionnaire,The Visionary,8,13,0.62,62%,18.0,11.08,144,2,9.0,5.54
-Armure d'Obsidienne,Obsidian Battle Plate,6,13,0.46,46%,20.0,9.23,120,2,10.0,4.62
-Vision Céleste,Heavenly Vision,5,13,0.38,38%,22.0,8.46,110,2,11.0,4.23
-Œil de Lynx,Hawk's Eye,10,13,0.77,77%,8.0,6.15,80,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,7,13,0.54,54%,10.0,5.38,70,1,10.0,5.38
-Amulette Omnisciente,Omnipresent Amulet,5,13,0.38,38%,11.0,4.23,55,0,Gratuit,Gratuit
-Esprit omniprésent,Omnipresent Spirit,3,13,0.23,23%,18.0,4.15,54,2,9.0,2.08
-Instinct Sanguinaire,Bloody Instinct,3,13,0.23,23%,15.0,3.46,45,2,7.5,1.73
-Sabre Versatile,Versatil Saber,4,13,0.31,31%,11.0,3.38,44,1,11.0,3.38
-Assistance Divine,Sacred Help,2,13,0.15,15%,20.0,3.08,40,2,10.0,1.54
-Lame Affutée,Sharp Blade,8,13,0.62,62%,4.5,2.77,36,3,1.5,0.92
-Faux,Scythe,9,13,0.69,69%,3.78,2.62,34,3,1.26,0.87
-Masse de Siège,Siege Mace,2,13,0.15,15%,16.0,2.46,32,0,Gratuit,Gratuit
-Force Divine,Divine Impetu,2,13,0.15,15%,11.0,1.69,22,0,Gratuit,Gratuit
-Être de Lumière,Being of Light,1,13,0.08,8%,18.0,1.38,18,1,18.0,1.38
-Marteleur précis,Precise Hammer,1,13,0.08,8%,18.0,1.38,18,1,18.0,1.38
-Bâton Élémentaire,Earthly Staff,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit
-Épée Obscure,Swords of Darkness,1,13,0.08,8%,15.0,1.15,15,1,15.0,1.15
-Esquive Salvatrice,Evasive Protection,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,13,0.08,8%,14.0,1.08,14,1,14.0,1.08
-Destruction Royale,Royal Destroyer,1,13,0.08,8%,11.0,0.85,11,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,1,13,0.08,8%,11.0,0.85,11,0,Gratuit,Gratuit
-Épées Jumelles,Twin Swords,1,13,0.08,8%,10.0,0.77,10,1,10.0,0.77
+Totem du Gardien,Guardian Totem,17,17,1.0,100%,16.12,16.12,274,3,5.37,5.37
+Le Traqueur,The Stalker,15,17,0.88,88%,18.0,15.88,270,3,6.0,5.29
+Esprit de l'Écuyer,Spirit of the Squire,16,17,0.94,94%,13.69,12.88,219,3,4.56,4.29
+Aveuglement,Incapacitor,17,17,1.0,100%,12.71,12.71,216,3,4.24,4.24
+Le Visionnaire,The Visionary,10,17,0.59,59%,18.0,10.59,180,2,9.0,5.29
+Armure d'Obsidienne,Obsidian Battle Plate,8,17,0.47,47%,20.0,9.41,160,2,10.0,4.71
+Œil de Lynx,Hawk's Eye,14,17,0.82,82%,8.0,6.59,112,0,Gratuit,Gratuit
+Vision Céleste,Heavenly Vision,5,17,0.29,29%,22.0,6.47,110,2,11.0,3.23
+Coup de Mort,Death Helper,11,17,0.65,65%,10.0,6.47,110,1,10.0,6.47
+Sabre Versatile,Versatil Saber,6,17,0.35,35%,11.0,3.88,66,1,11.0,3.88
+Amulette Omnisciente,Omnipresent Amulet,6,17,0.35,35%,11.0,3.88,66,0,Gratuit,Gratuit
+Assistance Divine,Sacred Help,3,17,0.18,18%,20.0,3.53,60,2,10.0,1.76
+Esprit omniprésent,Omnipresent Spirit,3,17,0.18,18%,18.0,3.18,54,2,9.0,1.59
+Lame Affutée,Sharp Blade,12,17,0.71,71%,4.25,3.0,51,3,1.42,1.0
+Faux,Scythe,13,17,0.76,76%,3.85,2.94,50,3,1.28,0.98
+Instinct Sanguinaire,Bloody Instinct,3,17,0.18,18%,15.0,2.65,45,2,7.5,1.32
+Masse de Siège,Siege Mace,2,17,0.12,12%,16.0,1.88,32,0,Gratuit,Gratuit
+Armure d'Immortel,Immortal Breastplate,2,17,0.12,12%,14.0,1.65,28,1,14.0,1.65
+Bâton de Conquête,Conquering Staff,1,17,0.06,6%,24.0,1.41,24,2,12.0,0.7
+Force Divine,Divine Impetu,2,17,0.12,12%,11.0,1.29,22,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,1,17,0.06,6%,20.0,1.18,20,2,10.0,0.59
+Être de Lumière,Being of Light,1,17,0.06,6%,18.0,1.06,18,1,18.0,1.06
+Marteleur précis,Precise Hammer,1,17,0.06,6%,18.0,1.06,18,1,18.0,1.06
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,17,0.06,6%,17.0,1.0,17,2,8.5,0.5
+Soif de Sang,Thirsty Dagger,1,17,0.06,6%,15.0,0.88,15,0,Gratuit,Gratuit
+Esquive Salvatrice,Evasive Protection,1,17,0.06,6%,15.0,0.88,15,0,Gratuit,Gratuit
+Bâton Élémentaire,Earthly Staff,1,17,0.06,6%,15.0,0.88,15,0,Gratuit,Gratuit
+Épée Obscure,Swords of Darkness,1,17,0.06,6%,15.0,0.88,15,1,15.0,0.88
+Hache Frénétique,Berseker Ax,1,17,0.06,6%,14.0,0.82,14,2,7.0,0.41
+Destruction Royale,Royal Destroyer,1,17,0.06,6%,11.0,0.65,11,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,1,17,0.06,6%,11.0,0.65,11,0,Gratuit,Gratuit
+Épées Jumelles,Twin Swords,1,17,0.06,6%,10.0,0.59,10,1,10.0,0.59
