@@ -1,27 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,22,22,1.0,100%,15.73,15.73,346,3,5.24,5.24
-Aveuglement,Incapacitor,22,22,1.0,100%,15.27,15.27,336,3,5.09,5.09
-Le Traqueur,The Stalker,18,22,0.82,82%,18.0,14.73,324,3,6.0,4.91
-Esprit de l'Écuyer,Spirit of the Squire,20,22,0.91,91%,15.0,13.64,300,3,5.0,4.55
-Le Visionnaire,The Visionary,13,22,0.59,59%,18.0,10.64,234,2,9.0,5.32
-Œil de Lynx,Hawk's Eye,20,22,0.91,91%,8.0,7.27,160,0,Gratuit,Gratuit
-Armure d'Obsidienne,Obsidian Battle Plate,7,22,0.32,32%,20.0,6.36,140,2,10.0,3.18
-Coup de Mort,Death Helper,14,22,0.64,64%,10.0,6.36,140,1,10.0,6.36
-Vision Céleste,Heavenly Vision,6,22,0.27,27%,22.0,6.0,132,2,11.0,3.0
-Esprit omniprésent,Omnipresent Spirit,7,22,0.32,32%,18.0,5.73,126,2,9.0,2.87
-Bâton de Conquête,Conquering Staff,5,22,0.23,23%,24.0,5.45,120,2,12.0,2.73
-Le Marionnettiste,The Puppeteer,6,22,0.27,27%,20.0,5.45,120,2,10.0,2.73
-Instinct Sanguinaire,Bloody Instinct,6,22,0.27,27%,15.0,4.09,90,2,7.5,2.04
-Amulette Omnisciente,Omnipresent Amulet,7,22,0.32,32%,11.0,3.5,77,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,7,22,0.32,32%,11.0,3.5,77,1,11.0,3.5
-Force Divine,Divine Impetu,5,22,0.23,23%,11.0,2.5,55,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,3,22,0.14,14%,14.0,1.91,42,1,14.0,1.91
-Faux,Scythe,17,22,0.77,77%,2.24,1.73,38,3,0.75,0.58
-Lame Affutée,Sharp Blade,9,22,0.41,41%,3.67,1.5,33,3,1.22,0.5
-Esquive Salvatrice,Evasive Protection,2,22,0.09,9%,15.0,1.36,30,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,2,22,0.09,9%,11.0,1.0,22,0,Gratuit,Gratuit
-Bâton du Conquérant,Staff of Conquered Worlds,2,22,0.09,9%,11.0,1.0,22,0,Gratuit,Gratuit
-Assistance Divine,Sacred Help,1,22,0.05,5%,20.0,0.91,20,2,10.0,0.46
-Marteleur précis,Precise Hammer,1,22,0.05,5%,18.0,0.82,18,1,18.0,0.82
-Soif de Sang,Thirsty Dagger,1,22,0.05,5%,15.0,0.68,15,0,Gratuit,Gratuit
-Destruction Royale,Royal Destroyer,1,22,0.05,5%,11.0,0.5,11,0,Gratuit,Gratuit
+Totem du Gardien,Guardian Totem,25,25,1.0,100%,15.44,15.44,386,3,5.15,5.15
+Aveuglement,Incapacitor,25,25,1.0,100%,15.0,15.0,375,3,5.0,5.0
+Le Traqueur,The Stalker,20,25,0.8,80%,18.0,14.4,360,3,6.0,4.8
+Esprit de l'Écuyer,Spirit of the Squire,23,25,0.92,92%,14.35,13.2,330,3,4.78,4.4
+Le Visionnaire,The Visionary,13,25,0.52,52%,18.0,9.36,234,2,9.0,4.68
+Œil de Lynx,Hawk's Eye,22,25,0.88,88%,8.0,7.04,176,0,Gratuit,Gratuit
+Coup de Mort,Death Helper,15,25,0.6,60%,10.0,6.0,150,1,10.0,6.0
+Esprit omniprésent,Omnipresent Spirit,8,25,0.32,32%,18.0,5.76,144,2,9.0,2.88
+Armure d'Obsidienne,Obsidian Battle Plate,7,25,0.28,28%,20.0,5.6,140,2,10.0,2.8
+Vision Céleste,Heavenly Vision,6,25,0.24,24%,22.0,5.28,132,2,11.0,2.64
+Bâton de Conquête,Conquering Staff,5,25,0.2,20%,24.0,4.8,120,2,12.0,2.4
+Le Marionnettiste,The Puppeteer,6,25,0.24,24%,20.0,4.8,120,2,10.0,2.4
+Instinct Sanguinaire,Bloody Instinct,6,25,0.24,24%,15.0,3.6,90,2,7.5,1.8
+Amulette Omnisciente,Omnipresent Amulet,7,25,0.28,28%,11.0,3.08,77,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,7,25,0.28,28%,11.0,3.08,77,1,11.0,3.08
+Force Divine,Divine Impetu,5,25,0.2,20%,11.0,2.2,55,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,11,25,0.44,44%,4.09,1.8,45,3,1.36,0.6
+Armure d'Immortel,Immortal Breastplate,3,25,0.12,12%,14.0,1.68,42,1,14.0,1.68
+Faux,Scythe,19,25,0.76,76%,2.16,1.64,41,3,0.72,0.55
+Assistance Divine,Sacred Help,2,25,0.08,8%,20.0,1.6,40,2,10.0,0.8
+Soif de Sang,Thirsty Dagger,2,25,0.08,8%,15.0,1.2,30,0,Gratuit,Gratuit
+Esquive Salvatrice,Evasive Protection,2,25,0.08,8%,15.0,1.2,30,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,2,25,0.08,8%,11.0,0.88,22,0,Gratuit,Gratuit
+Bâton du Conquérant,Staff of Conquered Worlds,2,25,0.08,8%,11.0,0.88,22,0,Gratuit,Gratuit
+Marteleur précis,Precise Hammer,1,25,0.04,4%,18.0,0.72,18,1,18.0,0.72
+Être de Lumière,Being of Light,1,25,0.04,4%,18.0,0.72,18,1,18.0,0.72
+Chasseur d'Âmes,Soul Hunter,1,25,0.04,4%,15.0,0.6,15,1,15.0,0.6
+Destruction Royale,Royal Destroyer,1,25,0.04,4%,11.0,0.44,11,0,Gratuit,Gratuit
