@@ -1,14 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Armure d'Obsidienne,Obsidian Battle Plate,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0
-Marteleur précis,Precise Hammer,1,1,1.0,100%,18.0,18.0,18,1,18.0,18.0
-Elan de Fureur,Rampage Momentum,1,1,1.0,100%,15.0,15.0,15,2,7.5,7.5
-Totem Équivalent,Equivalent Totem,1,1,1.0,100%,14.0,14.0,14,1,14.0,14.0
-Armure d'Immortel,Immortal Breastplate,1,1,1.0,100%,14.0,14.0,14,1,14.0,14.0
-Faux,Scythe,1,1,1.0,100%,13.0,13.0,13,3,4.33,4.33
-Lame Affutée,Sharp Blade,1,1,1.0,100%,12.0,12.0,12,3,4.0,4.0
-Marteau Collecteur,Collecting Hammer,1,1,1.0,100%,12.0,12.0,12,2,6.0,6.0
-Force Divine,Divine Impetu,1,1,1.0,100%,11.0,11.0,11,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,1,1,1.0,100%,11.0,11.0,11,1,11.0,11.0
-Danse Macabre,Dance of Death,1,1,1.0,100%,8.0,8.0,8,1,8.0,8.0
-Esprit de l'Écuyer,Spirit of the Squire,1,1,1.0,100%,6.0,6.0,6,3,2.0,2.0
-Totem du Gardien,Guardian Totem,1,1,1.0,100%,4.0,4.0,4,3,1.33,1.33
+Totem Équivalent,Equivalent Totem,2,2,1.0,100%,14.5,14.5,29,1,14.5,14.5
+Faux,Scythe,2,2,1.0,100%,14.0,14.0,28,3,4.67,4.67
+Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
+Marteleur précis,Precise Hammer,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
+Lame Affutée,Sharp Blade,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0
+Elan de Fureur,Rampage Momentum,1,2,0.5,50%,15.0,7.5,15,2,7.5,3.75
+Armure d'Immortel,Immortal Breastplate,1,2,0.5,50%,14.0,7.0,14,1,14.0,7.0
+Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,12.0,6.0,12,2,6.0,3.0
+Force Divine,Divine Impetu,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,2,0.5,50%,11.0,5.5,11,1,11.0,5.5
+Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5
+Danse Macabre,Dance of Death,1,2,0.5,50%,8.0,4.0,8,1,8.0,4.0
+Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.5,3.5,7,3,1.17,1.17
+Aveuglement,Incapacitor,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
+Griffes Sauvages,Wild Claw,1,2,0.5,50%,2.0,1.0,2,3,0.67,0.33

@@ -1,16 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Marteau Dévastateur,Destroyer Hammer,10,10,1.0,100%,14.4,14.4,144,2,7.2,7.2
-Marteau Conquérant,Conquest Hammer,6,10,0.6,60%,22.0,13.2,132,3,7.33,4.4
-Chasse au Gros,Big Worm Hunter,7,10,0.7,70%,18.57,13.0,130,3,6.19,4.33
-Perce-Écailles,Scale Tearer,9,10,0.9,90%,13.33,12.0,120,3,4.44,4.0
-Masque du Baron,Baron' s Mask,5,10,0.5,50%,20.0,10.0,100,2,10.0,5.0
-Esprit de la Faille,Spirit of the Rift,5,10,0.5,50%,20.0,10.0,100,2,10.0,5.0
-Écailles Magiques,Magic Scales,5,10,0.5,50%,20.0,10.0,100,2,10.0,5.0
-Sceau Profanateur,Seal of Desecration,7,10,0.7,70%,12.57,8.8,88,2,6.29,4.4
-L'Oeil du Héraut,Eye of the Void,7,10,0.7,70%,11.43,8.0,80,0,Gratuit,Gratuit
-Première Ligne,First Line,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit
-Âme de Dragon Élémentaire,Elemental Dragon Soul,3,10,0.3,30%,25.0,7.5,75,1,25.0,7.5
-Protection Royale,Royal Protector,3,10,0.3,30%,17.0,5.1,51,1,17.0,5.1
-Gardien Sous-terrain,Underworld Guardian,3,10,0.3,30%,15.0,4.5,45,1,15.0,4.5
-Poigne d'Or,Golden Force,1,10,0.1,10%,23.0,2.3,23,1,23.0,2.3
-Frappes Éclair,Light Swords,1,10,0.1,10%,12.0,1.2,12,0,Gratuit,Gratuit
+Marteau Dévastateur,Destroyer Hammer,19,20,0.95,95%,14.53,13.8,276,2,7.26,6.9
+Chasse au Gros,Big Worm Hunter,12,20,0.6,60%,21.67,13.0,260,3,7.22,4.33
+Marteau Conquérant,Conquest Hammer,11,20,0.55,55%,22.0,12.1,242,3,7.33,4.03
+Perce-Écailles,Scale Tearer,17,20,0.85,85%,13.82,11.75,235,3,4.61,3.92
+Masque du Baron,Baron' s Mask,10,20,0.5,50%,20.0,10.0,200,2,10.0,5.0
+Esprit de la Faille,Spirit of the Rift,10,20,0.5,50%,20.0,10.0,200,2,10.0,5.0
+Écailles Magiques,Magic Scales,10,20,0.5,50%,20.0,10.0,200,2,10.0,5.0
+Sceau Profanateur,Seal of Desecration,12,20,0.6,60%,14.67,8.8,176,2,7.33,4.4
+L'Oeil du Héraut,Eye of the Void,14,20,0.7,70%,11.43,8.0,160,0,Gratuit,Gratuit
+Première Ligne,First Line,19,20,0.95,95%,8.0,7.6,152,0,Gratuit,Gratuit
+Âme de Dragon Élémentaire,Elemental Dragon Soul,6,20,0.3,30%,25.0,7.5,150,1,25.0,7.5
+Poigne d'Or,Golden Force,6,20,0.3,30%,23.0,6.9,138,1,23.0,6.9
+Protection Royale,Royal Protector,8,20,0.4,40%,17.0,6.8,136,1,17.0,6.8
+Gardien Sous-terrain,Underworld Guardian,8,20,0.4,40%,15.0,6.0,120,1,15.0,6.0
+Folie Meurtrière,Killer Momentum,2,20,0.1,10%,30.0,3.0,60,0,Gratuit,Gratuit
+Frappes Éclair,Light Swords,3,20,0.15,15%,12.0,1.8,36,0,Gratuit,Gratuit
