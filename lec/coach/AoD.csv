@@ -1,7 +1,10 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Masque du Baron,Baron' s Mask,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0
-Écailles Magiques,Magic Scales,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0
-Chasse au Gros,Big Worm Hunter,1,1,1.0,100%,13.0,13.0,13,3,4.33,4.33
-Marteau Dévastateur,Destroyer Hammer,1,1,1.0,100%,8.0,8.0,8,2,4.0,4.0
-Première Ligne,First Line,1,1,1.0,100%,8.0,8.0,8,0,Gratuit,Gratuit
-Perce-Écailles,Scale Tearer,1,1,1.0,100%,5.0,5.0,5,3,1.67,1.67
+Esprit de la Faille,Spirit of the Rift,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
+Masque du Baron,Baron' s Mask,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
+Écailles Magiques,Magic Scales,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
+Gardien Sous-terrain,Underworld Guardian,1,2,0.5,50%,15.0,7.5,15,1,15.0,7.5
+Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,13.0,6.5,13,3,4.33,2.17
+Marteau Dévastateur,Destroyer Hammer,2,2,1.0,100%,6.0,6.0,12,2,3.0,3.0
+L'Oeil du Héraut,Eye of the Void,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
+Première Ligne,First Line,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
+Perce-Écailles,Scale Tearer,1,2,0.5,50%,5.0,2.5,5,3,1.67,0.83

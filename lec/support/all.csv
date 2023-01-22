@@ -1,27 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,10,10,1.0,100%,19.4,19.4,194,3,6.47,6.47
-Le Traqueur,The Stalker,10,10,1.0,100%,16.0,16.0,160,3,5.33,5.33
-Bâton de Conquête,Conquering Staff,6,10,0.6,60%,24.0,14.4,144,2,12.0,7.2
-Esprit de l'Écuyer,Spirit of the Squire,10,10,1.0,100%,13.5,13.5,135,3,4.5,4.5
-Aveuglement,Incapacitor,9,10,0.9,90%,14.67,13.2,132,3,4.89,4.4
-Totem Équivalent,Equivalent Totem,10,10,1.0,100%,12.6,12.6,126,1,12.6,12.6
-Vision Céleste,Heavenly Vision,5,10,0.5,50%,22.0,11.0,110,2,11.0,5.5
-Armure d'Obsidienne,Obsidian Battle Plate,5,10,0.5,50%,20.0,10.0,100,2,10.0,5.0
-Marteau Collecteur,Collecting Hammer,7,10,0.7,70%,13.71,9.6,96,2,6.86,4.8
-Le Visionnaire,The Visionary,5,10,0.5,50%,18.0,9.0,90,2,9.0,4.5
-Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,6,10,0.6,60%,10.0,6.0,60,1,10.0,6.0
-Le Marionnettiste,The Puppeteer,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
-Assistance Divine,Sacred Help,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0
-Esprit omniprésent,Omnipresent Spirit,2,10,0.2,20%,18.0,3.6,36,2,9.0,1.8
-Sabre Versatile,Versatil Saber,3,10,0.3,30%,11.0,3.3,33,1,11.0,3.3
-Amulette Omnisciente,Omnipresent Amulet,3,10,0.3,30%,11.0,3.3,33,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,2,10,0.2,20%,14.0,2.8,28,1,14.0,2.8
-Lame Affutée,Sharp Blade,6,10,0.6,60%,4.0,2.4,24,3,1.33,0.8
-Désintégrateur Magnétique,Magnetic Disintegrator,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Force Divine,Divine Impetu,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit
-Être de Lumière,Being of Light,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8
-Masse de Siège,Siege Mace,1,10,0.1,10%,16.0,1.6,16,0,Gratuit,Gratuit
-Soif de Sang,Thirsty Dagger,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit
-Faux,Scythe,8,10,0.8,80%,1.38,1.1,11,3,0.46,0.37
-Bâton du Conquérant,Staff of Conquered Worlds,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit
+Totem du Gardien,Guardian Totem,20,20,1.0,100%,17.9,17.9,358,3,5.97,5.97
+Le Traqueur,The Stalker,18,20,0.9,90%,16.0,14.4,288,3,5.33,4.8
+Esprit de l'Écuyer,Spirit of the Squire,20,20,1.0,100%,13.5,13.5,270,3,4.5,4.5
+Totem Équivalent,Equivalent Totem,20,20,1.0,100%,12.65,12.65,253,1,12.65,12.65
+Aveuglement,Incapacitor,18,20,0.9,90%,12.33,11.1,222,3,4.11,3.7
+Armure d'Obsidienne,Obsidian Battle Plate,11,20,0.55,55%,20.0,11.0,220,2,10.0,5.5
+Vision Céleste,Heavenly Vision,10,20,0.5,50%,22.0,11.0,220,2,11.0,5.5
+Le Visionnaire,The Visionary,10,20,0.5,50%,18.0,9.0,180,2,9.0,4.5
+Bâton de Conquête,Conquering Staff,7,20,0.35,35%,24.0,8.4,168,2,12.0,4.2
+Œil de Lynx,Hawk's Eye,19,20,0.95,95%,8.0,7.6,152,0,Gratuit,Gratuit
+Marteau Collecteur,Collecting Hammer,11,20,0.55,55%,12.0,6.6,132,2,6.0,3.3
+Coup de Mort,Death Helper,11,20,0.55,55%,10.0,5.5,110,1,10.0,5.5
+Assistance Divine,Sacred Help,4,20,0.2,20%,20.0,4.0,80,2,10.0,2.0
+Sabre Versatile,Versatil Saber,7,20,0.35,35%,11.0,3.85,77,1,11.0,3.85
+Esprit omniprésent,Omnipresent Spirit,4,20,0.2,20%,18.0,3.6,72,2,9.0,1.8
+Armure d'Immortel,Immortal Breastplate,5,20,0.25,25%,14.0,3.5,70,1,14.0,3.5
+Amulette Omnisciente,Omnipresent Amulet,6,20,0.3,30%,11.0,3.3,66,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,3,20,0.15,15%,20.0,3.0,60,2,10.0,1.5
+Lame Affutée,Sharp Blade,11,20,0.55,55%,4.09,2.25,45,3,1.36,0.75
+Être de Lumière,Being of Light,2,20,0.1,10%,18.0,1.8,36,1,18.0,1.8
+Force Divine,Divine Impetu,3,20,0.15,15%,11.0,1.65,33,0,Gratuit,Gratuit
+Soif de Sang,Thirsty Dagger,2,20,0.1,10%,15.0,1.5,30,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,2,20,0.1,10%,11.0,1.1,22,0,Gratuit,Gratuit
+Faux,Scythe,16,20,0.8,80%,1.38,1.1,22,3,0.46,0.37
+Bâton du Conquérant,Staff of Conquered Worlds,2,20,0.1,10%,11.0,1.1,22,0,Gratuit,Gratuit
+Masse de Siège,Siege Mace,1,20,0.05,5%,16.0,0.8,16,0,Gratuit,Gratuit

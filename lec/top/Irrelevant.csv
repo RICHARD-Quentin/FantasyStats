@@ -1,10 +1,13 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Le Marionnettiste,The Puppeteer,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0
-Faux Parfaite,Perfect Scythe,1,1,1.0,100%,15.0,15.0,15,0,Gratuit,Gratuit
-Chasseur d'Âmes,Soul Hunter,1,1,1.0,100%,15.0,15.0,15,1,15.0,15.0
-Totem Équivalent,Equivalent Totem,1,1,1.0,100%,14.0,14.0,14,1,14.0,14.0
-Faux,Scythe,1,1,1.0,100%,11.0,11.0,11,3,3.67,3.67
-Aveuglement,Incapacitor,1,1,1.0,100%,9.0,9.0,9,3,3.0,3.0
-Lame Affutée,Sharp Blade,1,1,1.0,100%,3.0,3.0,3,3,1.0,1.0
-Esprit de l'Écuyer,Spirit of the Squire,1,1,1.0,100%,3.0,3.0,3,3,1.0,1.0
-Totem du Gardien,Guardian Totem,1,1,1.0,100%,3.0,3.0,3,3,1.0,1.0
+Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,1,15.5,15.5
+Gantelet Impérieux,Imperious Gauntlet,1,2,0.5,50%,30.0,15.0,30,1,30.0,15.0
+Faux Parfaite,Perfect Scythe,2,2,1.0,100%,15.0,15.0,30,0,Gratuit,Gratuit
+Chasseur d'Âmes,Soul Hunter,2,2,1.0,100%,15.0,15.0,30,1,15.0,15.0
+Faux,Scythe,2,2,1.0,100%,13.5,13.5,27,3,4.5,4.5
+Le Marionnettiste,The Puppeteer,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25
+Aveuglement,Incapacitor,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
+Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5
+Lame Affutée,Sharp Blade,2,2,1.0,100%,6.0,6.0,12,3,2.0,2.0
+Totem du Gardien,Guardian Totem,2,2,1.0,100%,4.0,4.0,8,3,1.33,1.33
+Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
