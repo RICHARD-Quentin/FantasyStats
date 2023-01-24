@@ -1,26 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Faux,Scythe,2,2,1.0,100%,17.0,17.0,34,3,5.67,5.67
-Lame Insatiable,Fast Furious Blade,2,2,1.0,100%,16.0,16.0,32,2,8.0,8.0
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,1,15.5,15.5
-Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,30.0,15.0,30,2,15.0,7.5
-Gantelet Impérieux,Imperious Gauntlet,1,2,0.5,50%,30.0,15.0,30,1,30.0,15.0
-Faux Assoiffées,Thirsty Scythes,1,2,0.5,50%,25.0,12.5,25,3,8.33,4.17
-Lame Affutée,Sharp Blade,2,2,1.0,100%,12.0,12.0,24,3,4.0,4.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Marteleur précis,Precise Hammer,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Parchemin Secret,Secret Scroll,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25
-Esprit Guerrier,Spirit of the Warrior,1,2,0.5,50%,16.0,8.0,16,1,16.0,8.0
-Aveuglement,Incapacitor,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
-Chasseur d'Âmes,Soul Hunter,1,2,0.5,50%,15.0,7.5,15,1,15.0,7.5
-Elan de Fureur,Rampage Momentum,1,2,0.5,50%,15.0,7.5,15,2,7.5,3.75
-Faux Parfaite,Perfect Scythe,1,2,0.5,50%,15.0,7.5,15,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5
-Couronne du Roi Nain,Crown of the Dwarf King,1,2,0.5,50%,13.0,6.5,13,0,Gratuit,Gratuit
-Explosion Arcanique,Arcane Explosive,1,2,0.5,50%,12.0,6.0,12,1,12.0,6.0
-Tombeau Rocheux,Rock Tomb,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Œil de Lynx,Hawk's Eye,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,2,0.5,50%,8.0,4.0,8,1,8.0,4.0
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.0,3.0,6,3,1.0,1.0
-Griffes Sauvages,Wild Claw,1,2,0.5,50%,4.0,2.0,4,3,1.33,0.67
-Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
+Gantelet Impérieux,Imperious Gauntlet,2,3,0.67,67%,30.0,20.0,60,1,30.0,20.0
+Faux,Scythe,3,3,1.0,100%,15.0,15.0,45,3,5.0,5.0
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,14.0,14.0,42,1,14.0,14.0
+Armure d'Obsidienne,Obsidian Battle Plate,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
+Marteau Collecteur,Collecting Hammer,2,3,0.67,67%,18.0,12.0,36,2,9.0,6.0
+Lame Insatiable,Fast Furious Blade,2,3,0.67,67%,16.0,10.67,32,2,8.0,5.33
+Faux Parfaite,Perfect Scythe,2,3,0.67,67%,15.0,10.0,30,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,3,3,1.0,100%,9.0,9.0,27,3,3.0,3.0
+Faux Assoiffées,Thirsty Scythes,1,3,0.33,33%,25.0,8.33,25,3,8.33,2.78
+Aveuglement,Incapacitor,3,3,1.0,100%,7.0,7.0,21,3,2.33,2.33
+Marteleur précis,Precise Hammer,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0
+Parchemin Secret,Secret Scroll,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,3,0.33,33%,17.0,5.67,17,2,8.5,2.83
+Esprit Guerrier,Spirit of the Warrior,1,3,0.33,33%,16.0,5.33,16,1,16.0,5.33
+Chasseur d'Âmes,Soul Hunter,1,3,0.33,33%,15.0,5.0,15,1,15.0,5.0
+Elan de Fureur,Rampage Momentum,1,3,0.33,33%,15.0,5.0,15,2,7.5,2.5
+Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33
+Couronne du Roi Nain,Crown of the Dwarf King,1,3,0.33,33%,13.0,4.33,13,0,Gratuit,Gratuit
+Explosion Arcanique,Arcane Explosive,1,3,0.33,33%,12.0,4.0,12,1,12.0,4.0
+Tombeau Rocheux,Rock Tomb,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,3.0,3.0,9,3,1.0,1.0
+Danse Macabre,Dance of Death,1,3,0.33,33%,8.0,2.67,8,1,8.0,2.67
+Œil de Lynx,Hawk's Eye,1,3,0.33,33%,8.0,2.67,8,0,Gratuit,Gratuit
+Griffes Sauvages,Wild Claw,1,3,0.33,33%,4.0,1.33,4,3,1.33,0.44
+Esprit de l'Écuyer,Spirit of the Squire,1,3,0.33,33%,3.0,1.0,3,3,1.0,0.33

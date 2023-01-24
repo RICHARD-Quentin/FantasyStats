@@ -1,27 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,20,20,1.0,100%,17.9,17.9,358,3,5.97,5.97
-Le Traqueur,The Stalker,18,20,0.9,90%,16.0,14.4,288,3,5.33,4.8
-Esprit de l'Écuyer,Spirit of the Squire,20,20,1.0,100%,13.5,13.5,270,3,4.5,4.5
-Totem Équivalent,Equivalent Totem,20,20,1.0,100%,12.65,12.65,253,1,12.65,12.65
-Aveuglement,Incapacitor,18,20,0.9,90%,12.33,11.1,222,3,4.11,3.7
-Armure d'Obsidienne,Obsidian Battle Plate,11,20,0.55,55%,20.0,11.0,220,2,10.0,5.5
-Vision Céleste,Heavenly Vision,10,20,0.5,50%,22.0,11.0,220,2,11.0,5.5
-Le Visionnaire,The Visionary,10,20,0.5,50%,18.0,9.0,180,2,9.0,4.5
-Bâton de Conquête,Conquering Staff,7,20,0.35,35%,24.0,8.4,168,2,12.0,4.2
-Œil de Lynx,Hawk's Eye,19,20,0.95,95%,8.0,7.6,152,0,Gratuit,Gratuit
-Marteau Collecteur,Collecting Hammer,11,20,0.55,55%,12.0,6.6,132,2,6.0,3.3
-Coup de Mort,Death Helper,11,20,0.55,55%,10.0,5.5,110,1,10.0,5.5
-Assistance Divine,Sacred Help,4,20,0.2,20%,20.0,4.0,80,2,10.0,2.0
-Sabre Versatile,Versatil Saber,7,20,0.35,35%,11.0,3.85,77,1,11.0,3.85
-Esprit omniprésent,Omnipresent Spirit,4,20,0.2,20%,18.0,3.6,72,2,9.0,1.8
-Armure d'Immortel,Immortal Breastplate,5,20,0.25,25%,14.0,3.5,70,1,14.0,3.5
-Amulette Omnisciente,Omnipresent Amulet,6,20,0.3,30%,11.0,3.3,66,0,Gratuit,Gratuit
-Le Marionnettiste,The Puppeteer,3,20,0.15,15%,20.0,3.0,60,2,10.0,1.5
-Lame Affutée,Sharp Blade,11,20,0.55,55%,4.09,2.25,45,3,1.36,0.75
-Être de Lumière,Being of Light,2,20,0.1,10%,18.0,1.8,36,1,18.0,1.8
-Force Divine,Divine Impetu,3,20,0.15,15%,11.0,1.65,33,0,Gratuit,Gratuit
-Soif de Sang,Thirsty Dagger,2,20,0.1,10%,15.0,1.5,30,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,2,20,0.1,10%,11.0,1.1,22,0,Gratuit,Gratuit
-Faux,Scythe,16,20,0.8,80%,1.38,1.1,22,3,0.46,0.37
-Bâton du Conquérant,Staff of Conquered Worlds,2,20,0.1,10%,11.0,1.1,22,0,Gratuit,Gratuit
-Masse de Siège,Siege Mace,1,20,0.05,5%,16.0,0.8,16,0,Gratuit,Gratuit
+Totem du Gardien,Guardian Totem,30,30,1.0,100%,17.63,17.63,529,3,5.88,5.88
+Le Traqueur,The Stalker,27,30,0.9,90%,16.0,14.4,432,3,5.33,4.8
+Esprit de l'Écuyer,Spirit of the Squire,29,30,0.97,97%,13.86,13.4,402,3,4.62,4.47
+Totem Équivalent,Equivalent Totem,30,30,1.0,100%,12.47,12.47,374,1,12.47,12.47
+Aveuglement,Incapacitor,28,30,0.93,93%,12.43,11.6,348,3,4.14,3.87
+Vision Céleste,Heavenly Vision,15,30,0.5,50%,22.0,11.0,330,2,11.0,5.5
+Armure d'Obsidienne,Obsidian Battle Plate,16,30,0.53,53%,20.0,10.67,320,2,10.0,5.33
+Le Visionnaire,The Visionary,15,30,0.5,50%,18.0,9.0,270,2,9.0,4.5
+Bâton de Conquête,Conquering Staff,10,30,0.33,33%,24.0,8.0,240,2,12.0,4.0
+Œil de Lynx,Hawk's Eye,29,30,0.97,97%,8.0,7.73,232,0,Gratuit,Gratuit
+Marteau Collecteur,Collecting Hammer,18,30,0.6,60%,12.33,7.4,222,2,6.17,3.7
+Coup de Mort,Death Helper,16,30,0.53,53%,10.0,5.33,160,1,10.0,5.33
+Sabre Versatile,Versatil Saber,12,30,0.4,40%,11.0,4.4,132,1,11.0,4.4
+Amulette Omnisciente,Omnipresent Amulet,10,30,0.33,33%,11.0,3.67,110,0,Gratuit,Gratuit
+Esprit omniprésent,Omnipresent Spirit,6,30,0.2,20%,18.0,3.6,108,2,9.0,1.8
+Armure d'Immortel,Immortal Breastplate,7,30,0.23,23%,14.0,3.27,98,1,14.0,3.27
+Assistance Divine,Sacred Help,4,30,0.13,13%,20.0,2.67,80,2,10.0,1.33
+Le Marionnettiste,The Puppeteer,4,30,0.13,13%,20.0,2.67,80,2,10.0,1.33
+Lame Affutée,Sharp Blade,16,30,0.53,53%,4.31,2.3,69,3,1.44,0.77
+Bâton du Conquérant,Staff of Conquered Worlds,5,30,0.17,17%,11.0,1.83,55,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,5,30,0.17,17%,11.0,1.83,55,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,4,30,0.13,13%,11.0,1.47,44,0,Gratuit,Gratuit
+Être de Lumière,Being of Light,2,30,0.07,7%,18.0,1.2,36,1,18.0,1.2
+Faux,Scythe,23,30,0.77,77%,1.43,1.1,33,3,0.48,0.37
+Soif de Sang,Thirsty Dagger,2,30,0.07,7%,15.0,1.0,30,0,Gratuit,Gratuit
+Marteleur précis,Precise Hammer,1,30,0.03,3%,18.0,0.6,18,1,18.0,0.6
+Masse de Siège,Siege Mace,1,30,0.03,3%,16.0,0.53,16,0,Gratuit,Gratuit
+Hache Frénétique,Berseker Ax,1,30,0.03,3%,14.0,0.47,14,2,7.0,0.23

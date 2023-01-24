@@ -1,20 +1,24 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Esprit Guerrier,Spirit of the Warrior,2,2,1.0,100%,16.0,16.0,32,1,16.0,16.0
-Faux,Scythe,2,2,1.0,100%,16.0,16.0,32,3,5.33,5.33
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,1,15.5,15.5
-Hache Frénétique,Berseker Ax,2,2,1.0,100%,14.0,14.0,28,2,7.0,7.0
-Faux Assoiffées,Thirsty Scythes,1,2,0.5,50%,25.0,12.5,25,3,8.33,4.17
-Bâton de Conquête,Conquering Staff,1,2,0.5,50%,24.0,12.0,24,2,12.0,6.0
-Parchemin Secret,Secret Scroll,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Aveuglement,Incapacitor,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0
-Marteau Collecteur,Collecting Hammer,2,2,1.0,100%,9.0,9.0,18,2,4.5,4.5
-Lame Affutée,Sharp Blade,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0
-Épée Obscure,Swords of Darkness,1,2,0.5,50%,17.0,8.5,17,1,17.0,8.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25
-Lame Insatiable,Fast Furious Blade,1,2,0.5,50%,16.0,8.0,16,2,8.0,4.0
-Tombeau Rocheux,Rock Tomb,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5
-Œil de Lynx,Hawk's Eye,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,2,0.5,50%,8.0,4.0,8,1,8.0,4.0
-Griffes Sauvages,Wild Claw,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
+Faux,Scythe,3,3,1.0,100%,17.0,17.0,51,3,5.67,5.67
+Faux Assoiffées,Thirsty Scythes,2,3,0.67,67%,25.0,16.67,50,3,8.33,5.56
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,16.33,16.33,49,1,16.33,16.33
+Esprit Guerrier,Spirit of the Warrior,3,3,1.0,100%,16.0,16.0,48,1,16.0,16.0
+Hache Frénétique,Berseker Ax,3,3,1.0,100%,14.0,14.0,42,2,7.0,7.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,2,3,0.67,67%,17.0,11.33,34,2,8.5,5.67
+Lame Affutée,Sharp Blade,3,3,1.0,100%,9.0,9.0,27,3,3.0,3.0
+Ascension Divine,Divine Ascent,1,3,0.33,33%,25.0,8.33,25,3,8.33,2.78
+Aveuglement,Incapacitor,3,3,1.0,100%,8.0,8.0,24,3,2.67,2.67
+Marteau Collecteur,Collecting Hammer,3,3,1.0,100%,8.0,8.0,24,2,4.0,4.0
+Bâton de Conquête,Conquering Staff,1,3,0.33,33%,24.0,8.0,24,2,12.0,4.0
+Tombeau Rocheux,Rock Tomb,2,3,0.67,67%,10.0,6.67,20,1,10.0,6.67
+Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,6.0,6.0,18,3,2.0,2.0
+Parchemin Secret,Secret Scroll,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Épée Obscure,Swords of Darkness,1,3,0.33,33%,17.0,5.67,17,1,17.0,5.67
+Lame Insatiable,Fast Furious Blade,1,3,0.33,33%,16.0,5.33,16,2,8.0,2.67
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,5.33,5.33,16,3,1.78,1.78
+Explosion Arcanique,Arcane Explosive,1,3,0.33,33%,12.0,4.0,12,1,12.0,4.0
+Désintégrateur Magnétique,Magnetic Disintegrator,1,3,0.33,33%,11.0,3.67,11,0,Gratuit,Gratuit
+Œil de Lynx,Hawk's Eye,1,3,0.33,33%,8.0,2.67,8,0,Gratuit,Gratuit
+Danse Macabre,Dance of Death,1,3,0.33,33%,8.0,2.67,8,1,8.0,2.67
+Griffes Sauvages,Wild Claw,2,3,0.67,67%,2.5,1.67,5,3,0.83,0.56

@@ -1,18 +1,22 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Armure d'Obsidienne,Obsidian Battle Plate,2,2,1.0,100%,20.0,20.0,40,2,10.0,10.0
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,16.5,16.5,33,1,16.5,16.5
-Ascension Divine,Divine Ascent,1,2,0.5,50%,25.0,12.5,25,3,8.33,4.17
-Faux,Scythe,2,2,1.0,100%,11.5,11.5,23,3,3.83,3.83
-Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Être de Lumière,Being of Light,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Mental d'Acier,Steel Aura,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Lame Affutée,Sharp Blade,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5
-Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,12.0,6.0,12,2,6.0,3.0
-Explosion Arcanique,Arcane Explosive,1,2,0.5,50%,12.0,6.0,12,1,12.0,6.0
-Désintégrateur Magnétique,Magnetic Disintegrator,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Tombeau Rocheux,Rock Tomb,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Danse Macabre,Dance of Death,1,2,0.5,50%,8.0,4.0,8,1,8.0,4.0
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.5,3.5,7,3,1.17,1.17
-Griffes Sauvages,Wild Claw,1,2,0.5,50%,1.0,0.5,1,3,0.33,0.17
+Armure d'Obsidienne,Obsidian Battle Plate,3,3,1.0,100%,20.0,20.0,60,2,10.0,10.0
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,16.0,16.0,48,1,16.0,16.0
+Assistance Divine,Sacred Help,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
+Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,13.0,13.0,39,3,4.33,4.33
+Faux,Scythe,3,3,1.0,100%,10.67,10.67,32,3,3.56,3.56
+Ascension Divine,Divine Ascent,1,3,0.33,33%,25.0,8.33,25,3,8.33,2.78
+Marteau Collecteur,Collecting Hammer,2,3,0.67,67%,12.0,8.0,24,2,6.0,4.0
+Désintégrateur Magnétique,Magnetic Disintegrator,2,3,0.67,67%,11.0,7.33,22,0,Gratuit,Gratuit
+Lame Affutée,Sharp Blade,3,3,1.0,100%,7.0,7.0,21,3,2.33,2.33
+Être de Lumière,Being of Light,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0
+Mental d'Acier,Steel Aura,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33
+Explosion Arcanique,Arcane Explosive,1,3,0.33,33%,12.0,4.0,12,1,12.0,4.0
+Sabre Versatile,Versatil Saber,1,3,0.33,33%,11.0,3.67,11,1,11.0,3.67
+Amulette Omnisciente,Omnipresent Amulet,1,3,0.33,33%,11.0,3.67,11,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,1,3,0.33,33%,11.0,3.67,11,0,Gratuit,Gratuit
+Coup de Mort,Death Helper,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33
+Tombeau Rocheux,Rock Tomb,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,3.33,3.33,10,3,1.11,1.11
+Danse Macabre,Dance of Death,1,3,0.33,33%,8.0,2.67,8,1,8.0,2.67
+Griffes Sauvages,Wild Claw,1,3,0.33,33%,1.0,0.33,1,3,0.33,0.11

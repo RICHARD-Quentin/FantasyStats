@@ -1,8 +1,11 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Esprit de la Faille,Spirit of the Rift,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Écailles Magiques,Magic Scales,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Perce-Écailles,Scale Tearer,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
-Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,13.0,6.5,13,3,4.33,2.17
-Marteau Dévastateur,Destroyer Hammer,1,2,0.5,50%,10.0,5.0,10,2,5.0,2.5
-L'Oeil du Héraut,Eye of the Void,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
-Première Ligne,First Line,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
+Perce-Écailles,Scale Tearer,3,3,1.0,100%,15.0,15.0,45,3,5.0,5.0
+Esprit de la Faille,Spirit of the Rift,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
+Écailles Magiques,Magic Scales,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
+Sceau Profanateur,Seal of Desecration,1,3,0.33,33%,32.0,10.67,32,2,16.0,5.33
+Marteau Dévastateur,Destroyer Hammer,2,3,0.67,67%,16.0,10.67,32,2,8.0,5.33
+Chasse au Gros,Big Worm Hunter,2,3,0.67,67%,13.0,8.67,26,3,4.33,2.89
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,3,0.33,33%,25.0,8.33,25,1,25.0,8.33
+L'Oeil du Héraut,Eye of the Void,2,3,0.67,67%,12.0,8.0,24,0,Gratuit,Gratuit
+Marteau Conquérant,Conquest Hammer,1,3,0.33,33%,22.0,7.33,22,3,7.33,2.44
+Première Ligne,First Line,2,3,0.67,67%,8.0,5.33,16,0,Gratuit,Gratuit
