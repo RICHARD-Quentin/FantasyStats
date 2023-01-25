@@ -1,19 +1,21 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,19.5,19.5,39,3,6.5,6.5
-Esprit omniprésent,Omnipresent Spirit,2,2,1.0,100%,18.0,18.0,36,2,9.0,9.0
-Le Traqueur,The Stalker,2,2,1.0,100%,16.0,16.0,32,3,5.33,5.33
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,13.5,13.5,27,3,4.5,4.5
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,13.0,13.0,26,1,13.0,13.0
-Vision Céleste,Heavenly Vision,1,2,0.5,50%,22.0,11.0,22,2,11.0,5.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Le Visionnaire,The Visionary,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Être de Lumière,Being of Light,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Œil de Lynx,Hawk's Eye,2,2,1.0,100%,8.0,8.0,16,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,2,0.5,50%,14.0,7.0,14,1,14.0,7.0
-Sabre Versatile,Versatil Saber,1,2,0.5,50%,11.0,5.5,11,1,11.0,5.5
-Amulette Omnisciente,Omnipresent Amulet,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Force Divine,Divine Impetu,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Aveuglement,Incapacitor,1,2,0.5,50%,6.0,3.0,6,3,2.0,1.0
-Lame Affutée,Sharp Blade,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
+Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,20.0,20.0,60,3,6.67,6.67
+Le Traqueur,The Stalker,3,3,1.0,100%,16.0,16.0,48,3,5.33,5.33
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,14.67,14.67,44,3,4.89,4.89
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,13.67,13.67,41,1,13.67,13.67
+Armure d'Obsidienne,Obsidian Battle Plate,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
+Esprit omniprésent,Omnipresent Spirit,2,3,0.67,67%,18.0,12.0,36,2,9.0,6.0
+Armure d'Immortel,Immortal Breastplate,2,3,0.67,67%,14.0,9.33,28,1,14.0,9.33
+Œil de Lynx,Hawk's Eye,3,3,1.0,100%,8.0,8.0,24,0,Gratuit,Gratuit
+Bâton de Conquête,Conquering Staff,1,3,0.33,33%,24.0,8.0,24,2,12.0,4.0
+Amulette Omnisciente,Omnipresent Amulet,2,3,0.67,67%,11.0,7.33,22,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,2,3,0.67,67%,11.0,7.33,22,1,11.0,7.33
+Vision Céleste,Heavenly Vision,1,3,0.33,33%,22.0,7.33,22,2,11.0,3.67
+Force Divine,Divine Impetu,2,3,0.67,67%,11.0,7.33,22,0,Gratuit,Gratuit
+Aveuglement,Incapacitor,2,3,0.67,67%,10.5,7.0,21,3,3.5,2.33
+Coup de Mort,Death Helper,2,3,0.67,67%,10.0,6.67,20,1,10.0,6.67
+Assistance Divine,Sacred Help,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
+Être de Lumière,Being of Light,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0
+Le Visionnaire,The Visionary,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Lame Affutée,Sharp Blade,1,3,0.33,33%,3.0,1.0,3,3,1.0,0.33
+Faux,Scythe,1,3,0.33,33%,2.0,0.67,2,3,0.67,0.22

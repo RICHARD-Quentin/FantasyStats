@@ -1,17 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,1,15.5,15.5
-Faux,Scythe,2,2,1.0,100%,14.5,14.5,29,3,4.83,4.83
-Faux Assoiffées,Thirsty Scythes,1,2,0.5,50%,25.0,12.5,25,3,8.33,4.17
-Ascension Divine,Divine Ascent,1,2,0.5,50%,25.0,12.5,25,3,8.33,4.17
-Esprit omniprésent,Omnipresent Spirit,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25
-Faux Parfaite,Perfect Scythe,1,2,0.5,50%,15.0,7.5,15,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5
-Explosion Arcanique,Arcane Explosive,1,2,0.5,50%,12.0,6.0,12,1,12.0,6.0
-Bâton du Conquérant,Staff of Conquered Worlds,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,5.5,5.5,11,3,1.83,1.83
-Aveuglement,Incapacitor,1,2,0.5,50%,9.0,4.5,9,3,3.0,1.5
-Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,6.0,3.0,6,3,2.0,1.0
-Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,6.0,3.0,6,2,3.0,1.5
-Lame Affutée,Sharp Blade,1,2,0.5,50%,6.0,3.0,6,3,2.0,1.0
-Griffes Sauvages,Wild Claw,1,2,0.5,50%,1.0,0.5,1,3,0.33,0.17
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,15.67,15.67,47,1,15.67,15.67
+Faux,Scythe,3,3,1.0,100%,14.67,14.67,44,3,4.89,4.89
+Faux Parfaite,Perfect Scythe,2,3,0.67,67%,15.0,10.0,30,0,Gratuit,Gratuit
+Gantelet Impérieux,Imperious Gauntlet,1,3,0.33,33%,30.0,10.0,30,1,30.0,10.0
+Ascension Divine,Divine Ascent,1,3,0.33,33%,25.0,8.33,25,3,8.33,2.78
+Faux Assoiffées,Thirsty Scythes,1,3,0.33,33%,25.0,8.33,25,3,8.33,2.78
+Explosion Arcanique,Arcane Explosive,2,3,0.67,67%,12.0,8.0,24,1,12.0,8.0
+Armure d'Obsidienne,Obsidian Battle Plate,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
+Lame Affutée,Sharp Blade,2,3,0.67,67%,9.0,6.0,18,3,3.0,2.0
+Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Parchemin Secret,Secret Scroll,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,3,0.33,33%,17.0,5.67,17,2,8.5,2.83
+Lame Insatiable,Fast Furious Blade,1,3,0.33,33%,16.0,5.33,16,2,8.0,2.67
+Esprit de l'Écuyer,Spirit of the Squire,2,3,0.67,67%,7.5,5.0,15,3,2.5,1.67
+Elan de Fureur,Rampage Momentum,1,3,0.33,33%,15.0,5.0,15,2,7.5,2.5
+Armure d'Immortel,Immortal Breastplate,1,3,0.33,33%,14.0,4.67,14,1,14.0,4.67
+Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,4.33,4.33,13,3,1.44,1.44
+Marteau Collecteur,Collecting Hammer,2,3,0.67,67%,6.0,4.0,12,2,3.0,2.0
+Aveuglement,Incapacitor,2,3,0.67,67%,6.0,4.0,12,3,2.0,1.33
+Force Divine,Divine Impetu,1,3,0.33,33%,11.0,3.67,11,0,Gratuit,Gratuit
+Bâton du Conquérant,Staff of Conquered Worlds,1,3,0.33,33%,11.0,3.67,11,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,3,0.33,33%,11.0,3.67,11,1,11.0,3.67
+Danse Macabre,Dance of Death,1,3,0.33,33%,8.0,2.67,8,1,8.0,2.67
+Griffes Sauvages,Wild Claw,2,3,0.67,67%,1.0,0.67,2,3,0.33,0.22
