@@ -1,13 +1,15 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,26.0,13.0,26,3,8.67,4.33
-Perce-Écailles,Scale Tearer,2,2,1.0,100%,12.5,12.5,25,3,4.17,4.17
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,2,0.5,50%,25.0,12.5,25,1,25.0,12.5
-Poigne d'Or,Golden Force,1,2,0.5,50%,23.0,11.5,23,1,23.0,11.5
-Marteau Conquérant,Conquest Hammer,1,2,0.5,50%,22.0,11.0,22,3,7.33,3.67
-Masque du Baron,Baron' s Mask,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Écailles Magiques,Magic Scales,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Marteau Dévastateur,Destroyer Hammer,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Protection Royale,Royal Protector,1,2,0.5,50%,17.0,8.5,17,1,17.0,8.5
-Sceau Profanateur,Seal of Desecration,1,2,0.5,50%,16.0,8.0,16,2,8.0,4.0
-Gardien Sous-terrain,Underworld Guardian,1,2,0.5,50%,15.0,7.5,15,1,15.0,7.5
-Première Ligne,First Line,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
+Marteau Conquérant,Conquest Hammer,2,4,0.5,50%,22.0,11.0,44,3,7.33,3.67
+Marteau Dévastateur,Destroyer Hammer,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25
+Écailles Magiques,Magic Scales,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Chasse au Gros,Big Worm Hunter,2,4,0.5,50%,19.5,9.75,39,3,6.5,3.25
+Perce-Écailles,Scale Tearer,3,4,0.75,75%,11.67,8.75,35,3,3.89,2.92
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,4,0.25,25%,25.0,6.25,25,1,25.0,6.25
+Sceau Profanateur,Seal of Desecration,2,4,0.5,50%,12.0,6.0,24,2,6.0,3.0
+Poigne d'Or,Golden Force,1,4,0.25,25%,23.0,5.75,23,1,23.0,5.75
+Masque du Baron,Baron' s Mask,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Esprit de la Faille,Spirit of the Rift,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Protection Royale,Royal Protector,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25
+L'Oeil du Héraut,Eye of the Void,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit
+Première Ligne,First Line,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit
+Gardien Sous-terrain,Underworld Guardian,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75

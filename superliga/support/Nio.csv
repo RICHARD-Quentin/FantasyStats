@@ -1,17 +1,20 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,19.5,19.5,39,3,6.5,6.5
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,18.0,18.0,36,3,6.0,6.0
-Le Traqueur,The Stalker,2,2,1.0,100%,16.0,16.0,32,3,5.33,5.33
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,14.0,14.0,28,1,14.0,14.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Être de Lumière,Being of Light,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Esprit omniprésent,Omnipresent Spirit,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Œil de Lynx,Hawk's Eye,2,2,1.0,100%,8.0,8.0,16,0,Gratuit,Gratuit
-Aveuglement,Incapacitor,1,2,0.5,50%,12.0,6.0,12,3,4.0,2.0
-Force Divine,Divine Impetu,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Amulette Omnisciente,Omnipresent Amulet,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,1,2,0.5,50%,11.0,5.5,11,1,11.0,5.5
-Coup de Mort,Death Helper,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,6.0,3.0,6,2,3.0,1.5
-Lame Affutée,Sharp Blade,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,18.75,18.75,75,3,6.25,6.25
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.0,13.0,52,1,13.0,13.0
+Le Traqueur,The Stalker,3,4,0.75,75%,16.0,12.0,48,3,5.33,4.0
+Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,15.0,11.25,45,3,5.0,3.75
+Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25
+Aveuglement,Incapacitor,3,4,0.75,75%,14.0,10.5,42,3,4.67,3.5
+Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Esprit omniprésent,Omnipresent Spirit,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5
+Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
+Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0
+Assistance Divine,Sacred Help,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Être de Lumière,Being of Light,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
+Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Force Divine,Divine Impetu,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75
+Amulette Omnisciente,Omnipresent Amulet,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
+Lame Affutée,Sharp Blade,2,4,0.5,50%,3.0,1.5,6,3,1.0,0.5
+Faux,Scythe,1,4,0.25,25%,1.0,0.25,1,3,0.33,0.08

@@ -1,15 +1,20 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,15.5,15.5,31,3,5.17,5.17
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,13.5,13.5,27,1,13.5,13.5
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,13.5,13.5,27,3,4.5,4.5
-Vision Céleste,Heavenly Vision,1,2,0.5,50%,22.0,11.0,22,2,11.0,5.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Être de Lumière,Being of Light,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Le Visionnaire,The Visionary,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Œil de Lynx,Hawk's Eye,2,2,1.0,100%,8.0,8.0,16,0,Gratuit,Gratuit
-Le Traqueur,The Stalker,1,2,0.5,50%,16.0,8.0,16,3,5.33,2.67
-Aveuglement,Incapacitor,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
-Amulette Omnisciente,Omnipresent Amulet,1,2,0.5,50%,11.0,5.5,11,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Faux,Scythe,2,2,1.0,100%,1.5,1.5,3,3,0.5,0.5
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,21.75,21.75,87,3,7.25,7.25
+Vision Céleste,Heavenly Vision,3,4,0.75,75%,22.0,16.5,66,2,11.0,8.25
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.5,13.5,54,1,13.5,13.5
+Aveuglement,Incapacitor,4,4,1.0,100%,13.5,13.5,54,3,4.5,4.5
+Le Visionnaire,The Visionary,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75
+Le Traqueur,The Stalker,3,4,0.75,75%,16.0,12.0,48,3,5.33,4.0
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,11.25,11.25,45,3,3.75,3.75
+Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Être de Lumière,Being of Light,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0
+Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
+Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0
+Coup de Mort,Death Helper,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
+Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5
+Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Amulette Omnisciente,Omnipresent Amulet,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75
+Faux,Scythe,4,4,1.0,100%,2.0,2.0,8,3,0.67,0.67
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,6.0,1.5,6,2,3.0,0.75

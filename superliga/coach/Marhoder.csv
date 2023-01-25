@@ -1,10 +1,13 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Écailles Magiques,Magic Scales,2,2,1.0,100%,20.0,20.0,40,2,10.0,10.0
-Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,26.0,13.0,26,3,8.67,4.33
-Perce-Écailles,Scale Tearer,2,2,1.0,100%,12.5,12.5,25,3,4.17,4.17
-Marteau Dévastateur,Destroyer Hammer,2,2,1.0,100%,12.0,12.0,24,2,6.0,6.0
-Marteau Conquérant,Conquest Hammer,1,2,0.5,50%,22.0,11.0,22,3,7.33,3.67
-Esprit de la Faille,Spirit of the Rift,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Première Ligne,First Line,2,2,1.0,100%,8.0,8.0,16,0,Gratuit,Gratuit
-L'Oeil du Héraut,Eye of the Void,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
-Sceau Profanateur,Seal of Desecration,1,2,0.5,50%,8.0,4.0,8,2,4.0,2.0
+Marteau Conquérant,Conquest Hammer,3,4,0.75,75%,22.0,16.5,66,3,7.33,5.5
+Esprit de la Faille,Spirit of the Rift,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
+Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,15.0,15.0,60,2,7.5,7.5
+Perce-Écailles,Scale Tearer,4,4,1.0,100%,13.75,13.75,55,3,4.58,4.58
+Chasse au Gros,Big Worm Hunter,3,4,0.75,75%,17.33,13.0,52,3,5.78,4.33
+Sceau Profanateur,Seal of Desecration,3,4,0.75,75%,13.33,10.0,40,2,6.67,5.0
+Masque du Baron,Baron' s Mask,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Écailles Magiques,Magic Scales,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,10.67,8.0,32,0,Gratuit,Gratuit
+Première Ligne,First Line,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,4,0.25,25%,25.0,6.25,25,1,25.0,6.25
+Protection Royale,Royal Protector,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25

@@ -1,14 +1,21 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,16.5,16.5,33,1,16.5,16.5
-Faux Parfaite,Perfect Scythe,2,2,1.0,100%,15.0,15.0,30,0,Gratuit,Gratuit
-Gantelet Impérieux,Imperious Gauntlet,1,2,0.5,50%,30.0,15.0,30,1,30.0,15.0
-Faux,Scythe,2,2,1.0,100%,14.5,14.5,29,3,4.83,4.83
-Ascension Divine,Divine Ascent,1,2,0.5,50%,25.0,12.5,25,3,8.33,4.17
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25
-Armure d'Immortel,Immortal Breastplate,1,2,0.5,50%,14.0,7.0,14,1,14.0,7.0
-Aveuglement,Incapacitor,2,2,1.0,100%,6.0,6.0,12,3,2.0,2.0
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.5,3.5,7,3,1.17,1.17
-Lame Affutée,Sharp Blade,2,2,1.0,100%,3.0,3.0,6,3,1.0,1.0
-Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,6.0,3.0,6,2,3.0,1.5
-Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,17.0,17.0,68,1,17.0,17.0
+Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
+Faux Parfaite,Perfect Scythe,4,4,1.0,100%,15.0,15.0,60,0,Gratuit,Gratuit
+Faux,Scythe,4,4,1.0,100%,14.5,14.5,58,3,4.83,4.83
+Ascension Divine,Divine Ascent,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17
+Armure d'Immortel,Immortal Breastplate,3,4,0.75,75%,14.0,10.5,42,1,14.0,10.5
+Marteleur précis,Precise Hammer,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,2,4,0.5,50%,17.0,8.5,34,2,8.5,4.25
+Gantelet Impérieux,Imperious Gauntlet,1,4,0.25,25%,30.0,7.5,30,1,30.0,7.5
+Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,10.0,7.5,30,2,5.0,3.75
+Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,8.0,6.0,24,3,2.67,2.0
+Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5
+Aveuglement,Incapacitor,4,4,1.0,100%,5.25,5.25,21,3,1.75,1.75
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Lame Affutée,Sharp Blade,4,4,1.0,100%,4.5,4.5,18,3,1.5,1.5
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.75,3.75,15,3,1.25,1.25
+Force Divine,Divine Impetu,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Tombeau Rocheux,Rock Tomb,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5

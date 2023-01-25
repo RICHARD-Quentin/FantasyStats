@@ -1,27 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Décharge Élémentaire,Elemental Discharge,2,2,1.0,100%,18.0,18.0,36,1,18.0,18.0
-Griffes Sauvages,Wild Claw,2,2,1.0,100%,15.5,15.5,31,3,5.17,5.17
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,1,15.5,15.5
-Lame Affutée,Sharp Blade,2,2,1.0,100%,15.0,15.0,30,3,5.0,5.0
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,13.5,13.5,27,3,4.5,4.5
-Coup de Mort,Death Helper,2,2,1.0,100%,10.0,10.0,20,1,10.0,10.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Tombeau Rocheux,Rock Tomb,2,2,1.0,100%,10.0,10.0,20,1,10.0,10.0
-Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Marteleur précis,Precise Hammer,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Enchaînement Éclair,Unstoppable Lightning,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Mental d'Acier,Steel Aura,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Marteau Collecteur,Collecting Hammer,2,2,1.0,100%,9.0,9.0,18,2,4.5,4.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25
-Faux,Scythe,2,2,1.0,100%,8.5,8.5,17,3,2.83,2.83
-Elan de Fureur,Rampage Momentum,1,2,0.5,50%,15.0,7.5,15,2,7.5,3.75
-Soif de Sang,Thirsty Dagger,1,2,0.5,50%,15.0,7.5,15,0,Gratuit,Gratuit
-Aveuglement,Incapacitor,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5
-Explosion Arcanique,Arcane Explosive,1,2,0.5,50%,12.0,6.0,12,1,12.0,6.0
-Sabre Versatile,Versatil Saber,1,2,0.5,50%,11.0,5.5,11,1,11.0,5.5
-Esprit Sauvage,Wild Spirit,1,2,0.5,50%,10.0,5.0,10,0,Gratuit,Gratuit
-Épé Sainte,Holy Sword,1,2,0.5,50%,10.0,5.0,10,0,Gratuit,Gratuit
-Œil de Lynx,Hawk's Eye,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,2,0.5,50%,8.0,4.0,8,1,8.0,4.0
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.0,3.0,6,3,1.0,1.0
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,14.5,14.5,58,3,4.83,4.83
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.25,14.25,57,1,14.25,14.25
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,11.25,11.25,45,3,3.75,3.75
+Décharge Élémentaire,Elemental Discharge,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0
+Aveuglement,Incapacitor,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0
+Lame Affutée,Sharp Blade,3,4,0.75,75%,11.0,8.25,33,3,3.67,2.75
+Faux,Scythe,4,4,1.0,100%,8.0,8.0,32,3,2.67,2.67
+Coup de Mort,Death Helper,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5
+Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0
+Assistance Divine,Sacred Help,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
+Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
+Enchaînement Éclair,Unstoppable Lightning,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
+Mental d'Acier,Steel Aura,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
+Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,9.0,4.5,18,2,4.5,2.25
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,4,0.25,25%,17.0,4.25,17,2,8.5,2.12
+Œil de Lynx,Hawk's Eye,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit
+Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit
+Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,2,7.5,1.88
+Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.0,3.0,12,3,1.0,1.0
+Explosion Arcanique,Arcane Explosive,1,4,0.25,25%,12.0,3.0,12,1,12.0,3.0
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75
+Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit
+Esprit Sauvage,Wild Spirit,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit
+Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0

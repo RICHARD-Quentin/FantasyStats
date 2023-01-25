@@ -1,16 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Folie Meurtrière,Killer Momentum,1,2,0.5,50%,30.0,15.0,30,0,Gratuit,Gratuit
-Marteau Dévastateur,Destroyer Hammer,2,2,1.0,100%,14.0,14.0,28,2,7.0,7.0
-Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,26.0,13.0,26,3,8.67,4.33
-L'Oeil du Héraut,Eye of the Void,2,2,1.0,100%,12.0,12.0,24,0,Gratuit,Gratuit
-Poigne d'Or,Golden Force,1,2,0.5,50%,23.0,11.5,23,1,23.0,11.5
-Marteau Conquérant,Conquest Hammer,1,2,0.5,50%,22.0,11.0,22,3,7.33,3.67
-Perce-Écailles,Scale Tearer,2,2,1.0,100%,10.0,10.0,20,3,3.33,3.33
-Masque du Baron,Baron' s Mask,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Esprit de la Faille,Spirit of the Rift,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Écailles Magiques,Magic Scales,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Protection Royale,Royal Protector,1,2,0.5,50%,17.0,8.5,17,1,17.0,8.5
-Première Ligne,First Line,2,2,1.0,100%,8.0,8.0,16,0,Gratuit,Gratuit
-Sceau Profanateur,Seal of Desecration,1,2,0.5,50%,16.0,8.0,16,2,8.0,4.0
-Gardien Sous-terrain,Underworld Guardian,1,2,0.5,50%,15.0,7.5,15,1,15.0,7.5
-Frappes Éclair,Light Swords,1,2,0.5,50%,12.0,6.0,12,0,Gratuit,Gratuit
+Folie Meurtrière,Killer Momentum,2,4,0.5,50%,30.0,15.0,60,0,Gratuit,Gratuit
+Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,13.5,13.5,54,2,6.75,6.75
+Perce-Écailles,Scale Tearer,4,4,1.0,100%,12.5,12.5,50,3,4.17,4.17
+L'Oeil du Héraut,Eye of the Void,4,4,1.0,100%,12.0,12.0,48,0,Gratuit,Gratuit
+Poigne d'Or,Golden Force,2,4,0.5,50%,23.0,11.5,46,1,23.0,11.5
+Marteau Conquérant,Conquest Hammer,2,4,0.5,50%,22.0,11.0,44,3,7.33,3.67
+Masque du Baron,Baron' s Mask,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Esprit de la Faille,Spirit of the Rift,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Écailles Magiques,Magic Scales,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Chasse au Gros,Big Worm Hunter,2,4,0.5,50%,19.5,9.75,39,3,6.5,3.25
+Protection Royale,Royal Protector,2,4,0.5,50%,17.0,8.5,34,1,17.0,8.5
+Première Ligne,First Line,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
+Sceau Profanateur,Seal of Desecration,2,4,0.5,50%,16.0,8.0,32,2,8.0,4.0
+Gardien Sous-terrain,Underworld Guardian,2,4,0.5,50%,15.0,7.5,30,1,15.0,7.5
+Frappes Éclair,Light Swords,2,4,0.5,50%,12.0,6.0,24,0,Gratuit,Gratuit

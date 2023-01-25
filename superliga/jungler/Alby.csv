@@ -1,17 +1,19 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Griffes Sauvages,Wild Claw,2,2,1.0,100%,14.5,14.5,29,3,4.83,4.83
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,14.5,14.5,29,1,14.5,14.5
-Le Marionnettiste,The Puppeteer,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0
-Chasseur de Bêtes,Beast Hunter,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Décharge Élémentaire,Elemental Discharge,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0
-Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0
-Mental d'Acier,Steel Aura,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5
-Faux,Scythe,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
-Aveuglement,Incapacitor,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5
-Lame Affutée,Sharp Blade,2,2,1.0,100%,6.0,6.0,12,3,2.0,2.0
-Esprit Sauvage,Wild Spirit,1,2,0.5,50%,10.0,5.0,10,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Tombeau Rocheux,Rock Tomb,1,2,0.5,50%,10.0,5.0,10,1,10.0,5.0
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.0,3.0,6,3,1.0,1.0
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,14.5,14.5,58,3,4.83,4.83
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.5,14.5,58,1,14.5,14.5
+Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Le Marionnettiste,The Puppeteer,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Chasseur de Bêtes,Beast Hunter,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5
+Aveuglement,Incapacitor,4,4,1.0,100%,8.25,8.25,33,3,2.75,2.75
+Faux,Scythe,4,4,1.0,100%,8.0,8.0,32,3,2.67,2.67
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5
+Hache Frénétique,Berseker Ax,2,4,0.5,50%,14.0,7.0,28,2,7.0,3.5
+Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
+Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0
+Esprit Sauvage,Wild Spirit,2,4,0.5,50%,10.0,5.0,20,0,Gratuit,Gratuit
+Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
+Mental d'Acier,Steel Aura,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5
+Lame Affutée,Sharp Blade,2,4,0.5,50%,6.0,3.0,12,3,2.0,1.0
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.25,2.25,9,3,0.75,0.75
