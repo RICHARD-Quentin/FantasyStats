@@ -1,29 +1,29 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,5,5,1.0,100%,16.2,16.2,81,2,8.1,8.1
-Faux,Scythe,5,5,1.0,100%,15.0,15.0,75,3,5.0,5.0
-Faux Parfaite,Perfect Scythe,5,5,1.0,100%,15.0,15.0,75,0,Gratuit,Gratuit
-Armure d'Obsidienne,Obsidian Battle Plate,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0
-Gantelet Impérieux,Imperious Gauntlet,2,5,0.4,40%,30.0,12.0,60,1,30.0,12.0
-Lame Affutée,Sharp Blade,4,5,0.8,80%,11.25,9.0,45,3,3.75,3.0
-Hache Frénétique,Berseker Ax,3,5,0.6,60%,14.0,8.4,42,2,7.0,4.2
-Économe Sagesse du Trésorier,Treasurer's Wisdom,2,5,0.4,40%,17.0,6.8,34,2,8.5,3.4
-Épée Obscure,Swords of Darkness,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8
-Adrénaline Arcanique,Arcane Adrenaline,2,5,0.4,40%,16.0,6.4,32,1,16.0,6.4
-Triple Météore,Trimeteor,1,5,0.2,20%,30.0,6.0,30,0,Gratuit,Gratuit
-Faux Assoiffées,Thirsty Scythes,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67
-Ascension Divine,Divine Ascent,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6
-Marteau Collecteur,Collecting Hammer,3,5,0.6,60%,8.0,4.8,24,2,4.0,2.4
-Aveuglement,Incapacitor,5,5,1.0,100%,4.2,4.2,21,3,1.4,1.4
-Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
-Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6
-Esprit de l'Écuyer,Spirit of the Squire,3,5,0.6,60%,6.0,3.6,18,3,2.0,1.2
-Enchaînement Éclair,Unstoppable Lightning,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6
-Danse Macabre,Dance of Death,2,5,0.4,40%,8.0,3.2,16,1,8.0,3.2
-Lame Insatiable,Fast Furious Blade,1,5,0.2,20%,16.0,3.2,16,2,8.0,1.6
-Elan de Fureur,Rampage Momentum,1,5,0.2,20%,15.0,3.0,15,2,7.5,1.5
-Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,14.0,2.8,14,1,14.0,2.8
-Désintégrateur Magnétique,Magnetic Disintegrator,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2
-Épé Sainte,Holy Sword,1,5,0.2,20%,10.0,2.0,10,0,Gratuit,Gratuit
-Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,16.2,16.2,81,2,8.1,8.1,5.4,5.4
+Faux,Scythe,5,5,1.0,100%,15.0,15.0,75,3,5.0,5.0,3.75,3.75
+Faux Parfaite,Perfect Scythe,5,5,1.0,100%,15.0,15.0,75,0,Gratuit,Gratuit,15.0,15.0
+Armure d'Obsidienne,Obsidian Battle Plate,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
+Gantelet Impérieux,Imperious Gauntlet,2,5,0.4,40%,30.0,12.0,60,1,30.0,12.0,15.0,6.0
+Lame Affutée,Sharp Blade,4,5,0.8,80%,11.25,9.0,45,3,3.75,3.0,2.81,2.25
+Hache Frénétique,Berseker Ax,3,5,0.6,60%,14.0,8.4,42,2,7.0,4.2,4.67,2.8
+Économe Sagesse du Trésorier,Treasurer's Wisdom,2,5,0.4,40%,17.0,6.8,34,2,8.5,3.4,5.67,2.27
+Épée Obscure,Swords of Darkness,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
+Adrénaline Arcanique,Arcane Adrenaline,2,5,0.4,40%,16.0,6.4,32,1,16.0,6.4,8.0,3.2
+Triple Météore,Trimeteor,1,5,0.2,20%,30.0,6.0,30,0,Gratuit,Gratuit,30.0,6.0
+Faux Assoiffées,Thirsty Scythes,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67,6.25,1.25
+Ascension Divine,Divine Ascent,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67,6.25,1.25
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6,1.2,1.2
+Marteau Collecteur,Collecting Hammer,3,5,0.6,60%,8.0,4.8,24,2,4.0,2.4,2.67,1.6
+Aveuglement,Incapacitor,5,5,1.0,100%,4.2,4.2,21,3,1.4,1.4,1.05,1.05
+Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Esprit de l'Écuyer,Spirit of the Squire,3,5,0.6,60%,6.0,3.6,18,3,2.0,1.2,1.5,0.9
+Enchaînement Éclair,Unstoppable Lightning,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Danse Macabre,Dance of Death,2,5,0.4,40%,8.0,3.2,16,1,8.0,3.2,4.0,1.6
+Lame Insatiable,Fast Furious Blade,1,5,0.2,20%,16.0,3.2,16,2,8.0,1.6,5.33,1.07
+Elan de Fureur,Rampage Momentum,1,5,0.2,20%,15.0,3.0,15,2,7.5,1.5,5.0,1.0
+Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,14.0,2.8,14,1,14.0,2.8,7.0,1.4
+Désintégrateur Magnétique,Magnetic Disintegrator,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2,5.5,1.1
+Épé Sainte,Holy Sword,1,5,0.2,20%,10.0,2.0,10,0,Gratuit,Gratuit,10.0,2.0
+Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit,8.0,1.6

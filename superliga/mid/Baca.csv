@@ -1,29 +1,29 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,5,5,1.0,100%,17.4,17.4,87,2,8.7,8.7
-Faux,Scythe,5,5,1.0,100%,16.2,16.2,81,3,5.4,5.4
-Ascension Divine,Divine Ascent,3,5,0.6,60%,25.0,15.0,75,3,8.33,5.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,4,5,0.8,80%,17.0,13.6,68,2,8.5,6.8
-Faux Parfaite,Perfect Scythe,4,5,0.8,80%,15.0,12.0,60,0,Gratuit,Gratuit
-Faux Assoiffées,Thirsty Scythes,2,5,0.4,40%,25.0,10.0,50,3,8.33,3.33
-Hache Frénétique,Berseker Ax,3,5,0.6,60%,14.0,8.4,42,2,7.0,4.2
-Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0
-Lame Affutée,Sharp Blade,5,5,1.0,100%,7.8,7.8,39,3,2.6,2.6
-Chasseresse d'Âmes,Huntress of Souls,2,5,0.4,40%,19.0,7.6,38,1,19.0,7.6
-Griffes Démoniaques,Demon Claws,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8
-Lame Insatiable,Fast Furious Blade,2,5,0.4,40%,16.0,6.4,32,2,8.0,3.2
-Adrénaline Arcanique,Arcane Adrenaline,2,5,0.4,40%,16.0,6.4,32,1,16.0,6.4
-Gantelet Impérieux,Imperious Gauntlet,1,5,0.2,20%,30.0,6.0,30,1,30.0,6.0
-Explosion Arcanique,Arcane Explosive,2,5,0.4,40%,12.0,4.8,24,1,12.0,4.8
-Aveuglement,Incapacitor,4,5,0.8,80%,6.0,4.8,24,3,2.0,1.6
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6
-Assistance Divine,Sacred Help,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
-Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,3.6,3.6,18,3,1.2,1.2
-Épée Obscure,Swords of Darkness,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4
-Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit
-Elan de Fureur,Rampage Momentum,1,5,0.2,20%,15.0,3.0,15,2,7.5,1.5
-Chasseur d'Âmes,Soul Hunter,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0
-Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,14.0,2.8,14,1,14.0,2.8
-Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2
-Désintégrateur Magnétique,Magnetic Disintegrator,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,5,0.2,20%,8.0,1.6,8,1,8.0,1.6
-Griffes Sauvages,Wild Claw,2,5,0.4,40%,1.0,0.4,2,3,0.33,0.13
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,17.4,17.4,87,2,8.7,8.7,5.8,5.8
+Faux,Scythe,5,5,1.0,100%,16.2,16.2,81,3,5.4,5.4,4.05,4.05
+Ascension Divine,Divine Ascent,3,5,0.6,60%,25.0,15.0,75,3,8.33,5.0,6.25,3.75
+Économe Sagesse du Trésorier,Treasurer's Wisdom,4,5,0.8,80%,17.0,13.6,68,2,8.5,6.8,5.67,4.53
+Faux Parfaite,Perfect Scythe,4,5,0.8,80%,15.0,12.0,60,0,Gratuit,Gratuit,15.0,12.0
+Faux Assoiffées,Thirsty Scythes,2,5,0.4,40%,25.0,10.0,50,3,8.33,3.33,6.25,2.5
+Hache Frénétique,Berseker Ax,3,5,0.6,60%,14.0,8.4,42,2,7.0,4.2,4.67,2.8
+Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Lame Affutée,Sharp Blade,5,5,1.0,100%,7.8,7.8,39,3,2.6,2.6,1.95,1.95
+Chasseresse d'Âmes,Huntress of Souls,2,5,0.4,40%,19.0,7.6,38,1,19.0,7.6,9.5,3.8
+Griffes Démoniaques,Demon Claws,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
+Lame Insatiable,Fast Furious Blade,2,5,0.4,40%,16.0,6.4,32,2,8.0,3.2,5.33,2.13
+Adrénaline Arcanique,Arcane Adrenaline,2,5,0.4,40%,16.0,6.4,32,1,16.0,6.4,8.0,3.2
+Gantelet Impérieux,Imperious Gauntlet,1,5,0.2,20%,30.0,6.0,30,1,30.0,6.0,15.0,3.0
+Explosion Arcanique,Arcane Explosive,2,5,0.4,40%,12.0,4.8,24,1,12.0,4.8,6.0,2.4
+Aveuglement,Incapacitor,4,5,0.8,80%,6.0,4.8,24,3,2.0,1.6,1.5,1.2
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6,1.2,1.2
+Assistance Divine,Sacred Help,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,3.6,3.6,18,3,1.2,1.2,0.9,0.9
+Épée Obscure,Swords of Darkness,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4,8.5,1.7
+Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Elan de Fureur,Rampage Momentum,1,5,0.2,20%,15.0,3.0,15,2,7.5,1.5,5.0,1.0
+Chasseur d'Âmes,Soul Hunter,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0,7.5,1.5
+Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,14.0,2.8,14,1,14.0,2.8,7.0,1.4
+Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2,5.5,1.1
+Désintégrateur Magnétique,Magnetic Disintegrator,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Danse Macabre,Dance of Death,1,5,0.2,20%,8.0,1.6,8,1,8.0,1.6,4.0,0.8
+Griffes Sauvages,Wild Claw,2,5,0.4,40%,1.0,0.4,2,3,0.33,0.13,0.25,0.1

@@ -1,24 +1,24 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Griffes Sauvages,Wild Claw,5,5,1.0,100%,15.4,15.4,77,3,5.13,5.13
-Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.4,14.4,72,2,7.2,7.2
-Aveuglement,Incapacitor,5,5,1.0,100%,11.4,11.4,57,3,3.8,3.8
-Chasseur de Bêtes,Beast Hunter,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4
-Faux,Scythe,5,5,1.0,100%,8.6,8.6,43,3,2.87,2.87
-Assistance Divine,Sacred Help,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0
-Pillard Féroce,Savage Looter,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0
-Le Marionnettiste,The Puppeteer,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0
-Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,7.2,7.2,36,3,2.4,2.4
-Esprit Sauvage,Wild Spirit,3,5,0.6,60%,10.0,6.0,30,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,2,5,0.4,40%,14.0,5.6,28,2,7.0,2.8
-Bâton de Conquête,Conquering Staff,1,5,0.2,20%,24.0,4.8,24,2,12.0,2.4
-Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
-Tombeau Rocheux,Rock Tomb,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0
-Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8
-Décharge Élémentaire,Elemental Discharge,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6
-Mental d'Acier,Steel Aura,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8
-Marteau Collecteur,Collecting Hammer,1,5,0.2,20%,12.0,2.4,12,2,6.0,1.2
-Lame Affutée,Sharp Blade,2,5,0.4,40%,6.0,2.4,12,3,2.0,0.8
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.4,2.4,12,3,0.8,0.8
-Bâton du Conquérant,Staff of Conquered Worlds,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0
-Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,15.4,15.4,77,3,5.13,5.13,3.85,3.85
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.4,14.4,72,2,7.2,7.2,4.8,4.8
+Aveuglement,Incapacitor,5,5,1.0,100%,11.4,11.4,57,3,3.8,3.8,2.85,2.85
+Chasseur de Bêtes,Beast Hunter,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4,6.0,3.6
+Faux,Scythe,5,5,1.0,100%,8.6,8.6,43,3,2.87,2.87,2.15,2.15
+Assistance Divine,Sacred Help,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Pillard Féroce,Savage Looter,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Le Marionnettiste,The Puppeteer,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,7.2,7.2,36,3,2.4,2.4,1.8,1.8
+Esprit Sauvage,Wild Spirit,3,5,0.6,60%,10.0,6.0,30,0,Gratuit,Gratuit,10.0,6.0
+Hache Frénétique,Berseker Ax,2,5,0.4,40%,14.0,5.6,28,2,7.0,2.8,4.67,1.87
+Bâton de Conquête,Conquering Staff,1,5,0.2,20%,24.0,4.8,24,2,12.0,2.4,8.0,1.6
+Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Tombeau Rocheux,Rock Tomb,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0,5.0,2.0
+Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Décharge Élémentaire,Elemental Discharge,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Mental d'Acier,Steel Aura,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Marteau Collecteur,Collecting Hammer,1,5,0.2,20%,12.0,2.4,12,2,6.0,1.2,4.0,0.8
+Lame Affutée,Sharp Blade,2,5,0.4,40%,6.0,2.4,12,3,2.0,0.8,1.5,0.6
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.4,2.4,12,3,0.8,0.8,0.6,0.6
+Bâton du Conquérant,Staff of Conquered Worlds,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Coup de Mort,Death Helper,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0,5.0,1.0
+Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit,8.0,1.6

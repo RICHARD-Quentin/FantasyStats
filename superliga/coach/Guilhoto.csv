@@ -1,15 +1,15 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Marteau Dévastateur,Destroyer Hammer,4,5,0.8,80%,11.5,9.2,46,2,5.75,4.6
-Marteau Conquérant,Conquest Hammer,2,5,0.4,40%,22.0,8.8,44,3,7.33,2.93
-Écailles Magiques,Magic Scales,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0
-Chasse au Gros,Big Worm Hunter,2,5,0.4,40%,19.5,7.8,39,3,6.5,2.6
-Perce-Écailles,Scale Tearer,3,5,0.6,60%,11.67,7.0,35,3,3.89,2.33
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,5,0.2,20%,25.0,5.0,25,1,25.0,5.0
-Sceau Profanateur,Seal of Desecration,2,5,0.4,40%,12.0,4.8,24,2,6.0,2.4
-Poigne d'Or,Golden Force,1,5,0.2,20%,23.0,4.6,23,1,23.0,4.6
-Masque du Baron,Baron' s Mask,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
-Esprit de la Faille,Spirit of the Rift,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
-Protection Royale,Royal Protector,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4
-L'Oeil du Héraut,Eye of the Void,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit
-Première Ligne,First Line,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit
-Gardien Sous-terrain,Underworld Guardian,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Marteau Dévastateur,Destroyer Hammer,4,5,0.8,80%,11.5,9.2,46,2,5.75,4.6,3.83,3.07
+Marteau Conquérant,Conquest Hammer,2,5,0.4,40%,22.0,8.8,44,3,7.33,2.93,5.5,2.2
+Écailles Magiques,Magic Scales,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Chasse au Gros,Big Worm Hunter,2,5,0.4,40%,19.5,7.8,39,3,6.5,2.6,4.88,1.95
+Perce-Écailles,Scale Tearer,3,5,0.6,60%,11.67,7.0,35,3,3.89,2.33,2.92,1.75
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,5,0.2,20%,25.0,5.0,25,1,25.0,5.0,12.5,2.5
+Sceau Profanateur,Seal of Desecration,2,5,0.4,40%,12.0,4.8,24,2,6.0,2.4,4.0,1.6
+Poigne d'Or,Golden Force,1,5,0.2,20%,23.0,4.6,23,1,23.0,4.6,11.5,2.3
+Masque du Baron,Baron' s Mask,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Esprit de la Faille,Spirit of the Rift,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Protection Royale,Royal Protector,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4,8.5,1.7
+L'Oeil du Héraut,Eye of the Void,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit,8.0,3.2
+Première Ligne,First Line,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit,8.0,3.2
+Gardien Sous-terrain,Underworld Guardian,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0,7.5,1.5
