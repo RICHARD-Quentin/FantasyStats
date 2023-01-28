@@ -1,13 +1,16 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,14.67,14.67,44,2,7.33,7.33
-Faux,Scythe,3,3,1.0,100%,12.0,12.0,36,3,4.0,4.0
-Gantelet Impérieux,Imperious Gauntlet,1,3,0.33,33%,30.0,10.0,30,1,30.0,10.0
-Ascension Divine,Divine Ascent,1,3,0.33,33%,25.0,8.33,25,3,8.33,2.78
-Faux Parfaite,Perfect Scythe,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit
-Soif de Sang,Thirsty Dagger,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33
-Aveuglement,Incapacitor,2,3,0.67,67%,6.0,4.0,12,3,2.0,1.33
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,4.0,4.0,12,3,1.33,1.33
-Lame Affutée,Sharp Blade,2,3,0.67,67%,4.5,3.0,9,3,1.5,1.0
-Esprit de l'Écuyer,Spirit of the Squire,1,3,0.33,33%,9.0,3.0,9,3,3.0,1.0
-Griffes Sauvages,Wild Claw,1,3,0.33,33%,1.0,0.33,1,3,0.33,0.11
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,15.0,15.0,60,2,7.5,7.5,5.0,5.0
+Faux,Scythe,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0,3.0,3.0
+Gantelet Impérieux,Imperious Gauntlet,1,4,0.25,25%,30.0,7.5,30,1,30.0,7.5,15.0,3.75
+Ascension Divine,Divine Ascent,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
+Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Esprit de l'Écuyer,Spirit of the Squire,2,4,0.5,50%,9.0,4.5,18,3,3.0,1.5,2.25,1.12
+Aveuglement,Incapacitor,3,4,0.75,75%,6.0,4.5,18,3,2.0,1.5,1.5,1.12
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,4.25,4.25,17,3,1.42,1.42,1.06,1.06
+Faux Parfaite,Perfect Scythe,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
+Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
+Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75,4.67,1.17
+Lame Affutée,Sharp Blade,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0,1.0,0.75
+Force Divine,Divine Impetu,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75,5.5,1.38
+Griffes Sauvages,Wild Claw,1,4,0.25,25%,1.0,0.25,1,3,0.33,0.08,0.25,0.06

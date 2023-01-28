@@ -1,26 +1,26 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,14.67,14.67,44,2,7.33,7.33
-Hache Frénétique,Berseker Ax,3,3,1.0,100%,14.0,14.0,42,2,7.0,7.0
-Faux,Scythe,3,3,1.0,100%,14.0,14.0,42,3,4.67,4.67
-Armure d'Obsidienne,Obsidian Battle Plate,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
-Lame Affutée,Sharp Blade,3,3,1.0,100%,12.0,12.0,36,3,4.0,4.0
-Épée Obscure,Swords of Darkness,2,3,0.67,67%,17.0,11.33,34,1,17.0,11.33
-Lame Insatiable,Fast Furious Blade,2,3,0.67,67%,16.0,10.67,32,2,8.0,5.33
-Esprit Guerrier,Spirit of the Warrior,2,3,0.67,67%,16.0,10.67,32,1,16.0,10.67
-Armure d'Immortel,Immortal Breastplate,2,3,0.67,67%,14.0,9.33,28,1,14.0,9.33
-Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,8.0,8.0,24,3,2.67,2.67
-Chasseresse d'Âmes,Huntress of Souls,1,3,0.33,33%,19.0,6.33,19,1,19.0,6.33
-Enchaînement Éclair,Unstoppable Lightning,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0
-Griffes Démoniaques,Demon Claws,1,3,0.33,33%,17.0,5.67,17,1,17.0,5.67
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,3,0.33,33%,17.0,5.67,17,2,8.5,2.83
-Danse Macabre,Dance of Death,2,3,0.67,67%,8.0,5.33,16,1,8.0,5.33
-Faux Parfaite,Perfect Scythe,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit
-Elan de Fureur,Rampage Momentum,1,3,0.33,33%,15.0,5.0,15,2,7.5,2.5
-Aveuglement,Incapacitor,3,3,1.0,100%,4.0,4.0,12,3,1.33,1.33
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,4.0,4.0,12,3,1.33,1.33
-Explosion Arcanique,Arcane Explosive,1,3,0.33,33%,12.0,4.0,12,1,12.0,4.0
-Sabre Versatile,Versatil Saber,1,3,0.33,33%,11.0,3.67,11,1,11.0,3.67
-Tombeau Rocheux,Rock Tomb,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33
-Coup de Mort,Death Helper,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33
-Marteau Collecteur,Collecting Hammer,1,3,0.33,33%,6.0,2.0,6,2,3.0,1.0
-Griffes Sauvages,Wild Claw,2,3,0.67,67%,1.5,1.0,3,3,0.5,0.33
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,14.67,14.67,44,2,7.33,7.33,4.89,4.89
+Hache Frénétique,Berseker Ax,3,3,1.0,100%,14.0,14.0,42,2,7.0,7.0,4.67,4.67
+Faux,Scythe,3,3,1.0,100%,14.0,14.0,42,3,4.67,4.67,3.5,3.5
+Armure d'Obsidienne,Obsidian Battle Plate,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67,6.67,4.44
+Lame Affutée,Sharp Blade,3,3,1.0,100%,12.0,12.0,36,3,4.0,4.0,3.0,3.0
+Épée Obscure,Swords of Darkness,2,3,0.67,67%,17.0,11.33,34,1,17.0,11.33,8.5,5.67
+Lame Insatiable,Fast Furious Blade,2,3,0.67,67%,16.0,10.67,32,2,8.0,5.33,5.33,3.56
+Esprit Guerrier,Spirit of the Warrior,2,3,0.67,67%,16.0,10.67,32,1,16.0,10.67,8.0,5.33
+Armure d'Immortel,Immortal Breastplate,2,3,0.67,67%,14.0,9.33,28,1,14.0,9.33,7.0,4.67
+Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,8.0,8.0,24,3,2.67,2.67,2.0,2.0
+Chasseresse d'Âmes,Huntress of Souls,1,3,0.33,33%,19.0,6.33,19,1,19.0,6.33,9.5,3.17
+Enchaînement Éclair,Unstoppable Lightning,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0,9.0,3.0
+Griffes Démoniaques,Demon Claws,1,3,0.33,33%,17.0,5.67,17,1,17.0,5.67,8.5,2.83
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,3,0.33,33%,17.0,5.67,17,2,8.5,2.83,5.67,1.89
+Danse Macabre,Dance of Death,2,3,0.67,67%,8.0,5.33,16,1,8.0,5.33,4.0,2.67
+Faux Parfaite,Perfect Scythe,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
+Elan de Fureur,Rampage Momentum,1,3,0.33,33%,15.0,5.0,15,2,7.5,2.5,5.0,1.67
+Aveuglement,Incapacitor,3,3,1.0,100%,4.0,4.0,12,3,1.33,1.33,1.0,1.0
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,4.0,4.0,12,3,1.33,1.33,1.0,1.0
+Explosion Arcanique,Arcane Explosive,1,3,0.33,33%,12.0,4.0,12,1,12.0,4.0,6.0,2.0
+Sabre Versatile,Versatil Saber,1,3,0.33,33%,11.0,3.67,11,1,11.0,3.67,5.5,1.83
+Tombeau Rocheux,Rock Tomb,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33,5.0,1.67
+Coup de Mort,Death Helper,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33,5.0,1.67
+Marteau Collecteur,Collecting Hammer,1,3,0.33,33%,6.0,2.0,6,2,3.0,1.0,2.0,0.67
+Griffes Sauvages,Wild Claw,2,3,0.67,67%,1.5,1.0,3,3,0.5,0.33,0.38,0.25
