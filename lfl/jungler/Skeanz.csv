@@ -1,16 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,13.0,13.0,39,1,13.0,13.0
-Griffes Sauvages,Wild Claw,3,3,1.0,100%,12.67,12.67,38,3,4.22,4.22
-Aveuglement,Incapacitor,3,3,1.0,100%,10.0,10.0,30,3,3.33,3.33
-Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,8.0,8.0,24,3,2.67,2.67
-Bâton du Conquérant,Staff of Conquered Worlds,2,3,0.67,67%,11.0,7.33,22,0,Gratuit,Gratuit
-Faux,Scythe,3,3,1.0,100%,7.0,7.0,21,3,2.33,2.33
-Armure d'Obsidienne,Obsidian Battle Plate,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
-Tombeau Rocheux,Rock Tomb,2,3,0.67,67%,10.0,6.67,20,1,10.0,6.67
-Le Marionnettiste,The Puppeteer,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
-Décharge Élémentaire,Elemental Discharge,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0
-Sabre Versatile,Versatil Saber,1,3,0.33,33%,11.0,3.67,11,1,11.0,3.67
-Coup de Mort,Death Helper,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33
-Lame Affutée,Sharp Blade,2,3,0.67,67%,4.5,3.0,9,3,1.5,1.0
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,3.0,3.0,9,3,1.0,1.0
-Œil de Lynx,Hawk's Eye,1,3,0.33,33%,8.0,2.67,8,0,Gratuit,Gratuit
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.0,13.0,52,2,6.5,6.5
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,12.5,12.5,50,3,4.17,4.17
+Aveuglement,Incapacitor,4,4,1.0,100%,10.5,10.5,42,3,3.5,3.5
+Bâton du Conquérant,Staff of Conquered Worlds,3,4,0.75,75%,11.0,8.25,33,0,Gratuit,Gratuit
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5
+Tombeau Rocheux,Rock Tomb,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5
+Faux,Scythe,4,4,1.0,100%,7.0,7.0,28,3,2.33,2.33
+Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
+Œil de Lynx,Hawk's Eye,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.25,3.25,13,3,1.08,1.08
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5
+Lame Affutée,Sharp Blade,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5

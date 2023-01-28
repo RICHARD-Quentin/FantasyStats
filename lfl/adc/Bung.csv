@@ -1,15 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,14.67,14.67,44,1,14.67,14.67
-Faux,Scythe,3,3,1.0,100%,14.67,14.67,44,3,4.89,4.89
-Armure d'Obsidienne,Obsidian Battle Plate,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
-Le Marionnettiste,The Puppeteer,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
-Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0
-Lame Insatiable,Fast Furious Blade,1,3,0.33,33%,16.0,5.33,16,2,8.0,2.67
-Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,5.0,5.0,15,3,1.67,1.67
-Armure d'Immortel,Immortal Breastplate,1,3,0.33,33%,14.0,4.67,14,1,14.0,4.67
-Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33
-Explosion Arcanique,Arcane Explosive,1,3,0.33,33%,12.0,4.0,12,1,12.0,4.0
-Aveuglement,Incapacitor,2,3,0.67,67%,6.0,4.0,12,3,2.0,1.33
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,3.67,3.67,11,3,1.22,1.22
-Lame Affutée,Sharp Blade,1,3,0.33,33%,3.0,1.0,3,3,1.0,0.33
-Griffes Sauvages,Wild Claw,1,3,0.33,33%,1.0,0.33,1,3,0.33,0.11
+Faux,Scythe,4,4,1.0,100%,16.75,16.75,67,3,5.58,5.58
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,15.5,15.5,62,2,7.75,7.75
+Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
+Hache Frénétique,Berseker Ax,2,4,0.5,50%,14.0,7.0,28,2,7.0,3.5
+Armure d'Immortel,Immortal Breastplate,2,4,0.5,50%,14.0,7.0,28,1,14.0,7.0
+Lame Affutée,Sharp Blade,2,4,0.5,50%,13.5,6.75,27,3,4.5,2.25
+Faux Assoiffées,Thirsty Scythes,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08
+Ascension Divine,Divine Ascent,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0
+Explosion Arcanique,Arcane Explosive,2,4,0.5,50%,12.0,6.0,24,1,12.0,6.0
+Aveuglement,Incapacitor,3,4,0.75,75%,7.0,5.25,21,3,2.33,1.75
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,4,0.25,25%,17.0,4.25,17,2,8.5,2.12
+Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25
+Lame Insatiable,Fast Furious Blade,1,4,0.25,25%,16.0,4.0,16,2,8.0,2.0
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,4.0,4.0,16,3,1.33,1.33
+Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,2,7.5,1.88
+Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75
+Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75
+Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
+Tombeau Rocheux,Rock Tomb,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
+Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0
+Griffes Sauvages,Wild Claw,2,4,0.5,50%,3.0,1.5,6,3,1.0,0.5

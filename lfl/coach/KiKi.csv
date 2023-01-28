@@ -1,16 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Folie Meurtrière,Killer Momentum,2,3,0.67,67%,30.0,20.0,60,0,Gratuit,Gratuit
-Poigne d'Or,Golden Force,2,3,0.67,67%,23.0,15.33,46,1,23.0,15.33
-Marteau Conquérant,Conquest Hammer,2,3,0.67,67%,22.0,14.67,44,3,7.33,4.89
-Marteau Dévastateur,Destroyer Hammer,3,3,1.0,100%,14.0,14.0,42,2,7.0,7.0
-Masque du Baron,Baron' s Mask,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67
-Protection Royale,Royal Protector,2,3,0.67,67%,17.0,11.33,34,1,17.0,11.33
-Sceau Profanateur,Seal of Desecration,2,3,0.67,67%,16.0,10.67,32,2,8.0,5.33
-Gardien Sous-terrain,Underworld Guardian,2,3,0.67,67%,15.0,10.0,30,1,15.0,10.0
-Chasse au Gros,Big Worm Hunter,2,3,0.67,67%,13.0,8.67,26,3,4.33,2.89
-L'Oeil du Héraut,Eye of the Void,2,3,0.67,67%,12.0,8.0,24,0,Gratuit,Gratuit
-Frappes Éclair,Light Swords,2,3,0.67,67%,12.0,8.0,24,0,Gratuit,Gratuit
-Perce-Écailles,Scale Tearer,2,3,0.67,67%,10.0,6.67,20,3,3.33,2.22
-Esprit de la Faille,Spirit of the Rift,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
-Écailles Magiques,Magic Scales,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33
-Première Ligne,First Line,2,3,0.67,67%,8.0,5.33,16,0,Gratuit,Gratuit
+Poigne d'Or,Golden Force,3,4,0.75,75%,23.0,17.25,69,1,23.0,17.25
+Marteau Conquérant,Conquest Hammer,3,4,0.75,75%,22.0,16.5,66,3,7.33,5.5
+Sceau Profanateur,Seal of Desecration,3,4,0.75,75%,21.33,16.0,64,2,10.66,8.0
+Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0
+Masque du Baron,Baron' s Mask,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
+Folie Meurtrière,Killer Momentum,2,4,0.5,50%,30.0,15.0,60,0,Gratuit,Gratuit
+Chasse au Gros,Big Worm Hunter,3,4,0.75,75%,17.33,13.0,52,3,5.78,4.33
+Protection Royale,Royal Protector,3,4,0.75,75%,17.0,12.75,51,1,17.0,12.75
+Gardien Sous-terrain,Underworld Guardian,3,4,0.75,75%,15.0,11.25,45,1,15.0,11.25
+Frappes Éclair,Light Swords,3,4,0.75,75%,12.0,9.0,36,0,Gratuit,Gratuit
+Perce-Écailles,Scale Tearer,3,4,0.75,75%,11.67,8.75,35,3,3.89,2.92
+L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,10.67,8.0,32,0,Gratuit,Gratuit
+Première Ligne,First Line,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit
+Esprit de la Faille,Spirit of the Rift,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+Écailles Magiques,Magic Scales,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
