@@ -1,19 +1,21 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Gantelet Impérieux,Imperious Gauntlet,3,4,0.75,75%,30.0,22.5,90,1,30.0,22.5
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,17.0,17.0,68,1,17.0,17.0
-Faux,Scythe,4,4,1.0,100%,15.75,15.75,63,3,5.25,5.25
-Faux Parfaite,Perfect Scythe,4,4,1.0,100%,15.0,15.0,60,0,Gratuit,Gratuit
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,4,0.75,75%,17.0,12.75,51,2,8.5,6.38
-Faux Assoiffées,Thirsty Scythes,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17
-Ascension Divine,Divine Ascent,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17
-Aveuglement,Incapacitor,3,4,0.75,75%,9.0,6.75,27,3,3.0,2.25
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,9.0,6.75,27,3,3.0,2.25
-Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,5.75,5.75,23,3,1.92,1.92
-Lame Insatiable,Fast Furious Blade,1,4,0.25,25%,16.0,4.0,16,2,8.0,2.0
-Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75
-Lame Affutée,Sharp Blade,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit
-Griffes Sauvages,Wild Claw,1,4,0.25,25%,1.0,0.25,1,3,0.33,0.08
+Gantelet Impérieux,Imperious Gauntlet,4,5,0.8,80%,30.0,24.0,120,1,30.0,24.0
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,17.0,17.0,85,2,8.5,8.5
+Faux,Scythe,5,5,1.0,100%,15.8,15.8,79,3,5.27,5.27
+Faux Parfaite,Perfect Scythe,5,5,1.0,100%,15.0,15.0,75,0,Gratuit,Gratuit
+Économe Sagesse du Trésorier,Treasurer's Wisdom,4,5,0.8,80%,17.0,13.6,68,2,8.5,6.8
+Faux Assoiffées,Thirsty Scythes,2,5,0.4,40%,25.0,10.0,50,3,8.33,3.33
+Ascension Divine,Divine Ascent,2,5,0.4,40%,25.0,10.0,50,3,8.33,3.33
+Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,9.0,7.2,36,3,3.0,2.4
+Aveuglement,Incapacitor,4,5,0.8,80%,8.25,6.6,33,3,2.75,2.2
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,6.2,6.2,31,3,2.07,2.07
+Hache Frénétique,Berseker Ax,2,5,0.4,40%,14.0,5.6,28,2,7.0,2.8
+Bâton de Conquête,Conquering Staff,1,5,0.2,20%,24.0,4.8,24,2,12.0,2.4
+Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
+Lame Insatiable,Fast Furious Blade,1,5,0.2,20%,16.0,3.2,16,2,8.0,1.6
+Lame Affutée,Sharp Blade,4,5,0.8,80%,3.75,3.0,15,3,1.25,1.0
+Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit
+Coup de Mort,Death Helper,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0
+Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit
+Griffes Sauvages,Wild Claw,1,5,0.2,20%,1.0,0.2,1,3,0.33,0.07

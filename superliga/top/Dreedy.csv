@@ -1,30 +1,31 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Ascension Divine,Divine Ascent,3,4,0.75,75%,25.0,18.75,75,3,8.33,6.25
-Faux,Scythe,4,4,1.0,100%,17.25,17.25,69,3,5.75,5.75
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,16.75,16.75,67,1,16.75,16.75
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,4,0.75,75%,17.0,12.75,51,2,8.5,6.38
-Faux Assoiffées,Thirsty Scythes,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17
-Hache Frénétique,Berseker Ax,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25
-Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
-Lame Affutée,Sharp Blade,2,4,0.5,50%,15.0,7.5,30,3,5.0,2.5
-Faux Parfaite,Perfect Scythe,2,4,0.5,50%,15.0,7.5,30,0,Gratuit,Gratuit
-Gantelet Impérieux,Imperious Gauntlet,1,4,0.25,25%,30.0,7.5,30,1,30.0,7.5
-Aveuglement,Incapacitor,3,4,0.75,75%,9.0,6.75,27,3,3.0,2.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,5.75,5.75,23,3,1.92,1.92
-Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
-Mental d'Acier,Steel Aura,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
-Parchemin Secret,Secret Scroll,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
-Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Enchaînement Éclair,Unstoppable Lightning,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Être de Lumière,Being of Light,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,9.0,4.5,18,2,4.5,2.25
-Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25
-Danse Macabre,Dance of Death,2,4,0.5,50%,8.0,4.0,16,1,8.0,4.0
-Lame Insatiable,Fast Furious Blade,1,4,0.25,25%,16.0,4.0,16,2,8.0,2.0
-Esprit Guerrier,Spirit of the Warrior,1,4,0.25,25%,16.0,4.0,16,1,16.0,4.0
-Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,2,7.5,1.88
-Esprit de l'Écuyer,Spirit of the Squire,2,4,0.5,50%,6.0,3.0,12,3,2.0,1.0
-Explosion Arcanique,Arcane Explosive,1,4,0.25,25%,12.0,3.0,12,1,12.0,3.0
-Masse Colossale,Colossal Mace,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit
-Griffes Sauvages,Wild Claw,2,4,0.5,50%,1.0,0.5,2,3,0.33,0.17
+Ascension Divine,Divine Ascent,4,5,0.8,80%,25.0,20.0,100,3,8.33,6.67
+Faux,Scythe,5,5,1.0,100%,17.2,17.2,86,3,5.73,5.73
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,17.0,17.0,85,2,8.5,8.5
+Économe Sagesse du Trésorier,Treasurer's Wisdom,4,5,0.8,80%,17.0,13.6,68,2,8.5,6.8
+Assistance Divine,Sacred Help,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0
+Hache Frénétique,Berseker Ax,4,5,0.8,80%,14.0,11.2,56,2,7.0,5.6
+Faux Assoiffées,Thirsty Scythes,2,5,0.4,40%,25.0,10.0,50,3,8.33,3.33
+Être de Lumière,Being of Light,2,5,0.4,40%,18.0,7.2,36,1,18.0,7.2
+Lame Affutée,Sharp Blade,3,5,0.6,60%,12.0,7.2,36,3,4.0,2.4
+Faux Parfaite,Perfect Scythe,2,5,0.4,40%,15.0,6.0,30,0,Gratuit,Gratuit
+Gantelet Impérieux,Imperious Gauntlet,1,5,0.2,20%,30.0,6.0,30,1,30.0,6.0
+Aveuglement,Incapacitor,4,5,0.8,80%,7.5,6.0,30,3,2.5,2.0
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,5.4,5.4,27,3,1.8,1.8
+Explosion Arcanique,Arcane Explosive,2,5,0.4,40%,12.0,4.8,24,1,12.0,4.8
+Tombeau Rocheux,Rock Tomb,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0
+Enchaînement Éclair,Unstoppable Lightning,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6
+Mental d'Acier,Steel Aura,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8
+Marteau Collecteur,Collecting Hammer,2,5,0.4,40%,9.0,3.6,18,2,4.5,1.8
+Parchemin Secret,Secret Scroll,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8
+Épée Obscure,Swords of Darkness,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4
+Lame Insatiable,Fast Furious Blade,1,5,0.2,20%,16.0,3.2,16,2,8.0,1.6
+Danse Macabre,Dance of Death,2,5,0.4,40%,8.0,3.2,16,1,8.0,3.2
+Esprit Guerrier,Spirit of the Warrior,1,5,0.2,20%,16.0,3.2,16,1,16.0,3.2
+Chasseur d'Âmes,Soul Hunter,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0
+Esprit de l'Écuyer,Spirit of the Squire,3,5,0.6,60%,5.0,3.0,15,3,1.67,1.0
+Elan de Fureur,Rampage Momentum,1,5,0.2,20%,15.0,3.0,15,2,7.5,1.5
+Masse Colossale,Colossal Mace,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit
+Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit
+Griffes Sauvages,Wild Claw,2,5,0.4,40%,1.0,0.4,2,3,0.33,0.13

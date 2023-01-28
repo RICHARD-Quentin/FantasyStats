@@ -1,17 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Chasse au Gros,Big Worm Hunter,4,4,1.0,100%,22.75,22.75,91,3,7.58,7.58
-Sceau Profanateur,Seal of Desecration,3,4,0.75,75%,24.0,18.0,72,2,12.0,9.0
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,17.0,17.0,68,2,8.5,8.5
-Marteau Conquérant,Conquest Hammer,3,4,0.75,75%,22.0,16.5,66,3,7.33,5.5
-Perce-Écailles,Scale Tearer,4,4,1.0,100%,15.0,15.0,60,3,5.0,5.0
-Masque du Baron,Baron' s Mask,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
-Protection Royale,Royal Protector,3,4,0.75,75%,17.0,12.75,51,1,17.0,12.75
-Âme de Dragon Élémentaire,Elemental Dragon Soul,2,4,0.5,50%,25.0,12.5,50,1,25.0,12.5
-Poigne d'Or,Golden Force,2,4,0.5,50%,23.0,11.5,46,1,23.0,11.5
-Gardien Sous-terrain,Underworld Guardian,3,4,0.75,75%,15.0,11.25,45,1,15.0,11.25
-Écailles Magiques,Magic Scales,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
-Première Ligne,First Line,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
-Folie Meurtrière,Killer Momentum,1,4,0.25,25%,30.0,7.5,30,0,Gratuit,Gratuit
-L'Oeil du Héraut,Eye of the Void,2,4,0.5,50%,12.0,6.0,24,0,Gratuit,Gratuit
-Esprit de la Faille,Spirit of the Rift,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Frappes Éclair,Light Swords,1,4,0.25,25%,12.0,3.0,12,0,Gratuit,Gratuit
+Chasse au Gros,Big Worm Hunter,5,5,1.0,100%,20.8,20.8,104,3,6.93,6.93
+Marteau Conquérant,Conquest Hammer,4,5,0.8,80%,22.0,17.6,88,3,7.33,5.87
+Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,16.8,16.8,84,2,8.4,8.4
+Sceau Profanateur,Seal of Desecration,4,5,0.8,80%,20.0,16.0,80,2,10.0,8.0
+Masque du Baron,Baron' s Mask,4,5,0.8,80%,20.0,16.0,80,2,10.0,8.0
+Perce-Écailles,Scale Tearer,5,5,1.0,100%,15.0,15.0,75,3,5.0,5.0
+Poigne d'Or,Golden Force,3,5,0.6,60%,23.0,13.8,69,1,23.0,13.8
+Protection Royale,Royal Protector,4,5,0.8,80%,17.0,13.6,68,1,17.0,13.6
+Folie Meurtrière,Killer Momentum,2,5,0.4,40%,30.0,12.0,60,0,Gratuit,Gratuit
+Gardien Sous-terrain,Underworld Guardian,4,5,0.8,80%,15.0,12.0,60,1,15.0,12.0
+Écailles Magiques,Magic Scales,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0
+Âme de Dragon Élémentaire,Elemental Dragon Soul,2,5,0.4,40%,25.0,10.0,50,1,25.0,10.0
+Première Ligne,First Line,5,5,1.0,100%,8.0,8.0,40,0,Gratuit,Gratuit
+L'Oeil du Héraut,Eye of the Void,3,5,0.6,60%,10.67,6.4,32,0,Gratuit,Gratuit
+Frappes Éclair,Light Swords,2,5,0.4,40%,12.0,4.8,24,0,Gratuit,Gratuit
+Esprit de la Faille,Spirit of the Rift,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0
