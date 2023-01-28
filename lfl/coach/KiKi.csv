@@ -1,16 +1,16 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Poigne d'Or,Golden Force,3,4,0.75,75%,23.0,17.25,69,1,23.0,17.25
-Marteau Conquérant,Conquest Hammer,3,4,0.75,75%,22.0,16.5,66,3,7.33,5.5
-Sceau Profanateur,Seal of Desecration,3,4,0.75,75%,21.33,16.0,64,2,10.66,8.0
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0
-Masque du Baron,Baron' s Mask,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
-Folie Meurtrière,Killer Momentum,2,4,0.5,50%,30.0,15.0,60,0,Gratuit,Gratuit
-Chasse au Gros,Big Worm Hunter,3,4,0.75,75%,17.33,13.0,52,3,5.78,4.33
-Protection Royale,Royal Protector,3,4,0.75,75%,17.0,12.75,51,1,17.0,12.75
-Gardien Sous-terrain,Underworld Guardian,3,4,0.75,75%,15.0,11.25,45,1,15.0,11.25
-Frappes Éclair,Light Swords,3,4,0.75,75%,12.0,9.0,36,0,Gratuit,Gratuit
-Perce-Écailles,Scale Tearer,3,4,0.75,75%,11.67,8.75,35,3,3.89,2.92
-L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,10.67,8.0,32,0,Gratuit,Gratuit
-Première Ligne,First Line,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit
-Esprit de la Faille,Spirit of the Rift,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Écailles Magiques,Magic Scales,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Poigne d'Or,Golden Force,3,4,0.75,75%,23.0,17.25,69,1,23.0,17.25,11.5,8.62
+Marteau Conquérant,Conquest Hammer,3,4,0.75,75%,22.0,16.5,66,3,7.33,5.5,5.5,4.12
+Sceau Profanateur,Seal of Desecration,3,4,0.75,75%,21.33,16.0,64,2,10.66,8.0,7.11,5.33
+Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0,5.33,5.33
+Masque du Baron,Baron' s Mask,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5,6.67,5.0
+Folie Meurtrière,Killer Momentum,2,4,0.5,50%,30.0,15.0,60,0,Gratuit,Gratuit,30.0,15.0
+Chasse au Gros,Big Worm Hunter,3,4,0.75,75%,17.33,13.0,52,3,5.78,4.33,4.33,3.25
+Protection Royale,Royal Protector,3,4,0.75,75%,17.0,12.75,51,1,17.0,12.75,8.5,6.38
+Gardien Sous-terrain,Underworld Guardian,3,4,0.75,75%,15.0,11.25,45,1,15.0,11.25,7.5,5.62
+Frappes Éclair,Light Swords,3,4,0.75,75%,12.0,9.0,36,0,Gratuit,Gratuit,12.0,9.0
+Perce-Écailles,Scale Tearer,3,4,0.75,75%,11.67,8.75,35,3,3.89,2.92,2.92,2.19
+L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,10.67,8.0,32,0,Gratuit,Gratuit,10.67,8.0
+Première Ligne,First Line,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit,8.0,6.0
+Esprit de la Faille,Spirit of the Rift,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Écailles Magiques,Magic Scales,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67

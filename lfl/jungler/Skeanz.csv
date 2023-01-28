@@ -1,17 +1,17 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.0,13.0,52,2,6.5,6.5
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,12.5,12.5,50,3,4.17,4.17
-Aveuglement,Incapacitor,4,4,1.0,100%,10.5,10.5,42,3,3.5,3.5
-Bâton du Conquérant,Staff of Conquered Worlds,3,4,0.75,75%,11.0,8.25,33,0,Gratuit,Gratuit
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5
-Tombeau Rocheux,Rock Tomb,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5
-Faux,Scythe,4,4,1.0,100%,7.0,7.0,28,3,2.33,2.33
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Œil de Lynx,Hawk's Eye,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.25,3.25,13,3,1.08,1.08
-Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5
-Lame Affutée,Sharp Blade,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0
-Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.0,13.0,52,2,6.5,6.5,4.33,4.33
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,12.5,12.5,50,3,4.17,4.17,3.12,3.12
+Aveuglement,Incapacitor,4,4,1.0,100%,10.5,10.5,42,3,3.5,3.5,2.62,2.62
+Bâton du Conquérant,Staff of Conquered Worlds,3,4,0.75,75%,11.0,8.25,33,0,Gratuit,Gratuit,11.0,8.25
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5,1.88,1.88
+Tombeau Rocheux,Rock Tomb,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5,5.0,3.75
+Faux,Scythe,4,4,1.0,100%,7.0,7.0,28,3,2.33,2.33,1.75,1.75
+Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
+Œil de Lynx,Hawk's Eye,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.25,3.25,13,3,1.08,1.08,0.81,0.81
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5,4.0,1.0
+Lame Affutée,Sharp Blade,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0,1.0,0.75
+Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75,5.5,1.38
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25

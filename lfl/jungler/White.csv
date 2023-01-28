@@ -1,27 +1,27 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,16.0,16.0,64,3,5.33,5.33
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,15.75,15.75,63,2,7.88,7.88
-Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,11.25,11.25,45,3,3.75,3.75
-Esprit Sauvage,Wild Spirit,4,4,1.0,100%,10.0,10.0,40,0,Gratuit,Gratuit
-Tombeau Rocheux,Rock Tomb,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0
-Le Marionnettiste,The Puppeteer,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
-Faux,Scythe,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0
-Aveuglement,Incapacitor,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0
-Hache Frénétique,Berseker Ax,2,4,0.5,50%,14.0,7.0,28,2,7.0,3.5
-Lame Affutée,Sharp Blade,4,4,1.0,100%,6.75,6.75,27,3,2.25,2.25
-Œil de Lynx,Hawk's Eye,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5
-Coup de Mort,Death Helper,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
-Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0
-Être de Lumière,Being of Light,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Chasseur de Bêtes,Beast Hunter,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
-Mental d'Acier,Steel Aura,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,4.0,4.0,16,3,1.33,1.33
-Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75
-Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit
-Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5
-Amulette Omnisciente,Omnipresent Amulet,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
-Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,16.0,16.0,64,3,5.33,5.33,4.0,4.0
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,15.75,15.75,63,2,7.88,7.88,5.25,5.25
+Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5,6.67,5.0
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,11.25,11.25,45,3,3.75,3.75,2.81,2.81
+Esprit Sauvage,Wild Spirit,4,4,1.0,100%,10.0,10.0,40,0,Gratuit,Gratuit,10.0,10.0
+Tombeau Rocheux,Rock Tomb,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0,5.0,5.0
+Le Marionnettiste,The Puppeteer,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
+Faux,Scythe,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
+Aveuglement,Incapacitor,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
+Hache Frénétique,Berseker Ax,2,4,0.5,50%,14.0,7.0,28,2,7.0,3.5,4.67,2.33
+Lame Affutée,Sharp Blade,4,4,1.0,100%,6.75,6.75,27,3,2.25,2.25,1.69,1.69
+Œil de Lynx,Hawk's Eye,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit,8.0,6.0
+Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5,5.5,2.75
+Coup de Mort,Death Helper,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
+Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
+Être de Lumière,Being of Light,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
+Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
+Chasseur de Bêtes,Beast Hunter,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
+Mental d'Acier,Steel Aura,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,4.0,4.0,16,3,1.33,1.33,1.0,1.0
+Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
+Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
+Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5,7.0,1.75
+Amulette Omnisciente,Omnipresent Amulet,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
+Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
+Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit,10.0,2.5

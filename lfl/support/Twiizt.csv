@@ -1,16 +1,16 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Bâton de Conquête,Conquering Staff,3,4,0.75,75%,24.0,18.0,72,2,12.0,9.0
-Aveuglement,Incapacitor,4,4,1.0,100%,15.75,15.75,63,3,5.25,5.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,14.0,14.0,56,3,4.67,4.67
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,12.5,12.5,50,2,6.25,6.25
-Vision Céleste,Heavenly Vision,2,4,0.5,50%,22.0,11.0,44,2,11.0,5.5
-Le Traqueur,The Stalker,2,4,0.5,50%,16.0,8.0,32,3,5.33,2.67
-Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
-Bâton du Conquérant,Staff of Conquered Worlds,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Esprit de l'Écuyer,Spirit of the Squire,2,4,0.5,50%,9.0,4.5,18,3,3.0,1.5
-Lame Affutée,Sharp Blade,2,4,0.5,50%,6.0,3.0,12,3,2.0,1.0
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
-Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,6.0,1.5,6,2,3.0,0.75
-Faux,Scythe,4,4,1.0,100%,1.5,1.5,6,3,0.5,0.5
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Bâton de Conquête,Conquering Staff,3,4,0.75,75%,24.0,18.0,72,2,12.0,9.0,8.0,6.0
+Aveuglement,Incapacitor,4,4,1.0,100%,15.75,15.75,63,3,5.25,5.25,3.94,3.94
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,14.0,14.0,56,3,4.67,4.67,3.5,3.5
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,12.5,12.5,50,2,6.25,6.25,4.17,4.17
+Vision Céleste,Heavenly Vision,2,4,0.5,50%,22.0,11.0,44,2,11.0,5.5,7.33,3.67
+Le Traqueur,The Stalker,2,4,0.5,50%,16.0,8.0,32,3,5.33,2.67,4.0,2.0
+Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit,8.0,8.0
+Bâton du Conquérant,Staff of Conquered Worlds,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit,11.0,5.5
+Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Esprit de l'Écuyer,Spirit of the Squire,2,4,0.5,50%,9.0,4.5,18,3,3.0,1.5,2.25,1.12
+Lame Affutée,Sharp Blade,2,4,0.5,50%,6.0,3.0,12,3,2.0,1.0,1.5,0.75
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,6.0,1.5,6,2,3.0,0.75,2.0,0.5
+Faux,Scythe,4,4,1.0,100%,1.5,1.5,6,3,0.5,0.5,0.38,0.38

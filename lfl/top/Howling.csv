@@ -1,21 +1,21 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,16.5,16.5,66,2,8.25,8.25
-Faux,Scythe,4,4,1.0,100%,14.5,14.5,58,3,4.83,4.83
-Ascension Divine,Divine Ascent,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17
-Hache Frénétique,Berseker Ax,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25
-Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,2,4,0.5,50%,17.0,8.5,34,2,8.5,4.25
-Épée Obscure,Swords of Darkness,2,4,0.5,50%,17.0,8.5,34,1,17.0,8.5
-Faux Parfaite,Perfect Scythe,2,4,0.5,50%,15.0,7.5,30,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,3,4,0.75,75%,9.0,6.75,27,3,3.0,2.25
-Faux Assoiffées,Thirsty Scythes,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,7.0,5.25,21,3,2.33,1.75
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
-Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,2,7.5,1.88
-Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75
-Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,6.0,3.0,12,2,3.0,1.5
-Aveuglement,Incapacitor,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.75,2.75,11,3,0.92,0.92
-Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0
-Griffes Sauvages,Wild Claw,3,4,0.75,75%,1.0,0.75,3,3,0.33,0.25
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,16.5,16.5,66,2,8.25,8.25,5.5,5.5
+Faux,Scythe,4,4,1.0,100%,14.5,14.5,58,3,4.83,4.83,3.62,3.62
+Ascension Divine,Divine Ascent,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17,6.25,3.12
+Hache Frénétique,Berseker Ax,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25,4.67,3.5
+Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
+Économe Sagesse du Trésorier,Treasurer's Wisdom,2,4,0.5,50%,17.0,8.5,34,2,8.5,4.25,5.67,2.83
+Épée Obscure,Swords of Darkness,2,4,0.5,50%,17.0,8.5,34,1,17.0,8.5,8.5,4.25
+Faux Parfaite,Perfect Scythe,2,4,0.5,50%,15.0,7.5,30,0,Gratuit,Gratuit,15.0,7.5
+Lame Affutée,Sharp Blade,3,4,0.75,75%,9.0,6.75,27,3,3.0,2.25,2.25,1.69
+Faux Assoiffées,Thirsty Scythes,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
+Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,7.0,5.25,21,3,2.33,1.75,1.75,1.31
+Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
+Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,2,7.5,1.88,5.0,1.25
+Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
+Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,6.0,3.0,12,2,3.0,1.5,2.0,1.0
+Aveuglement,Incapacitor,3,4,0.75,75%,4.0,3.0,12,3,1.33,1.0,1.0,0.75
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.75,2.75,11,3,0.92,0.92,0.69,0.69
+Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
+Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0,4.0,1.0
+Griffes Sauvages,Wild Claw,3,4,0.75,75%,1.0,0.75,3,3,0.33,0.25,0.25,0.19

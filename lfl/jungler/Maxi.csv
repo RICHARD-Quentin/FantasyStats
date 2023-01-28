@@ -1,28 +1,28 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,16.25,16.25,65,3,5.42,5.42
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.25,14.25,57,2,7.12,7.12
-Mental d'Acier,Steel Aura,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75
-Chasseur de Bêtes,Beast Hunter,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75
-Pillard Féroce,Savage Looter,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0
-Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
-Tombeau Rocheux,Rock Tomb,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0
-Décharge Élémentaire,Elemental Discharge,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0
-Aveuglement,Incapacitor,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0
-Faux,Scythe,4,4,1.0,100%,8.75,8.75,35,3,2.92,2.92
-Lame Affutée,Sharp Blade,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5
-Esprit Sauvage,Wild Spirit,3,4,0.75,75%,10.0,7.5,30,0,Gratuit,Gratuit
-Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,10.0,7.5,30,2,5.0,3.75
-Armure d'Immortel,Immortal Breastplate,2,4,0.5,50%,14.0,7.0,28,1,14.0,7.0
-Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0
-Force Divine,Divine Impetu,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit
-Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5
-Assistance Divine,Sacred Help,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25
-Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.0,3.0,12,3,1.0,1.0
-Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
-Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,16.25,16.25,65,3,5.42,5.42,4.06,4.06
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.25,14.25,57,2,7.12,7.12,4.75,4.75
+Mental d'Acier,Steel Aura,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75,6.0,4.5
+Chasseur de Bêtes,Beast Hunter,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75,6.0,4.5
+Pillard Féroce,Savage Looter,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0,10.0,5.0
+Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
+Tombeau Rocheux,Rock Tomb,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0,5.0,5.0
+Décharge Élémentaire,Elemental Discharge,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0,9.0,4.5
+Aveuglement,Incapacitor,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
+Faux,Scythe,4,4,1.0,100%,8.75,8.75,35,3,2.92,2.92,2.19,2.19
+Lame Affutée,Sharp Blade,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5,1.88,1.88
+Esprit Sauvage,Wild Spirit,3,4,0.75,75%,10.0,7.5,30,0,Gratuit,Gratuit,10.0,7.5
+Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,10.0,7.5,30,2,5.0,3.75,3.33,2.5
+Armure d'Immortel,Immortal Breastplate,2,4,0.5,50%,14.0,7.0,28,1,14.0,7.0,7.0,3.5
+Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0,8.0,2.0
+Force Divine,Divine Impetu,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit,11.0,5.5
+Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5,5.5,2.75
+Assistance Divine,Sacred Help,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
+Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
+Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25,8.5,2.12
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,3.0,3.0,12,3,1.0,1.0,0.75,0.75
+Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
+Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit,10.0,2.5
+Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
+Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit,8.0,2.0

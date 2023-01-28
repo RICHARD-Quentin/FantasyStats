@@ -1,15 +1,15 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Chasse au Gros,Big Worm Hunter,4,4,1.0,100%,26.0,26.0,104,3,8.67,8.67
-Marteau Conquérant,Conquest Hammer,4,4,1.0,100%,22.0,22.0,88,3,7.33,7.33
-Masque du Baron,Baron' s Mask,4,4,1.0,100%,20.0,20.0,80,2,10.0,10.0
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,19.0,19.0,76,2,9.5,9.5
-Poigne d'Or,Golden Force,3,4,0.75,75%,23.0,17.25,69,1,23.0,17.25
-Protection Royale,Royal Protector,4,4,1.0,100%,17.0,17.0,68,1,17.0,17.0
-Sceau Profanateur,Seal of Desecration,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0
-Folie Meurtrière,Killer Momentum,2,4,0.5,50%,30.0,15.0,60,0,Gratuit,Gratuit
-Gardien Sous-terrain,Underworld Guardian,4,4,1.0,100%,15.0,15.0,60,1,15.0,15.0
-Perce-Écailles,Scale Tearer,4,4,1.0,100%,13.75,13.75,55,3,4.58,4.58
-Première Ligne,First Line,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
-Frappes Éclair,Light Swords,2,4,0.5,50%,12.0,6.0,24,0,Gratuit,Gratuit
-Écailles Magiques,Magic Scales,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-L'Oeil du Héraut,Eye of the Void,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Chasse au Gros,Big Worm Hunter,4,4,1.0,100%,26.0,26.0,104,3,8.67,8.67,6.5,6.5
+Marteau Conquérant,Conquest Hammer,4,4,1.0,100%,22.0,22.0,88,3,7.33,7.33,5.5,5.5
+Masque du Baron,Baron' s Mask,4,4,1.0,100%,20.0,20.0,80,2,10.0,10.0,6.67,6.67
+Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,19.0,19.0,76,2,9.5,9.5,6.33,6.33
+Poigne d'Or,Golden Force,3,4,0.75,75%,23.0,17.25,69,1,23.0,17.25,11.5,8.62
+Protection Royale,Royal Protector,4,4,1.0,100%,17.0,17.0,68,1,17.0,17.0,8.5,8.5
+Sceau Profanateur,Seal of Desecration,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0,5.33,5.33
+Folie Meurtrière,Killer Momentum,2,4,0.5,50%,30.0,15.0,60,0,Gratuit,Gratuit,30.0,15.0
+Gardien Sous-terrain,Underworld Guardian,4,4,1.0,100%,15.0,15.0,60,1,15.0,15.0,7.5,7.5
+Perce-Écailles,Scale Tearer,4,4,1.0,100%,13.75,13.75,55,3,4.58,4.58,3.44,3.44
+Première Ligne,First Line,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit,8.0,8.0
+Frappes Éclair,Light Swords,2,4,0.5,50%,12.0,6.0,24,0,Gratuit,Gratuit,12.0,6.0
+Écailles Magiques,Magic Scales,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+L'Oeil du Héraut,Eye of the Void,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0

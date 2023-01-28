@@ -1,18 +1,18 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,17.25,17.25,69,3,5.75,5.75
-Le Traqueur,The Stalker,4,4,1.0,100%,16.0,16.0,64,3,5.33,5.33
-Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,14.25,14.25,57,3,4.75,4.75
-Le Visionnaire,The Visionary,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.0,13.0,52,2,6.5,6.5
-Coup de Mort,Death Helper,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0
-Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit
-Aveuglement,Incapacitor,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0
-Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5
-Amulette Omnisciente,Omnipresent Amulet,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit
-Vision Céleste,Heavenly Vision,1,4,0.25,25%,22.0,5.5,22,2,11.0,2.75
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5
-Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,6.0,1.5,6,2,3.0,0.75
-Faux,Scythe,3,4,0.75,75%,1.33,1.0,4,3,0.44,0.33
-Lame Affutée,Sharp Blade,1,4,0.25,25%,3.0,0.75,3,3,1.0,0.25
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,17.25,17.25,69,3,5.75,5.75,4.31,4.31
+Le Traqueur,The Stalker,4,4,1.0,100%,16.0,16.0,64,3,5.33,5.33,4.0,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5,6.67,5.0
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,14.25,14.25,57,3,4.75,4.75,3.56,3.56
+Le Visionnaire,The Visionary,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75,6.0,4.5
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.0,13.0,52,2,6.5,6.5,4.33,4.33
+Coup de Mort,Death Helper,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0,5.0,5.0
+Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit,8.0,8.0
+Aveuglement,Incapacitor,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0,1.5,1.5
+Sabre Versatile,Versatil Saber,2,4,0.5,50%,11.0,5.5,22,1,11.0,5.5,5.5,2.75
+Amulette Omnisciente,Omnipresent Amulet,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit,11.0,5.5
+Vision Céleste,Heavenly Vision,1,4,0.25,25%,22.0,5.5,22,2,11.0,2.75,7.33,1.83
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5,7.0,1.75
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,6.0,1.5,6,2,3.0,0.75,2.0,0.5
+Faux,Scythe,3,4,0.75,75%,1.33,1.0,4,3,0.44,0.33,0.33,0.25
+Lame Affutée,Sharp Blade,1,4,0.25,25%,3.0,0.75,3,3,1.0,0.25,0.75,0.19

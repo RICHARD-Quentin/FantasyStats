@@ -1,28 +1,28 @@
-,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,17.5,17.5,70,2,8.75,8.75
-Faux,Scythe,4,4,1.0,100%,15.75,15.75,63,3,5.25,5.25
-Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,4,0.75,75%,17.0,12.75,51,2,8.5,6.38
-Ascension Divine,Divine Ascent,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0
-Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0
-Être de Lumière,Being of Light,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0
-Sabre Versatile,Versatil Saber,3,4,0.75,75%,11.0,8.25,33,1,11.0,8.25
-Faux Parfaite,Perfect Scythe,2,4,0.5,50%,15.0,7.5,30,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,3,4,0.75,75%,10.0,7.5,30,3,3.33,2.5
-Armure d'Immortel,Immortal Breastplate,2,4,0.5,50%,14.0,7.0,28,1,14.0,7.0
-Faux Assoiffées,Thirsty Scythes,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08
-Explosion Arcanique,Arcane Explosive,2,4,0.5,50%,12.0,6.0,24,1,12.0,6.0
-Aveuglement,Incapacitor,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0
-Coup de Mort,Death Helper,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5
-Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0
-Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5
-Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,4.0,4.0,16,3,1.33,1.33
-Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75
-Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5
-Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit
-Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit
-Griffes Sauvages,Wild Claw,2,4,0.5,50%,1.0,0.5,2,3,0.33,0.17
+,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,17.5,17.5,70,2,8.75,8.75,5.83,5.83
+Faux,Scythe,4,4,1.0,100%,15.75,15.75,63,3,5.25,5.25,3.94,3.94
+Armure d'Obsidienne,Obsidian Battle Plate,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5,6.67,5.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,3,4,0.75,75%,17.0,12.75,51,2,8.5,6.38,5.67,4.25
+Ascension Divine,Divine Ascent,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17,6.25,3.12
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0,3.0,3.0
+Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
+Être de Lumière,Being of Light,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0,9.0,4.5
+Sabre Versatile,Versatil Saber,3,4,0.75,75%,11.0,8.25,33,1,11.0,8.25,5.5,4.12
+Faux Parfaite,Perfect Scythe,2,4,0.5,50%,15.0,7.5,30,0,Gratuit,Gratuit,15.0,7.5
+Lame Affutée,Sharp Blade,3,4,0.75,75%,10.0,7.5,30,3,3.33,2.5,2.5,1.88
+Armure d'Immortel,Immortal Breastplate,2,4,0.5,50%,14.0,7.0,28,1,14.0,7.0,7.0,3.5
+Faux Assoiffées,Thirsty Scythes,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
+Explosion Arcanique,Arcane Explosive,2,4,0.5,50%,12.0,6.0,24,1,12.0,6.0,6.0,3.0
+Aveuglement,Incapacitor,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0,1.5,1.5
+Coup de Mort,Death Helper,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
+Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
+Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
+Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
+Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25,8.5,2.12
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,4.0,4.0,16,3,1.33,1.33,1.0,1.0
+Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75,4.67,1.17
+Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5,4.0,1.0
+Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
+Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0,4.0,1.0
+Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit,8.0,2.0
+Griffes Sauvages,Wild Claw,2,4,0.5,50%,1.0,0.5,2,3,0.33,0.17,0.25,0.12
