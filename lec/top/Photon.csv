@@ -1,25 +1,25 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,16.75,16.75,67,2,8.38,8.38,5.58,5.58
-Faux,Scythe,4,4,1.0,100%,13.5,13.5,54,3,4.5,4.5,3.38,3.38
-Faux Parfaite,Perfect Scythe,3,4,0.75,75%,15.0,11.25,45,0,Gratuit,Gratuit,15.0,11.25
-Hache Frénétique,Berseker Ax,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25,4.67,3.5
-Lame Affutée,Sharp Blade,4,4,1.0,100%,10.5,10.5,42,3,3.5,3.5,2.62,2.62
-Pillard Féroce,Savage Looter,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0,10.0,5.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,2,4,0.5,50%,17.0,8.5,34,2,8.5,4.25,5.67,2.83
-Désintégrateur Magnétique,Magnetic Disintegrator,3,4,0.75,75%,11.0,8.25,33,0,Gratuit,Gratuit,11.0,8.25
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5,1.88,1.88
-Chasseur d'Âmes,Soul Hunter,2,4,0.5,50%,15.0,7.5,30,1,15.0,7.5,7.5,3.75
-Gantelet Impérieux,Imperious Gauntlet,1,4,0.25,25%,30.0,7.5,30,1,30.0,7.5,15.0,3.75
-Ascension Divine,Divine Ascent,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
-Explosion Arcanique,Arcane Explosive,2,4,0.5,50%,12.0,6.0,24,1,12.0,6.0,6.0,3.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Aveuglement,Incapacitor,4,4,1.0,100%,4.5,4.5,18,3,1.5,1.5,1.12,1.12
-Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25,8.5,2.12
-Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,6.0,3.0,12,2,3.0,1.5,2.0,1.0
-Masse Colossale,Colossal Mace,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
-Tombeau Rocheux,Rock Tomb,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
-Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit,10.0,2.5
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.5,2.5,10,3,0.83,0.83,0.62,0.62
-Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0,4.0,1.0
-Griffes Sauvages,Wild Claw,2,4,0.5,50%,2.0,1.0,4,3,0.67,0.33,0.5,0.25
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,16.4,16.4,82,2,8.2,8.2,5.47,5.47
+Faux,Scythe,5,5,1.0,100%,13.2,13.2,66,3,4.4,4.4,3.3,3.3
+Faux Parfaite,Perfect Scythe,3,5,0.6,60%,15.0,9.0,45,0,Gratuit,Gratuit,15.0,9.0
+Hache Frénétique,Berseker Ax,3,5,0.6,60%,14.0,8.4,42,2,7.0,4.2,4.67,2.8
+Lame Affutée,Sharp Blade,4,5,0.8,80%,10.5,8.4,42,3,3.5,2.8,2.62,2.1
+Pillard Féroce,Savage Looter,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Économe Sagesse du Trésorier,Treasurer's Wisdom,2,5,0.4,40%,17.0,6.8,34,2,8.5,3.4,5.67,2.27
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,6.6,6.6,33,3,2.2,2.2,1.65,1.65
+Désintégrateur Magnétique,Magnetic Disintegrator,3,5,0.6,60%,11.0,6.6,33,0,Gratuit,Gratuit,11.0,6.6
+Chasseur d'Âmes,Soul Hunter,2,5,0.4,40%,15.0,6.0,30,1,15.0,6.0,7.5,3.0
+Gantelet Impérieux,Imperious Gauntlet,1,5,0.2,20%,30.0,6.0,30,1,30.0,6.0,15.0,3.0
+Ascension Divine,Divine Ascent,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67,6.25,1.25
+Aveuglement,Incapacitor,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6,1.2,1.2
+Marteau Collecteur,Collecting Hammer,3,5,0.6,60%,8.0,4.8,24,2,4.0,2.4,2.67,1.6
+Explosion Arcanique,Arcane Explosive,2,5,0.4,40%,12.0,4.8,24,1,12.0,4.8,6.0,2.4
+Épée Obscure,Swords of Darkness,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4,8.5,1.7
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.4,2.4,12,3,0.8,0.8,0.6,0.6
+Masse Colossale,Colossal Mace,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Coup de Mort,Death Helper,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0,5.0,1.0
+Tombeau Rocheux,Rock Tomb,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0,5.0,1.0
+Épé Sainte,Holy Sword,1,5,0.2,20%,10.0,2.0,10,0,Gratuit,Gratuit,10.0,2.0
+Danse Macabre,Dance of Death,1,5,0.2,20%,8.0,1.6,8,1,8.0,1.6,4.0,0.8
+Griffes Sauvages,Wild Claw,2,5,0.4,40%,2.0,0.8,4,3,0.67,0.27,0.5,0.2

@@ -1,26 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Faux,Scythe,4,4,1.0,100%,15.75,15.75,63,3,5.25,5.25,3.94,3.94
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,15.25,15.25,61,2,7.62,7.62,5.08,5.08
-Faux Assoiffées,Thirsty Scythes,2,4,0.5,50%,25.0,12.5,50,3,8.33,4.17,6.25,3.12
-Esprit Guerrier,Spirit of the Warrior,3,4,0.75,75%,16.0,12.0,48,1,16.0,12.0,8.0,6.0
-Hache Frénétique,Berseker Ax,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25,4.67,3.5
-Esprit omniprésent,Omnipresent Spirit,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Lame Affutée,Sharp Blade,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
-Épée Obscure,Swords of Darkness,2,4,0.5,50%,17.0,8.5,34,1,17.0,8.5,8.5,4.25
-Économe Sagesse du Trésorier,Treasurer's Wisdom,2,4,0.5,50%,17.0,8.5,34,2,8.5,4.25,5.67,2.83
-Lame Insatiable,Fast Furious Blade,2,4,0.5,50%,16.0,8.0,32,2,8.0,4.0,5.33,2.67
-Marteau Collecteur,Collecting Hammer,4,4,1.0,100%,7.5,7.5,30,2,3.75,3.75,2.5,2.5
-Aveuglement,Incapacitor,4,4,1.0,100%,6.75,6.75,27,3,2.25,2.25,1.69,1.69
-Ascension Divine,Divine Ascent,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0,1.5,1.5
-Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0,8.0,2.0
-Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,5.0,5.0,20,3,1.67,1.67,1.25,1.25
-Parchemin Secret,Secret Scroll,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Faux Parfaite,Perfect Scythe,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Explosion Arcanique,Arcane Explosive,1,4,0.25,25%,12.0,3.0,12,1,12.0,3.0,6.0,1.5
-Désintégrateur Magnétique,Magnetic Disintegrator,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0,4.0,1.0
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit,8.0,2.0
-Griffes Sauvages,Wild Claw,3,4,0.75,75%,2.0,1.5,6,3,0.67,0.5,0.5,0.38
+Faux,Scythe,5,5,1.0,100%,15.8,15.8,79,3,5.27,5.27,3.95,3.95
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,15.2,15.2,76,2,7.6,7.6,5.07,5.07
+Lame Affutée,Sharp Blade,5,5,1.0,100%,11.4,11.4,57,3,3.8,3.8,2.85,2.85
+Hache Frénétique,Berseker Ax,4,5,0.8,80%,14.0,11.2,56,2,7.0,5.6,4.67,3.73
+Économe Sagesse du Trésorier,Treasurer's Wisdom,3,5,0.6,60%,17.0,10.2,51,2,8.5,5.1,5.67,3.4
+Faux Assoiffées,Thirsty Scythes,2,5,0.4,40%,25.0,10.0,50,3,8.33,3.33,6.25,2.5
+Esprit Guerrier,Spirit of the Warrior,3,5,0.6,60%,16.0,9.6,48,1,16.0,9.6,8.0,4.8
+Marteau Collecteur,Collecting Hammer,5,5,1.0,100%,8.4,8.4,42,2,4.2,4.2,2.8,2.8
+Aveuglement,Incapacitor,5,5,1.0,100%,7.2,7.2,36,3,2.4,2.4,1.8,1.8
+Parchemin Secret,Secret Scroll,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
+Esprit omniprésent,Omnipresent Spirit,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
+Épée Obscure,Swords of Darkness,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,6.6,6.6,33,3,2.2,2.2,1.65,1.65
+Lame Insatiable,Fast Furious Blade,2,5,0.4,40%,16.0,6.4,32,2,8.0,3.2,5.33,2.13
+Tombeau Rocheux,Rock Tomb,3,5,0.6,60%,10.0,6.0,30,1,10.0,6.0,5.0,3.0
+Ascension Divine,Divine Ascent,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67,6.25,1.25
+Bâton de Conquête,Conquering Staff,1,5,0.2,20%,24.0,4.8,24,2,12.0,2.4,8.0,1.6
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6,1.2,1.2
+Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Danse Macabre,Dance of Death,2,5,0.4,40%,8.0,3.2,16,1,8.0,3.2,4.0,1.6
+Faux Parfaite,Perfect Scythe,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Couronne du Roi Nain,Crown of the Dwarf King,1,5,0.2,20%,13.0,2.6,13,0,Gratuit,Gratuit,13.0,2.6
+Explosion Arcanique,Arcane Explosive,1,5,0.2,20%,12.0,2.4,12,1,12.0,2.4,6.0,1.2
+Désintégrateur Magnétique,Magnetic Disintegrator,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Épé Sainte,Holy Sword,1,5,0.2,20%,10.0,2.0,10,0,Gratuit,Gratuit,10.0,2.0
+Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit,8.0,1.6
+Griffes Sauvages,Wild Claw,4,5,0.8,80%,1.75,1.4,7,3,0.58,0.47,0.44,0.35

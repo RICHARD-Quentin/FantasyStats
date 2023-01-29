@@ -1,27 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Bâton de Conquête,Conquering Staff,3,4,0.75,75%,24.0,18.0,72,2,12.0,9.0,8.0,6.0
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,17.0,17.0,68,3,5.67,5.67,4.25,4.25
-Aveuglement,Incapacitor,4,4,1.0,100%,16.5,16.5,66,3,5.5,5.5,4.12,4.12
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0,5.33,5.33
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0,3.0,3.0
-Faux,Scythe,4,4,1.0,100%,10.75,10.75,43,3,3.58,3.58,2.69,2.69
-Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Pillard Féroce,Savage Looter,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0,10.0,5.0
-Tombeau Rocheux,Rock Tomb,4,4,1.0,100%,10.0,10.0,40,1,10.0,10.0,5.0,5.0
-Chasseur de Bêtes,Beast Hunter,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Mental d'Acier,Steel Aura,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,2,4,0.5,50%,17.0,8.5,34,2,8.5,4.25,5.67,2.83
-Œil de Lynx,Hawk's Eye,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit,8.0,8.0
-Esprit Sauvage,Wild Spirit,3,4,0.75,75%,10.0,7.5,30,0,Gratuit,Gratuit,10.0,7.5
-Coup de Mort,Death Helper,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5,5.0,3.75
-Assistance Divine,Sacred Help,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Être de Lumière,Being of Light,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
-Lame Affutée,Sharp Blade,4,4,1.0,100%,3.75,3.75,15,3,1.25,1.25,0.94,0.94
-Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5,7.0,1.75
-Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75,5.5,1.38
-Amulette Omnisciente,Omnipresent Amulet,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Force Divine,Divine Impetu,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.5,2.5,10,3,0.83,0.83,0.62,0.62
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,17.6,17.6,88,3,5.87,5.87,4.4,4.4
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,16.0,16.0,80,2,8.0,8.0,5.33,5.33
+Aveuglement,Incapacitor,5,5,1.0,100%,15.0,15.0,75,3,5.0,5.0,3.75,3.75
+Bâton de Conquête,Conquering Staff,3,5,0.6,60%,24.0,14.4,72,2,12.0,7.2,8.0,4.8
+Pillard Féroce,Savage Looter,3,5,0.6,60%,20.0,12.0,60,1,20.0,12.0,10.0,6.0
+Armure d'Obsidienne,Obsidian Battle Plate,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,12.0,12.0,60,3,4.0,4.0,3.0,3.0
+Faux,Scythe,5,5,1.0,100%,10.8,10.8,54,3,3.6,3.6,2.7,2.7
+Chasseur de Bêtes,Beast Hunter,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4,6.0,3.6
+Économe Sagesse du Trésorier,Treasurer's Wisdom,3,5,0.6,60%,17.0,10.2,51,2,8.5,5.1,5.67,3.4
+Tombeau Rocheux,Rock Tomb,5,5,1.0,100%,10.0,10.0,50,1,10.0,10.0,5.0,5.0
+Œil de Lynx,Hawk's Eye,5,5,1.0,100%,8.0,8.0,40,0,Gratuit,Gratuit,8.0,8.0
+Coup de Mort,Death Helper,4,5,0.8,80%,10.0,8.0,40,1,10.0,8.0,5.0,4.0
+Assistance Divine,Sacred Help,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Esprit Sauvage,Wild Spirit,4,5,0.8,80%,10.0,8.0,40,0,Gratuit,Gratuit,10.0,8.0
+Mental d'Acier,Steel Aura,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
+Décharge Élémentaire,Elemental Discharge,2,5,0.4,40%,18.0,7.2,36,1,18.0,7.2,9.0,3.6
+Chasseur d'Âmes,Soul Hunter,2,5,0.4,40%,15.0,6.0,30,1,15.0,6.0,7.5,3.0
+Lame Affutée,Sharp Blade,5,5,1.0,100%,6.0,6.0,30,3,2.0,2.0,1.5,1.5
+Force Divine,Divine Impetu,2,5,0.4,40%,11.0,4.4,22,0,Gratuit,Gratuit,11.0,4.4
+Sabre Versatile,Versatil Saber,2,5,0.4,40%,11.0,4.4,22,1,11.0,4.4,5.5,2.2
+Être de Lumière,Being of Light,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,14.0,2.8,14,1,14.0,2.8,7.0,1.4
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.8,2.8,14,3,0.93,0.93,0.7,0.7
+Amulette Omnisciente,Omnipresent Amulet,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Danse Macabre,Dance of Death,1,5,0.2,20%,8.0,1.6,8,1,8.0,1.6,4.0,0.8

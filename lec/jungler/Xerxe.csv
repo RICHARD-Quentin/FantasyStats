@@ -1,26 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,15.25,15.25,61,3,5.08,5.08,3.81,3.81
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.5,14.5,58,2,7.25,7.25,4.83,4.83
-Aveuglement,Incapacitor,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0,3.0,3.0
-Bâton de Conquête,Conquering Staff,2,4,0.5,50%,24.0,12.0,48,2,12.0,6.0,8.0,4.0
-Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Décharge Élémentaire,Elemental Discharge,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0,9.0,4.5
-Chasseur de Bêtes,Beast Hunter,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Faux,Scythe,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,6.75,6.75,27,3,2.25,2.25,1.69,1.69
-Ascension Divine,Divine Ascent,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Esprit Sauvage,Wild Spirit,2,4,0.5,50%,10.0,5.0,20,0,Gratuit,Gratuit,10.0,5.0
-Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
-Lame Affutée,Sharp Blade,2,4,0.5,50%,9.0,4.5,18,3,3.0,1.5,2.25,1.12
-Mental d'Acier,Steel Aura,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,4,0.25,25%,17.0,4.25,17,2,8.5,2.12,5.67,1.42
-Adrénaline Arcanique,Arcane Adrenaline,1,4,0.25,25%,16.0,4.0,16,1,16.0,4.0,8.0,2.0
-Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75,4.67,1.17
-Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,6.0,3.0,12,2,3.0,1.5,2.0,1.0
-Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.5,2.5,10,3,0.83,0.83,0.62,0.62
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit,8.0,2.0
-Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0,4.0,1.0
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,15.8,15.8,79,3,5.27,5.27,3.95,3.95
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.8,14.8,74,2,7.4,7.4,4.93,4.93
+Assistance Divine,Sacred Help,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
+Aveuglement,Incapacitor,5,5,1.0,100%,12.0,12.0,60,3,4.0,4.0,3.0,3.0
+Décharge Élémentaire,Elemental Discharge,3,5,0.6,60%,18.0,10.8,54,1,18.0,10.8,9.0,5.4
+Chasseur de Bêtes,Beast Hunter,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4,6.0,3.6
+Bâton de Conquête,Conquering Staff,2,5,0.4,40%,24.0,9.6,48,2,12.0,4.8,8.0,3.2
+Faux,Scythe,5,5,1.0,100%,9.2,9.2,46,3,3.07,3.07,2.3,2.3
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,7.2,7.2,36,3,2.4,2.4,1.8,1.8
+Tombeau Rocheux,Rock Tomb,3,5,0.6,60%,10.0,6.0,30,1,10.0,6.0,5.0,3.0
+Esprit Sauvage,Wild Spirit,3,5,0.6,60%,10.0,6.0,30,0,Gratuit,Gratuit,10.0,6.0
+Lame Affutée,Sharp Blade,3,5,0.6,60%,9.0,5.4,27,3,3.0,1.8,2.25,1.35
+Ascension Divine,Divine Ascent,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67,6.25,1.25
+Marteau Collecteur,Collecting Hammer,3,5,0.6,60%,8.0,4.8,24,2,4.0,2.4,2.67,1.6
+Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Mental d'Acier,Steel Aura,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,5,0.2,20%,17.0,3.4,17,2,8.5,1.7,5.67,1.13
+Adrénaline Arcanique,Arcane Adrenaline,1,5,0.2,20%,16.0,3.2,16,1,16.0,3.2,8.0,1.6
+Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Hache Frénétique,Berseker Ax,1,5,0.2,20%,14.0,2.8,14,2,7.0,1.4,4.67,0.93
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.8,2.8,14,3,0.93,0.93,0.7,0.7
+Bâton du Conquérant,Staff of Conquered Worlds,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Coup de Mort,Death Helper,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0,5.0,1.0
+Œil de Lynx,Hawk's Eye,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit,8.0,1.6
+Danse Macabre,Dance of Death,1,5,0.2,20%,8.0,1.6,8,1,8.0,1.6,4.0,0.8

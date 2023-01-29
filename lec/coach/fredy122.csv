@@ -1,14 +1,14 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,13.0,13.0,52,2,6.5,6.5,4.33,4.33
-Chasse au Gros,Big Worm Hunter,3,4,0.75,75%,17.33,13.0,52,3,5.78,4.33,4.33,3.25
-Marteau Conquérant,Conquest Hammer,2,4,0.5,50%,22.0,11.0,44,3,7.33,3.67,5.5,2.75
-Masque du Baron,Baron' s Mask,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Écailles Magiques,Magic Scales,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Perce-Écailles,Scale Tearer,3,4,0.75,75%,11.67,8.75,35,3,3.89,2.92,2.92,2.19
-Protection Royale,Royal Protector,2,4,0.5,50%,17.0,8.5,34,1,17.0,8.5,8.5,4.25
-L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,10.67,8.0,32,0,Gratuit,Gratuit,10.67,8.0
-Première Ligne,First Line,4,4,1.0,100%,8.0,8.0,32,0,Gratuit,Gratuit,8.0,8.0
-Sceau Profanateur,Seal of Desecration,2,4,0.5,50%,12.0,6.0,24,2,6.0,3.0,4.0,2.0
-Poigne d'Or,Golden Force,1,4,0.25,25%,23.0,5.75,23,1,23.0,5.75,11.5,2.88
-Esprit de la Faille,Spirit of the Rift,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Gardien Sous-terrain,Underworld Guardian,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
+Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,10.8,10.8,54,2,5.4,5.4,3.6,3.6
+Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,17.33,10.4,52,3,5.78,3.47,4.33,2.6
+Marteau Conquérant,Conquest Hammer,2,5,0.4,40%,22.0,8.8,44,3,7.33,2.93,5.5,2.2
+Masque du Baron,Baron' s Mask,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Écailles Magiques,Magic Scales,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Perce-Écailles,Scale Tearer,3,5,0.6,60%,11.67,7.0,35,3,3.89,2.33,2.92,1.75
+Protection Royale,Royal Protector,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
+L'Oeil du Héraut,Eye of the Void,3,5,0.6,60%,10.67,6.4,32,0,Gratuit,Gratuit,10.67,6.4
+Première Ligne,First Line,4,5,0.8,80%,8.0,6.4,32,0,Gratuit,Gratuit,8.0,6.4
+Sceau Profanateur,Seal of Desecration,2,5,0.4,40%,12.0,4.8,24,2,6.0,2.4,4.0,1.6
+Poigne d'Or,Golden Force,1,5,0.2,20%,23.0,4.6,23,1,23.0,4.6,11.5,2.3
+Esprit de la Faille,Spirit of the Rift,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Gardien Sous-terrain,Underworld Guardian,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0,7.5,1.5

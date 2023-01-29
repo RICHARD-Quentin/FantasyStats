@@ -1,39 +1,40 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Gantelet Impérieux,Imperious Gauntlet,3,4,0.75,75%,30.0,22.5,90,1,30.0,22.5,15.0,11.25
-Faux Assoiffées,Thirsty Scythes,3,4,0.75,75%,25.0,18.75,75,3,8.33,6.25,6.25,4.69
-Faux,Scythe,4,4,1.0,100%,18.0,18.0,72,3,6.0,6.0,4.5,4.5
-Lame Insatiable,Fast Furious Blade,4,4,1.0,100%,16.0,16.0,64,2,8.0,8.0,5.33,5.33
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,15.25,15.25,61,2,7.62,7.62,5.08,5.08
-Faux Parfaite,Perfect Scythe,4,4,1.0,100%,15.0,15.0,60,0,Gratuit,Gratuit,15.0,15.0
-Chasseresse d'Âmes,Huntress of Souls,3,4,0.75,75%,19.0,14.25,57,1,19.0,14.25,9.5,7.12
-Lame Affutée,Sharp Blade,3,4,0.75,75%,17.0,12.75,51,3,5.67,4.25,4.25,3.19
-Griffes Démoniaques,Demon Claws,3,4,0.75,75%,17.0,12.75,51,1,17.0,12.75,8.5,6.38
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,4,0.75,75%,17.0,12.75,51,2,8.5,6.38,5.67,4.25
-Hache Frénétique,Berseker Ax,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25,4.67,3.5
-Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,14.0,10.5,42,2,7.0,5.25,4.67,3.5
-Aura Légendaire,Legend Aura,1,4,0.25,25%,40.0,10.0,40,3,13.33,3.33,10.0,2.5
-Aveuglement,Incapacitor,4,4,1.0,100%,9.75,9.75,39,3,3.25,3.25,2.44,2.44
-Parchemin Secret,Secret Scroll,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Épée Obscure,Swords of Darkness,2,4,0.5,50%,17.0,8.5,34,1,17.0,8.5,8.5,4.25
-Esprit Guerrier,Spirit of the Warrior,2,4,0.5,50%,16.0,8.0,32,1,16.0,8.0,8.0,4.0
-Triple Météore,Trimeteor,1,4,0.25,25%,30.0,7.5,30,0,Gratuit,Gratuit,30.0,7.5
-Elan de Fureur,Rampage Momentum,2,4,0.5,50%,15.0,7.5,30,2,7.5,3.75,5.0,2.5
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,9.0,6.75,27,3,3.0,2.25,2.25,1.69
-Couronne du Roi Nain,Crown of the Dwarf King,2,4,0.5,50%,13.0,6.5,26,0,Gratuit,Gratuit,13.0,6.5
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0,1.5,1.5
-Explosion Arcanique,Arcane Explosive,2,4,0.5,50%,12.0,6.0,24,1,12.0,6.0,6.0,3.0
-Désintégrateur Magnétique,Magnetic Disintegrator,2,4,0.5,50%,11.0,5.5,22,0,Gratuit,Gratuit,11.0,5.5
-Coup de Mort,Death Helper,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Tombeau Rocheux,Rock Tomb,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Enchaînement Éclair,Unstoppable Lightning,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Œil de Lynx,Hawk's Eye,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0
-Danse Macabre,Dance of Death,2,4,0.5,50%,8.0,4.0,16,1,8.0,4.0,4.0,2.0
-Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,14.0,3.5,14,1,14.0,3.5,7.0,1.75
-Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75,5.5,1.38
-Masse Colossale,Colossal Mace,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Force Divine,Divine Impetu,1,4,0.25,25%,11.0,2.75,11,0,Gratuit,Gratuit,11.0,2.75
-Épé Sainte,Holy Sword,1,4,0.25,25%,10.0,2.5,10,0,Gratuit,Gratuit,10.0,2.5
-Griffes Sauvages,Wild Claw,2,4,0.5,50%,4.5,2.25,9,3,1.5,0.75,1.12,0.56
+Gantelet Impérieux,Imperious Gauntlet,4,5,0.8,80%,30.0,24.0,120,1,30.0,24.0,15.0,12.0
+Faux Assoiffées,Thirsty Scythes,4,5,0.8,80%,25.0,20.0,100,3,8.33,6.67,6.25,5.0
+Faux,Scythe,5,5,1.0,100%,18.4,18.4,92,3,6.13,6.13,4.6,4.6
+Lame Insatiable,Fast Furious Blade,5,5,1.0,100%,16.0,16.0,80,2,8.0,8.0,5.33,5.33
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,15.6,15.6,78,2,7.8,7.8,5.2,5.2
+Chasseresse d'Âmes,Huntress of Souls,4,5,0.8,80%,19.0,15.2,76,1,19.0,15.2,9.5,7.6
+Faux Parfaite,Perfect Scythe,5,5,1.0,100%,15.0,15.0,75,0,Gratuit,Gratuit,15.0,15.0
+Griffes Démoniaques,Demon Claws,4,5,0.8,80%,17.0,13.6,68,1,17.0,13.6,8.5,6.8
+Économe Sagesse du Trésorier,Treasurer's Wisdom,4,5,0.8,80%,17.0,13.6,68,2,8.5,6.8,5.67,4.53
+Marteau Collecteur,Collecting Hammer,4,5,0.8,80%,16.5,13.2,66,2,8.25,6.6,5.5,4.4
+Hache Frénétique,Berseker Ax,4,5,0.8,80%,14.0,11.2,56,2,7.0,5.6,4.67,3.73
+Parchemin Secret,Secret Scroll,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4,6.0,3.6
+Lame Affutée,Sharp Blade,4,5,0.8,80%,13.5,10.8,54,3,4.5,3.6,3.38,2.7
+Aveuglement,Incapacitor,5,5,1.0,100%,10.2,10.2,51,3,3.4,3.4,2.55,2.55
+Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Aura Légendaire,Legend Aura,1,5,0.2,20%,40.0,8.0,40,3,13.33,2.67,10.0,2.0
+Couronne du Roi Nain,Crown of the Dwarf King,3,5,0.6,60%,13.0,7.8,39,0,Gratuit,Gratuit,13.0,7.8
+Explosion Arcanique,Arcane Explosive,3,5,0.6,60%,12.0,7.2,36,1,12.0,7.2,6.0,3.6
+Épée Obscure,Swords of Darkness,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
+Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,8.25,6.6,33,3,2.75,2.2,2.06,1.65
+Esprit Guerrier,Spirit of the Warrior,2,5,0.4,40%,16.0,6.4,32,1,16.0,6.4,8.0,3.2
+Triple Météore,Trimeteor,1,5,0.2,20%,30.0,6.0,30,0,Gratuit,Gratuit,30.0,6.0
+Elan de Fureur,Rampage Momentum,2,5,0.4,40%,15.0,6.0,30,2,7.5,3.0,5.0,2.0
+Tombeau Rocheux,Rock Tomb,3,5,0.6,60%,10.0,6.0,30,1,10.0,6.0,5.0,3.0
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,5.6,5.6,28,3,1.87,1.87,1.4,1.4
+Armure d'Immortel,Immortal Breastplate,2,5,0.4,40%,14.0,5.6,28,1,14.0,5.6,7.0,2.8
+Désintégrateur Magnétique,Magnetic Disintegrator,2,5,0.4,40%,11.0,4.4,22,0,Gratuit,Gratuit,11.0,4.4
+Masse Colossale,Colossal Mace,2,5,0.4,40%,11.0,4.4,22,0,Gratuit,Gratuit,11.0,4.4
+Coup de Mort,Death Helper,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0,5.0,2.0
+Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Pillard Féroce,Savage Looter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Enchaînement Éclair,Unstoppable Lightning,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Œil de Lynx,Hawk's Eye,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit,8.0,3.2
+Danse Macabre,Dance of Death,2,5,0.4,40%,8.0,3.2,16,1,8.0,3.2,4.0,1.6
+Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2,5.5,1.1
+Griffes Sauvages,Wild Claw,3,5,0.6,60%,3.67,2.2,11,3,1.22,0.73,0.92,0.55
+Force Divine,Divine Impetu,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
+Épé Sainte,Holy Sword,1,5,0.2,20%,10.0,2.0,10,0,Gratuit,Gratuit,10.0,2.0

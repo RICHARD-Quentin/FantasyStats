@@ -1,23 +1,23 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Mental d'Acier,Steel Aura,4,4,1.0,100%,18.0,18.0,72,2,9.0,9.0,6.0,6.0
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,14.75,14.75,59,3,4.92,4.92,3.69,3.69
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,13.25,13.25,53,2,6.62,6.62,4.42,4.42
-Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,21.0,10.5,42,2,10.5,5.25,7.0,3.5
-Assistance Divine,Sacred Help,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Faux,Scythe,4,4,1.0,100%,8.0,8.0,32,3,2.67,2.67,2.0,2.0
-Tombeau Rocheux,Rock Tomb,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5,5.0,3.75
-Aveuglement,Incapacitor,4,4,1.0,100%,6.75,6.75,27,3,2.25,2.25,1.69,1.69
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,8.0,6.0,24,3,2.67,2.0,2.0,1.5
-Lame Affutée,Sharp Blade,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0,1.5,1.5
-Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Esprit Sauvage,Wild Spirit,2,4,0.5,50%,10.0,5.0,20,0,Gratuit,Gratuit,10.0,5.0
-Chasseur de Bêtes,Beast Hunter,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Épée Obscure,Swords of Darkness,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25,8.5,2.12
-Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
-Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.5,2.5,10,3,0.83,0.83,0.62,0.62
-Danse Macabre,Dance of Death,1,4,0.25,25%,8.0,2.0,8,1,8.0,2.0,4.0,1.0
+Mental d'Acier,Steel Aura,5,5,1.0,100%,18.0,18.0,90,2,9.0,9.0,6.0,6.0
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,14.2,14.2,71,3,4.73,4.73,3.55,3.55
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,13.4,13.4,67,2,6.7,6.7,4.47,4.47
+Marteau Collecteur,Collecting Hammer,2,5,0.4,40%,21.0,8.4,42,2,10.5,4.2,7.0,2.8
+Assistance Divine,Sacred Help,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Tombeau Rocheux,Rock Tomb,4,5,0.8,80%,10.0,8.0,40,1,10.0,8.0,5.0,4.0
+Faux,Scythe,5,5,1.0,100%,7.8,7.8,39,3,2.6,2.6,1.95,1.95
+Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,7.5,6.0,30,3,2.5,2.0,1.88,1.5
+Aveuglement,Incapacitor,5,5,1.0,100%,6.0,6.0,30,3,2.0,2.0,1.5,1.5
+Lame Affutée,Sharp Blade,4,5,0.8,80%,6.0,4.8,24,3,2.0,1.6,1.5,1.2
+Pillard Féroce,Savage Looter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Esprit Sauvage,Wild Spirit,2,5,0.4,40%,10.0,4.0,20,0,Gratuit,Gratuit,10.0,4.0
+Chasseur de Bêtes,Beast Hunter,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Décharge Élémentaire,Elemental Discharge,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Épée Obscure,Swords of Darkness,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4,8.5,1.7
+Chasseur d'Âmes,Soul Hunter,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0,7.5,1.5
+Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.4,2.4,12,3,0.8,0.8,0.6,0.6
+Coup de Mort,Death Helper,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0,5.0,1.0
+Danse Macabre,Dance of Death,1,5,0.2,20%,8.0,1.6,8,1,8.0,1.6,4.0,0.8
