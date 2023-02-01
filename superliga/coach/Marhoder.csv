@@ -1,13 +1,15 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Conquérant,Conquest Hammer,4,5,0.8,80%,22.0,17.6,88,3,7.33,5.87,5.5,4.4
-Esprit de la Faille,Spirit of the Rift,4,5,0.8,80%,20.0,16.0,80,2,10.0,8.0,6.67,5.33
-Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,15.6,15.6,78,2,7.8,7.8,5.2,5.2
-Perce-Écailles,Scale Tearer,5,5,1.0,100%,14.0,14.0,70,3,4.67,4.67,3.5,3.5
-Chasse au Gros,Big Worm Hunter,4,5,0.8,80%,16.25,13.0,65,3,5.42,4.33,4.06,3.25
-Masque du Baron,Baron' s Mask,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
-Écailles Magiques,Magic Scales,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
-Sceau Profanateur,Seal of Desecration,4,5,0.8,80%,12.0,9.6,48,2,6.0,4.8,4.0,3.2
-L'Oeil du Héraut,Eye of the Void,4,5,0.8,80%,10.0,8.0,40,0,Gratuit,Gratuit,10.0,8.0
-Première Ligne,First Line,5,5,1.0,100%,8.0,8.0,40,0,Gratuit,Gratuit,8.0,8.0
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,5,0.2,20%,25.0,5.0,25,1,25.0,5.0,12.5,2.5
-Protection Royale,Royal Protector,1,5,0.2,20%,17.0,3.4,17,1,17.0,3.4,8.5,1.7
+Marteau Conquérant,Conquest Hammer,5,6,0.83,83%,22.0,18.33,110,3,7.33,6.11,5.5,4.58
+Esprit de la Faille,Spirit of the Rift,5,6,0.83,83%,20.0,16.67,100,2,10.0,8.34,6.67,5.56
+Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,16.67,16.67,100,2,8.34,8.34,5.56,5.56
+Chasse au Gros,Big Worm Hunter,5,6,0.83,83%,18.2,15.17,91,3,6.07,5.06,4.55,3.79
+Perce-Écailles,Scale Tearer,6,6,1.0,100%,15.0,15.0,90,3,5.0,5.0,3.75,3.75
+Masque du Baron,Baron' s Mask,4,6,0.67,67%,20.0,13.33,80,2,10.0,6.67,6.67,4.44
+Écailles Magiques,Magic Scales,4,6,0.67,67%,20.0,13.33,80,2,10.0,6.67,6.67,4.44
+Sceau Profanateur,Seal of Desecration,5,6,0.83,83%,14.4,12.0,72,2,7.2,6.0,4.8,4.0
+L'Oeil du Héraut,Eye of the Void,5,6,0.83,83%,11.2,9.33,56,0,Gratuit,Gratuit,11.2,9.33
+Âme de Dragon Élémentaire,Elemental Dragon Soul,2,6,0.33,33%,25.0,8.33,50,1,25.0,8.33,12.5,4.17
+Première Ligne,First Line,6,6,1.0,100%,8.0,8.0,48,0,Gratuit,Gratuit,8.0,8.0
+Protection Royale,Royal Protector,2,6,0.33,33%,17.0,5.67,34,1,17.0,5.67,8.5,2.83
+Gardien Sous-terrain,Underworld Guardian,1,6,0.17,17%,15.0,2.5,15,1,15.0,2.5,7.5,1.25
+Frappes Éclair,Light Swords,1,6,0.17,17%,12.0,2.0,12,0,Gratuit,Gratuit,12.0,2.0
