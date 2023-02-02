@@ -1,25 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,16.75,16.75,67,3,5.58,5.58,4.19,4.19
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.0,14.0,56,2,7.0,7.0,4.67,4.67
-Décharge Élémentaire,Elemental Discharge,3,4,0.75,75%,18.0,13.5,54,1,18.0,13.5,9.0,6.75
-Chasseur de Bêtes,Beast Hunter,3,4,0.75,75%,18.0,13.5,54,2,9.0,6.75,6.0,4.5
-Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Esprit Sauvage,Wild Spirit,4,4,1.0,100%,10.0,10.0,40,0,Gratuit,Gratuit,10.0,10.0
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,12.0,9.0,36,3,4.0,3.0,3.0,2.25
-Mental d'Acier,Steel Aura,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Faux,Scythe,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
-Tombeau Rocheux,Rock Tomb,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5,5.0,3.75
-Aveuglement,Incapacitor,4,4,1.0,100%,6.75,6.75,27,3,2.25,2.25,1.69,1.69
-Assistance Divine,Sacred Help,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Le Marionnettiste,The Puppeteer,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Lame Affutée,Sharp Blade,4,4,1.0,100%,4.5,4.5,18,3,1.5,1.5,1.12,1.12
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,4,0.25,25%,17.0,4.25,17,2,8.5,2.12,5.67,1.42
-Adrénaline Arcanique,Arcane Adrenaline,1,4,0.25,25%,16.0,4.0,16,1,16.0,4.0,8.0,2.0
-Hache Frénétique,Berseker Ax,1,4,0.25,25%,14.0,3.5,14,2,7.0,1.75,4.67,1.17
-Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,12.0,3.0,12,2,6.0,1.5,4.0,1.0
-Sabre Versatile,Versatil Saber,1,4,0.25,25%,11.0,2.75,11,1,11.0,2.75,5.5,1.38
-Coup de Mort,Death Helper,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.25,2.25,9,3,0.75,0.75,0.56,0.56
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,17.2,17.2,86,3,5.73,5.73,4.3,4.3
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.6,14.6,73,2,7.3,7.3,4.87,4.87
+Décharge Élémentaire,Elemental Discharge,3,5,0.6,60%,18.0,10.8,54,1,18.0,10.8,9.0,5.4
+Chasseur de Bêtes,Beast Hunter,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4,6.0,3.6
+Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,12.75,10.2,51,3,4.25,3.4,3.19,2.55
+Esprit Sauvage,Wild Spirit,5,5,1.0,100%,10.0,10.0,50,0,Gratuit,Gratuit,10.0,10.0
+Faux,Scythe,5,5,1.0,100%,9.6,9.6,48,3,3.2,3.2,2.4,2.4
+Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Assistance Divine,Sacred Help,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Tombeau Rocheux,Rock Tomb,4,5,0.8,80%,10.0,8.0,40,1,10.0,8.0,5.0,4.0
+Mental d'Acier,Steel Aura,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
+Aveuglement,Incapacitor,5,5,1.0,100%,6.6,6.6,33,3,2.2,2.2,1.65,1.65
+Hache Frénétique,Berseker Ax,2,5,0.4,40%,14.0,5.6,28,2,7.0,2.8,4.67,1.87
+Lame Affutée,Sharp Blade,5,5,1.0,100%,4.2,4.2,21,3,1.4,1.4,1.05,1.05
+Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Coup de Mort,Death Helper,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0,5.0,2.0
+Pillard Féroce,Savage Looter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Être de Lumière,Being of Light,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,5,0.2,20%,17.0,3.4,17,2,8.5,1.7,5.67,1.13
+Adrénaline Arcanique,Arcane Adrenaline,1,5,0.2,20%,16.0,3.2,16,1,16.0,3.2,8.0,1.6
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.4,2.4,12,3,0.8,0.8,0.6,0.6
+Marteau Collecteur,Collecting Hammer,1,5,0.2,20%,12.0,2.4,12,2,6.0,1.2,4.0,0.8
+Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2,5.5,1.1
