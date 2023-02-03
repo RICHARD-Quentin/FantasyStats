@@ -1,28 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Griffes Sauvages,Wild Claw,5,5,1.0,100%,14.8,14.8,74,3,4.93,4.93,3.7,3.7
-Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.4,14.4,72,2,7.2,7.2,4.8,4.8
-Bâton de Conquête,Conquering Staff,3,5,0.6,60%,24.0,14.4,72,2,12.0,7.2,8.0,4.8
-Aveuglement,Incapacitor,5,5,1.0,100%,12.0,12.0,60,3,4.0,4.0,3.0,3.0
-Pillard Féroce,Savage Looter,3,5,0.6,60%,20.0,12.0,60,1,20.0,12.0,10.0,6.0
-Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,11.25,9.0,45,3,3.75,3.0,2.81,2.25
-Faux,Scythe,5,5,1.0,100%,8.6,8.6,43,3,2.87,2.87,2.15,2.15
-Tombeau Rocheux,Rock Tomb,4,5,0.8,80%,10.0,8.0,40,1,10.0,8.0,5.0,4.0
-Ascension Divine,Divine Ascent,1,5,0.2,20%,25.0,5.0,25,3,8.33,1.67,6.25,1.25
-Œil de Lynx,Hawk's Eye,3,5,0.6,60%,8.0,4.8,24,0,Gratuit,Gratuit,8.0,4.8
-Bâton du Conquérant,Staff of Conquered Worlds,2,5,0.4,40%,11.0,4.4,22,0,Gratuit,Gratuit,11.0,4.4
-Assistance Divine,Sacred Help,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
-Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
-Esprit Sauvage,Wild Spirit,2,5,0.4,40%,10.0,4.0,20,0,Gratuit,Gratuit,10.0,4.0
-Coup de Mort,Death Helper,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0,5.0,2.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
-Décharge Élémentaire,Elemental Discharge,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
-Marteau Collecteur,Collecting Hammer,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
-Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
-Mental d'Acier,Steel Aura,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
-Chasseur de Bêtes,Beast Hunter,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,5,0.2,20%,17.0,3.4,17,2,8.5,1.7,5.67,1.13
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,3.4,3.4,17,3,1.13,1.13,0.85,0.85
-Masse de Siège,Siege Mace,1,5,0.2,20%,16.0,3.2,16,0,Gratuit,Gratuit,16.0,3.2
-Lame Affutée,Sharp Blade,3,5,0.6,60%,5.0,3.0,15,3,1.67,1.0,1.25,0.75
-Amulette Omnisciente,Omnipresent Amulet,1,5,0.2,20%,11.0,2.2,11,0,Gratuit,Gratuit,11.0,2.2
-Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2,5.5,1.1
+Bâton de Conquête,Conquering Staff,4,6,0.67,67%,24.0,16.0,96,2,12.0,8.0,8.0,5.33
+Griffes Sauvages,Wild Claw,6,6,1.0,100%,15.0,15.0,90,3,5.0,5.0,3.75,3.75
+Totem Équivalent,Equivalent Totem,6,6,1.0,100%,14.5,14.5,87,2,7.25,7.25,4.83,4.83
+Aveuglement,Incapacitor,6,6,1.0,100%,13.5,13.5,81,3,4.5,4.5,3.38,3.38
+Pillard Féroce,Savage Looter,3,6,0.5,50%,20.0,10.0,60,1,20.0,10.0,10.0,5.0
+Esprit de l'Écuyer,Spirit of the Squire,5,6,0.83,83%,10.8,9.0,54,3,3.6,3.0,2.7,2.25
+Faux,Scythe,6,6,1.0,100%,8.67,8.67,52,3,2.89,2.89,2.17,2.17
+Tombeau Rocheux,Rock Tomb,5,6,0.83,83%,10.0,8.33,50,1,10.0,8.33,5.0,4.17
+Esprit omniprésent,Omnipresent Spirit,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
+Œil de Lynx,Hawk's Eye,4,6,0.67,67%,8.0,5.33,32,0,Gratuit,Gratuit,8.0,5.33
+Esprit Sauvage,Wild Spirit,3,6,0.5,50%,10.0,5.0,30,0,Gratuit,Gratuit,10.0,5.0
+Ascension Divine,Divine Ascent,1,6,0.17,17%,25.0,4.17,25,3,8.33,1.39,6.25,1.04
+Bâton du Conquérant,Staff of Conquered Worlds,2,6,0.33,33%,11.0,3.67,22,0,Gratuit,Gratuit,11.0,3.67
+Amulette Omnisciente,Omnipresent Amulet,2,6,0.33,33%,11.0,3.67,22,0,Gratuit,Gratuit,11.0,3.67
+Lame Affutée,Sharp Blade,4,6,0.67,67%,5.25,3.5,21,3,1.75,1.17,1.31,0.88
+Coup de Mort,Death Helper,2,6,0.33,33%,10.0,3.33,20,1,10.0,3.33,5.0,1.67
+Le Marionnettiste,The Puppeteer,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
+Totem du Gardien,Guardian Totem,6,6,1.0,100%,3.33,3.33,20,3,1.11,1.11,0.83,0.83
+Assistance Divine,Sacred Help,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
+Armure d'Obsidienne,Obsidian Battle Plate,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
+Chasseur de Bêtes,Beast Hunter,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
+Décharge Élémentaire,Elemental Discharge,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
+Marteau Collecteur,Collecting Hammer,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
+Mental d'Acier,Steel Aura,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,6,0.17,17%,17.0,2.83,17,2,8.5,1.42,5.67,0.94
+Masse de Siège,Siege Mace,1,6,0.17,17%,16.0,2.67,16,0,Gratuit,Gratuit,16.0,2.67
+Soif de Sang,Thirsty Dagger,1,6,0.17,17%,15.0,2.5,15,0,Gratuit,Gratuit,15.0,2.5
+Sabre Versatile,Versatil Saber,1,6,0.17,17%,11.0,1.83,11,1,11.0,1.83,5.5,0.92

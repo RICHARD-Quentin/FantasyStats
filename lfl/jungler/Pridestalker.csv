@@ -1,26 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Griffes Sauvages,Wild Claw,5,5,1.0,100%,17.2,17.2,86,3,5.73,5.73,4.3,4.3
-Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.6,14.6,73,2,7.3,7.3,4.87,4.87
-Décharge Élémentaire,Elemental Discharge,3,5,0.6,60%,18.0,10.8,54,1,18.0,10.8,9.0,5.4
-Chasseur de Bêtes,Beast Hunter,3,5,0.6,60%,18.0,10.8,54,2,9.0,5.4,6.0,3.6
-Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,12.75,10.2,51,3,4.25,3.4,3.19,2.55
-Esprit Sauvage,Wild Spirit,5,5,1.0,100%,10.0,10.0,50,0,Gratuit,Gratuit,10.0,10.0
-Faux,Scythe,5,5,1.0,100%,9.6,9.6,48,3,3.2,3.2,2.4,2.4
-Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
-Assistance Divine,Sacred Help,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
-Tombeau Rocheux,Rock Tomb,4,5,0.8,80%,10.0,8.0,40,1,10.0,8.0,5.0,4.0
-Mental d'Acier,Steel Aura,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
-Aveuglement,Incapacitor,5,5,1.0,100%,6.6,6.6,33,3,2.2,2.2,1.65,1.65
-Hache Frénétique,Berseker Ax,2,5,0.4,40%,14.0,5.6,28,2,7.0,2.8,4.67,1.87
-Lame Affutée,Sharp Blade,5,5,1.0,100%,4.2,4.2,21,3,1.4,1.4,1.05,1.05
-Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
-Coup de Mort,Death Helper,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0,5.0,2.0
-Pillard Féroce,Savage Looter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
-Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
-Être de Lumière,Being of Light,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
-Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,5,0.2,20%,17.0,3.4,17,2,8.5,1.7,5.67,1.13
-Adrénaline Arcanique,Arcane Adrenaline,1,5,0.2,20%,16.0,3.2,16,1,16.0,3.2,8.0,1.6
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.4,2.4,12,3,0.8,0.8,0.6,0.6
-Marteau Collecteur,Collecting Hammer,1,5,0.2,20%,12.0,2.4,12,2,6.0,1.2,4.0,0.8
-Sabre Versatile,Versatil Saber,1,5,0.2,20%,11.0,2.2,11,1,11.0,2.2,5.5,1.1
+Griffes Sauvages,Wild Claw,6,6,1.0,100%,16.67,16.67,100,3,5.56,5.56,4.17,4.17
+Totem Équivalent,Equivalent Totem,6,6,1.0,100%,14.5,14.5,87,2,7.25,7.25,4.83,4.83
+Décharge Élémentaire,Elemental Discharge,4,6,0.67,67%,18.0,12.0,72,1,18.0,12.0,9.0,6.0
+Chasseur de Bêtes,Beast Hunter,4,6,0.67,67%,18.0,12.0,72,2,9.0,6.0,6.0,4.0
+Esprit de l'Écuyer,Spirit of the Squire,5,6,0.83,83%,12.6,10.5,63,3,4.2,3.5,3.15,2.62
+Assistance Divine,Sacred Help,3,6,0.5,50%,20.0,10.0,60,2,10.0,5.0,6.67,3.33
+Armure d'Obsidienne,Obsidian Battle Plate,3,6,0.5,50%,20.0,10.0,60,2,10.0,5.0,6.67,3.33
+Faux,Scythe,6,6,1.0,100%,9.33,9.33,56,3,3.11,3.11,2.33,2.33
+Mental d'Acier,Steel Aura,3,6,0.5,50%,18.0,9.0,54,2,9.0,4.5,6.0,3.0
+Esprit Sauvage,Wild Spirit,5,6,0.83,83%,10.0,8.33,50,0,Gratuit,Gratuit,10.0,8.33
+Tombeau Rocheux,Rock Tomb,5,6,0.83,83%,10.0,8.33,50,1,10.0,8.33,5.0,4.17
+Aveuglement,Incapacitor,6,6,1.0,100%,6.5,6.5,39,3,2.17,2.17,1.62,1.62
+Marteau Collecteur,Collecting Hammer,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
+Être de Lumière,Being of Light,2,6,0.33,33%,18.0,6.0,36,1,18.0,6.0,9.0,3.0
+Coup de Mort,Death Helper,3,6,0.5,50%,10.0,5.0,30,1,10.0,5.0,5.0,2.5
+Hache Frénétique,Berseker Ax,2,6,0.33,33%,14.0,4.67,28,2,7.0,2.33,4.67,1.56
+Lame Affutée,Sharp Blade,6,6,1.0,100%,4.5,4.5,27,3,1.5,1.5,1.12,1.12
+Sabre Versatile,Versatil Saber,2,6,0.33,33%,11.0,3.67,22,1,11.0,3.67,5.5,1.83
+Pillard Féroce,Savage Looter,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
+Le Marionnettiste,The Puppeteer,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
+Marteleur précis,Precise Hammer,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
+Esprit omniprésent,Omnipresent Spirit,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,6,0.17,17%,17.0,2.83,17,2,8.5,1.42,5.67,0.94
+Adrénaline Arcanique,Arcane Adrenaline,1,6,0.17,17%,16.0,2.67,16,1,16.0,2.67,8.0,1.33
+Armure d'Immortel,Immortal Breastplate,1,6,0.17,17%,14.0,2.33,14,1,14.0,2.33,7.0,1.17
+Totem du Gardien,Guardian Totem,6,6,1.0,100%,2.33,2.33,14,3,0.78,0.78,0.58,0.58
+Explosion Arcanique,Arcane Explosive,1,6,0.17,17%,12.0,2.0,12,1,12.0,2.0,6.0,1.0
