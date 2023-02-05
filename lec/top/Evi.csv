@@ -1,27 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.71,15.71,110,2,7.86,7.86,5.24,5.24
-Lame Affutée,Sharp Blade,7,7,1.0,100%,12.0,12.0,84,3,4.0,4.0,3.0,3.0
-Faux,Scythe,7,7,1.0,100%,11.43,11.43,80,3,3.81,3.81,2.86,2.86
-Ascension Divine,Divine Ascent,3,7,0.43,43%,25.0,10.71,75,3,8.33,3.57,6.25,2.68
-Hache Frénétique,Berseker Ax,5,7,0.71,71%,14.0,10.0,70,2,7.0,5.0,4.67,3.33
-Épée Obscure,Swords of Darkness,4,7,0.57,57%,17.0,9.71,68,1,17.0,9.71,8.5,4.86
-Le Marionnettiste,The Puppeteer,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29,6.67,2.86
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,7,0.43,43%,17.0,7.29,51,2,8.5,3.65,5.67,2.43
-Marteau Collecteur,Collecting Hammer,3,7,0.43,43%,16.0,6.86,48,2,8.0,3.43,5.33,2.29
-Esprit de l'Écuyer,Spirit of the Squire,6,7,0.86,86%,8.0,6.86,48,3,2.67,2.29,2.0,1.72
-Aveuglement,Incapacitor,7,7,1.0,100%,6.0,6.0,42,3,2.0,2.0,1.5,1.5
-Danse Macabre,Dance of Death,4,7,0.57,57%,8.0,4.57,32,1,8.0,4.57,4.0,2.29
-Chasseur d'Âmes,Soul Hunter,2,7,0.29,29%,15.0,4.29,30,1,15.0,4.29,7.5,2.15
-Faux Assoiffées,Thirsty Scythes,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19,6.25,0.89
-Coup de Mort,Death Helper,2,7,0.29,29%,10.0,2.86,20,1,10.0,2.86,5.0,1.43
-Armure d'Obsidienne,Obsidian Battle Plate,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
-Assistance Divine,Sacred Help,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,2.57,2.57,18,3,0.86,0.86,0.64,0.64
-Esprit omniprésent,Omnipresent Spirit,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
-Marteleur précis,Precise Hammer,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
-Enchaînement Éclair,Unstoppable Lightning,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
-Soif de Sang,Thirsty Dagger,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
-Elan de Fureur,Rampage Momentum,1,7,0.14,14%,15.0,2.14,15,2,7.5,1.07,5.0,0.71
-Armure d'Immortel,Immortal Breastplate,1,7,0.14,14%,14.0,2.0,14,1,14.0,2.0,7.0,1.0
-Sabre Versatile,Versatil Saber,1,7,0.14,14%,11.0,1.57,11,1,11.0,1.57,5.5,0.79
-Désintégrateur Magnétique,Magnetic Disintegrator,1,7,0.14,14%,11.0,1.57,11,0,Gratuit,Gratuit,11.0,1.57
+Totem Équivalent,Equivalent Totem,8,8,1.0,100%,15.88,15.88,127,2,7.94,7.94,5.29,5.29
+Faux,Scythe,8,8,1.0,100%,11.75,11.75,94,3,3.92,3.92,2.94,2.94
+Lame Affutée,Sharp Blade,8,8,1.0,100%,10.88,10.88,87,3,3.63,3.63,2.72,2.72
+Ascension Divine,Divine Ascent,3,8,0.38,38%,25.0,9.38,75,3,8.33,3.13,6.25,2.35
+Hache Frénétique,Berseker Ax,5,8,0.62,62%,14.0,8.75,70,2,7.0,4.38,4.67,2.92
+Épée Obscure,Swords of Darkness,4,8,0.5,50%,17.0,8.5,68,1,17.0,8.5,8.5,4.25
+Le Marionnettiste,The Puppeteer,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
+Marteau Collecteur,Collecting Hammer,4,8,0.5,50%,15.0,7.5,60,2,7.5,3.75,5.0,2.5
+Esprit de l'Écuyer,Spirit of the Squire,7,8,0.88,88%,7.71,6.75,54,3,2.57,2.25,1.93,1.69
+Économe Sagesse du Trésorier,Treasurer's Wisdom,3,8,0.38,38%,17.0,6.38,51,2,8.5,3.19,5.67,2.13
+Aveuglement,Incapacitor,8,8,1.0,100%,5.62,5.62,45,3,1.87,1.87,1.41,1.41
+Assistance Divine,Sacred Help,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
+Danse Macabre,Dance of Death,4,8,0.5,50%,8.0,4.0,32,1,8.0,4.0,4.0,2.0
+Chasseur d'Âmes,Soul Hunter,2,8,0.25,25%,15.0,3.75,30,1,15.0,3.75,7.5,1.88
+Faux Assoiffées,Thirsty Scythes,1,8,0.12,12%,25.0,3.12,25,3,8.33,1.04,6.25,0.78
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.62,2.62,21,3,0.87,0.87,0.66,0.66
+Coup de Mort,Death Helper,2,8,0.25,25%,10.0,2.5,20,1,10.0,2.5,5.0,1.25
+Armure d'Obsidienne,Obsidian Battle Plate,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
+Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
+Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
+Enchaînement Éclair,Unstoppable Lightning,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
+Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
+Elan de Fureur,Rampage Momentum,1,8,0.12,12%,15.0,1.88,15,2,7.5,0.94,5.0,0.63
+Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75,7.0,0.88
+Sabre Versatile,Versatil Saber,1,8,0.12,12%,11.0,1.38,11,1,11.0,1.38,5.5,0.69
+Désintégrateur Magnétique,Magnetic Disintegrator,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
