@@ -1,5 +1,11 @@
 # FantasyStats
 
+- [link](##Présentation) Présentation
+- [link](##Download) Download
+- [link](##Visuel) Visuel
+
+## Présentation
+
 Les données sont sous forme de csv, pour les consulter vous avez deux solutions : 
 
 - Vous pouvez cliquer sur les dossiers des ligues puis des roles puis des joueurs que vous voulez consulter, vous pouvez aussi consulter les stats d'un role entier en cliquant sur all.csv et vous arriverez sur cette vue sur laquelle vous pourrez consulter les données
@@ -28,8 +34,7 @@ LVP : https://github.com/RICHARD-Quentin/FantasyStats/blob/main/superliga/superl
 
 ## Visuel 
 
-![statsfantasy](https://user-images.githubusercontent.com/56677909/175285408-603e457f-7c72-4f6e-b474-904ee92d99dc.PNG)
-
+![image](https://user-images.githubusercontent.com/56677909/216949928-dd1558cd-2ece-4da0-afe0-2f84ee474926.png)
 
 ## Nb de games valide
 
