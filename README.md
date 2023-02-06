@@ -1,8 +1,8 @@
 # FantasyStats
 
-- [link](##Présentation) Présentation
-- [link](##Download) Download
-- [link](##Visuel) Visuel
+- [link](#présentation) Présentation
+- [link](#download) Download
+- [link](#visuel) Visuel
 
 ## Présentation
 
