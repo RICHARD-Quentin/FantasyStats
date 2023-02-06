@@ -1,6 +1,14 @@
 # FantasyStats
 
-Les données sont sous forme de csv, vous pouvez facilement les importer dans votre tableur préféré, vous pouvez cliquer sur le bouton "tag" au dessus des fichiers pour avoir les stats a une semaine donnée ( première semaine étant celle du 23/06/2022 )
+Les données sont sous forme de csv, pour les consulter vous avez deux solutions : 
+
+- Vous pouvez cliquer sur les dossiers des ligues puis des roles puis des joueurs que vous voulez consulter, vous pouvez aussi consulter les stats d'un role entier en cliquant sur all.csv et vous arriverez sur cette vue sur laquelle vous pourrez consulter les données
+
+![image](https://user-images.githubusercontent.com/56677909/216947254-d9a02448-bfe9-4bfb-ab3e-238b08f028b8.png)
+
+
+- Vous pouvez facilement les importer dans votre tableur préféré, vous pouvez cliquer sur le bouton "tag" au dessus des fichiers pour avoir les stats a une semaine donnée ( première semaine étant celle du 23/06/2022 ) ( choisissez bien d'importer un CSV et de choisir comme séparateur la virgule et le saut de ligne comme séparateur de lignes meme si c'est normalement le format par default )
+
 ![tags fantasy](https://user-images.githubusercontent.com/56677909/175285418-5c0594bb-e8dd-4aed-a786-d4ad6793a395.PNG)
 
 Les données prennent en compte toute les données des games qu'elles soient des victoires ou des defaites.
