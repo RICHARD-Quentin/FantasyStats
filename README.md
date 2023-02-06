@@ -9,7 +9,7 @@ Les données sont sous forme de csv, pour les consulter vous avez deux solutions
 
 - Vous pouvez facilement les importer dans votre tableur préféré, vous pouvez cliquer sur le bouton "tag" au dessus des fichiers pour avoir les stats a une semaine donnée ( première semaine étant celle du 23/06/2022 ) ( choisissez bien d'importer un CSV et de choisir comme séparateur la virgule et le saut de ligne comme séparateur de lignes meme si c'est normalement le format par default )
 
-![tags fantasy](https://user-images.githubusercontent.com/56677909/175285418-5c0594bb-e8dd-4aed-a786-d4ad6793a395.PNG)
+![tags fantasy](![image](https://user-images.githubusercontent.com/56677909/216948250-61f627b4-b505-432e-91bc-c2aaf70b908f.png))
 
 Les données prennent en compte toute les données des games qu'elles soient des victoires ou des defaites.
 Dans chaque dossier de chaque ligue se trouve les données de chaque joueurs ainsi que celles pour tout les joueurs confondus.
@@ -22,6 +22,9 @@ LEC : https://github.com/RICHARD-Quentin/FantasyStats/raw/main/lec/lec.zip
 
 
 LFL : https://github.com/RICHARD-Quentin/FantasyStats/raw/main/lfl/lfl.zip
+
+
+LVP : https://github.com/RICHARD-Quentin/FantasyStats/blob/main/superliga/superliga.zip
 
 ## Visuel 
 
