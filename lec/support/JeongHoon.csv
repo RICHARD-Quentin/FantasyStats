@@ -1,26 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,20.12,20.12,161,3,6.71,6.71,5.03,5.03
-Marteau Collecteur,Collecting Hammer,8,8,1.0,100%,17.25,17.25,138,2,8.62,8.62,5.75,5.75
-Le Traqueur,The Stalker,8,8,1.0,100%,16.0,16.0,128,3,5.33,5.33,4.0,4.0
-Le Visionnaire,The Visionary,7,8,0.88,88%,18.0,15.75,126,2,9.0,7.88,6.0,5.25
-Vision Céleste,Heavenly Vision,5,8,0.62,62%,22.0,13.75,110,2,11.0,6.88,7.33,4.58
-Esprit de l'Écuyer,Spirit of the Squire,7,8,0.88,88%,15.43,13.5,108,3,5.14,4.5,3.86,3.38
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,12.25,12.25,98,2,6.12,6.12,4.08,4.08
-Aveuglement,Incapacitor,8,8,1.0,100%,9.38,9.38,75,3,3.13,3.13,2.35,2.35
-Esprit omniprésent,Omnipresent Spirit,4,8,0.5,50%,18.0,9.0,72,2,9.0,4.5,6.0,3.0
-Bâton de Conquête,Conquering Staff,3,8,0.38,38%,24.0,9.0,72,2,12.0,4.5,8.0,3.0
-Œil de Lynx,Hawk's Eye,8,8,1.0,100%,8.0,8.0,64,0,Gratuit,Gratuit,8.0,8.0
-Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Assistance Divine,Sacred Help,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Le Marionnettiste,The Puppeteer,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Coup de Mort,Death Helper,5,8,0.62,62%,10.0,6.25,50,1,10.0,6.25,5.0,3.12
-Amulette Omnisciente,Omnipresent Amulet,3,8,0.38,38%,11.0,4.12,33,0,Gratuit,Gratuit,11.0,4.12
-Masse de Siège,Siege Mace,2,8,0.25,25%,16.0,4.0,32,0,Gratuit,Gratuit,16.0,4.0
-Force Divine,Divine Impetu,2,8,0.25,25%,11.0,2.75,22,0,Gratuit,Gratuit,11.0,2.75
-Sabre Versatile,Versatil Saber,2,8,0.25,25%,11.0,2.75,22,1,11.0,2.75,5.5,1.38
-Être de Lumière,Being of Light,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
-Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
-Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75,7.0,0.88
-Lame Affutée,Sharp Blade,4,8,0.5,50%,3.0,1.5,12,3,1.0,0.5,0.75,0.38
-Bâton du Conquérant,Staff of Conquered Worlds,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
-Faux,Scythe,5,8,0.62,62%,1.2,0.75,6,3,0.4,0.25,0.3,0.19
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,19.56,19.56,176,3,6.52,6.52,4.89,4.89
+Le Traqueur,The Stalker,9,9,1.0,100%,16.0,16.0,144,3,5.33,5.33,4.0,4.0
+Le Visionnaire,The Visionary,8,9,0.89,89%,18.0,16.0,144,2,9.0,8.0,6.0,5.33
+Marteau Collecteur,Collecting Hammer,8,9,0.89,89%,17.25,15.33,138,2,8.62,7.67,5.75,5.11
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,12.22,12.22,110,2,6.11,6.11,4.07,4.07
+Vision Céleste,Heavenly Vision,5,9,0.56,56%,22.0,12.22,110,2,11.0,6.11,7.33,4.07
+Esprit de l'Écuyer,Spirit of the Squire,7,9,0.78,78%,15.43,12.0,108,3,5.14,4.0,3.86,3.0
+Assistance Divine,Sacred Help,4,9,0.44,44%,20.0,8.89,80,2,10.0,4.45,6.67,2.96
+Aveuglement,Incapacitor,9,9,1.0,100%,8.67,8.67,78,3,2.89,2.89,2.17,2.17
+Œil de Lynx,Hawk's Eye,9,9,1.0,100%,8.0,8.0,72,0,Gratuit,Gratuit,8.0,8.0
+Esprit omniprésent,Omnipresent Spirit,4,9,0.44,44%,18.0,8.0,72,2,9.0,4.0,6.0,2.67
+Bâton de Conquête,Conquering Staff,3,9,0.33,33%,24.0,8.0,72,2,12.0,4.0,8.0,2.67
+Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Le Marionnettiste,The Puppeteer,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Coup de Mort,Death Helper,5,9,0.56,56%,10.0,5.56,50,1,10.0,5.56,5.0,2.78
+Masse de Siège,Siege Mace,3,9,0.33,33%,16.0,5.33,48,0,Gratuit,Gratuit,16.0,5.33
+Être de Lumière,Being of Light,2,9,0.22,22%,18.0,4.0,36,1,18.0,4.0,9.0,2.0
+Amulette Omnisciente,Omnipresent Amulet,3,9,0.33,33%,11.0,3.67,33,0,Gratuit,Gratuit,11.0,3.67
+Force Divine,Divine Impetu,2,9,0.22,22%,11.0,2.44,22,0,Gratuit,Gratuit,11.0,2.44
+Sabre Versatile,Versatil Saber,2,9,0.22,22%,11.0,2.44,22,1,11.0,2.44,5.5,1.22
+Marteleur précis,Precise Hammer,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
+Armure d'Immortel,Immortal Breastplate,1,9,0.11,11%,14.0,1.56,14,1,14.0,1.56,7.0,0.78
+Lame Affutée,Sharp Blade,4,9,0.44,44%,3.0,1.33,12,3,1.0,0.44,0.75,0.33
+Bâton du Conquérant,Staff of Conquered Worlds,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit,11.0,1.22
+Faux,Scythe,5,9,0.56,56%,1.2,0.67,6,3,0.4,0.22,0.3,0.17

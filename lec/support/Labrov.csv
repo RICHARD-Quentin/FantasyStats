@@ -1,25 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,18.38,18.38,147,3,6.13,6.13,4.59,4.59
-Esprit de l'Écuyer,Spirit of the Squire,8,8,1.0,100%,15.38,15.38,123,3,5.13,5.13,3.85,3.85
-Bâton de Conquête,Conquering Staff,5,8,0.62,62%,24.0,15.0,120,2,12.0,7.5,8.0,5.0
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,14.0,14.0,112,2,7.0,7.0,4.67,4.67
-Le Traqueur,The Stalker,7,8,0.88,88%,16.0,14.0,112,3,5.33,4.67,4.0,3.5
-Aveuglement,Incapacitor,8,8,1.0,100%,12.75,12.75,102,3,4.25,4.25,3.19,3.19
-Armure d'Obsidienne,Obsidian Battle Plate,4,8,0.5,50%,20.0,10.0,80,2,10.0,5.0,6.67,3.33
-Œil de Lynx,Hawk's Eye,8,8,1.0,100%,8.0,8.0,64,0,Gratuit,Gratuit,8.0,8.0
-Marteau Collecteur,Collecting Hammer,5,8,0.62,62%,12.0,7.5,60,2,6.0,3.75,4.0,2.5
-Coup de Mort,Death Helper,6,8,0.75,75%,10.0,7.5,60,1,10.0,7.5,5.0,3.75
-Amulette Omnisciente,Omnipresent Amulet,4,8,0.5,50%,11.0,5.5,44,0,Gratuit,Gratuit,11.0,5.5
-Hache Frénétique,Berseker Ax,3,8,0.38,38%,14.0,5.25,42,2,7.0,2.62,4.67,1.75
-Le Visionnaire,The Visionary,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
-Esprit omniprésent,Omnipresent Spirit,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
-Armure d'Immortel,Immortal Breastplate,2,8,0.25,25%,14.0,3.5,28,1,14.0,3.5,7.0,1.75
-Vision Céleste,Heavenly Vision,1,8,0.12,12%,22.0,2.75,22,2,11.0,1.38,7.33,0.92
-Sabre Versatile,Versatil Saber,2,8,0.25,25%,11.0,2.75,22,1,11.0,2.75,5.5,1.38
-Lame Affutée,Sharp Blade,6,8,0.75,75%,3.5,2.62,21,3,1.17,0.87,0.88,0.66
-Assistance Divine,Sacred Help,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
-Être de Lumière,Being of Light,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
-Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
-Bâton du Conquérant,Staff of Conquered Worlds,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
-Force Divine,Divine Impetu,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
-Faux,Scythe,7,8,0.88,88%,1.43,1.25,10,3,0.48,0.42,0.36,0.31
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,19.22,19.22,173,3,6.41,6.41,4.8,4.8
+Esprit de l'Écuyer,Spirit of the Squire,9,9,1.0,100%,16.0,16.0,144,3,5.33,5.33,4.0,4.0
+Bâton de Conquête,Conquering Staff,6,9,0.67,67%,24.0,16.0,144,2,12.0,8.0,8.0,5.33
+Le Traqueur,The Stalker,8,9,0.89,89%,16.0,14.22,128,3,5.33,4.74,4.0,3.56
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,14.11,14.11,127,2,7.05,7.05,4.7,4.7
+Aveuglement,Incapacitor,9,9,1.0,100%,13.0,13.0,117,3,4.33,4.33,3.25,3.25
+Armure d'Obsidienne,Obsidian Battle Plate,4,9,0.44,44%,20.0,8.89,80,2,10.0,4.45,6.67,2.96
+Œil de Lynx,Hawk's Eye,9,9,1.0,100%,8.0,8.0,72,0,Gratuit,Gratuit,8.0,8.0
+Coup de Mort,Death Helper,7,9,0.78,78%,10.0,7.78,70,1,10.0,7.78,5.0,3.89
+Marteau Collecteur,Collecting Hammer,5,9,0.56,56%,12.0,6.67,60,2,6.0,3.33,4.0,2.22
+Amulette Omnisciente,Omnipresent Amulet,5,9,0.56,56%,11.0,6.11,55,0,Gratuit,Gratuit,11.0,6.11
+Le Visionnaire,The Visionary,3,9,0.33,33%,18.0,6.0,54,2,9.0,3.0,6.0,2.0
+Vision Céleste,Heavenly Vision,2,9,0.22,22%,22.0,4.89,44,2,11.0,2.44,7.33,1.63
+Hache Frénétique,Berseker Ax,3,9,0.33,33%,14.0,4.67,42,2,7.0,2.33,4.67,1.56
+Esprit omniprésent,Omnipresent Spirit,2,9,0.22,22%,18.0,4.0,36,2,9.0,2.0,6.0,1.33
+Armure d'Immortel,Immortal Breastplate,2,9,0.22,22%,14.0,3.11,28,1,14.0,3.11,7.0,1.55
+Sabre Versatile,Versatil Saber,2,9,0.22,22%,11.0,2.44,22,1,11.0,2.44,5.5,1.22
+Lame Affutée,Sharp Blade,6,9,0.67,67%,3.5,2.33,21,3,1.17,0.78,0.88,0.58
+Assistance Divine,Sacred Help,1,9,0.11,11%,20.0,2.22,20,2,10.0,1.11,6.67,0.74
+Le Marionnettiste,The Puppeteer,1,9,0.11,11%,20.0,2.22,20,2,10.0,1.11,6.67,0.74
+Être de Lumière,Being of Light,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
+Marteleur précis,Precise Hammer,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
+Bâton du Conquérant,Staff of Conquered Worlds,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit,11.0,1.22
+Force Divine,Divine Impetu,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit,11.0,1.22
+Faux,Scythe,8,9,0.89,89%,1.38,1.22,11,3,0.46,0.41,0.34,0.3

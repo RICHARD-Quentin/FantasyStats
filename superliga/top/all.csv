@@ -27,8 +27,8 @@ Elan de Fureur,Rampage Momentum,14,70,0.2,20%,15.0,3.0,210,2,7.5,1.5
 Tombeau Rocheux,Rock Tomb,21,70,0.3,30%,10.0,3.0,210,1,10.0,3.0
 Le Marionnettiste,The Puppeteer,9,70,0.13,13%,20.0,2.57,180,2,10.0,1.28
 Enchaînement Éclair,Unstoppable Lightning,9,70,0.13,13%,18.0,2.31,162,1,18.0,2.31
-Danse Macabre,Dance of Death,19,70,0.27,27%,8.0,2.17,152,1,8.0,2.17
 Œil de Lynx,Hawk's Eye,19,70,0.27,27%,8.0,2.17,152,0,Gratuit,Gratuit
+Danse Macabre,Dance of Death,19,70,0.27,27%,8.0,2.17,152,1,8.0,2.17
 Esprit Guerrier,Spirit of the Warrior,9,70,0.13,13%,16.0,2.06,144,1,16.0,2.06
 Désintégrateur Magnétique,Magnetic Disintegrator,10,70,0.14,14%,11.0,1.57,110,0,Gratuit,Gratuit
 Soif de Sang,Thirsty Dagger,7,70,0.1,10%,15.0,1.5,105,0,Gratuit,Gratuit
@@ -41,10 +41,10 @@ Pillard Féroce,Savage Looter,4,70,0.06,6%,20.0,1.14,80,1,20.0,1.14
 Masse Colossale,Colossal Mace,7,70,0.1,10%,11.0,1.1,77,0,Gratuit,Gratuit
 Chasseresse d'Âmes,Huntress of Souls,4,70,0.06,6%,19.0,1.09,76,1,19.0,1.09
 Mental d'Acier,Steel Aura,4,70,0.06,6%,18.0,1.03,72,2,9.0,0.52
-Pluie de Météorites,Meteorites,1,70,0.01,1%,70.0,1.0,70,0,Gratuit,Gratuit
 Épé Sainte,Holy Sword,7,70,0.1,10%,10.0,1.0,70,0,Gratuit,Gratuit
-Décharge Élémentaire,Elemental Discharge,3,70,0.04,4%,18.0,0.77,54,1,18.0,0.77
+Pluie de Météorites,Meteorites,1,70,0.01,1%,70.0,1.0,70,0,Gratuit,Gratuit
 Esprit omniprésent,Omnipresent Spirit,3,70,0.04,4%,18.0,0.77,54,2,9.0,0.39
+Décharge Élémentaire,Elemental Discharge,3,70,0.04,4%,18.0,0.77,54,1,18.0,0.77
 Griffes Sauvages,Wild Claw,27,70,0.39,39%,1.93,0.74,52,3,0.64,0.25
 Bâton de Conquête,Conquering Staff,1,70,0.01,1%,24.0,0.34,24,2,12.0,0.17
 Amulette Omnisciente,Omnipresent Amulet,2,70,0.03,3%,11.0,0.31,22,0,Gratuit,Gratuit
