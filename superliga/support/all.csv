@@ -1,32 +1,32 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total
-Totem du Gardien,Guardian Totem,70,70,1.0,100%,17.13,17.13,1199,3,5.71,5.71
-Totem Équivalent,Equivalent Totem,70,70,1.0,100%,12.94,12.94,906,2,6.47,6.47
-Le Traqueur,The Stalker,55,70,0.79,79%,16.0,12.57,880,3,5.33,4.19
-Esprit de l'Écuyer,Spirit of the Squire,66,70,0.94,94%,13.18,12.43,870,3,4.39,4.14
-Aveuglement,Incapacitor,66,70,0.94,94%,12.23,11.53,807,3,4.08,3.84
-Vision Céleste,Heavenly Vision,35,70,0.5,50%,22.0,11.0,770,2,11.0,5.5
-Armure d'Obsidienne,Obsidian Battle Plate,33,70,0.47,47%,20.0,9.43,660,2,10.0,4.71
-Le Visionnaire,The Visionary,36,70,0.51,51%,18.0,9.26,648,2,9.0,4.63
-Bâton de Conquête,Conquering Staff,25,70,0.36,36%,24.0,8.57,600,2,12.0,4.29
-Œil de Lynx,Hawk's Eye,70,70,1.0,100%,8.0,8.0,560,0,Gratuit,Gratuit
-Coup de Mort,Death Helper,40,70,0.57,57%,10.0,5.71,400,1,10.0,5.71
-Esprit omniprésent,Omnipresent Spirit,22,70,0.31,31%,18.0,5.66,396,2,9.0,2.83
-Assistance Divine,Sacred Help,19,70,0.27,27%,20.0,5.43,380,2,10.0,2.71
-Amulette Omnisciente,Omnipresent Amulet,27,70,0.39,39%,11.0,4.24,297,0,Gratuit,Gratuit
-Marteau Collecteur,Collecting Hammer,28,70,0.4,40%,10.5,4.2,294,2,5.25,2.1
-Sabre Versatile,Versatil Saber,25,70,0.36,36%,11.0,3.93,275,1,11.0,3.93
-Être de Lumière,Being of Light,13,70,0.19,19%,18.0,3.34,234,1,18.0,3.34
-Armure d'Immortel,Immortal Breastplate,13,70,0.19,19%,14.0,2.6,182,1,14.0,2.6
-Bâton du Conquérant,Staff of Conquered Worlds,15,70,0.21,21%,11.0,2.36,165,0,Gratuit,Gratuit
-Lame Affutée,Sharp Blade,33,70,0.47,47%,4.55,2.14,150,3,1.52,0.71
-Le Marionnettiste,The Puppeteer,6,70,0.09,9%,20.0,1.71,120,2,10.0,0.85
-Force Divine,Divine Impetu,9,70,0.13,13%,11.0,1.41,99,0,Gratuit,Gratuit
-Masse de Siège,Siege Mace,6,70,0.09,9%,16.0,1.37,96,0,Gratuit,Gratuit
-Soif de Sang,Thirsty Dagger,5,70,0.07,7%,15.0,1.07,75,0,Gratuit,Gratuit
-Faux,Scythe,52,70,0.74,74%,1.38,1.03,72,3,0.46,0.34
-Marteleur précis,Precise Hammer,2,70,0.03,3%,18.0,0.51,36,1,18.0,0.51
-Épée Obscure,Swords of Darkness,2,70,0.03,3%,17.0,0.49,34,1,17.0,0.49
-Désintégrateur Magnétique,Magnetic Disintegrator,3,70,0.04,4%,11.0,0.47,33,0,Gratuit,Gratuit
-Hache Frénétique,Berseker Ax,2,70,0.03,3%,14.0,0.4,28,2,7.0,0.2
-Danse Macabre,Dance of Death,2,70,0.03,3%,8.0,0.23,16,1,8.0,0.23
-Chasseur d'Âmes,Soul Hunter,1,70,0.01,1%,15.0,0.21,15,1,15.0,0.21
+Totem du Gardien,Guardian Totem,80,80,1.0,100%,17.36,17.36,1389,3,5.79,5.79
+Le Traqueur,The Stalker,65,80,0.81,81%,16.0,13.0,1040,3,5.33,4.33
+Totem Équivalent,Equivalent Totem,80,80,1.0,100%,12.99,12.99,1039,2,6.5,6.5
+Esprit de l'Écuyer,Spirit of the Squire,76,80,0.95,95%,13.3,12.64,1011,3,4.43,4.21
+Aveuglement,Incapacitor,76,80,0.95,95%,12.55,11.93,954,3,4.18,3.98
+Vision Céleste,Heavenly Vision,40,80,0.5,50%,22.0,11.0,880,2,11.0,5.5
+Armure d'Obsidienne,Obsidian Battle Plate,38,80,0.47,48%,20.0,9.5,760,2,10.0,4.75
+Bâton de Conquête,Conquering Staff,31,80,0.39,39%,24.0,9.3,744,2,12.0,4.65
+Le Visionnaire,The Visionary,41,80,0.51,51%,18.0,9.22,738,2,9.0,4.61
+Œil de Lynx,Hawk's Eye,80,80,1.0,100%,8.0,8.0,640,0,Gratuit,Gratuit
+Esprit omniprésent,Omnipresent Spirit,27,80,0.34,34%,18.0,6.08,486,2,9.0,3.04
+Coup de Mort,Death Helper,46,80,0.57,57%,10.0,5.75,460,1,10.0,5.75
+Assistance Divine,Sacred Help,22,80,0.28,28%,20.0,5.5,440,2,10.0,2.75
+Amulette Omnisciente,Omnipresent Amulet,32,80,0.4,40%,11.0,4.4,352,0,Gratuit,Gratuit
+Marteau Collecteur,Collecting Hammer,30,80,0.38,38%,10.8,4.05,324,2,5.4,2.02
+Sabre Versatile,Versatil Saber,28,80,0.35,35%,11.0,3.85,308,1,11.0,3.85
+Être de Lumière,Being of Light,14,80,0.17,18%,18.0,3.15,252,1,18.0,3.15
+Armure d'Immortel,Immortal Breastplate,15,80,0.19,19%,14.0,2.62,210,1,14.0,2.62
+Bâton du Conquérant,Staff of Conquered Worlds,19,80,0.24,24%,11.0,2.61,209,0,Gratuit,Gratuit
+Le Marionnettiste,The Puppeteer,9,80,0.11,11%,20.0,2.25,180,2,10.0,1.12
+Lame Affutée,Sharp Blade,36,80,0.45,45%,4.58,2.06,165,3,1.53,0.69
+Force Divine,Divine Impetu,11,80,0.14,14%,11.0,1.51,121,0,Gratuit,Gratuit
+Masse de Siège,Siege Mace,7,80,0.09,9%,16.0,1.4,112,0,Gratuit,Gratuit
+Faux,Scythe,62,80,0.78,78%,1.42,1.1,88,3,0.47,0.37
+Soif de Sang,Thirsty Dagger,5,80,0.06,6%,15.0,0.94,75,0,Gratuit,Gratuit
+Marteleur précis,Precise Hammer,3,80,0.04,4%,18.0,0.68,54,1,18.0,0.68
+Épée Obscure,Swords of Darkness,3,80,0.04,4%,17.0,0.64,51,1,17.0,0.64
+Désintégrateur Magnétique,Magnetic Disintegrator,4,80,0.05,5%,11.0,0.55,44,0,Gratuit,Gratuit
+Hache Frénétique,Berseker Ax,2,80,0.03,2%,14.0,0.35,28,2,7.0,0.17
+Danse Macabre,Dance of Death,2,80,0.03,2%,8.0,0.2,16,1,8.0,0.2
+Chasseur d'Âmes,Soul Hunter,1,80,0.01,1%,15.0,0.19,15,1,15.0,0.19

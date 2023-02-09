@@ -1,23 +1,25 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Gantelet Impérieux,Imperious Gauntlet,5,7,0.71,71%,30.0,21.43,150,1,30.0,21.43,15.0,10.71
-Totem Équivalent,Equivalent Totem,7,7,1.0,100%,16.57,16.57,116,2,8.29,8.29,5.52,5.52
-Faux,Scythe,7,7,1.0,100%,15.0,15.0,105,3,5.0,5.0,3.75,3.75
-Faux Parfaite,Perfect Scythe,6,7,0.86,86%,15.0,12.86,90,0,Gratuit,Gratuit,15.0,12.86
-Économe Sagesse du Trésorier,Treasurer's Wisdom,4,7,0.57,57%,17.0,9.71,68,2,8.5,4.86,5.67,3.24
-Faux Assoiffées,Thirsty Scythes,2,7,0.29,29%,25.0,7.14,50,3,8.33,2.38,6.25,1.78
-Ascension Divine,Divine Ascent,2,7,0.29,29%,25.0,7.14,50,3,8.33,2.38,6.25,1.78
-Esprit de l'Écuyer,Spirit of the Squire,5,7,0.71,71%,7.8,5.57,39,3,2.6,1.86,1.95,1.39
-Aveuglement,Incapacitor,5,7,0.71,71%,7.8,5.57,39,3,2.6,1.86,1.95,1.39
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,5.0,5.0,35,3,1.67,1.67,1.25,1.25
-Lame Affutée,Sharp Blade,6,7,0.86,86%,5.0,4.29,30,3,1.67,1.43,1.25,1.07
-Hache Frénétique,Berseker Ax,2,7,0.29,29%,14.0,4.0,28,2,7.0,2.0,4.67,1.33
-Bâton de Conquête,Conquering Staff,1,7,0.14,14%,24.0,3.43,24,2,12.0,1.72,8.0,1.14
-Armure d'Obsidienne,Obsidian Battle Plate,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
-Lame Insatiable,Fast Furious Blade,1,7,0.14,14%,16.0,2.29,16,2,8.0,1.15,5.33,0.76
-Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14,7.5,1.07
-Soif de Sang,Thirsty Dagger,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
-Désintégrateur Magnétique,Magnetic Disintegrator,1,7,0.14,14%,11.0,1.57,11,0,Gratuit,Gratuit,11.0,1.57
-Coup de Mort,Death Helper,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43,5.0,0.71
-Danse Macabre,Dance of Death,1,7,0.14,14%,8.0,1.14,8,1,8.0,1.14,4.0,0.57
-Œil de Lynx,Hawk's Eye,1,7,0.14,14%,8.0,1.14,8,0,Gratuit,Gratuit,8.0,1.14
-Griffes Sauvages,Wild Claw,1,7,0.14,14%,1.0,0.14,1,3,0.33,0.05,0.25,0.04
+Gantelet Impérieux,Imperious Gauntlet,5,8,0.62,62%,30.0,18.75,150,1,30.0,18.75,15.0,9.38
+Totem Équivalent,Equivalent Totem,8,8,1.0,100%,16.75,16.75,134,2,8.38,8.38,5.58,5.58
+Faux,Scythe,8,8,1.0,100%,15.12,15.12,121,3,5.04,5.04,3.78,3.78
+Faux Parfaite,Perfect Scythe,7,8,0.88,88%,15.0,13.12,105,0,Gratuit,Gratuit,15.0,13.12
+Économe Sagesse du Trésorier,Treasurer's Wisdom,5,8,0.62,62%,17.0,10.62,85,2,8.5,5.31,5.67,3.54
+Ascension Divine,Divine Ascent,3,8,0.38,38%,25.0,9.38,75,3,8.33,3.13,6.25,2.35
+Faux Assoiffées,Thirsty Scythes,2,8,0.25,25%,25.0,6.25,50,3,8.33,2.08,6.25,1.56
+Esprit de l'Écuyer,Spirit of the Squire,6,8,0.75,75%,8.0,6.0,48,3,2.67,2.0,2.0,1.5
+Hache Frénétique,Berseker Ax,3,8,0.38,38%,14.0,5.25,42,2,7.0,2.62,4.67,1.75
+Aveuglement,Incapacitor,6,8,0.75,75%,7.0,5.25,42,3,2.33,1.75,1.75,1.31
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,5.0,5.0,40,3,1.67,1.67,1.25,1.25
+Lame Affutée,Sharp Blade,7,8,0.88,88%,5.57,4.88,39,3,1.86,1.63,1.39,1.22
+Bâton de Conquête,Conquering Staff,1,8,0.12,12%,24.0,3.0,24,2,12.0,1.5,8.0,1.0
+Armure d'Obsidienne,Obsidian Battle Plate,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
+Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
+Épée Obscure,Swords of Darkness,1,8,0.12,12%,17.0,2.12,17,1,17.0,2.12,8.5,1.06
+Lame Insatiable,Fast Furious Blade,1,8,0.12,12%,16.0,2.0,16,2,8.0,1.0,5.33,0.67
+Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
+Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
+Désintégrateur Magnétique,Magnetic Disintegrator,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
+Coup de Mort,Death Helper,1,8,0.12,12%,10.0,1.25,10,1,10.0,1.25,5.0,0.62
+Danse Macabre,Dance of Death,1,8,0.12,12%,8.0,1.0,8,1,8.0,1.0,4.0,0.5
+Œil de Lynx,Hawk's Eye,1,8,0.12,12%,8.0,1.0,8,0,Gratuit,Gratuit,8.0,1.0
+Griffes Sauvages,Wild Claw,2,8,0.25,25%,1.5,0.38,3,3,0.5,0.13,0.38,0.1
