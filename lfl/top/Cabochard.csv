@@ -1,26 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,6,6,1.0,100%,16.33,16.33,98,2,8.16,8.16,5.44,5.44
-Gantelet Impérieux,Imperious Gauntlet,3,6,0.5,50%,30.0,15.0,90,1,30.0,15.0,15.0,7.5
-Faux,Scythe,6,6,1.0,100%,13.83,13.83,83,3,4.61,4.61,3.46,3.46
-Marteleur précis,Precise Hammer,4,6,0.67,67%,18.0,12.0,72,1,18.0,12.0,9.0,6.0
-Marteau Collecteur,Collecting Hammer,6,6,1.0,100%,11.0,11.0,66,2,5.5,5.5,3.67,3.67
-Hache Frénétique,Berseker Ax,4,6,0.67,67%,14.0,9.33,56,2,7.0,4.67,4.67,3.11
-Faux Parfaite,Perfect Scythe,3,6,0.5,50%,15.0,7.5,45,0,Gratuit,Gratuit,15.0,7.5
-Armure d'Obsidienne,Obsidian Battle Plate,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33,6.67,2.22
-Lame Affutée,Sharp Blade,5,6,0.83,83%,7.8,6.5,39,3,2.6,2.17,1.95,1.62
-Esprit omniprésent,Omnipresent Spirit,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
-Économe Sagesse du Trésorier,Treasurer's Wisdom,2,6,0.33,33%,17.0,5.67,34,2,8.5,2.83,5.67,1.89
-Aveuglement,Incapacitor,6,6,1.0,100%,5.5,5.5,33,3,1.83,1.83,1.38,1.38
-Ascension Divine,Divine Ascent,1,6,0.17,17%,25.0,4.17,25,3,8.33,1.39,6.25,1.04
-Esprit de l'Écuyer,Spirit of the Squire,5,6,0.83,83%,4.8,4.0,24,3,1.6,1.33,1.2,1.0
-Explosion Arcanique,Arcane Explosive,2,6,0.33,33%,12.0,4.0,24,1,12.0,4.0,6.0,2.0
-Totem du Gardien,Guardian Totem,6,6,1.0,100%,3.83,3.83,23,3,1.28,1.28,0.96,0.96
-Le Marionnettiste,The Puppeteer,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
-Être de Lumière,Being of Light,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
-Mental d'Acier,Steel Aura,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
-Esprit Guerrier,Spirit of the Warrior,1,6,0.17,17%,16.0,2.67,16,1,16.0,2.67,8.0,1.33
-Lame Insatiable,Fast Furious Blade,1,6,0.17,17%,16.0,2.67,16,2,8.0,1.33,5.33,0.89
-Chasseur d'Âmes,Soul Hunter,1,6,0.17,17%,15.0,2.5,15,1,15.0,2.5,7.5,1.25
-Soif de Sang,Thirsty Dagger,1,6,0.17,17%,15.0,2.5,15,0,Gratuit,Gratuit,15.0,2.5
-Désintégrateur Magnétique,Magnetic Disintegrator,1,6,0.17,17%,11.0,1.83,11,0,Gratuit,Gratuit,11.0,1.83
-Griffes Sauvages,Wild Claw,3,6,0.5,50%,2.0,1.0,6,3,0.67,0.33,0.5,0.25
+Totem Équivalent,Equivalent Totem,7,7,1.0,100%,16.29,16.29,114,2,8.14,8.14,5.43,5.43
+Faux,Scythe,7,7,1.0,100%,14.0,14.0,98,3,4.67,4.67,3.5,3.5
+Gantelet Impérieux,Imperious Gauntlet,3,7,0.43,43%,30.0,12.86,90,1,30.0,12.86,15.0,6.43
+Marteau Collecteur,Collecting Hammer,7,7,1.0,100%,10.29,10.29,72,2,5.14,5.14,3.43,3.43
+Marteleur précis,Precise Hammer,4,7,0.57,57%,18.0,10.29,72,1,18.0,10.29,9.0,5.14
+Hache Frénétique,Berseker Ax,5,7,0.71,71%,14.0,10.0,70,2,7.0,5.0,4.67,3.33
+Faux Parfaite,Perfect Scythe,4,7,0.57,57%,15.0,8.57,60,0,Gratuit,Gratuit,15.0,8.57
+Économe Sagesse du Trésorier,Treasurer's Wisdom,3,7,0.43,43%,17.0,7.29,51,2,8.5,3.65,5.67,2.43
+Lame Affutée,Sharp Blade,6,7,0.86,86%,8.5,7.29,51,3,2.83,2.43,2.12,1.82
+Armure d'Obsidienne,Obsidian Battle Plate,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
+Aveuglement,Incapacitor,7,7,1.0,100%,5.57,5.57,39,3,1.86,1.86,1.39,1.39
+Esprit omniprésent,Omnipresent Spirit,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57,6.0,1.71
+Soif de Sang,Thirsty Dagger,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,3.86,3.86,27,3,1.29,1.29,0.96,0.96
+Esprit de l'Écuyer,Spirit of the Squire,6,7,0.86,86%,4.5,3.86,27,3,1.5,1.29,1.12,0.96
+Ascension Divine,Divine Ascent,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19,6.25,0.89
+Explosion Arcanique,Arcane Explosive,2,7,0.29,29%,12.0,3.43,24,1,12.0,3.43,6.0,1.72
+Le Marionnettiste,The Puppeteer,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
+Être de Lumière,Being of Light,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
+Mental d'Acier,Steel Aura,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
+Esprit Guerrier,Spirit of the Warrior,1,7,0.14,14%,16.0,2.29,16,1,16.0,2.29,8.0,1.15
+Lame Insatiable,Fast Furious Blade,1,7,0.14,14%,16.0,2.29,16,2,8.0,1.15,5.33,0.76
+Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14,7.5,1.07
+Désintégrateur Magnétique,Magnetic Disintegrator,1,7,0.14,14%,11.0,1.57,11,0,Gratuit,Gratuit,11.0,1.57
+Griffes Sauvages,Wild Claw,4,7,0.57,57%,2.0,1.14,8,3,0.67,0.38,0.5,0.28
+Danse Macabre,Dance of Death,1,7,0.14,14%,8.0,1.14,8,1,8.0,1.14,4.0,0.57
