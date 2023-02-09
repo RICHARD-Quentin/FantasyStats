@@ -1,15 +1,15 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,4,7,0.57,57%,20.0,11.43,80,2,10.0,5.71,6.67,3.81
-Perce-Écailles,Scale Tearer,5,7,0.71,71%,12.0,8.57,60,3,4.0,2.86,3.0,2.14
-L'Oeil du Héraut,Eye of the Void,4,7,0.57,57%,14.0,8.0,56,0,Gratuit,Gratuit,14.0,8.0
-Marteau Dévastateur,Destroyer Hammer,7,7,1.0,100%,8.0,8.0,56,2,4.0,4.0,2.67,2.67
-Marteau Conquérant,Conquest Hammer,2,7,0.29,29%,22.0,6.29,44,3,7.33,2.1,5.5,1.57
-Masque du Baron,Baron' s Mask,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
-Écailles Magiques,Magic Scales,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
-Protection Royale,Royal Protector,2,7,0.29,29%,17.0,4.86,34,1,17.0,4.86,8.5,2.43
-Sceau Profanateur,Seal of Desecration,2,7,0.29,29%,16.0,4.57,32,2,8.0,2.29,5.33,1.52
-Première Ligne,First Line,4,7,0.57,57%,8.0,4.57,32,0,Gratuit,Gratuit,8.0,4.57
-Chasse au Gros,Big Worm Hunter,2,7,0.29,29%,13.0,3.71,26,3,4.33,1.24,3.25,0.93
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,7,0.14,14%,25.0,3.57,25,1,25.0,3.57,12.5,1.78
-Gardien Sous-terrain,Underworld Guardian,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14,7.5,1.07
-Frappes Éclair,Light Swords,1,7,0.14,14%,12.0,1.71,12,0,Gratuit,Gratuit,12.0,1.71
+Esprit de la Faille,Spirit of the Rift,4,8,0.5,50%,20.0,10.0,80,2,10.0,5.0,6.67,3.33
+Perce-Écailles,Scale Tearer,6,8,0.75,75%,10.83,8.12,65,3,3.61,2.71,2.71,2.03
+Écailles Magiques,Magic Scales,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
+Marteau Dévastateur,Destroyer Hammer,8,8,1.0,100%,7.5,7.5,60,2,3.75,3.75,2.5,2.5
+L'Oeil du Héraut,Eye of the Void,4,8,0.5,50%,14.0,7.0,56,0,Gratuit,Gratuit,14.0,7.0
+Marteau Conquérant,Conquest Hammer,2,8,0.25,25%,22.0,5.5,44,3,7.33,1.83,5.5,1.38
+Masque du Baron,Baron' s Mask,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
+Protection Royale,Royal Protector,2,8,0.25,25%,17.0,4.25,34,1,17.0,4.25,8.5,2.12
+Sceau Profanateur,Seal of Desecration,2,8,0.25,25%,16.0,4.0,32,2,8.0,2.0,5.33,1.33
+Première Ligne,First Line,4,8,0.5,50%,8.0,4.0,32,0,Gratuit,Gratuit,8.0,4.0
+Chasse au Gros,Big Worm Hunter,2,8,0.25,25%,13.0,3.25,26,3,4.33,1.08,3.25,0.81
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,8,0.12,12%,25.0,3.12,25,1,25.0,3.12,12.5,1.56
+Gardien Sous-terrain,Underworld Guardian,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
+Frappes Éclair,Light Swords,1,8,0.12,12%,12.0,1.5,12,0,Gratuit,Gratuit,12.0,1.5
