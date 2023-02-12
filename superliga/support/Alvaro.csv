@@ -1,25 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de l'Écuyer,Spirit of the Squire,8,8,1.0,100%,19.12,19.12,153,3,6.37,6.37,4.78,4.78
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,18.38,18.38,147,3,6.13,6.13,4.59,4.59
-Le Traqueur,The Stalker,7,8,0.88,88%,16.0,14.0,112,3,5.33,4.67,4.0,3.5
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,13.62,13.62,109,2,6.81,6.81,4.54,4.54
-Aveuglement,Incapacitor,8,8,1.0,100%,13.12,13.12,105,3,4.37,4.37,3.28,3.28
-Bâton de Conquête,Conquering Staff,4,8,0.5,50%,24.0,12.0,96,2,12.0,6.0,8.0,4.0
-Vision Céleste,Heavenly Vision,4,8,0.5,50%,22.0,11.0,88,2,11.0,5.5,7.33,3.67
-Le Visionnaire,The Visionary,4,8,0.5,50%,18.0,9.0,72,2,9.0,4.5,6.0,3.0
-Coup de Mort,Death Helper,7,8,0.88,88%,10.0,8.75,70,1,10.0,8.75,5.0,4.38
-Amulette Omnisciente,Omnipresent Amulet,6,8,0.75,75%,11.0,8.25,66,0,Gratuit,Gratuit,11.0,8.25
-Œil de Lynx,Hawk's Eye,8,8,1.0,100%,8.0,8.0,64,0,Gratuit,Gratuit,8.0,8.0
-Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Esprit omniprésent,Omnipresent Spirit,3,8,0.38,38%,18.0,6.75,54,2,9.0,3.38,6.0,2.25
-Marteau Collecteur,Collecting Hammer,3,8,0.38,38%,18.0,6.75,54,2,9.0,3.38,6.0,2.25
-Sabre Versatile,Versatil Saber,3,8,0.38,38%,11.0,4.12,33,1,11.0,4.12,5.5,2.06
-Bâton du Conquérant,Staff of Conquered Worlds,3,8,0.38,38%,11.0,4.12,33,0,Gratuit,Gratuit,11.0,4.12
-Armure d'Immortel,Immortal Breastplate,2,8,0.25,25%,14.0,3.5,28,1,14.0,3.5,7.0,1.75
-Force Divine,Divine Impetu,2,8,0.25,25%,11.0,2.75,22,0,Gratuit,Gratuit,11.0,2.75
-Le Marionnettiste,The Puppeteer,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
-Assistance Divine,Sacred Help,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
-Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
-Masse de Siège,Siege Mace,1,8,0.12,12%,16.0,2.0,16,0,Gratuit,Gratuit,16.0,2.0
-Lame Affutée,Sharp Blade,3,8,0.38,38%,5.0,1.88,15,3,1.67,0.63,1.25,0.47
-Faux,Scythe,8,8,1.0,100%,1.38,1.38,11,3,0.46,0.46,0.34,0.34
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,20.22,20.22,182,3,6.74,6.74,5.05,5.05
+Esprit de l'Écuyer,Spirit of the Squire,9,9,1.0,100%,18.0,18.0,162,3,6.0,6.0,4.5,4.5
+Aveuglement,Incapacitor,9,9,1.0,100%,15.0,15.0,135,3,5.0,5.0,3.75,3.75
+Le Traqueur,The Stalker,8,9,0.89,89%,16.0,14.22,128,3,5.33,4.74,4.0,3.56
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,13.67,13.67,123,2,6.83,6.83,4.56,4.56
+Bâton de Conquête,Conquering Staff,5,9,0.56,56%,24.0,13.33,120,2,12.0,6.67,8.0,4.44
+Vision Céleste,Heavenly Vision,4,9,0.44,44%,22.0,9.78,88,2,11.0,4.89,7.33,3.26
+Œil de Lynx,Hawk's Eye,9,9,1.0,100%,8.0,8.0,72,0,Gratuit,Gratuit,8.0,8.0
+Le Visionnaire,The Visionary,4,9,0.44,44%,18.0,8.0,72,2,9.0,4.0,6.0,2.67
+Coup de Mort,Death Helper,7,9,0.78,78%,10.0,7.78,70,1,10.0,7.78,5.0,3.89
+Amulette Omnisciente,Omnipresent Amulet,6,9,0.67,67%,11.0,7.33,66,0,Gratuit,Gratuit,11.0,7.33
+Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Marteau Collecteur,Collecting Hammer,3,9,0.33,33%,18.0,6.0,54,2,9.0,3.0,6.0,2.0
+Esprit omniprésent,Omnipresent Spirit,3,9,0.33,33%,18.0,6.0,54,2,9.0,3.0,6.0,2.0
+Assistance Divine,Sacred Help,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
+Bâton du Conquérant,Staff of Conquered Worlds,3,9,0.33,33%,11.0,3.67,33,0,Gratuit,Gratuit,11.0,3.67
+Sabre Versatile,Versatil Saber,3,9,0.33,33%,11.0,3.67,33,1,11.0,3.67,5.5,1.83
+Armure d'Immortel,Immortal Breastplate,2,9,0.22,22%,14.0,3.11,28,1,14.0,3.11,7.0,1.55
+Force Divine,Divine Impetu,2,9,0.22,22%,11.0,2.44,22,0,Gratuit,Gratuit,11.0,2.44
+Le Marionnettiste,The Puppeteer,1,9,0.11,11%,20.0,2.22,20,2,10.0,1.11,6.67,0.74
+Lame Affutée,Sharp Blade,4,9,0.44,44%,4.5,2.0,18,3,1.5,0.67,1.12,0.5
+Marteleur précis,Precise Hammer,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
+Être de Lumière,Being of Light,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
+Masse de Siège,Siege Mace,1,9,0.11,11%,16.0,1.78,16,0,Gratuit,Gratuit,16.0,1.78
+Faux,Scythe,9,9,1.0,100%,1.44,1.44,13,3,0.48,0.48,0.36,0.36

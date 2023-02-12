@@ -19,8 +19,8 @@ Totem du Gardien,Guardian Totem,80,80,1.0,100%,4.28,4.28,342,3,1.43,1.43
 Elan de Fureur,Rampage Momentum,22,80,0.28,28%,15.0,4.12,330,2,7.5,2.06
 Assistance Divine,Sacred Help,13,80,0.16,16%,20.0,3.25,260,2,10.0,1.62
 Enchaînement Éclair,Unstoppable Lightning,14,80,0.17,18%,18.0,3.15,252,1,18.0,3.15
-Explosion Arcanique,Arcane Explosive,21,80,0.26,26%,12.0,3.15,252,1,12.0,3.15
 Parchemin Secret,Secret Scroll,14,80,0.17,18%,18.0,3.15,252,2,9.0,1.57
+Explosion Arcanique,Arcane Explosive,21,80,0.26,26%,12.0,3.15,252,1,12.0,3.15
 Danse Macabre,Dance of Death,31,80,0.39,39%,8.0,3.1,248,1,8.0,3.1
 Chasseresse d'Âmes,Huntress of Souls,13,80,0.16,16%,19.0,3.09,247,1,19.0,3.09
 Sabre Versatile,Versatil Saber,22,80,0.28,28%,11.0,3.02,242,1,11.0,3.02
@@ -32,8 +32,8 @@ Aura Légendaire,Legend Aura,5,80,0.06,6%,40.0,2.5,200,3,13.33,0.83
 Coup de Mort,Death Helper,18,80,0.23,22%,10.0,2.25,180,1,10.0,2.25
 Esprit omniprésent,Omnipresent Spirit,9,80,0.11,11%,18.0,2.02,162,2,9.0,1.01
 Épé Sainte,Holy Sword,16,80,0.2,20%,10.0,2.0,160,0,Gratuit,Gratuit
-Désintégrateur Magnétique,Magnetic Disintegrator,13,80,0.16,16%,11.0,1.79,143,0,Gratuit,Gratuit
 Couronne du Roi Nain,Crown of the Dwarf King,11,80,0.14,14%,13.0,1.79,143,0,Gratuit,Gratuit
+Désintégrateur Magnétique,Magnetic Disintegrator,13,80,0.16,16%,11.0,1.79,143,0,Gratuit,Gratuit
 Chasseur d'Âmes,Soul Hunter,8,80,0.1,10%,15.0,1.5,120,1,15.0,1.5
 Œil de Lynx,Hawk's Eye,15,80,0.19,19%,8.0,1.5,120,0,Gratuit,Gratuit
 Force Divine,Divine Impetu,10,80,0.12,12%,11.0,1.38,110,0,Gratuit,Gratuit

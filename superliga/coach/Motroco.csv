@@ -1,10 +1,10 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Marteau Dévastateur,Destroyer Hammer,8,8,1.0,100%,7.5,7.5,60,2,3.75,3.75,2.5,2.5
-Perce-Écailles,Scale Tearer,6,8,0.75,75%,9.17,6.88,55,3,3.06,2.29,2.29,1.72
-L'Oeil du Héraut,Eye of the Void,5,8,0.62,62%,9.6,6.0,48,0,Gratuit,Gratuit,9.6,6.0
-Première Ligne,First Line,5,8,0.62,62%,8.0,5.0,40,0,Gratuit,Gratuit,8.0,5.0
-Masque du Baron,Baron' s Mask,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
-Écailles Magiques,Magic Scales,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
-Chasse au Gros,Big Worm Hunter,3,8,0.38,38%,13.0,4.88,39,3,4.33,1.63,3.25,1.22
-Sceau Profanateur,Seal of Desecration,2,8,0.25,25%,8.0,2.0,16,2,4.0,1.0,2.67,0.67
+Esprit de la Faille,Spirit of the Rift,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Marteau Dévastateur,Destroyer Hammer,8,9,0.89,89%,7.5,6.67,60,2,3.75,3.33,2.5,2.22
+Perce-Écailles,Scale Tearer,6,9,0.67,67%,9.17,6.11,55,3,3.06,2.04,2.29,1.53
+L'Oeil du Héraut,Eye of the Void,5,9,0.56,56%,9.6,5.33,48,0,Gratuit,Gratuit,9.6,5.33
+Première Ligne,First Line,5,9,0.56,56%,8.0,4.44,40,0,Gratuit,Gratuit,8.0,4.44
+Masque du Baron,Baron' s Mask,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
+Écailles Magiques,Magic Scales,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
+Chasse au Gros,Big Worm Hunter,3,9,0.33,33%,13.0,4.33,39,3,4.33,1.44,3.25,1.08
+Sceau Profanateur,Seal of Desecration,2,9,0.22,22%,8.0,1.78,16,2,4.0,0.89,2.67,0.59

@@ -15,8 +15,8 @@ Esprit Sauvage,Wild Spirit,6,8,0.75,75%,10.0,7.5,60,0,Gratuit,Gratuit,10.0,7.5
 Marteau Collecteur,Collecting Hammer,3,8,0.38,38%,18.0,6.75,54,2,9.0,3.38,6.0,2.25
 Lame Affutée,Sharp Blade,8,8,1.0,100%,5.62,5.62,45,3,1.87,1.87,1.41,1.41
 Le Marionnettiste,The Puppeteer,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
-Esprit omniprésent,Omnipresent Spirit,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
 Être de Lumière,Being of Light,2,8,0.25,25%,18.0,4.5,36,1,18.0,4.5,9.0,2.25
+Esprit omniprésent,Omnipresent Spirit,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
 Sabre Versatile,Versatil Saber,3,8,0.38,38%,11.0,4.12,33,1,11.0,4.12,5.5,2.06
 Coup de Mort,Death Helper,3,8,0.38,38%,10.0,3.75,30,1,10.0,3.75,5.0,1.88
 Hache Frénétique,Berseker Ax,2,8,0.25,25%,14.0,3.5,28,2,7.0,1.75,4.67,1.17
@@ -25,9 +25,9 @@ Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.62,2.62,21,3,0.87,0.87,0.66,0.66
 Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
 Économe Sagesse du Trésorier,Treasurer's Wisdom,1,8,0.12,12%,17.0,2.12,17,2,8.5,1.06,5.67,0.71
 Adrénaline Arcanique,Arcane Adrenaline,1,8,0.12,12%,16.0,2.0,16,1,16.0,2.0,8.0,1.0
-Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
-Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
 Elan de Fureur,Rampage Momentum,1,8,0.12,12%,15.0,1.88,15,2,7.5,0.94,5.0,0.63
+Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
+Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
 Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75,7.0,0.88
 Explosion Arcanique,Arcane Explosive,1,8,0.12,12%,12.0,1.5,12,1,12.0,1.5,6.0,0.75
 Bâton du Conquérant,Staff of Conquered Worlds,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
