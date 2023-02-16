@@ -1,22 +1,23 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,13.5,13.5,108,3,4.5,4.5,3.38,3.38
-Aveuglement,Incapacitor,8,8,1.0,100%,12.75,12.75,102,3,4.25,4.25,3.19,3.19
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,11.75,11.75,94,2,5.88,5.88,3.92,3.92
-Vision Céleste,Heavenly Vision,4,8,0.5,50%,22.0,11.0,88,2,11.0,5.5,7.33,3.67
-Bâton de Conquête,Conquering Staff,3,8,0.38,38%,24.0,9.0,72,2,12.0,4.5,8.0,3.0
-Œil de Lynx,Hawk's Eye,8,8,1.0,100%,8.0,8.0,64,0,Gratuit,Gratuit,8.0,8.0
-Le Traqueur,The Stalker,4,8,0.5,50%,16.0,8.0,64,3,5.33,2.67,4.0,2.0
-Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Esprit de l'Écuyer,Spirit of the Squire,6,8,0.75,75%,9.5,7.12,57,3,3.17,2.37,2.38,1.78
-Le Visionnaire,The Visionary,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
-Marteau Collecteur,Collecting Hammer,3,8,0.38,38%,8.0,3.0,24,2,4.0,1.5,2.67,1.0
-Bâton du Conquérant,Staff of Conquered Worlds,2,8,0.25,25%,11.0,2.75,22,0,Gratuit,Gratuit,11.0,2.75
-Le Marionnettiste,The Puppeteer,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
-Coup de Mort,Death Helper,2,8,0.25,25%,10.0,2.5,20,1,10.0,2.5,5.0,1.25
-Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
-Lame Affutée,Sharp Blade,3,8,0.38,38%,6.0,2.25,18,3,2.0,0.75,1.5,0.56
-Adrénaline Arcanique,Arcane Adrenaline,1,8,0.12,12%,16.0,2.0,16,1,16.0,2.0,8.0,1.0
-Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
-Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,14.0,1.75,14,1,14.0,1.75,7.0,0.88
-Faux,Scythe,8,8,1.0,100%,1.5,1.5,12,3,0.5,0.5,0.38,0.38
-Sabre Versatile,Versatil Saber,1,8,0.12,12%,11.0,1.38,11,1,11.0,1.38,5.5,0.69
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,12.33,12.33,111,3,4.11,4.11,3.08,3.08
+Aveuglement,Incapacitor,9,9,1.0,100%,12.0,12.0,108,3,4.0,4.0,3.0,3.0
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,11.67,11.67,105,2,5.83,5.83,3.89,3.89
+Vision Céleste,Heavenly Vision,4,9,0.44,44%,22.0,9.78,88,2,11.0,4.89,7.33,3.26
+Bâton de Conquête,Conquering Staff,3,9,0.33,33%,24.0,8.0,72,2,12.0,4.0,8.0,2.67
+Œil de Lynx,Hawk's Eye,8,9,0.89,89%,8.0,7.11,64,0,Gratuit,Gratuit,8.0,7.11
+Le Traqueur,The Stalker,4,9,0.44,44%,16.0,7.11,64,3,5.33,2.37,4.0,1.78
+Esprit de l'Écuyer,Spirit of the Squire,7,9,0.78,78%,8.57,6.67,60,3,2.86,2.22,2.14,1.67
+Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Le Visionnaire,The Visionary,2,9,0.22,22%,18.0,4.0,36,2,9.0,2.0,6.0,1.33
+Marteau Collecteur,Collecting Hammer,3,9,0.33,33%,8.0,2.67,24,2,4.0,1.33,2.67,0.89
+Bâton du Conquérant,Staff of Conquered Worlds,2,9,0.22,22%,11.0,2.44,22,0,Gratuit,Gratuit,11.0,2.44
+Coup de Mort,Death Helper,2,9,0.22,22%,10.0,2.22,20,1,10.0,2.22,5.0,1.11
+Le Marionnettiste,The Puppeteer,1,9,0.11,11%,20.0,2.22,20,2,10.0,1.11,6.67,0.74
+Lame Affutée,Sharp Blade,3,9,0.33,33%,6.0,2.0,18,3,2.0,0.67,1.5,0.5
+Faux,Scythe,9,9,1.0,100%,2.0,2.0,18,3,0.67,0.67,0.5,0.5
+Esprit omniprésent,Omnipresent Spirit,1,9,0.11,11%,18.0,2.0,18,2,9.0,1.0,6.0,0.67
+Adrénaline Arcanique,Arcane Adrenaline,1,9,0.11,11%,16.0,1.78,16,1,16.0,1.78,8.0,0.89
+Chasseur d'Âmes,Soul Hunter,1,9,0.11,11%,15.0,1.67,15,1,15.0,1.67,7.5,0.83
+Armure d'Immortel,Immortal Breastplate,1,9,0.11,11%,14.0,1.56,14,1,14.0,1.56,7.0,0.78
+Sabre Versatile,Versatil Saber,1,9,0.11,11%,11.0,1.22,11,1,11.0,1.22,5.5,0.61
+Griffes Sauvages,Wild Claw,1,9,0.11,11%,10.0,1.11,10,3,3.33,0.37,2.5,0.28
