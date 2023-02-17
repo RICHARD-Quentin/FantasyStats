@@ -1,26 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem du Gardien,Guardian Totem,9,9,1.0,100%,18.11,18.11,163,3,6.04,6.04,4.53,4.53
-Vision Céleste,Heavenly Vision,6,9,0.67,67%,22.0,14.67,132,2,11.0,7.33,7.33,4.89
-Le Traqueur,The Stalker,8,9,0.89,89%,16.0,14.22,128,3,5.33,4.74,4.0,3.56
-Aveuglement,Incapacitor,9,9,1.0,100%,13.33,13.33,120,3,4.44,4.44,3.33,3.33
-Totem Équivalent,Equivalent Totem,9,9,1.0,100%,13.11,13.11,118,2,6.55,6.55,4.37,4.37
-Le Visionnaire,The Visionary,6,9,0.67,67%,18.0,12.0,108,2,9.0,6.0,6.0,4.0
-Armure d'Obsidienne,Obsidian Battle Plate,5,9,0.56,56%,20.0,11.11,100,2,10.0,5.55,6.67,3.7
-Esprit de l'Écuyer,Spirit of the Squire,9,9,1.0,100%,10.67,10.67,96,3,3.56,3.56,2.67,2.67
-Œil de Lynx,Hawk's Eye,9,9,1.0,100%,8.0,8.0,72,0,Gratuit,Gratuit,8.0,8.0
-Bâton de Conquête,Conquering Staff,3,9,0.33,33%,24.0,8.0,72,2,12.0,4.0,8.0,2.67
-Coup de Mort,Death Helper,5,9,0.56,56%,10.0,5.56,50,1,10.0,5.56,5.0,2.78
-Armure d'Immortel,Immortal Breastplate,3,9,0.33,33%,14.0,4.67,42,1,14.0,4.67,7.0,2.33
-Le Marionnettiste,The Puppeteer,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
-Assistance Divine,Sacred Help,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
-Esprit omniprésent,Omnipresent Spirit,2,9,0.22,22%,18.0,4.0,36,2,9.0,2.0,6.0,1.33
-Être de Lumière,Being of Light,2,9,0.22,22%,18.0,4.0,36,1,18.0,4.0,9.0,2.0
-Bâton du Conquérant,Staff of Conquered Worlds,3,9,0.33,33%,11.0,3.67,33,0,Gratuit,Gratuit,11.0,3.67
-Soif de Sang,Thirsty Dagger,2,9,0.22,22%,15.0,3.33,30,0,Gratuit,Gratuit,15.0,3.33
-Sabre Versatile,Versatil Saber,2,9,0.22,22%,11.0,2.44,22,1,11.0,2.44,5.5,1.22
-Amulette Omnisciente,Omnipresent Amulet,2,9,0.22,22%,11.0,2.44,22,0,Gratuit,Gratuit,11.0,2.44
-Épée Obscure,Swords of Darkness,1,9,0.11,11%,17.0,1.89,17,1,17.0,1.89,8.5,0.94
-Lame Affutée,Sharp Blade,4,9,0.44,44%,3.75,1.67,15,3,1.25,0.56,0.94,0.42
-Faux,Scythe,8,9,0.89,89%,1.88,1.67,15,3,0.63,0.56,0.47,0.42
-Marteau Collecteur,Collecting Hammer,2,9,0.22,22%,6.0,1.33,12,2,3.0,0.67,2.0,0.44
-Désintégrateur Magnétique,Magnetic Disintegrator,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit,11.0,1.22
+Totem du Gardien,Guardian Totem,11,11,1.0,100%,19.0,19.0,209,3,6.33,6.33,4.75,4.75
+Vision Céleste,Heavenly Vision,8,11,0.73,73%,22.0,16.0,176,2,11.0,8.0,7.33,5.33
+Le Traqueur,The Stalker,10,11,0.91,91%,17.2,15.64,172,3,5.73,5.21,4.3,3.91
+Aveuglement,Incapacitor,11,11,1.0,100%,14.45,14.45,159,3,4.82,4.82,3.61,3.61
+Le Visionnaire,The Visionary,8,11,0.73,73%,18.0,13.09,144,2,9.0,6.54,6.0,4.36
+Totem Équivalent,Equivalent Totem,11,11,1.0,100%,13.0,13.0,143,2,6.5,6.5,4.33,4.33
+Armure d'Obsidienne,Obsidian Battle Plate,6,11,0.55,55%,20.0,10.91,120,2,10.0,5.46,6.67,3.64
+Esprit de l'Écuyer,Spirit of the Squire,11,11,1.0,100%,9.82,9.82,108,3,3.27,3.27,2.46,2.46
+Bâton de Conquête,Conquering Staff,4,11,0.36,36%,24.0,8.73,96,2,12.0,4.37,8.0,2.91
+Œil de Lynx,Hawk's Eye,11,11,1.0,100%,8.55,8.55,94,0,Gratuit,Gratuit,8.55,8.55
+Coup de Mort,Death Helper,5,11,0.45,45%,10.6,4.82,53,1,10.6,4.82,5.3,2.41
+Bâton du Conquérant,Staff of Conquered Worlds,4,11,0.36,36%,11.0,4.0,44,0,Gratuit,Gratuit,11.0,4.0
+Armure d'Immortel,Immortal Breastplate,3,11,0.27,27%,14.0,3.82,42,1,14.0,3.82,7.0,1.91
+Le Marionnettiste,The Puppeteer,2,11,0.18,18%,20.0,3.64,40,2,10.0,1.82,6.67,1.21
+Assistance Divine,Sacred Help,2,11,0.18,18%,20.0,3.64,40,2,10.0,1.82,6.67,1.21
+Esprit omniprésent,Omnipresent Spirit,2,11,0.18,18%,18.0,3.27,36,2,9.0,1.64,6.0,1.09
+Être de Lumière,Being of Light,2,11,0.18,18%,18.0,3.27,36,1,18.0,3.27,9.0,1.64
+Soif de Sang,Thirsty Dagger,2,11,0.18,18%,15.0,2.73,30,0,Gratuit,Gratuit,15.0,2.73
+Sabre Versatile,Versatil Saber,2,11,0.18,18%,11.0,2.0,22,1,11.0,2.0,5.5,1.0
+Amulette Omnisciente,Omnipresent Amulet,2,11,0.18,18%,11.0,2.0,22,0,Gratuit,Gratuit,11.0,2.0
+Faux,Scythe,10,11,0.91,91%,1.9,1.73,19,3,0.63,0.58,0.47,0.43
+Épée Obscure,Swords of Darkness,1,11,0.09,9%,17.0,1.55,17,1,17.0,1.55,8.5,0.78
+Lame Affutée,Sharp Blade,4,11,0.36,36%,3.75,1.36,15,3,1.25,0.45,0.94,0.34
+Marteau Collecteur,Collecting Hammer,2,11,0.18,18%,6.0,1.09,12,2,3.0,0.55,2.0,0.36
+Désintégrateur Magnétique,Magnetic Disintegrator,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit,11.0,1.0
