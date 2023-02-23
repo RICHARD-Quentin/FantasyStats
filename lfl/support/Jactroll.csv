@@ -1,26 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem du Gardien,Guardian Totem,9,10,0.9,90%,19.78,17.8,178,3,6.59,5.93,4.95,4.45
-Esprit de l'Écuyer,Spirit of the Squire,10,10,1.0,100%,16.2,16.2,162,3,5.4,5.4,4.05,4.05
-Le Traqueur,The Stalker,8,10,0.8,80%,16.5,13.2,132,3,5.5,4.4,4.12,3.3
-Totem Équivalent,Equivalent Totem,10,10,1.0,100%,13.1,13.1,131,2,6.55,6.55,4.37,4.37
-Le Visionnaire,The Visionary,7,10,0.7,70%,18.0,12.6,126,2,9.0,6.3,6.0,4.2
-Aveuglement,Incapacitor,10,10,1.0,100%,12.3,12.3,123,3,4.1,4.1,3.08,3.08
-Bâton de Conquête,Conquering Staff,4,10,0.4,40%,24.0,9.6,96,2,12.0,4.8,8.0,3.2
-Vision Céleste,Heavenly Vision,4,10,0.4,40%,22.0,8.8,88,2,11.0,4.4,7.33,2.93
-Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.4,8.4,84,0,Gratuit,Gratuit,8.4,8.4
-Armure d'Obsidienne,Obsidian Battle Plate,4,10,0.4,40%,20.0,8.0,80,2,10.0,4.0,6.67,2.67
-Coup de Mort,Death Helper,6,10,0.6,60%,10.0,6.0,60,1,10.0,6.0,5.0,3.0
-Assistance Divine,Sacred Help,3,10,0.3,30%,20.0,6.0,60,2,10.0,3.0,6.67,2.0
-Marteau Collecteur,Collecting Hammer,5,10,0.5,50%,11.0,5.5,55,2,5.5,2.75,3.67,1.83
-Amulette Omnisciente,Omnipresent Amulet,5,10,0.5,50%,11.0,5.5,55,0,Gratuit,Gratuit,11.0,5.5
-Esprit omniprésent,Omnipresent Spirit,3,10,0.3,30%,18.0,5.4,54,2,9.0,2.7,6.0,1.8
-Sabre Versatile,Versatil Saber,4,10,0.4,40%,11.0,4.4,44,1,11.0,4.4,5.5,2.2
-Le Marionnettiste,The Puppeteer,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0,6.67,1.33
-Bâton du Conquérant,Staff of Conquered Worlds,2,10,0.2,20%,11.0,2.2,22,0,Gratuit,Gratuit,11.0,2.2
-Être de Lumière,Being of Light,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8,9.0,0.9
-Masse de Siège,Siege Mace,1,10,0.1,10%,16.0,1.6,16,0,Gratuit,Gratuit,16.0,1.6
-Lame Affutée,Sharp Blade,3,10,0.3,30%,5.0,1.5,15,3,1.67,0.5,1.25,0.38
-Armure d'Immortel,Immortal Breastplate,1,10,0.1,10%,14.0,1.4,14,1,14.0,1.4,7.0,0.7
-Faux,Scythe,9,10,0.9,90%,1.33,1.2,12,3,0.44,0.4,0.33,0.3
-Désintégrateur Magnétique,Magnetic Disintegrator,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit,11.0,1.1
-Force Divine,Divine Impetu,1,10,0.1,10%,11.0,1.1,11,0,Gratuit,Gratuit,11.0,1.1
+Totem du Gardien,Guardian Totem,9,11,0.82,82%,19.78,16.18,178,3,6.59,5.39,4.95,4.04
+Esprit de l'Écuyer,Spirit of the Squire,11,11,1.0,100%,15.0,15.0,165,3,5.0,5.0,3.75,3.75
+Totem Équivalent,Equivalent Totem,11,11,1.0,100%,12.82,12.82,141,2,6.41,6.41,4.27,4.27
+Aveuglement,Incapacitor,11,11,1.0,100%,12.55,12.55,138,3,4.18,4.18,3.14,3.14
+Le Traqueur,The Stalker,8,11,0.73,73%,16.5,12.0,132,3,5.5,4.0,4.12,3.0
+Le Visionnaire,The Visionary,7,11,0.64,64%,18.0,11.45,126,2,9.0,5.72,6.0,3.82
+Bâton de Conquête,Conquering Staff,5,11,0.45,45%,24.0,10.91,120,2,12.0,5.46,8.0,3.64
+Œil de Lynx,Hawk's Eye,11,11,1.0,100%,8.55,8.55,94,0,Gratuit,Gratuit,8.55,8.55
+Vision Céleste,Heavenly Vision,4,11,0.36,36%,22.0,8.0,88,2,11.0,4.0,7.33,2.67
+Armure d'Obsidienne,Obsidian Battle Plate,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63,6.67,2.42
+Esprit omniprésent,Omnipresent Spirit,4,11,0.36,36%,18.0,6.55,72,2,9.0,3.27,6.0,2.18
+Marteau Collecteur,Collecting Hammer,6,11,0.55,55%,11.5,6.27,69,2,5.75,3.13,3.83,2.09
+Coup de Mort,Death Helper,6,11,0.55,55%,10.0,5.45,60,1,10.0,5.45,5.0,2.73
+Assistance Divine,Sacred Help,3,11,0.27,27%,20.0,5.45,60,2,10.0,2.73,6.67,1.82
+Amulette Omnisciente,Omnipresent Amulet,5,11,0.45,45%,11.0,5.0,55,0,Gratuit,Gratuit,11.0,5.0
+Sabre Versatile,Versatil Saber,4,11,0.36,36%,11.0,4.0,44,1,11.0,4.0,5.5,2.0
+Le Marionnettiste,The Puppeteer,2,11,0.18,18%,20.0,3.64,40,2,10.0,1.82,6.67,1.21
+Bâton du Conquérant,Staff of Conquered Worlds,3,11,0.27,27%,11.0,3.0,33,0,Gratuit,Gratuit,11.0,3.0
+Être de Lumière,Being of Light,1,11,0.09,9%,18.0,1.64,18,1,18.0,1.64,9.0,0.82
+Marteleur précis,Precise Hammer,1,11,0.09,9%,18.0,1.64,18,1,18.0,1.64,9.0,0.82
+Masse de Siège,Siege Mace,1,11,0.09,9%,16.0,1.45,16,0,Gratuit,Gratuit,16.0,1.45
+Lame Affutée,Sharp Blade,3,11,0.27,27%,5.0,1.36,15,3,1.67,0.45,1.25,0.34
+Armure d'Immortel,Immortal Breastplate,1,11,0.09,9%,14.0,1.27,14,1,14.0,1.27,7.0,0.64
+Faux,Scythe,10,11,0.91,91%,1.3,1.18,13,3,0.43,0.39,0.33,0.29
+Désintégrateur Magnétique,Magnetic Disintegrator,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit,11.0,1.0
+Force Divine,Divine Impetu,1,11,0.09,9%,11.0,1.0,11,0,Gratuit,Gratuit,11.0,1.0
