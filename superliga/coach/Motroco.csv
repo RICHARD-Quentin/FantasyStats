@@ -1,11 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Masque du Baron,Baron' s Mask,5,13,0.38,38%,23.0,8.85,115,2,11.5,4.42,7.67,2.95
-Chasse au Gros,Big Worm Hunter,6,13,0.46,46%,16.5,7.62,99,3,5.5,2.54,4.12,1.91
-Marteau Dévastateur,Destroyer Hammer,12,13,0.92,92%,8.0,7.38,96,2,4.0,3.69,2.67,2.46
-Perce-Écailles,Scale Tearer,9,13,0.69,69%,10.0,6.92,90,3,3.33,2.31,2.5,1.73
-Première Ligne,First Line,8,13,0.62,62%,8.0,4.92,64,0,Gratuit,Gratuit,8.0,4.92
-Esprit de la Faille,Spirit of the Rift,3,13,0.23,23%,20.0,4.62,60,2,10.0,2.31,6.67,1.54
-L'Oeil du Héraut,Eye of the Void,6,13,0.46,46%,9.5,4.38,57,0,Gratuit,Gratuit,9.5,4.38
-Écailles Magiques,Magic Scales,2,13,0.15,15%,20.0,3.08,40,2,10.0,1.54,6.67,1.03
-Sceau Profanateur,Seal of Desecration,3,13,0.23,23%,10.67,2.46,32,2,5.33,1.23,3.56,0.82
-Marteau Conquérant,Conquest Hammer,1,13,0.08,8%,22.0,1.69,22,3,7.33,0.56,5.5,0.42
+Masque du Baron,Baron' s Mask,7,15,0.47,47%,23.57,11.0,165,2,11.79,5.5,7.86,3.67
+Perce-Écailles,Scale Tearer,11,15,0.73,73%,12.0,8.8,132,3,4.0,2.93,3.0,2.2
+Chasse au Gros,Big Worm Hunter,8,15,0.53,53%,16.12,8.6,129,3,5.37,2.87,4.03,2.15
+Marteau Dévastateur,Destroyer Hammer,14,15,0.93,93%,9.14,8.53,128,2,4.57,4.26,3.05,2.84
+Écailles Magiques,Magic Scales,4,15,0.27,27%,22.5,6.0,90,2,11.25,3.0,7.5,2.0
+Première Ligne,First Line,10,15,0.67,67%,8.0,5.33,80,0,Gratuit,Gratuit,8.0,5.33
+Marteau Conquérant,Conquest Hammer,3,15,0.2,20%,22.0,4.4,66,3,7.33,1.47,5.5,1.1
+Esprit de la Faille,Spirit of the Rift,3,15,0.2,20%,20.0,4.0,60,2,10.0,2.0,6.67,1.33
+L'Oeil du Héraut,Eye of the Void,6,15,0.4,40%,9.5,3.8,57,0,Gratuit,Gratuit,9.5,3.8
+Sceau Profanateur,Seal of Desecration,5,15,0.33,33%,9.6,3.2,48,2,4.8,1.6,3.2,1.07
+Gardien Sous-terrain,Underworld Guardian,2,15,0.13,13%,15.0,2.0,30,1,15.0,2.0,7.5,1.0
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,15,0.07,7%,25.0,1.67,25,1,25.0,1.67,12.5,0.83
+Poigne d'Or,Golden Force,1,15,0.07,7%,23.0,1.53,23,1,23.0,1.53,11.5,0.77
+Folie Meurtrière,Killer Momentum,1,15,0.07,7%,22.0,1.47,22,0,Gratuit,Gratuit,22.0,1.47
+Protection Royale,Royal Protector,1,15,0.07,7%,17.0,1.13,17,1,17.0,1.13,8.5,0.56
+Frappes Éclair,Light Swords,1,15,0.07,7%,12.0,0.8,12,0,Gratuit,Gratuit,12.0,0.8
