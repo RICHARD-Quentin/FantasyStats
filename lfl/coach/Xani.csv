@@ -1,17 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,6,11,0.55,55%,21.67,11.82,130,2,10.84,5.91,7.22,3.94
-Marteau Dévastateur,Destroyer Hammer,11,11,1.0,100%,10.55,10.55,116,2,5.28,5.28,3.52,3.52
-Perce-Écailles,Scale Tearer,10,11,0.91,91%,11.1,10.09,111,3,3.7,3.36,2.77,2.52
-Écailles Magiques,Magic Scales,5,11,0.45,45%,20.0,9.09,100,2,10.0,4.54,6.67,3.03
-Folie Meurtrière,Killer Momentum,4,11,0.36,36%,24.0,8.73,96,0,Gratuit,Gratuit,24.0,8.73
-Poigne d'Or,Golden Force,4,11,0.36,36%,23.0,8.36,92,1,23.0,8.36,11.5,4.18
-Marteau Conquérant,Conquest Hammer,4,11,0.36,36%,22.0,8.0,88,3,7.33,2.67,5.5,2.0
-L'Oeil du Héraut,Eye of the Void,7,11,0.64,64%,11.71,7.45,82,0,Gratuit,Gratuit,11.71,7.45
-Masque du Baron,Baron' s Mask,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63,6.67,2.42
-Chasse au Gros,Big Worm Hunter,4,11,0.36,36%,19.5,7.09,78,3,6.5,2.36,4.88,1.77
-Sceau Profanateur,Seal of Desecration,4,11,0.36,36%,18.0,6.55,72,2,9.0,3.27,6.0,2.18
-Protection Royale,Royal Protector,4,11,0.36,36%,17.0,6.18,68,1,17.0,6.18,8.5,3.09
-Gardien Sous-terrain,Underworld Guardian,4,11,0.36,36%,15.0,5.45,60,1,15.0,5.45,7.5,2.73
-Première Ligne,First Line,7,11,0.64,64%,8.0,5.09,56,0,Gratuit,Gratuit,8.0,5.09
-Frappes Éclair,Light Swords,3,11,0.27,27%,12.0,3.27,36,0,Gratuit,Gratuit,12.0,3.27
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,11,0.09,9%,25.0,2.27,25,1,25.0,2.27,12.5,1.14
+Perce-Écailles,Scale Tearer,11,12,0.92,92%,12.64,11.58,139,3,4.21,3.86,3.16,2.9
+Marteau Dévastateur,Destroyer Hammer,12,12,1.0,100%,11.5,11.5,138,2,5.75,5.75,3.83,3.83
+Esprit de la Faille,Spirit of the Rift,6,12,0.5,50%,21.67,10.83,130,2,10.84,5.42,7.22,3.61
+Écailles Magiques,Magic Scales,6,12,0.5,50%,20.83,10.42,125,2,10.41,5.21,6.94,3.47
+Folie Meurtrière,Killer Momentum,5,12,0.42,42%,23.6,9.83,118,0,Gratuit,Gratuit,23.6,9.83
+Poigne d'Or,Golden Force,5,12,0.42,42%,23.0,9.58,115,1,23.0,9.58,11.5,4.79
+Marteau Conquérant,Conquest Hammer,5,12,0.42,42%,22.0,9.17,110,3,7.33,3.06,5.5,2.29
+Chasse au Gros,Big Worm Hunter,5,12,0.42,42%,21.6,9.0,108,3,7.2,3.0,5.4,2.25
+Masque du Baron,Baron' s Mask,5,12,0.42,42%,21.0,8.75,105,2,10.5,4.38,7.0,2.92
+Sceau Profanateur,Seal of Desecration,5,12,0.42,42%,19.2,8.0,96,2,9.6,4.0,6.4,2.67
+Protection Royale,Royal Protector,5,12,0.42,42%,17.0,7.08,85,1,17.0,7.08,8.5,3.54
+L'Oeil du Héraut,Eye of the Void,7,12,0.58,58%,11.71,6.83,82,0,Gratuit,Gratuit,11.71,6.83
+Gardien Sous-terrain,Underworld Guardian,5,12,0.42,42%,15.0,6.25,75,1,15.0,6.25,7.5,3.12
+Première Ligne,First Line,8,12,0.67,67%,8.0,5.33,64,0,Gratuit,Gratuit,8.0,5.33
+Âme de Dragon Élémentaire,Elemental Dragon Soul,2,12,0.17,17%,25.0,4.17,50,1,25.0,4.17,12.5,2.08
+Frappes Éclair,Light Swords,4,12,0.33,33%,12.0,4.0,48,0,Gratuit,Gratuit,12.0,4.0
