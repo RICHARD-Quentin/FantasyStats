@@ -1,26 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,12,12,1.0,100%,12.08,12.08,145,2,6.04,6.04,4.03,4.03
-Esprit de l'Écuyer,Spirit of the Squire,12,12,1.0,100%,11.5,11.5,138,3,3.83,3.83,2.88,2.88
-Totem du Gardien,Guardian Totem,9,12,0.75,75%,12.22,9.17,110,3,4.07,3.06,3.06,2.29
-Le Traqueur,The Stalker,6,12,0.5,50%,16.67,8.33,100,3,5.56,2.78,4.17,2.08
-Armure d'Obsidienne,Obsidian Battle Plate,5,12,0.42,42%,20.0,8.33,100,2,10.0,4.17,6.67,2.78
-Esprit omniprésent,Omnipresent Spirit,5,12,0.42,42%,18.0,7.5,90,2,9.0,3.75,6.0,2.5
-Aveuglement,Incapacitor,11,12,0.92,92%,7.91,7.25,87,3,2.64,2.42,1.98,1.81
-Œil de Lynx,Hawk's Eye,10,12,0.83,83%,8.6,7.17,86,0,Gratuit,Gratuit,8.6,7.17
-Armure d'Immortel,Immortal Breastplate,4,12,0.33,33%,15.0,5.0,60,1,15.0,5.0,7.5,2.5
-Assistance Divine,Sacred Help,3,12,0.25,25%,20.0,5.0,60,2,10.0,2.5,6.67,1.67
-Coup de Mort,Death Helper,5,12,0.42,42%,11.2,4.67,56,1,11.2,4.67,5.6,2.33
-Amulette Omnisciente,Omnipresent Amulet,4,12,0.33,33%,13.0,4.33,52,0,Gratuit,Gratuit,13.0,4.33
-Marteau Collecteur,Collecting Hammer,3,12,0.25,25%,15.0,3.75,45,2,7.5,1.88,5.0,1.25
-Vision Céleste,Heavenly Vision,2,12,0.17,17%,22.0,3.67,44,2,11.0,1.83,7.33,1.22
-Sabre Versatile,Versatil Saber,4,12,0.33,33%,11.0,3.67,44,1,11.0,3.67,5.5,1.83
-Force Divine,Divine Impetu,3,12,0.25,25%,13.67,3.42,41,0,Gratuit,Gratuit,13.67,3.42
-Le Marionnettiste,The Puppeteer,2,12,0.17,17%,20.0,3.33,40,2,10.0,1.67,6.67,1.11
-Bâton de Conquête,Conquering Staff,1,12,0.08,8%,24.0,2.0,24,2,12.0,1.0,8.0,0.67
-Le Visionnaire,The Visionary,1,12,0.08,8%,18.0,1.5,18,2,9.0,0.75,6.0,0.5
-Être de Lumière,Being of Light,1,12,0.08,8%,18.0,1.5,18,1,18.0,1.5,9.0,0.75
-Marteleur précis,Precise Hammer,1,12,0.08,8%,18.0,1.5,18,1,18.0,1.5,9.0,0.75
-Masse de Siège,Siege Mace,1,12,0.08,8%,16.0,1.33,16,0,Gratuit,Gratuit,16.0,1.33
-Lame Affutée,Sharp Blade,4,12,0.33,33%,3.75,1.25,15,3,1.25,0.42,0.94,0.31
-Hache Frénétique,Berseker Ax,1,12,0.08,8%,14.0,1.17,14,2,7.0,0.58,4.67,0.39
-Faux,Scythe,6,12,0.5,50%,1.33,0.67,8,3,0.44,0.22,0.33,0.17
+Totem Équivalent,Equivalent Totem,13,13,1.0,100%,12.23,12.23,159,2,6.12,6.12,4.08,4.08
+Esprit de l'Écuyer,Spirit of the Squire,13,13,1.0,100%,12.23,12.23,159,3,4.08,4.08,3.06,3.06
+Armure d'Obsidienne,Obsidian Battle Plate,6,13,0.46,46%,20.0,9.23,120,2,10.0,4.62,6.67,3.08
+Totem du Gardien,Guardian Totem,9,13,0.69,69%,12.22,8.46,110,3,4.07,2.82,3.06,2.12
+Le Traqueur,The Stalker,6,13,0.46,46%,16.67,7.69,100,3,5.56,2.56,4.17,1.92
+Aveuglement,Incapacitor,12,13,0.92,92%,8.0,7.38,96,3,2.67,2.46,2.0,1.84
+Œil de Lynx,Hawk's Eye,11,13,0.85,85%,8.73,7.38,96,0,Gratuit,Gratuit,8.73,7.38
+Esprit omniprésent,Omnipresent Spirit,5,13,0.38,38%,18.0,6.92,90,2,9.0,3.46,6.0,2.31
+Coup de Mort,Death Helper,6,13,0.46,46%,11.5,5.31,69,1,11.5,5.31,5.75,2.65
+Amulette Omnisciente,Omnipresent Amulet,5,13,0.38,38%,13.4,5.15,67,0,Gratuit,Gratuit,13.4,5.15
+Vision Céleste,Heavenly Vision,3,13,0.23,23%,22.0,5.08,66,2,11.0,2.54,7.33,1.69
+Armure d'Immortel,Immortal Breastplate,4,13,0.31,31%,15.0,4.62,60,1,15.0,4.62,7.5,2.31
+Assistance Divine,Sacred Help,3,13,0.23,23%,20.0,4.62,60,2,10.0,2.31,6.67,1.54
+Sabre Versatile,Versatil Saber,5,13,0.38,38%,11.0,4.23,55,1,11.0,4.23,5.5,2.12
+Marteau Collecteur,Collecting Hammer,3,13,0.23,23%,15.0,3.46,45,2,7.5,1.73,5.0,1.15
+Force Divine,Divine Impetu,3,13,0.23,23%,13.67,3.15,41,0,Gratuit,Gratuit,13.67,3.15
+Le Marionnettiste,The Puppeteer,2,13,0.15,15%,20.0,3.08,40,2,10.0,1.54,6.67,1.03
+Bâton de Conquête,Conquering Staff,1,13,0.08,8%,24.0,1.85,24,2,12.0,0.93,8.0,0.62
+Lame Affutée,Sharp Blade,5,13,0.38,38%,4.2,1.62,21,3,1.4,0.54,1.05,0.41
+Le Visionnaire,The Visionary,1,13,0.08,8%,18.0,1.38,18,2,9.0,0.69,6.0,0.46
+Être de Lumière,Being of Light,1,13,0.08,8%,18.0,1.38,18,1,18.0,1.38,9.0,0.69
+Marteleur précis,Precise Hammer,1,13,0.08,8%,18.0,1.38,18,1,18.0,1.38,9.0,0.69
+Masse de Siège,Siege Mace,1,13,0.08,8%,16.0,1.23,16,0,Gratuit,Gratuit,16.0,1.23
+Hache Frénétique,Berseker Ax,1,13,0.08,8%,14.0,1.08,14,2,7.0,0.54,4.67,0.36
+Désintégrateur Magnétique,Magnetic Disintegrator,1,13,0.08,8%,11.0,0.85,11,0,Gratuit,Gratuit,11.0,0.85
+Faux,Scythe,7,13,0.54,54%,1.43,0.77,10,3,0.48,0.26,0.36,0.19
