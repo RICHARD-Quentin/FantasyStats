@@ -1,25 +1,25 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,15,15,1.0,100%,11.8,11.8,177,2,5.9,5.9,3.93,3.93
-Aveuglement,Incapacitor,15,15,1.0,100%,10.8,10.8,162,3,3.6,3.6,2.7,2.7
-Vision Céleste,Heavenly Vision,7,15,0.47,47%,22.0,10.27,154,2,11.0,5.13,7.33,3.42
-Totem du Gardien,Guardian Totem,10,15,0.67,67%,12.6,8.4,126,3,4.2,2.8,3.15,2.1
-Œil de Lynx,Hawk's Eye,14,15,0.93,93%,8.86,8.27,124,0,Gratuit,Gratuit,8.86,8.27
-Esprit de l'Écuyer,Spirit of the Squire,13,15,0.87,87%,9.46,8.2,123,3,3.15,2.73,2.37,2.05
-Armure d'Obsidienne,Obsidian Battle Plate,5,15,0.33,33%,20.0,6.67,100,2,10.0,3.33,6.67,2.22
-Bâton de Conquête,Conquering Staff,4,15,0.27,27%,24.0,6.4,96,2,12.0,3.2,8.0,2.13
-Le Traqueur,The Stalker,5,15,0.33,33%,16.8,5.6,84,3,5.6,1.87,4.2,1.4
-Esprit omniprésent,Omnipresent Spirit,3,15,0.2,20%,18.0,3.6,54,2,9.0,1.8,6.0,1.2
-Coup de Mort,Death Helper,4,15,0.27,27%,11.5,3.07,46,1,11.5,3.07,5.75,1.53
-Bâton du Conquérant,Staff of Conquered Worlds,4,15,0.27,27%,11.0,2.93,44,0,Gratuit,Gratuit,11.0,2.93
-Lame Affutée,Sharp Blade,7,15,0.47,47%,5.14,2.4,36,3,1.71,0.8,1.28,0.6
-Le Visionnaire,The Visionary,2,15,0.13,13%,18.0,2.4,36,2,9.0,1.2,6.0,0.8
-Armure d'Immortel,Immortal Breastplate,2,15,0.13,13%,15.0,2.0,30,1,15.0,2.0,7.5,1.0
-Faux,Scythe,15,15,1.0,100%,1.67,1.67,25,3,0.56,0.56,0.42,0.42
-Marteau Collecteur,Collecting Hammer,3,15,0.2,20%,8.0,1.6,24,2,4.0,0.8,2.67,0.53
-Sabre Versatile,Versatil Saber,2,15,0.13,13%,11.0,1.47,22,1,11.0,1.47,5.5,0.73
-Le Marionnettiste,The Puppeteer,1,15,0.07,7%,20.0,1.33,20,2,10.0,0.67,6.67,0.44
-Adrénaline Arcanique,Arcane Adrenaline,1,15,0.07,7%,16.0,1.07,16,1,16.0,1.07,8.0,0.54
-Force Divine,Divine Impetu,1,15,0.07,7%,15.0,1.0,15,0,Gratuit,Gratuit,15.0,1.0
-Chasseur d'Âmes,Soul Hunter,1,15,0.07,7%,15.0,1.0,15,1,15.0,1.0,7.5,0.5
-Amulette Omnisciente,Omnipresent Amulet,1,15,0.07,7%,15.0,1.0,15,0,Gratuit,Gratuit,15.0,1.0
-Griffes Sauvages,Wild Claw,1,15,0.07,7%,10.0,0.67,10,3,3.33,0.22,2.5,0.17
+Totem Équivalent,Equivalent Totem,16,16,1.0,100%,11.81,11.81,189,2,5.91,5.91,3.94,3.94
+Aveuglement,Incapacitor,16,16,1.0,100%,10.88,10.88,174,3,3.63,3.63,2.72,2.72
+Vision Céleste,Heavenly Vision,7,16,0.44,44%,22.0,9.62,154,2,11.0,4.81,7.33,3.21
+Totem du Gardien,Guardian Totem,11,16,0.69,69%,12.82,8.81,141,3,4.27,2.94,3.21,2.2
+Esprit de l'Écuyer,Spirit of the Squire,14,16,0.88,88%,9.64,8.44,135,3,3.21,2.81,2.41,2.11
+Œil de Lynx,Hawk's Eye,15,16,0.94,94%,8.93,8.38,134,0,Gratuit,Gratuit,8.93,8.38
+Le Traqueur,The Stalker,6,16,0.38,38%,17.33,6.5,104,3,5.78,2.17,4.33,1.62
+Armure d'Obsidienne,Obsidian Battle Plate,5,16,0.31,31%,20.0,6.25,100,2,10.0,3.12,6.67,2.08
+Bâton de Conquête,Conquering Staff,4,16,0.25,25%,24.0,6.0,96,2,12.0,3.0,8.0,2.0
+Esprit omniprésent,Omnipresent Spirit,4,16,0.25,25%,18.0,4.5,72,2,9.0,2.25,6.0,1.5
+Coup de Mort,Death Helper,5,16,0.31,31%,11.8,3.69,59,1,11.8,3.69,5.9,1.84
+Bâton du Conquérant,Staff of Conquered Worlds,4,16,0.25,25%,11.0,2.75,44,0,Gratuit,Gratuit,11.0,2.75
+Le Marionnettiste,The Puppeteer,2,16,0.12,12%,20.0,2.5,40,2,10.0,1.25,6.67,0.83
+Le Visionnaire,The Visionary,2,16,0.12,12%,18.0,2.25,36,2,9.0,1.12,6.0,0.75
+Lame Affutée,Sharp Blade,7,16,0.44,44%,5.14,2.25,36,3,1.71,0.75,1.28,0.56
+Marteau Collecteur,Collecting Hammer,4,16,0.25,25%,7.75,1.94,31,2,3.88,0.97,2.58,0.65
+Armure d'Immortel,Immortal Breastplate,2,16,0.12,12%,15.0,1.88,30,1,15.0,1.88,7.5,0.94
+Faux,Scythe,16,16,1.0,100%,1.69,1.69,27,3,0.56,0.56,0.42,0.42
+Sabre Versatile,Versatil Saber,2,16,0.12,12%,11.0,1.38,22,1,11.0,1.38,5.5,0.69
+Adrénaline Arcanique,Arcane Adrenaline,1,16,0.06,6%,16.0,1.0,16,1,16.0,1.0,8.0,0.5
+Force Divine,Divine Impetu,1,16,0.06,6%,15.0,0.94,15,0,Gratuit,Gratuit,15.0,0.94
+Chasseur d'Âmes,Soul Hunter,1,16,0.06,6%,15.0,0.94,15,1,15.0,0.94,7.5,0.47
+Amulette Omnisciente,Omnipresent Amulet,1,16,0.06,6%,15.0,0.94,15,0,Gratuit,Gratuit,15.0,0.94
+Griffes Sauvages,Wild Claw,1,16,0.06,6%,10.0,0.62,10,3,3.33,0.21,2.5,0.15

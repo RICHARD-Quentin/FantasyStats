@@ -1,26 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Armure d'Obsidienne,Obsidian Battle Plate,12,15,0.8,80%,20.0,16.0,240,2,10.0,8.0,6.67,5.33
-Totem Équivalent,Equivalent Totem,15,15,1.0,100%,12.0,12.0,180,2,6.0,6.0,4.0,4.0
-Vision Céleste,Heavenly Vision,8,15,0.53,53%,22.0,11.73,176,2,11.0,5.87,7.33,3.91
-Totem du Gardien,Guardian Totem,10,15,0.67,67%,17.0,11.33,170,3,5.67,3.78,4.25,2.83
-Esprit de l'Écuyer,Spirit of the Squire,13,15,0.87,87%,12.23,10.6,159,3,4.08,3.53,3.06,2.65
-Le Traqueur,The Stalker,8,15,0.53,53%,17.0,9.07,136,3,5.67,3.02,4.25,2.27
-Aveuglement,Incapacitor,14,15,0.93,93%,9.21,8.6,129,3,3.07,2.87,2.3,2.15
-Œil de Lynx,Hawk's Eye,14,15,0.93,93%,9.0,8.4,126,0,Gratuit,Gratuit,9.0,8.4
-Le Visionnaire,The Visionary,7,15,0.47,47%,18.0,8.4,126,2,9.0,4.2,6.0,2.8
-Amulette Omnisciente,Omnipresent Amulet,7,15,0.47,47%,13.29,6.2,93,0,Gratuit,Gratuit,13.29,6.2
-Esprit omniprésent,Omnipresent Spirit,5,15,0.33,33%,18.0,6.0,90,2,9.0,3.0,6.0,2.0
-Armure d'Immortel,Immortal Breastplate,6,15,0.4,40%,15.0,6.0,90,1,15.0,6.0,7.5,3.0
-Coup de Mort,Death Helper,7,15,0.47,47%,11.71,5.47,82,1,11.71,5.47,5.86,2.73
-Le Marionnettiste,The Puppeteer,4,15,0.27,27%,20.0,5.33,80,2,10.0,2.67,6.67,1.78
-Sabre Versatile,Versatil Saber,7,15,0.47,47%,11.0,5.13,77,1,11.0,5.13,5.5,2.56
-Force Divine,Divine Impetu,5,15,0.33,33%,13.4,4.47,67,0,Gratuit,Gratuit,13.4,4.47
-Bâton de Conquête,Conquering Staff,2,15,0.13,13%,24.0,3.2,48,2,12.0,1.6,8.0,1.07
-Masse de Siège,Siege Mace,3,15,0.2,20%,16.0,3.2,48,0,Gratuit,Gratuit,16.0,3.2
-Marteau Collecteur,Collecting Hammer,3,15,0.2,20%,14.0,2.8,42,2,7.0,1.4,4.67,0.93
-Marteleur précis,Precise Hammer,2,15,0.13,13%,18.0,2.4,36,1,18.0,2.4,9.0,1.2
-Lame Affutée,Sharp Blade,5,15,0.33,33%,4.2,1.4,21,3,1.4,0.47,1.05,0.35
-Assistance Divine,Sacred Help,1,15,0.07,7%,20.0,1.33,20,2,10.0,0.67,6.67,0.44
-Faux,Scythe,12,15,0.8,80%,1.25,1.0,15,3,0.42,0.33,0.31,0.25
-Soif de Sang,Thirsty Dagger,1,15,0.07,7%,15.0,1.0,15,0,Gratuit,Gratuit,15.0,1.0
-Désintégrateur Magnétique,Magnetic Disintegrator,1,15,0.07,7%,11.0,0.73,11,0,Gratuit,Gratuit,11.0,0.73
+Armure d'Obsidienne,Obsidian Battle Plate,12,16,0.75,75%,20.0,15.0,240,2,10.0,7.5,6.67,5.0
+Totem Équivalent,Equivalent Totem,16,16,1.0,100%,11.88,11.88,190,2,5.94,5.94,3.96,3.96
+Totem du Gardien,Guardian Totem,11,16,0.69,69%,17.09,11.75,188,3,5.7,3.92,4.27,2.94
+Vision Céleste,Heavenly Vision,8,16,0.5,50%,22.0,11.0,176,2,11.0,5.5,7.33,3.67
+Esprit de l'Écuyer,Spirit of the Squire,13,16,0.81,81%,12.23,9.94,159,3,4.08,3.31,3.06,2.48
+Le Traqueur,The Stalker,9,16,0.56,56%,17.33,9.75,156,3,5.78,3.25,4.33,2.44
+Aveuglement,Incapacitor,15,16,0.94,94%,9.8,9.19,147,3,3.27,3.06,2.45,2.3
+Le Visionnaire,The Visionary,8,16,0.5,50%,18.0,9.0,144,2,9.0,4.5,6.0,3.0
+Œil de Lynx,Hawk's Eye,15,16,0.94,94%,9.07,8.5,136,0,Gratuit,Gratuit,9.07,8.5
+Amulette Omnisciente,Omnipresent Amulet,7,16,0.44,44%,13.29,5.81,93,0,Gratuit,Gratuit,13.29,5.81
+Armure d'Immortel,Immortal Breastplate,6,16,0.38,38%,15.0,5.62,90,1,15.0,5.62,7.5,2.81
+Esprit omniprésent,Omnipresent Spirit,5,16,0.31,31%,18.0,5.62,90,2,9.0,2.81,6.0,1.87
+Coup de Mort,Death Helper,7,16,0.44,44%,11.71,5.12,82,1,11.71,5.12,5.86,2.56
+Le Marionnettiste,The Puppeteer,4,16,0.25,25%,20.0,5.0,80,2,10.0,2.5,6.67,1.67
+Sabre Versatile,Versatil Saber,7,16,0.44,44%,11.0,4.81,77,1,11.0,4.81,5.5,2.4
+Bâton de Conquête,Conquering Staff,3,16,0.19,19%,24.0,4.5,72,2,12.0,2.25,8.0,1.5
+Force Divine,Divine Impetu,5,16,0.31,31%,13.4,4.19,67,0,Gratuit,Gratuit,13.4,4.19
+Masse de Siège,Siege Mace,3,16,0.19,19%,16.0,3.0,48,0,Gratuit,Gratuit,16.0,3.0
+Marteau Collecteur,Collecting Hammer,3,16,0.19,19%,14.0,2.62,42,2,7.0,1.31,4.67,0.87
+Marteleur précis,Precise Hammer,2,16,0.12,12%,18.0,2.25,36,1,18.0,2.25,9.0,1.12
+Lame Affutée,Sharp Blade,5,16,0.31,31%,4.2,1.31,21,3,1.4,0.44,1.05,0.33
+Assistance Divine,Sacred Help,1,16,0.06,6%,20.0,1.25,20,2,10.0,0.62,6.67,0.42
+Faux,Scythe,13,16,0.81,81%,1.31,1.06,17,3,0.44,0.35,0.33,0.27
+Soif de Sang,Thirsty Dagger,1,16,0.06,6%,15.0,0.94,15,0,Gratuit,Gratuit,15.0,0.94
+Désintégrateur Magnétique,Magnetic Disintegrator,1,16,0.06,6%,11.0,0.69,11,0,Gratuit,Gratuit,11.0,0.69
