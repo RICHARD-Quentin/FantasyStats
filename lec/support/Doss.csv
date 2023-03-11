@@ -1,34 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Le Traqueur,The Stalker,18,20,0.9,90%,18.0,16.2,324,3,6.0,5.4,4.5,4.05
-Armure d'Obsidienne,Obsidian Battle Plate,16,20,0.8,80%,20.0,16.0,320,2,10.0,8.0,6.67,5.33
-Totem du Gardien,Guardian Totem,20,20,1.0,100%,15.5,15.5,310,3,5.17,5.17,3.88,3.88
-Esprit de l'Écuyer,Spirit of the Squire,20,20,1.0,100%,13.35,13.35,267,3,4.45,4.45,3.34,3.34
-Totem Équivalent,Equivalent Totem,20,20,1.0,100%,12.45,12.45,249,2,6.22,6.22,4.15,4.15
-Œil de Lynx,Hawk's Eye,19,20,0.95,95%,9.05,8.6,172,0,Gratuit,Gratuit,9.05,8.6
-Marteau Collecteur,Collecting Hammer,12,20,0.6,60%,14.0,8.4,168,2,7.0,4.2,4.67,2.8
-Le Visionnaire,The Visionary,9,20,0.45,45%,18.0,8.1,162,2,9.0,4.05,6.0,2.7
-Vision Céleste,Heavenly Vision,7,20,0.35,35%,22.0,7.7,154,2,11.0,3.85,7.33,2.57
-Amulette Omnisciente,Omnipresent Amulet,11,20,0.55,55%,12.82,7.05,141,0,Gratuit,Gratuit,12.82,7.05
-Assistance Divine,Sacred Help,7,20,0.35,35%,20.0,7.0,140,2,10.0,3.5,6.67,2.33
-Coup de Mort,Death Helper,12,20,0.6,60%,11.5,6.9,138,1,11.5,6.9,5.75,3.45
-Sabre Versatile,Versatil Saber,12,20,0.6,60%,11.0,6.6,132,1,11.0,6.6,5.5,3.3
-Aveuglement,Incapacitor,17,20,0.85,85%,7.76,6.6,132,3,2.59,2.2,1.94,1.65
-Force Divine,Divine Impetu,9,20,0.45,45%,12.33,5.55,111,0,Gratuit,Gratuit,12.33,5.55
-Être de Lumière,Being of Light,5,20,0.25,25%,18.0,4.5,90,1,18.0,4.5,9.0,2.25
-Esprit omniprésent,Omnipresent Spirit,5,20,0.25,25%,18.0,4.5,90,2,9.0,2.25,6.0,1.5
-Armure d'Immortel,Immortal Breastplate,6,20,0.3,30%,14.33,4.3,86,1,14.33,4.3,7.17,2.15
-Lame Affutée,Sharp Blade,14,20,0.7,70%,4.71,3.3,66,3,1.57,1.1,1.18,0.82
-Masse de Siège,Siege Mace,3,20,0.15,15%,16.0,2.4,48,0,Gratuit,Gratuit,16.0,2.4
-Bâton de Conquête,Conquering Staff,2,20,0.1,10%,24.0,2.4,48,2,12.0,1.2,8.0,0.8
-Le Marionnettiste,The Puppeteer,2,20,0.1,10%,20.0,2.0,40,2,10.0,1.0,6.67,0.67
-Marteleur précis,Precise Hammer,2,20,0.1,10%,18.0,1.8,36,1,18.0,1.8,9.0,0.9
-Triple Météore,Trimeteor,1,20,0.05,5%,30.0,1.5,30,0,Gratuit,Gratuit,30.0,1.5
-Enchaînement Éclair,Unstoppable Lightning,1,20,0.05,5%,18.0,0.9,18,1,18.0,0.9,9.0,0.45
-Épée Obscure,Swords of Darkness,1,20,0.05,5%,17.0,0.85,17,1,17.0,0.85,8.5,0.42
-Soif de Sang,Thirsty Dagger,1,20,0.05,5%,15.0,0.75,15,0,Gratuit,Gratuit,15.0,0.75
-Elan de Fureur,Rampage Momentum,1,20,0.05,5%,15.0,0.75,15,2,7.5,0.38,5.0,0.25
-Bâton du Conquérant,Staff of Conquered Worlds,1,20,0.05,5%,11.0,0.55,11,0,Gratuit,Gratuit,11.0,0.55
-Désintégrateur Magnétique,Magnetic Disintegrator,1,20,0.05,5%,11.0,0.55,11,0,Gratuit,Gratuit,11.0,0.55
-Épé Sainte,Holy Sword,1,20,0.05,5%,10.0,0.5,10,0,Gratuit,Gratuit,10.0,0.5
-Danse Macabre,Dance of Death,1,20,0.05,5%,8.0,0.4,8,1,8.0,0.4,4.0,0.2
-Faux,Scythe,6,20,0.3,30%,1.17,0.35,7,3,0.39,0.12,0.29,0.09
+Totem du Gardien,Guardian Totem,1,1,1.0,100%,29.0,29.0,29,3,9.67,9.67,7.25,7.25
+Bâton de Conquête,Conquering Staff,1,1,1.0,100%,24.0,24.0,24,2,12.0,12.0,8.0,8.0
+Vision Céleste,Heavenly Vision,1,1,1.0,100%,22.0,22.0,22,2,11.0,11.0,7.33,7.33
+Armure d'Obsidienne,Obsidian Battle Plate,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0,6.67,6.67
+Le Traqueur,The Stalker,1,1,1.0,100%,20.0,20.0,20,3,6.67,6.67,5.0,5.0
+Le Visionnaire,The Visionary,1,1,1.0,100%,18.0,18.0,18,2,9.0,9.0,6.0,6.0
+Esprit de l'Écuyer,Spirit of the Squire,1,1,1.0,100%,18.0,18.0,18,3,6.0,6.0,4.5,4.5
+Force Divine,Divine Impetu,1,1,1.0,100%,15.0,15.0,15,0,Gratuit,Gratuit,15.0,15.0
+Amulette Omnisciente,Omnipresent Amulet,1,1,1.0,100%,15.0,15.0,15,0,Gratuit,Gratuit,15.0,15.0
+Aveuglement,Incapacitor,1,1,1.0,100%,15.0,15.0,15,3,5.0,5.0,3.75,3.75
+Coup de Mort,Death Helper,1,1,1.0,100%,13.0,13.0,13,1,13.0,13.0,6.5,6.5
+Totem Équivalent,Equivalent Totem,1,1,1.0,100%,13.0,13.0,13,2,6.5,6.5,4.33,4.33
+Sabre Versatile,Versatil Saber,1,1,1.0,100%,11.0,11.0,11,1,11.0,11.0,5.5,5.5
+Œil de Lynx,Hawk's Eye,1,1,1.0,100%,10.0,10.0,10,0,Gratuit,Gratuit,10.0,10.0
+Lame Affutée,Sharp Blade,1,1,1.0,100%,3.0,3.0,3,3,1.0,1.0,0.75,0.75
+Faux,Scythe,1,1,1.0,100%,2.0,2.0,2,3,0.67,0.67,0.5,0.5

@@ -1,17 +1,5 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Perce-Écailles,Scale Tearer,15,21,0.71,71%,16.53,11.81,248,3,5.51,3.94,4.13,2.95
-Marteau Dévastateur,Destroyer Hammer,19,21,0.9,90%,12.84,11.62,244,2,6.42,5.81,4.28,3.87
-Marteau Conquérant,Conquest Hammer,10,21,0.48,48%,22.0,10.48,220,3,7.33,3.49,5.5,2.62
-Écailles Magiques,Magic Scales,9,21,0.43,43%,23.33,10.0,210,2,11.66,5.0,7.78,3.33
-Poigne d'Or,Golden Force,8,21,0.38,38%,23.0,8.76,184,1,23.0,8.76,11.5,4.38
-Protection Royale,Royal Protector,10,21,0.48,48%,17.0,8.1,170,1,17.0,8.1,8.5,4.05
-Esprit de la Faille,Spirit of the Rift,7,21,0.33,33%,22.86,7.62,160,2,11.43,3.81,7.62,2.54
-Masque du Baron,Baron' s Mask,7,21,0.33,33%,22.86,7.62,160,2,11.43,3.81,7.62,2.54
-Sceau Profanateur,Seal of Desecration,10,21,0.48,48%,16.0,7.62,160,2,8.0,3.81,5.33,2.54
-L'Oeil du Héraut,Eye of the Void,11,21,0.52,52%,14.0,7.33,154,0,Gratuit,Gratuit,14.0,7.33
-Chasse au Gros,Big Worm Hunter,8,21,0.38,38%,17.25,6.57,138,3,5.75,2.19,4.31,1.64
-Folie Meurtrière,Killer Momentum,6,21,0.29,29%,22.0,6.29,132,0,Gratuit,Gratuit,22.0,6.29
-Première Ligne,First Line,15,21,0.71,71%,8.0,5.71,120,0,Gratuit,Gratuit,8.0,5.71
-Gardien Sous-terrain,Underworld Guardian,7,21,0.33,33%,15.0,5.0,105,1,15.0,5.0,7.5,2.5
-Frappes Éclair,Light Swords,7,21,0.33,33%,12.0,4.0,84,0,Gratuit,Gratuit,12.0,4.0
-Âme de Dragon Élémentaire,Elemental Dragon Soul,3,21,0.14,14%,25.0,3.57,75,1,25.0,3.57,12.5,1.78
+L'Oeil du Héraut,Eye of the Void,1,1,1.0,100%,9.0,9.0,9,0,Gratuit,Gratuit,9.0,9.0
+Première Ligne,First Line,1,1,1.0,100%,8.0,8.0,8,0,Gratuit,Gratuit,8.0,8.0
+Perce-Écailles,Scale Tearer,1,1,1.0,100%,7.0,7.0,7,3,2.33,2.33,1.75,1.75
+Marteau Dévastateur,Destroyer Hammer,1,1,1.0,100%,6.0,6.0,6,2,3.0,3.0,2.0,2.0
