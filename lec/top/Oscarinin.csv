@@ -1,12 +1,13 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,2,7.75,7.75,5.17,5.17
-Faux,Scythe,2,2,1.0,100%,14.5,14.5,29,3,4.83,4.83,3.62,3.62
-Économe Sagesse du Trésorier,Treasurer's Wisdom,1,2,0.5,50%,17.0,8.5,17,2,8.5,4.25,5.67,2.83
-Esprit Guerrier,Spirit of the Warrior,1,2,0.5,50%,16.0,8.0,16,1,16.0,8.0,8.0,4.0
-Lame Insatiable,Fast Furious Blade,1,2,0.5,50%,16.0,8.0,16,2,8.0,4.0,5.33,2.67
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5,4.67,2.33
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,5.0,5.0,10,3,1.67,1.67,1.25,1.25
-Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,7.0,3.5,7,2,3.5,1.75,2.33,1.17
-Aveuglement,Incapacitor,2,2,1.0,100%,3.0,3.0,6,3,1.0,1.0,0.75,0.75
-Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5,0.75,0.38
-Griffes Sauvages,Wild Claw,1,2,0.5,50%,2.0,1.0,2,3,0.67,0.33,0.5,0.25
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,14.0,14.0,42,2,7.0,7.0,4.67,4.67
+Faux,Scythe,3,3,1.0,100%,12.0,12.0,36,3,4.0,4.0,3.0,3.0
+Mental d'Acier,Steel Aura,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,3,0.33,33%,17.0,5.67,17,2,8.5,2.83,5.67,1.89
+Esprit Guerrier,Spirit of the Warrior,1,3,0.33,33%,16.0,5.33,16,1,16.0,5.33,8.0,2.67
+Lame Insatiable,Fast Furious Blade,1,3,0.33,33%,16.0,5.33,16,2,8.0,2.67,5.33,1.78
+Marteau Collecteur,Collecting Hammer,2,3,0.67,67%,7.0,4.67,14,2,3.5,2.33,2.33,1.56
+Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33,4.67,1.56
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,4.67,4.67,14,3,1.56,1.56,1.17,1.17
+Aveuglement,Incapacitor,2,3,0.67,67%,3.0,2.0,6,3,1.0,0.67,0.75,0.5
+Esprit de l'Écuyer,Spirit of the Squire,1,3,0.33,33%,3.0,1.0,3,3,1.0,0.33,0.75,0.25
+Griffes Sauvages,Wild Claw,1,3,0.33,33%,2.0,0.67,2,3,0.67,0.22,0.5,0.17

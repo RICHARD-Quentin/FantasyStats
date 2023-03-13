@@ -1,13 +1,15 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,2,7.75,7.75,5.17,5.17
-Faux,Scythe,2,2,1.0,100%,15.0,15.0,30,3,5.0,5.0,3.75,3.75
-Le Marionnettiste,The Puppeteer,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0,6.67,3.33
-Esprit omniprésent,Omnipresent Spirit,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5,6.0,3.0
-Lame Insatiable,Fast Furious Blade,1,2,0.5,50%,16.0,8.0,16,2,8.0,4.0,5.33,2.67
-Soif de Sang,Thirsty Dagger,1,2,0.5,50%,15.0,7.5,15,0,Gratuit,Gratuit,15.0,7.5
-Hache Frénétique,Berseker Ax,1,2,0.5,50%,14.0,7.0,14,2,7.0,3.5,4.67,2.33
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,4.0,4.0,8,3,1.33,1.33,1.0,1.0
-Griffes Sauvages,Wild Claw,2,2,1.0,100%,2.0,2.0,4,3,0.67,0.67,0.5,0.5
-Lame Affutée,Sharp Blade,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5,0.75,0.38
-Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5,0.75,0.38
-Aveuglement,Incapacitor,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5,0.75,0.38
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,15.0,15.0,45,2,7.5,7.5,5.0,5.0
+Faux,Scythe,3,3,1.0,100%,13.67,13.67,41,3,4.56,4.56,3.42,3.42
+Lame Insatiable,Fast Furious Blade,2,3,0.67,67%,16.0,10.67,32,2,8.0,5.33,5.33,3.56
+Armure d'Obsidienne,Obsidian Battle Plate,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33,6.67,2.22
+Le Marionnettiste,The Puppeteer,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33,6.67,2.22
+Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
+Soif de Sang,Thirsty Dagger,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
+Marteau Collecteur,Collecting Hammer,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33,4.67,1.56
+Hache Frénétique,Berseker Ax,1,3,0.33,33%,14.0,4.67,14,2,7.0,2.33,4.67,1.56
+Aveuglement,Incapacitor,2,3,0.67,67%,6.0,4.0,12,3,2.0,1.33,1.5,1.0
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,3.33,3.33,10,3,1.11,1.11,0.83,0.83
+Esprit de l'Écuyer,Spirit of the Squire,2,3,0.67,67%,3.0,2.0,6,3,1.0,0.67,0.75,0.5
+Griffes Sauvages,Wild Claw,2,3,0.67,67%,2.0,1.33,4,3,0.67,0.44,0.5,0.33
+Lame Affutée,Sharp Blade,1,3,0.33,33%,3.0,1.0,3,3,1.0,0.33,0.75,0.25
