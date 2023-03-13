@@ -1,4 +1,6 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Perce-Écailles,Scale Tearer,1,1,1.0,100%,14.0,14.0,14,3,4.67,4.67,3.5,3.5
-Marteau Dévastateur,Destroyer Hammer,1,1,1.0,100%,8.0,8.0,8,2,4.0,4.0,2.67,2.67
-Première Ligne,First Line,1,1,1.0,100%,8.0,8.0,8,0,Gratuit,Gratuit,8.0,8.0
+Écailles Magiques,Magic Scales,1,2,0.5,50%,25.0,12.5,25,2,12.5,6.25,8.33,4.17
+Perce-Écailles,Scale Tearer,2,2,1.0,100%,10.5,10.5,21,3,3.5,3.5,2.62,2.62
+Marteau Dévastateur,Destroyer Hammer,2,2,1.0,100%,6.0,6.0,12,2,3.0,3.0,2.0,2.0
+L'Oeil du Héraut,Eye of the Void,1,2,0.5,50%,9.0,4.5,9,0,Gratuit,Gratuit,9.0,4.5
+Première Ligne,First Line,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit,8.0,4.0

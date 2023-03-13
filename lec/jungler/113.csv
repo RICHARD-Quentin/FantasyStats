@@ -1,14 +1,19 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Collecteur,Collecting Hammer,1,1,1.0,100%,21.0,21.0,21,2,10.5,10.5,7.0,7.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0,6.67,6.67
-Assistance Divine,Sacred Help,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0,6.67,6.67
-Armure d'Immortel,Immortal Breastplate,1,1,1.0,100%,16.0,16.0,16,1,16.0,16.0,8.0,8.0
-Totem Équivalent,Equivalent Totem,1,1,1.0,100%,13.0,13.0,13,2,6.5,6.5,4.33,4.33
-Œil de Lynx,Hawk's Eye,1,1,1.0,100%,10.0,10.0,10,0,Gratuit,Gratuit,10.0,10.0
-Tombeau Rocheux,Rock Tomb,1,1,1.0,100%,10.0,10.0,10,1,10.0,10.0,5.0,5.0
-Aveuglement,Incapacitor,1,1,1.0,100%,9.0,9.0,9,3,3.0,3.0,2.25,2.25
-Griffes Sauvages,Wild Claw,1,1,1.0,100%,8.0,8.0,8,3,2.67,2.67,2.0,2.0
-Totem du Gardien,Guardian Totem,1,1,1.0,100%,7.0,7.0,7,3,2.33,2.33,1.75,1.75
-Lame Affutée,Sharp Blade,1,1,1.0,100%,6.0,6.0,6,3,2.0,2.0,1.5,1.5
-Faux,Scythe,1,1,1.0,100%,5.0,5.0,5,3,1.67,1.67,1.25,1.25
-Esprit de l'Écuyer,Spirit of the Squire,1,1,1.0,100%,3.0,3.0,3,3,1.0,1.0,0.75,0.75
+Marteau Collecteur,Collecting Hammer,2,2,1.0,100%,21.0,21.0,42,2,10.5,10.5,7.0,7.0
+Assistance Divine,Sacred Help,2,2,1.0,100%,20.0,20.0,40,2,10.0,10.0,6.67,6.67
+Totem Équivalent,Equivalent Totem,2,2,1.0,100%,13.5,13.5,27,2,6.75,6.75,4.5,4.5
+Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,10.5,10.5,21,3,3.5,3.5,2.62,2.62
+Griffes Sauvages,Wild Claw,2,2,1.0,100%,10.0,10.0,20,3,3.33,3.33,2.5,2.5
+Le Marionnettiste,The Puppeteer,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0,6.67,3.33
+Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0,6.67,3.33
+Pillard Féroce,Savage Looter,1,2,0.5,50%,20.0,10.0,20,1,20.0,10.0,10.0,5.0
+Tombeau Rocheux,Rock Tomb,2,2,1.0,100%,10.0,10.0,20,1,10.0,10.0,5.0,5.0
+Mental d'Acier,Steel Aura,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5,6.0,3.0
+Être de Lumière,Being of Light,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0,9.0,4.5
+Armure d'Immortel,Immortal Breastplate,1,2,0.5,50%,16.0,8.0,16,1,16.0,8.0,8.0,4.0
+Lame Affutée,Sharp Blade,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5,1.88,1.88
+Aveuglement,Incapacitor,2,2,1.0,100%,7.5,7.5,15,3,2.5,2.5,1.88,1.88
+Coup de Mort,Death Helper,1,2,0.5,50%,13.0,6.5,13,1,13.0,6.5,6.5,3.25
+Faux,Scythe,2,2,1.0,100%,6.0,6.0,12,3,2.0,2.0,1.5,1.5
+Totem du Gardien,Guardian Totem,2,2,1.0,100%,6.0,6.0,12,3,2.0,2.0,1.5,1.5
+Œil de Lynx,Hawk's Eye,1,2,0.5,50%,10.0,5.0,10,0,Gratuit,Gratuit,10.0,5.0
