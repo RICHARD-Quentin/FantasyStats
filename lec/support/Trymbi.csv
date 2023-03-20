@@ -1,18 +1,18 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Le Traqueur,The Stalker,3,3,1.0,100%,20.0,20.0,60,3,6.67,6.67,5.0,5.0
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,15.67,15.67,47,3,5.22,5.22,3.92,3.92
-Assistance Divine,Sacred Help,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67,6.67,4.44
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,12.33,12.33,37,2,6.17,6.17,4.11,4.11
-Aveuglement,Incapacitor,3,3,1.0,100%,12.0,12.0,36,3,4.0,4.0,3.0,3.0
-Œil de Lynx,Hawk's Eye,3,3,1.0,100%,10.0,10.0,30,0,Gratuit,Gratuit,10.0,10.0
-Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,10.0,10.0,30,3,3.33,3.33,2.5,2.5
-Bâton de Conquête,Conquering Staff,1,3,0.33,33%,24.0,8.0,24,2,12.0,4.0,8.0,2.67
-Vision Céleste,Heavenly Vision,1,3,0.33,33%,22.0,7.33,22,2,11.0,3.67,7.33,2.44
-Marteau Collecteur,Collecting Hammer,1,3,0.33,33%,21.0,7.0,21,2,10.5,3.5,7.0,2.33
-Le Marionnettiste,The Puppeteer,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33,6.67,2.22
-Être de Lumière,Being of Light,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0,9.0,3.0
-Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
-Coup de Mort,Death Helper,1,3,0.33,33%,13.0,4.33,13,1,13.0,4.33,6.5,2.17
-Bâton du Conquérant,Staff of Conquered Worlds,1,3,0.33,33%,11.0,3.67,11,0,Gratuit,Gratuit,11.0,3.67
-Lame Affutée,Sharp Blade,2,3,0.67,67%,4.5,3.0,9,3,1.5,1.0,1.12,0.75
-Faux,Scythe,2,3,0.67,67%,1.0,0.67,2,3,0.33,0.22,0.25,0.17
+Le Traqueur,The Stalker,4,5,0.8,80%,20.0,16.0,80,3,6.67,5.33,5.0,4.0
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,15.0,15.0,75,3,5.0,5.0,3.75,3.75
+Aveuglement,Incapacitor,5,5,1.0,100%,13.8,13.8,69,3,4.6,4.6,3.45,3.45
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,12.6,12.6,63,3,4.2,4.2,3.15,3.15
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,12.4,12.4,62,2,6.2,6.2,4.13,4.13
+Assistance Divine,Sacred Help,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
+Œil de Lynx,Hawk's Eye,5,5,1.0,100%,10.0,10.0,50,0,Gratuit,Gratuit,10.0,10.0
+Bâton de Conquête,Conquering Staff,2,5,0.4,40%,24.0,9.6,48,2,12.0,4.8,8.0,3.2
+Vision Céleste,Heavenly Vision,2,5,0.4,40%,22.0,8.8,44,2,11.0,4.4,7.33,2.93
+Coup de Mort,Death Helper,3,5,0.6,60%,13.0,7.8,39,1,13.0,7.8,6.5,3.9
+Bâton du Conquérant,Staff of Conquered Worlds,2,5,0.4,40%,11.0,4.4,22,0,Gratuit,Gratuit,11.0,4.4
+Marteau Collecteur,Collecting Hammer,1,5,0.2,20%,21.0,4.2,21,2,10.5,2.1,7.0,1.4
+Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
+Être de Lumière,Being of Light,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Lame Affutée,Sharp Blade,3,5,0.6,60%,4.0,2.4,12,3,1.33,0.8,1.0,0.6
+Faux,Scythe,4,5,0.8,80%,1.25,1.0,5,3,0.42,0.33,0.31,0.25
