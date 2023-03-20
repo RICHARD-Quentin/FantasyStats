@@ -1,15 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Sceau Profanateur,Seal of Desecration,3,5,0.6,60%,24.0,14.4,72,2,12.0,7.2,8.0,4.8
-Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,14.4,14.4,72,2,7.2,7.2,4.8,4.8
-Perce-Écailles,Scale Tearer,4,5,0.8,80%,17.5,14.0,70,3,5.83,4.67,4.38,3.5
-Marteau Conquérant,Conquest Hammer,3,5,0.6,60%,22.0,13.2,66,3,7.33,4.4,5.5,3.3
-Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,20.0,12.0,60,3,6.67,4.0,5.0,3.0
-Protection Royale,Royal Protector,3,5,0.6,60%,17.0,10.2,51,1,17.0,10.2,8.5,5.1
-Masque du Baron,Baron' s Mask,2,5,0.4,40%,25.0,10.0,50,2,12.5,5.0,8.33,3.33
-L'Oeil du Héraut,Eye of the Void,4,5,0.8,80%,9.0,7.2,36,0,Gratuit,Gratuit,9.0,7.2
-Première Ligne,First Line,4,5,0.8,80%,8.0,6.4,32,0,Gratuit,Gratuit,8.0,6.4
-Esprit de la Faille,Spirit of the Rift,1,5,0.2,20%,25.0,5.0,25,2,12.5,2.5,8.33,1.67
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,5,0.2,20%,25.0,5.0,25,1,25.0,5.0,12.5,2.5
-Poigne d'Or,Golden Force,1,5,0.2,20%,23.0,4.6,23,1,23.0,4.6,11.5,2.3
-Gardien Sous-terrain,Underworld Guardian,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0,7.5,1.5
-Frappes Éclair,Light Swords,1,5,0.2,20%,12.0,2.4,12,0,Gratuit,Gratuit,12.0,2.4
+Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,13.0,13.0,78,2,6.5,6.5,4.33,4.33
+Perce-Écailles,Scale Tearer,5,6,0.83,83%,15.4,12.83,77,3,5.13,4.28,3.85,3.21
+Sceau Profanateur,Seal of Desecration,3,6,0.5,50%,24.0,12.0,72,2,12.0,6.0,8.0,4.0
+Marteau Conquérant,Conquest Hammer,3,6,0.5,50%,22.0,11.0,66,3,7.33,3.67,5.5,2.75
+Chasse au Gros,Big Worm Hunter,3,6,0.5,50%,20.0,10.0,60,3,6.67,3.33,5.0,2.5
+Protection Royale,Royal Protector,3,6,0.5,50%,17.0,8.5,51,1,17.0,8.5,8.5,4.25
+Masque du Baron,Baron' s Mask,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
+Première Ligne,First Line,5,6,0.83,83%,8.0,6.67,40,0,Gratuit,Gratuit,8.0,6.67
+L'Oeil du Héraut,Eye of the Void,4,6,0.67,67%,9.0,6.0,36,0,Gratuit,Gratuit,9.0,6.0
+Esprit de la Faille,Spirit of the Rift,1,6,0.17,17%,25.0,4.17,25,2,12.5,2.08,8.33,1.39
+Écailles Magiques,Magic Scales,1,6,0.17,17%,25.0,4.17,25,2,12.5,2.08,8.33,1.39
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,6,0.17,17%,25.0,4.17,25,1,25.0,4.17,12.5,2.08
+Poigne d'Or,Golden Force,1,6,0.17,17%,23.0,3.83,23,1,23.0,3.83,11.5,1.92
+Gardien Sous-terrain,Underworld Guardian,1,6,0.17,17%,15.0,2.5,15,1,15.0,2.5,7.5,1.25
+Frappes Éclair,Light Swords,1,6,0.17,17%,12.0,2.0,12,0,Gratuit,Gratuit,12.0,2.0
