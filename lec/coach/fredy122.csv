@@ -1,16 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,13.0,13.0,78,2,6.5,6.5,4.33,4.33
-Perce-Écailles,Scale Tearer,5,6,0.83,83%,15.4,12.83,77,3,5.13,4.28,3.85,3.21
-Sceau Profanateur,Seal of Desecration,3,6,0.5,50%,24.0,12.0,72,2,12.0,6.0,8.0,4.0
-Marteau Conquérant,Conquest Hammer,3,6,0.5,50%,22.0,11.0,66,3,7.33,3.67,5.5,2.75
-Chasse au Gros,Big Worm Hunter,3,6,0.5,50%,20.0,10.0,60,3,6.67,3.33,5.0,2.5
-Protection Royale,Royal Protector,3,6,0.5,50%,17.0,8.5,51,1,17.0,8.5,8.5,4.25
-Masque du Baron,Baron' s Mask,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
-Première Ligne,First Line,5,6,0.83,83%,8.0,6.67,40,0,Gratuit,Gratuit,8.0,6.67
-L'Oeil du Héraut,Eye of the Void,4,6,0.67,67%,9.0,6.0,36,0,Gratuit,Gratuit,9.0,6.0
-Esprit de la Faille,Spirit of the Rift,1,6,0.17,17%,25.0,4.17,25,2,12.5,2.08,8.33,1.39
-Écailles Magiques,Magic Scales,1,6,0.17,17%,25.0,4.17,25,2,12.5,2.08,8.33,1.39
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,6,0.17,17%,25.0,4.17,25,1,25.0,4.17,12.5,2.08
-Poigne d'Or,Golden Force,1,6,0.17,17%,23.0,3.83,23,1,23.0,3.83,11.5,1.92
-Gardien Sous-terrain,Underworld Guardian,1,6,0.17,17%,15.0,2.5,15,1,15.0,2.5,7.5,1.25
-Frappes Éclair,Light Swords,1,6,0.17,17%,12.0,2.0,12,0,Gratuit,Gratuit,12.0,2.0
+Marteau Dévastateur,Destroyer Hammer,8,8,1.0,100%,13.5,13.5,108,2,6.75,6.75,4.5,4.5
+Perce-Écailles,Scale Tearer,7,8,0.88,88%,14.0,12.25,98,3,4.67,4.08,3.5,3.06
+Chasse au Gros,Big Worm Hunter,5,8,0.62,62%,18.0,11.25,90,3,6.0,3.75,4.5,2.81
+Sceau Profanateur,Seal of Desecration,4,8,0.5,50%,22.0,11.0,88,2,11.0,5.5,7.33,3.67
+Marteau Conquérant,Conquest Hammer,4,8,0.5,50%,22.0,11.0,88,3,7.33,3.67,5.5,2.75
+Esprit de la Faille,Spirit of the Rift,3,8,0.38,38%,25.0,9.38,75,2,12.5,4.69,8.33,3.13
+L'Oeil du Héraut,Eye of the Void,6,8,0.75,75%,10.5,7.88,63,0,Gratuit,Gratuit,10.5,7.88
+Première Ligne,First Line,7,8,0.88,88%,8.0,7.0,56,0,Gratuit,Gratuit,8.0,7.0
+Protection Royale,Royal Protector,3,8,0.38,38%,17.0,6.38,51,1,17.0,6.38,8.5,3.19
+Masque du Baron,Baron' s Mask,2,8,0.25,25%,25.0,6.25,50,2,12.5,3.12,8.33,2.08
+Écailles Magiques,Magic Scales,1,8,0.12,12%,25.0,3.12,25,2,12.5,1.56,8.33,1.04
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,8,0.12,12%,25.0,3.12,25,1,25.0,3.12,12.5,1.56
+Poigne d'Or,Golden Force,1,8,0.12,12%,23.0,2.88,23,1,23.0,2.88,11.5,1.44
+Gardien Sous-terrain,Underworld Guardian,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
+Frappes Éclair,Light Swords,1,8,0.12,12%,12.0,1.5,12,0,Gratuit,Gratuit,12.0,1.5
