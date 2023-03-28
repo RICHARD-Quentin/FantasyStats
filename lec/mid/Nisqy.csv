@@ -1,38 +1,38 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,16.88,16.88,135,2,8.44,8.44,5.63,5.63
-Faux,Scythe,8,8,1.0,100%,15.5,15.5,124,3,5.17,5.17,3.88,3.88
-Gantelet Impérieux,Imperious Gauntlet,4,8,0.5,50%,30.0,15.0,120,1,30.0,15.0,15.0,7.5
-Ascension Divine,Divine Ascent,4,8,0.5,50%,25.0,12.5,100,3,8.33,4.17,6.25,3.12
-Faux Parfaite,Perfect Scythe,6,8,0.75,75%,15.0,11.25,90,0,Gratuit,Gratuit,15.0,11.25
-Hache Frénétique,Berseker Ax,6,8,0.75,75%,14.0,10.5,84,2,7.0,5.25,4.67,3.5
-Armure d'Obsidienne,Obsidian Battle Plate,4,8,0.5,50%,20.0,10.0,80,2,10.0,5.0,6.67,3.33
-Économe Sagesse du Trésorier,Treasurer's Wisdom,4,8,0.5,50%,17.0,8.5,68,2,8.5,4.25,5.67,2.83
-Adrénaline Arcanique,Arcane Adrenaline,4,8,0.5,50%,16.0,8.0,64,1,16.0,8.0,8.0,4.0
-Lame Insatiable,Fast Furious Blade,4,8,0.5,50%,16.0,8.0,64,2,8.0,4.0,5.33,2.67
-Assistance Divine,Sacred Help,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Le Marionnettiste,The Puppeteer,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Lame Affutée,Sharp Blade,7,8,0.88,88%,8.14,7.12,57,3,2.71,2.37,2.04,1.78
-Esprit de l'Écuyer,Spirit of the Squire,6,8,0.75,75%,9.0,6.75,54,3,3.0,2.25,2.25,1.69
-Mental d'Acier,Steel Aura,3,8,0.38,38%,18.0,6.75,54,2,9.0,3.38,6.0,2.25
-Épée Obscure,Swords of Darkness,3,8,0.38,38%,17.0,6.38,51,1,17.0,6.38,8.5,3.19
-Marteau Collecteur,Collecting Hammer,5,8,0.62,62%,9.8,6.12,49,2,4.9,3.06,3.27,2.04
-Armure d'Immortel,Immortal Breastplate,2,8,0.25,25%,16.0,4.0,32,1,16.0,4.0,8.0,2.0
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,3.88,3.88,31,3,1.29,1.29,0.97,0.97
-Aveuglement,Incapacitor,7,8,0.88,88%,4.29,3.75,30,3,1.43,1.25,1.07,0.94
-Coup de Mort,Death Helper,2,8,0.25,25%,13.0,3.25,26,1,13.0,3.25,6.5,1.62
-Faux Assoiffées,Thirsty Scythes,1,8,0.12,12%,25.0,3.12,25,3,8.33,1.04,6.25,0.78
-Explosion Arcanique,Arcane Explosive,2,8,0.25,25%,12.0,3.0,24,1,12.0,3.0,6.0,1.5
-Sabre Versatile,Versatil Saber,2,8,0.25,25%,11.0,2.75,22,1,11.0,2.75,5.5,1.38
-Tombeau Rocheux,Rock Tomb,2,8,0.25,25%,10.0,2.5,20,1,10.0,2.5,5.0,1.25
-Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
-Chasseresse d'Âmes,Huntress of Souls,1,8,0.12,12%,19.0,2.38,19,1,19.0,2.38,9.5,1.19
-Griffes Sauvages,Wild Claw,7,8,0.88,88%,2.71,2.38,19,3,0.9,0.79,0.68,0.59
-Enchaînement Éclair,Unstoppable Lightning,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
-Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
-Griffes Démoniaques,Demon Claws,1,8,0.12,12%,17.0,2.12,17,1,17.0,2.12,8.5,1.06
-Danse Macabre,Dance of Death,2,8,0.25,25%,8.0,2.0,16,1,8.0,2.0,4.0,1.0
-Masse de Siège,Siege Mace,1,8,0.12,12%,16.0,2.0,16,0,Gratuit,Gratuit,16.0,2.0
-Elan de Fureur,Rampage Momentum,1,8,0.12,12%,15.0,1.88,15,2,7.5,0.94,5.0,0.63
-Soif de Sang,Thirsty Dagger,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
-Force Divine,Divine Impetu,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
-Bâton du Conquérant,Staff of Conquered Worlds,1,8,0.12,12%,11.0,1.38,11,0,Gratuit,Gratuit,11.0,1.38
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,16.67,16.67,150,2,8.34,8.34,5.56,5.56
+Faux,Scythe,9,9,1.0,100%,15.11,15.11,136,3,5.04,5.04,3.78,3.78
+Gantelet Impérieux,Imperious Gauntlet,4,9,0.44,44%,30.0,13.33,120,1,30.0,13.33,15.0,6.67
+Ascension Divine,Divine Ascent,4,9,0.44,44%,25.0,11.11,100,3,8.33,3.7,6.25,2.78
+Hache Frénétique,Berseker Ax,7,9,0.78,78%,14.0,10.89,98,2,7.0,5.45,4.67,3.63
+Faux Parfaite,Perfect Scythe,6,9,0.67,67%,15.0,10.0,90,0,Gratuit,Gratuit,15.0,10.0
+Armure d'Obsidienne,Obsidian Battle Plate,4,9,0.44,44%,20.0,8.89,80,2,10.0,4.45,6.67,2.96
+Économe Sagesse du Trésorier,Treasurer's Wisdom,4,9,0.44,44%,17.0,7.56,68,2,8.5,3.78,5.67,2.52
+Adrénaline Arcanique,Arcane Adrenaline,4,9,0.44,44%,16.0,7.11,64,1,16.0,7.11,8.0,3.56
+Lame Insatiable,Fast Furious Blade,4,9,0.44,44%,16.0,7.11,64,2,8.0,3.56,5.33,2.37
+Esprit de l'Écuyer,Spirit of the Squire,7,9,0.78,78%,9.0,7.0,63,3,3.0,2.33,2.25,1.75
+Assistance Divine,Sacred Help,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Lame Affutée,Sharp Blade,8,9,0.89,89%,7.5,6.67,60,3,2.5,2.22,1.88,1.67
+Le Marionnettiste,The Puppeteer,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Mental d'Acier,Steel Aura,3,9,0.33,33%,18.0,6.0,54,2,9.0,3.0,6.0,2.0
+Épée Obscure,Swords of Darkness,3,9,0.33,33%,17.0,5.67,51,1,17.0,5.67,8.5,2.83
+Marteau Collecteur,Collecting Hammer,5,9,0.56,56%,9.8,5.44,49,2,4.9,2.72,3.27,1.81
+Aveuglement,Incapacitor,8,9,0.89,89%,4.5,4.0,36,3,1.5,1.33,1.12,1.0
+Armure d'Immortel,Immortal Breastplate,2,9,0.22,22%,16.0,3.56,32,1,16.0,3.56,8.0,1.78
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,3.56,3.56,32,3,1.19,1.19,0.89,0.89
+Coup de Mort,Death Helper,2,9,0.22,22%,13.0,2.89,26,1,13.0,2.89,6.5,1.45
+Faux Assoiffées,Thirsty Scythes,1,9,0.11,11%,25.0,2.78,25,3,8.33,0.93,6.25,0.69
+Explosion Arcanique,Arcane Explosive,2,9,0.22,22%,12.0,2.67,24,1,12.0,2.67,6.0,1.33
+Sabre Versatile,Versatil Saber,2,9,0.22,22%,11.0,2.44,22,1,11.0,2.44,5.5,1.22
+Tombeau Rocheux,Rock Tomb,2,9,0.22,22%,10.0,2.22,20,1,10.0,2.22,5.0,1.11
+Chasseur d'Âmes,Soul Hunter,1,9,0.11,11%,20.0,2.22,20,1,20.0,2.22,10.0,1.11
+Chasseresse d'Âmes,Huntress of Souls,1,9,0.11,11%,19.0,2.11,19,1,19.0,2.11,9.5,1.05
+Griffes Sauvages,Wild Claw,7,9,0.78,78%,2.71,2.11,19,3,0.9,0.7,0.68,0.53
+Enchaînement Éclair,Unstoppable Lightning,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
+Esprit omniprésent,Omnipresent Spirit,1,9,0.11,11%,18.0,2.0,18,2,9.0,1.0,6.0,0.67
+Griffes Démoniaques,Demon Claws,1,9,0.11,11%,17.0,1.89,17,1,17.0,1.89,8.5,0.94
+Danse Macabre,Dance of Death,2,9,0.22,22%,8.0,1.78,16,1,8.0,1.78,4.0,0.89
+Masse de Siège,Siege Mace,1,9,0.11,11%,16.0,1.78,16,0,Gratuit,Gratuit,16.0,1.78
+Elan de Fureur,Rampage Momentum,1,9,0.11,11%,15.0,1.67,15,2,7.5,0.83,5.0,0.56
+Soif de Sang,Thirsty Dagger,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit,15.0,1.67
+Force Divine,Divine Impetu,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit,15.0,1.67
+Bâton du Conquérant,Staff of Conquered Worlds,1,9,0.11,11%,11.0,1.22,11,0,Gratuit,Gratuit,11.0,1.22
