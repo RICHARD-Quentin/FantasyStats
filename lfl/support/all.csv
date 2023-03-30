@@ -1,36 +1,36 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de l'Écuyer,Spirit of the Squire,198,210,0.94,94%,13.48,12.71,2670,3,4.49,4.24,3.37,3.18
-Totem Équivalent,Equivalent Totem,210,210,1.0,100%,12.4,12.4,2603,2,6.2,6.2,4.13,4.13
-Totem du Gardien,Guardian Totem,160,210,0.76,76%,16.07,12.24,2571,3,5.36,4.08,4.02,3.06
-Aveuglement,Incapacitor,206,210,0.98,98%,12.42,12.19,2559,3,4.14,4.06,3.1,3.05
-Le Traqueur,The Stalker,129,210,0.61,61%,18.17,11.16,2344,3,6.06,3.72,4.54,2.79
-Vision Céleste,Heavenly Vision,101,210,0.48,48%,22.0,10.58,2222,2,11.0,5.29,7.33,3.53
-Armure d'Obsidienne,Obsidian Battle Plate,106,210,0.5,50%,20.0,10.1,2120,2,10.0,5.05,6.67,3.37
-Œil de Lynx,Hawk's Eye,203,210,0.97,97%,9.26,8.95,1880,0,Gratuit,Gratuit,9.26,8.95
-Bâton de Conquête,Conquering Staff,73,210,0.35,35%,24.0,8.34,1752,2,12.0,4.17,8.0,2.78
-Coup de Mort,Death Helper,124,210,0.59,59%,11.91,7.03,1477,1,11.91,7.03,5.96,3.52
-Le Visionnaire,The Visionary,82,210,0.39,39%,18.0,7.03,1476,2,9.0,3.52,6.0,2.34
-Amulette Omnisciente,Omnipresent Amulet,84,210,0.4,40%,13.43,5.37,1128,0,Gratuit,Gratuit,13.43,5.37
-Esprit omniprésent,Omnipresent Spirit,57,210,0.27,27%,18.0,4.89,1026,2,9.0,2.44,6.0,1.63
-Marteau Collecteur,Collecting Hammer,73,210,0.35,35%,13.48,4.69,984,2,6.74,2.35,4.49,1.56
-Sabre Versatile,Versatil Saber,73,210,0.35,35%,11.0,3.82,803,1,11.0,3.82,5.5,1.91
-Le Marionnettiste,The Puppeteer,37,210,0.18,18%,20.0,3.52,740,2,10.0,1.76,6.67,1.17
-Bâton du Conquérant,Staff of Conquered Worlds,58,210,0.28,28%,11.0,3.04,638,0,Gratuit,Gratuit,11.0,3.04
-Armure d'Immortel,Immortal Breastplate,37,210,0.18,18%,15.14,2.67,560,1,15.14,2.67,7.57,1.33
-Force Divine,Divine Impetu,41,210,0.2,20%,13.54,2.64,555,0,Gratuit,Gratuit,13.54,2.64
-Assistance Divine,Sacred Help,26,210,0.12,12%,20.0,2.48,520,2,10.0,1.24,6.67,0.83
-Lame Affutée,Sharp Blade,92,210,0.44,44%,4.7,2.06,432,3,1.57,0.69,1.18,0.52
-Marteleur précis,Precise Hammer,19,210,0.09,9%,18.0,1.63,342,1,18.0,1.63,9.0,0.81
-Masse de Siège,Siege Mace,17,210,0.08,8%,16.0,1.3,272,0,Gratuit,Gratuit,16.0,1.3
-Faux,Scythe,178,210,0.85,85%,1.52,1.29,270,3,0.51,0.43,0.38,0.32
-Soif de Sang,Thirsty Dagger,10,210,0.05,5%,15.0,0.71,150,0,Gratuit,Gratuit,15.0,0.71
-Hache Frénétique,Berseker Ax,10,210,0.05,5%,14.0,0.67,140,2,7.0,0.34,4.67,0.22
-Épée Obscure,Swords of Darkness,8,210,0.04,4%,17.0,0.65,136,1,17.0,0.65,8.5,0.33
-Être de Lumière,Being of Light,7,210,0.03,3%,18.0,0.6,126,1,18.0,0.6,9.0,0.3
-Désintégrateur Magnétique,Magnetic Disintegrator,11,210,0.05,5%,11.0,0.58,121,0,Gratuit,Gratuit,11.0,0.58
-Chasseur d'Âmes,Soul Hunter,4,210,0.02,2%,18.75,0.36,75,1,18.75,0.36,9.38,0.18
-Adrénaline Arcanique,Arcane Adrenaline,2,210,0.01,1%,16.0,0.15,32,1,16.0,0.15,8.0,0.07
-Danse Macabre,Dance of Death,4,210,0.02,2%,8.0,0.15,32,1,8.0,0.15,4.0,0.07
-Elan de Fureur,Rampage Momentum,2,210,0.01,1%,15.0,0.14,30,2,7.5,0.07,5.0,0.05
-Enchaînement Éclair,Unstoppable Lightning,1,210,0.0,0%,18.0,0.09,18,1,18.0,0.09,9.0,0.04
-Griffes Sauvages,Wild Claw,2,210,0.01,1%,5.5,0.05,11,3,1.83,0.02,1.38,0.01
+Esprit de l'Écuyer,Spirit of the Squire,203,216,0.94,94%,13.48,12.67,2736,3,4.49,4.22,3.37,3.17
+Totem du Gardien,Guardian Totem,166,216,0.77,77%,16.29,12.52,2704,3,5.43,4.17,4.07,3.13
+Totem Équivalent,Equivalent Totem,216,216,1.0,100%,12.43,12.43,2685,2,6.21,6.21,4.14,4.14
+Aveuglement,Incapacitor,212,216,0.98,98%,12.59,12.36,2670,3,4.2,4.12,3.15,3.09
+Le Traqueur,The Stalker,135,216,0.62,62%,18.25,11.41,2464,3,6.08,3.8,4.56,2.85
+Vision Céleste,Heavenly Vision,104,216,0.48,48%,22.0,10.59,2288,2,11.0,5.29,7.33,3.53
+Armure d'Obsidienne,Obsidian Battle Plate,110,216,0.51,51%,20.0,10.19,2200,2,10.0,5.09,6.67,3.4
+Œil de Lynx,Hawk's Eye,209,216,0.97,97%,9.28,8.98,1940,0,Gratuit,Gratuit,9.28,8.98
+Bâton de Conquête,Conquering Staff,77,216,0.36,36%,24.0,8.56,1848,2,12.0,4.28,8.0,2.85
+Le Visionnaire,The Visionary,85,216,0.39,39%,18.0,7.08,1530,2,9.0,3.54,6.0,2.36
+Coup de Mort,Death Helper,126,216,0.58,58%,11.93,6.96,1503,1,11.93,6.96,5.96,3.48
+Amulette Omnisciente,Omnipresent Amulet,87,216,0.4,40%,13.48,5.43,1173,0,Gratuit,Gratuit,13.48,5.43
+Esprit omniprésent,Omnipresent Spirit,58,216,0.27,27%,18.0,4.83,1044,2,9.0,2.42,6.0,1.61
+Marteau Collecteur,Collecting Hammer,74,216,0.34,34%,13.68,4.69,1012,2,6.84,2.35,4.56,1.56
+Sabre Versatile,Versatil Saber,76,216,0.35,35%,11.0,3.87,836,1,11.0,3.87,5.5,1.94
+Le Marionnettiste,The Puppeteer,37,216,0.17,17%,20.0,3.43,740,2,10.0,1.72,6.67,1.14
+Bâton du Conquérant,Staff of Conquered Worlds,60,216,0.28,28%,11.0,3.06,660,0,Gratuit,Gratuit,11.0,3.06
+Armure d'Immortel,Immortal Breastplate,37,216,0.17,17%,15.14,2.59,560,1,15.14,2.59,7.57,1.29
+Force Divine,Divine Impetu,41,216,0.19,19%,13.54,2.57,555,0,Gratuit,Gratuit,13.54,2.57
+Assistance Divine,Sacred Help,27,216,0.12,12%,20.0,2.5,540,2,10.0,1.25,6.67,0.83
+Lame Affutée,Sharp Blade,95,216,0.44,44%,4.74,2.08,450,3,1.58,0.69,1.19,0.52
+Marteleur précis,Precise Hammer,20,216,0.09,9%,18.0,1.67,360,1,18.0,1.67,9.0,0.83
+Faux,Scythe,184,216,0.85,85%,1.54,1.31,283,3,0.51,0.44,0.39,0.33
+Masse de Siège,Siege Mace,17,216,0.08,8%,16.0,1.26,272,0,Gratuit,Gratuit,16.0,1.26
+Soif de Sang,Thirsty Dagger,10,216,0.05,5%,15.0,0.69,150,0,Gratuit,Gratuit,15.0,0.69
+Hache Frénétique,Berseker Ax,10,216,0.05,5%,14.0,0.65,140,2,7.0,0.33,4.67,0.22
+Épée Obscure,Swords of Darkness,8,216,0.04,4%,17.0,0.63,136,1,17.0,0.63,8.5,0.32
+Être de Lumière,Being of Light,7,216,0.03,3%,18.0,0.58,126,1,18.0,0.58,9.0,0.29
+Désintégrateur Magnétique,Magnetic Disintegrator,11,216,0.05,5%,11.0,0.56,121,0,Gratuit,Gratuit,11.0,0.56
+Chasseur d'Âmes,Soul Hunter,4,216,0.02,2%,18.75,0.35,75,1,18.75,0.35,9.38,0.17
+Adrénaline Arcanique,Arcane Adrenaline,2,216,0.01,1%,16.0,0.15,32,1,16.0,0.15,8.0,0.07
+Danse Macabre,Dance of Death,4,216,0.02,2%,8.0,0.15,32,1,8.0,0.15,4.0,0.07
+Elan de Fureur,Rampage Momentum,2,216,0.01,1%,15.0,0.14,30,2,7.5,0.07,5.0,0.05
+Enchaînement Éclair,Unstoppable Lightning,1,216,0.0,0%,18.0,0.08,18,1,18.0,0.08,9.0,0.04
+Griffes Sauvages,Wild Claw,2,216,0.01,1%,5.5,0.05,11,3,1.83,0.02,1.38,0.01
