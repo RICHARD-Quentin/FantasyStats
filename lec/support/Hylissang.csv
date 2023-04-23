@@ -1,25 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Le Traqueur,The Stalker,21,25,0.84,84%,20.0,16.8,420,3,6.67,5.6,5.0,4.2
-Totem du Gardien,Guardian Totem,25,25,1.0,100%,15.32,15.32,383,3,5.11,5.11,3.83,3.83
-Esprit de l'Écuyer,Spirit of the Squire,24,25,0.96,96%,13.0,12.48,312,3,4.33,4.16,3.25,3.12
-Totem Équivalent,Equivalent Totem,25,25,1.0,100%,12.08,12.08,302,2,6.04,6.04,4.03,4.03
-Œil de Lynx,Hawk's Eye,25,25,1.0,100%,10.0,10.0,250,0,Gratuit,Gratuit,10.0,10.0
-Aveuglement,Incapacitor,25,25,1.0,100%,9.36,9.36,234,3,3.12,3.12,2.34,2.34
-Vision Céleste,Heavenly Vision,10,25,0.4,40%,22.0,8.8,220,2,11.0,4.4,7.33,2.93
-Le Visionnaire,The Visionary,8,25,0.32,32%,18.0,5.76,144,2,9.0,2.88,6.0,1.92
-Coup de Mort,Death Helper,10,25,0.4,40%,13.0,5.2,130,1,13.0,5.2,6.5,2.6
-Marteau Collecteur,Collecting Hammer,10,25,0.4,40%,11.2,4.48,112,2,5.6,2.24,3.73,1.49
-Amulette Omnisciente,Omnipresent Amulet,7,25,0.28,28%,15.0,4.2,105,0,Gratuit,Gratuit,15.0,4.2
-Armure d'Obsidienne,Obsidian Battle Plate,5,25,0.2,20%,20.0,4.0,100,2,10.0,2.0,6.67,1.33
-Bâton de Conquête,Conquering Staff,4,25,0.16,16%,24.0,3.84,96,2,12.0,1.92,8.0,1.28
-Lame Affutée,Sharp Blade,11,25,0.44,44%,4.91,2.16,54,3,1.64,0.72,1.23,0.54
-Sabre Versatile,Versatil Saber,4,25,0.16,16%,11.0,1.76,44,1,11.0,1.76,5.5,0.88
-Assistance Divine,Sacred Help,2,25,0.08,8%,20.0,1.6,40,2,10.0,0.8,6.67,0.53
-Le Marionnettiste,The Puppeteer,2,25,0.08,8%,20.0,1.6,40,2,10.0,0.8,6.67,0.53
-Faux,Scythe,23,25,0.92,92%,1.61,1.48,37,3,0.54,0.49,0.4,0.37
-Masse de Siège,Siege Mace,2,25,0.08,8%,16.0,1.28,32,0,Gratuit,Gratuit,16.0,1.28
-Bâton du Conquérant,Staff of Conquered Worlds,2,25,0.08,8%,11.0,0.88,22,0,Gratuit,Gratuit,11.0,0.88
-Désintégrateur Magnétique,Magnetic Disintegrator,2,25,0.08,8%,11.0,0.88,22,0,Gratuit,Gratuit,11.0,0.88
-Chasseur d'Âmes,Soul Hunter,1,25,0.04,4%,20.0,0.8,20,1,20.0,0.8,10.0,0.4
-Esprit omniprésent,Omnipresent Spirit,1,25,0.04,4%,18.0,0.72,18,2,9.0,0.36,6.0,0.24
-Armure d'Immortel,Immortal Breastplate,1,25,0.04,4%,16.0,0.64,16,1,16.0,0.64,8.0,0.32
+Le Traqueur,The Stalker,25,30,0.83,83%,20.0,16.67,500,3,6.67,5.56,5.0,4.17
+Totem du Gardien,Guardian Totem,30,30,1.0,100%,14.93,14.93,448,3,4.98,4.98,3.73,3.73
+Esprit de l'Écuyer,Spirit of the Squire,28,30,0.93,93%,12.86,12.0,360,3,4.29,4.0,3.21,3.0
+Totem Équivalent,Equivalent Totem,30,30,1.0,100%,12.0,12.0,360,2,6.0,6.0,4.0,4.0
+Vision Céleste,Heavenly Vision,14,30,0.47,47%,22.0,10.27,308,2,11.0,5.13,7.33,3.42
+Œil de Lynx,Hawk's Eye,30,30,1.0,100%,10.0,10.0,300,0,Gratuit,Gratuit,10.0,10.0
+Aveuglement,Incapacitor,30,30,1.0,100%,9.5,9.5,285,3,3.17,3.17,2.38,2.38
+Le Visionnaire,The Visionary,11,30,0.37,37%,18.0,6.6,198,2,9.0,3.3,6.0,2.2
+Coup de Mort,Death Helper,12,30,0.4,40%,13.0,5.2,156,1,13.0,5.2,6.5,2.6
+Armure d'Obsidienne,Obsidian Battle Plate,7,30,0.23,23%,20.0,4.67,140,2,10.0,2.33,6.67,1.56
+Amulette Omnisciente,Omnipresent Amulet,8,30,0.27,27%,15.0,4.0,120,0,Gratuit,Gratuit,15.0,4.0
+Bâton de Conquête,Conquering Staff,5,30,0.17,17%,24.0,4.0,120,2,12.0,2.0,8.0,1.33
+Marteau Collecteur,Collecting Hammer,10,30,0.33,33%,11.2,3.73,112,2,5.6,1.86,3.73,1.24
+Lame Affutée,Sharp Blade,16,30,0.53,53%,4.5,2.4,72,3,1.5,0.8,1.12,0.6
+Sabre Versatile,Versatil Saber,6,30,0.2,20%,11.0,2.2,66,1,11.0,2.2,5.5,1.1
+Le Marionnettiste,The Puppeteer,3,30,0.1,10%,20.0,2.0,60,2,10.0,1.0,6.67,0.67
+Bâton du Conquérant,Staff of Conquered Worlds,5,30,0.17,17%,11.0,1.83,55,0,Gratuit,Gratuit,11.0,1.83
+Faux,Scythe,28,30,0.93,93%,1.61,1.5,45,3,0.54,0.5,0.4,0.38
+Désintégrateur Magnétique,Magnetic Disintegrator,4,30,0.13,13%,11.0,1.47,44,0,Gratuit,Gratuit,11.0,1.47
+Assistance Divine,Sacred Help,2,30,0.07,7%,20.0,1.33,40,2,10.0,0.67,6.67,0.44
+Esprit omniprésent,Omnipresent Spirit,2,30,0.07,7%,18.0,1.2,36,2,9.0,0.6,6.0,0.4
+Armure d'Immortel,Immortal Breastplate,2,30,0.07,7%,16.0,1.07,32,1,16.0,1.07,8.0,0.54
+Masse de Siège,Siege Mace,2,30,0.07,7%,16.0,1.07,32,0,Gratuit,Gratuit,16.0,1.07
+Chasseur d'Âmes,Soul Hunter,1,30,0.03,3%,20.0,0.67,20,1,20.0,0.67,10.0,0.34
+Force Divine,Divine Impetu,1,30,0.03,3%,15.0,0.5,15,0,Gratuit,Gratuit,15.0,0.5
