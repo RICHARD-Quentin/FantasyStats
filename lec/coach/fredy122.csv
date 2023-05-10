@@ -1,10 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Sceau Profanateur,Seal of Desecration,1,2,0.5,50%,32.0,16.0,32,2,16.0,8.0,10.67,5.33
-Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,30.0,15.0,30,3,10.0,5.0,7.5,3.75
-Marteau Dévastateur,Destroyer Hammer,2,2,1.0,100%,14.0,14.0,28,2,7.0,7.0,4.67,4.67
-Perce-Écailles,Scale Tearer,2,2,1.0,100%,14.0,14.0,28,3,4.67,4.67,3.5,3.5
-Masque du Baron,Baron' s Mask,1,2,0.5,50%,25.0,12.5,25,2,12.5,6.25,8.33,4.17
-Marteau Conquérant,Conquest Hammer,1,2,0.5,50%,22.0,11.0,22,3,7.33,3.67,5.5,2.75
-L'Oeil du Héraut,Eye of the Void,2,2,1.0,100%,9.0,9.0,18,0,Gratuit,Gratuit,9.0,9.0
-Protection Royale,Royal Protector,1,2,0.5,50%,17.0,8.5,17,1,17.0,8.5,8.5,4.25
-Première Ligne,First Line,2,2,1.0,100%,8.0,8.0,16,0,Gratuit,Gratuit,8.0,8.0
+Marteau Dévastateur,Destroyer Hammer,14,14,1.0,100%,11.43,11.43,160,2,5.71,5.71,3.81,3.81
+Esprit de la Faille,Spirit of the Rift,6,14,0.43,43%,25.0,10.71,150,2,12.5,5.36,8.33,3.57
+Chasse au Gros,Big Worm Hunter,8,14,0.57,57%,18.75,10.71,150,3,6.25,3.57,4.69,2.68
+Marteau Conquérant,Conquest Hammer,6,14,0.43,43%,22.0,9.43,132,3,7.33,3.14,5.5,2.36
+Masque du Baron,Baron' s Mask,5,14,0.36,36%,25.0,8.93,125,2,12.5,4.46,8.33,2.98
+Perce-Écailles,Scale Tearer,9,14,0.64,64%,13.22,8.5,119,3,4.41,2.83,3.31,2.12
+L'Oeil du Héraut,Eye of the Void,9,14,0.64,64%,12.0,7.71,108,0,Gratuit,Gratuit,12.0,7.71
+Sceau Profanateur,Seal of Desecration,6,14,0.43,43%,17.33,7.43,104,2,8.66,3.71,5.78,2.48
+Protection Royale,Royal Protector,5,14,0.36,36%,17.0,6.07,85,1,17.0,6.07,8.5,3.04
+Première Ligne,First Line,10,14,0.71,71%,8.0,5.71,80,0,Gratuit,Gratuit,8.0,5.71
+Poigne d'Or,Golden Force,3,14,0.21,21%,23.0,4.93,69,1,23.0,4.93,11.5,2.46
+Gardien Sous-terrain,Underworld Guardian,3,14,0.21,21%,15.0,3.21,45,1,15.0,3.21,7.5,1.6
+Folie Meurtrière,Killer Momentum,2,14,0.14,14%,22.0,3.14,44,0,Gratuit,Gratuit,22.0,3.14
+Frappes Éclair,Light Swords,3,14,0.21,21%,12.0,2.57,36,0,Gratuit,Gratuit,12.0,2.57
+Écailles Magiques,Magic Scales,1,14,0.07,7%,25.0,1.79,25,2,12.5,0.9,8.33,0.6
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,14,0.07,7%,25.0,1.79,25,1,25.0,1.79,12.5,0.9

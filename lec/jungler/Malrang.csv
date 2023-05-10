@@ -1,16 +1,37 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,2,2,1.0,100%,20.0,20.0,40,2,10.0,10.0,6.67,6.67
-Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.0,15.0,30,2,7.5,7.5,5.0,5.0
-Griffes Sauvages,Wild Claw,2,2,1.0,100%,14.5,14.5,29,3,4.83,4.83,3.62,3.62
-Aveuglement,Incapacitor,2,2,1.0,100%,13.5,13.5,27,3,4.5,4.5,3.38,3.38
-Bâton de Conquête,Conquering Staff,1,2,0.5,50%,24.0,12.0,24,2,12.0,6.0,8.0,4.0
-Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0,6.67,3.33
-Tombeau Rocheux,Rock Tomb,2,2,1.0,100%,10.0,10.0,20,1,10.0,10.0,5.0,5.0
-Chasseur de Bêtes,Beast Hunter,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5,6.0,3.0
-Esprit omniprésent,Omnipresent Spirit,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5,6.0,3.0
-Faux,Scythe,2,2,1.0,100%,8.5,8.5,17,3,2.83,2.83,2.12,2.12
-Coup de Mort,Death Helper,1,2,0.5,50%,13.0,6.5,13,1,13.0,6.5,6.5,3.25
-Esprit de l'Écuyer,Spirit of the Squire,1,2,0.5,50%,12.0,6.0,12,3,4.0,2.0,3.0,1.5
-Œil de Lynx,Hawk's Eye,1,2,0.5,50%,10.0,5.0,10,0,Gratuit,Gratuit,10.0,5.0
-Lame Affutée,Sharp Blade,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5,1.12,1.12
-Totem du Gardien,Guardian Totem,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5,1.12,1.12
+Assistance Divine,Sacred Help,14,14,1.0,100%,20.0,20.0,280,2,10.0,10.0,6.67,6.67
+Totem Équivalent,Equivalent Totem,14,14,1.0,100%,14.14,14.14,198,2,7.07,7.07,4.71,4.71
+Griffes Sauvages,Wild Claw,14,14,1.0,100%,13.0,13.0,182,3,4.33,4.33,3.25,3.25
+Aveuglement,Incapacitor,14,14,1.0,100%,9.43,9.43,132,3,3.14,3.14,2.36,2.36
+Esprit de l'Écuyer,Spirit of the Squire,11,14,0.79,79%,10.91,8.57,120,3,3.64,2.86,2.73,2.14
+Faux,Scythe,14,14,1.0,100%,7.5,7.5,105,3,2.5,2.5,1.88,1.88
+Armure d'Obsidienne,Obsidian Battle Plate,4,14,0.29,29%,20.0,5.71,80,2,10.0,2.85,6.67,1.9
+Tombeau Rocheux,Rock Tomb,8,14,0.57,57%,10.0,5.71,80,1,10.0,5.71,5.0,2.85
+Être de Lumière,Being of Light,4,14,0.29,29%,18.0,5.14,72,1,18.0,5.14,9.0,2.57
+Décharge Élémentaire,Elemental Discharge,4,14,0.29,29%,18.0,5.14,72,1,18.0,5.14,9.0,2.57
+Lame Affutée,Sharp Blade,11,14,0.79,79%,6.55,5.14,72,3,2.18,1.71,1.64,1.28
+Œil de Lynx,Hawk's Eye,7,14,0.5,50%,10.0,5.0,70,0,Gratuit,Gratuit,10.0,5.0
+Marteau Collecteur,Collecting Hammer,5,14,0.36,36%,14.0,5.0,70,2,7.0,2.5,4.67,1.67
+Coup de Mort,Death Helper,5,14,0.36,36%,13.0,4.64,65,1,13.0,4.64,6.5,2.32
+Totem du Gardien,Guardian Totem,14,14,1.0,100%,4.29,4.29,60,3,1.43,1.43,1.07,1.07
+Chasseur de Bêtes,Beast Hunter,3,14,0.21,21%,18.0,3.86,54,2,9.0,1.93,6.0,1.29
+Marteleur précis,Precise Hammer,3,14,0.21,21%,18.0,3.86,54,1,18.0,3.86,9.0,1.93
+Esprit omniprésent,Omnipresent Spirit,3,14,0.21,21%,18.0,3.86,54,2,9.0,1.93,6.0,1.29
+Épée Obscure,Swords of Darkness,3,14,0.21,21%,17.0,3.64,51,1,17.0,3.64,8.5,1.82
+Bâton de Conquête,Conquering Staff,2,14,0.14,14%,24.0,3.43,48,2,12.0,1.72,8.0,1.14
+Pillard Féroce,Savage Looter,2,14,0.14,14%,20.0,2.86,40,1,20.0,2.86,10.0,1.43
+Mental d'Acier,Steel Aura,2,14,0.14,14%,18.0,2.57,36,2,9.0,1.28,6.0,0.86
+Amulette Omnisciente,Omnipresent Amulet,2,14,0.14,14%,15.0,2.14,30,0,Gratuit,Gratuit,15.0,2.14
+Sabre Versatile,Versatil Saber,2,14,0.14,14%,11.0,1.57,22,1,11.0,1.57,5.5,0.79
+Esprit Sauvage,Wild Spirit,2,14,0.14,14%,10.0,1.43,20,0,Gratuit,Gratuit,10.0,1.43
+Chasseur d'Âmes,Soul Hunter,1,14,0.07,7%,20.0,1.43,20,1,20.0,1.43,10.0,0.71
+Économe Sagesse du Trésorier,Treasurer's Wisdom,1,14,0.07,7%,17.0,1.21,17,2,8.5,0.6,5.67,0.4
+Masse de Siège,Siege Mace,1,14,0.07,7%,16.0,1.14,16,0,Gratuit,Gratuit,16.0,1.14
+Danse Macabre,Dance of Death,2,14,0.14,14%,8.0,1.14,16,1,8.0,1.14,4.0,0.57
+Armure d'Immortel,Immortal Breastplate,1,14,0.07,7%,16.0,1.14,16,1,16.0,1.14,8.0,0.57
+Elan de Fureur,Rampage Momentum,1,14,0.07,7%,15.0,1.07,15,2,7.5,0.54,5.0,0.36
+Force Divine,Divine Impetu,1,14,0.07,7%,15.0,1.07,15,0,Gratuit,Gratuit,15.0,1.07
+Soif de Sang,Thirsty Dagger,1,14,0.07,7%,15.0,1.07,15,0,Gratuit,Gratuit,15.0,1.07
+Explosion Arcanique,Arcane Explosive,1,14,0.07,7%,12.0,0.86,12,1,12.0,0.86,6.0,0.43
+Bâton du Conquérant,Staff of Conquered Worlds,1,14,0.07,7%,11.0,0.79,11,0,Gratuit,Gratuit,11.0,0.79
+Désintégrateur Magnétique,Magnetic Disintegrator,1,14,0.07,7%,11.0,0.79,11,0,Gratuit,Gratuit,11.0,0.79
