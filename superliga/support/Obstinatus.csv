@@ -1,30 +1,21 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Vision Céleste,Heavenly Vision,19,22,0.86,86%,22.0,19.0,418,2,11.0,9.5,7.33,6.33
-Bâton de Conquête,Conquering Staff,17,22,0.77,77%,24.0,18.55,408,2,12.0,9.28,8.0,6.18
-Aveuglement,Incapacitor,22,22,1.0,100%,17.45,17.45,384,3,5.82,5.82,4.36,4.36
-Esprit de l'Écuyer,Spirit of the Squire,20,22,0.91,91%,17.1,15.55,342,3,5.7,5.18,4.28,3.89
-Totem du Gardien,Guardian Totem,17,22,0.77,77%,19.24,14.86,327,3,6.41,4.95,4.81,3.71
-Le Traqueur,The Stalker,16,22,0.73,73%,18.25,13.27,292,3,6.08,4.42,4.56,3.32
-Totem Équivalent,Equivalent Totem,22,22,1.0,100%,12.77,12.77,281,2,6.38,6.38,4.26,4.26
-Le Visionnaire,The Visionary,14,22,0.64,64%,18.0,11.45,252,2,9.0,5.72,6.0,3.82
-Armure d'Obsidienne,Obsidian Battle Plate,12,22,0.55,55%,20.0,10.91,240,2,10.0,5.46,6.67,3.64
-Œil de Lynx,Hawk's Eye,22,22,1.0,100%,9.27,9.27,204,0,Gratuit,Gratuit,9.27,9.27
-Coup de Mort,Death Helper,15,22,0.68,68%,11.8,8.05,177,1,11.8,8.05,5.9,4.03
-Esprit omniprésent,Omnipresent Spirit,9,22,0.41,41%,18.0,7.36,162,2,9.0,3.68,6.0,2.45
-Amulette Omnisciente,Omnipresent Amulet,11,22,0.5,50%,13.18,6.59,145,0,Gratuit,Gratuit,13.18,6.59
-Bâton du Conquérant,Staff of Conquered Worlds,12,22,0.55,55%,11.0,6.0,132,0,Gratuit,Gratuit,11.0,6.0
-Sabre Versatile,Versatil Saber,10,22,0.45,45%,11.0,5.0,110,1,11.0,5.0,5.5,2.5
-Assistance Divine,Sacred Help,5,22,0.23,23%,20.0,4.55,100,2,10.0,2.27,6.67,1.52
-Force Divine,Divine Impetu,5,22,0.23,23%,13.4,3.05,67,0,Gratuit,Gratuit,13.4,3.05
-Lame Affutée,Sharp Blade,15,22,0.68,68%,4.0,2.73,60,3,1.33,0.91,1.0,0.68
-Armure d'Immortel,Immortal Breastplate,3,22,0.14,14%,15.33,2.09,46,1,15.33,2.09,7.67,1.04
-Marteau Collecteur,Collecting Hammer,5,22,0.23,23%,8.2,1.86,41,2,4.1,0.93,2.73,0.62
-Faux,Scythe,21,22,0.95,95%,1.48,1.41,31,3,0.49,0.47,0.37,0.35
-Soif de Sang,Thirsty Dagger,2,22,0.09,9%,15.0,1.36,30,0,Gratuit,Gratuit,15.0,1.36
-Être de Lumière,Being of Light,1,22,0.05,5%,18.0,0.82,18,1,18.0,0.82,9.0,0.41
-Marteleur précis,Precise Hammer,1,22,0.05,5%,18.0,0.82,18,1,18.0,0.82,9.0,0.41
-Masse de Siège,Siege Mace,1,22,0.05,5%,16.0,0.73,16,0,Gratuit,Gratuit,16.0,0.73
-Chasseur d'Âmes,Soul Hunter,1,22,0.05,5%,15.0,0.68,15,1,15.0,0.68,7.5,0.34
-Hache Frénétique,Berseker Ax,1,22,0.05,5%,14.0,0.64,14,2,7.0,0.32,4.67,0.21
-Désintégrateur Magnétique,Magnetic Disintegrator,1,22,0.05,5%,11.0,0.5,11,0,Gratuit,Gratuit,11.0,0.5
-Danse Macabre,Dance of Death,1,22,0.05,5%,8.0,0.36,8,1,8.0,0.36,4.0,0.18
+Totem du Gardien,Guardian Totem,3,3,1.0,100%,15.67,15.67,47,3,5.22,5.22,3.92,3.92
+Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,15.0,15.0,45,3,5.0,5.0,3.75,3.75
+Armure d'Obsidienne,Obsidian Battle Plate,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67,6.67,4.44
+Vision Céleste,Heavenly Vision,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67,6.67,4.44
+Le Traqueur,The Stalker,2,3,0.67,67%,20.0,13.33,40,3,6.67,4.44,5.0,3.33
+Totem Équivalent,Equivalent Totem,3,3,1.0,100%,12.67,12.67,38,3,4.22,4.22,3.17,3.17
+Aveuglement,Incapacitor,2,3,0.67,67%,18.0,12.0,36,3,6.0,4.0,4.5,3.0
+Le Visionnaire,The Visionary,2,3,0.67,67%,18.0,12.0,36,2,9.0,6.0,6.0,4.0
+Coup de Mort,Death Helper,2,3,0.67,67%,13.0,8.67,26,1,13.0,8.67,6.5,4.33
+Bâton de Conquête,Conquering Staff,1,3,0.33,33%,24.0,8.0,24,2,12.0,4.0,8.0,2.67
+Œil de Lynx,Hawk's Eye,3,3,1.0,100%,8.0,8.0,24,0,Gratuit,Gratuit,8.0,8.0
+Armure d'Immortel,Immortal Breastplate,1,3,0.33,33%,20.0,6.67,20,1,20.0,6.67,10.0,3.33
+Sabre Versatile,Versatil Saber,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0,9.0,3.0
+Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
+Bâton du Conquérant,Staff of Conquered Worlds,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
+Force Divine,Divine Impetu,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
+Amulette Omnisciente,Omnipresent Amulet,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
+Marteau Collecteur,Collecting Hammer,1,3,0.33,33%,7.0,2.33,7,2,3.5,1.17,2.33,0.78
+Lame Affutée,Sharp Blade,1,3,0.33,33%,3.0,1.0,3,3,1.0,0.33,0.75,0.25
+Faux,Scythe,1,3,0.33,33%,1.0,0.33,1,3,0.33,0.11,0.25,0.08
