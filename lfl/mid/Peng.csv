@@ -1,40 +1,12 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,18,18,1.0,100%,16.11,16.11,290,2,8.05,8.05,5.37,5.37
-Faux,Scythe,18,18,1.0,100%,14.06,14.06,253,3,4.69,4.69,3.52,3.52
-Armure d'Obsidienne,Obsidian Battle Plate,10,18,0.56,56%,20.0,11.11,200,2,10.0,5.55,6.67,3.7
-Lame Affutée,Sharp Blade,14,18,0.78,78%,10.71,8.33,150,3,3.57,2.78,2.68,2.08
-Hache Frénétique,Berseker Ax,10,18,0.56,56%,14.0,7.78,140,2,7.0,3.89,4.67,2.59
-Adrénaline Arcanique,Arcane Adrenaline,7,18,0.39,39%,16.0,6.22,112,1,16.0,6.22,8.0,3.11
-Aveuglement,Incapacitor,15,18,0.83,83%,7.4,6.17,111,3,2.47,2.06,1.85,1.54
-Esprit de l'Écuyer,Spirit of the Squire,13,18,0.72,72%,8.54,6.17,111,3,2.85,2.06,2.13,1.54
-Ascension Divine,Divine Ascent,4,18,0.22,22%,25.0,5.56,100,3,8.33,1.85,6.25,1.39
-Marteau Collecteur,Collecting Hammer,8,18,0.44,44%,12.25,5.44,98,2,6.12,2.72,4.08,1.81
-Faux Parfaite,Perfect Scythe,6,18,0.33,33%,15.0,5.0,90,0,Gratuit,Gratuit,15.0,5.0
-Épée Obscure,Swords of Darkness,5,18,0.28,28%,17.0,4.72,85,1,17.0,4.72,8.5,2.36
-Économe Sagesse du Trésorier,Treasurer's Wisdom,5,18,0.28,28%,17.0,4.72,85,2,8.5,2.36,5.67,1.57
-Armure d'Immortel,Immortal Breastplate,5,18,0.28,28%,15.2,4.22,76,1,15.2,4.22,7.6,2.11
-Esprit omniprésent,Omnipresent Spirit,4,18,0.22,22%,18.0,4.0,72,2,9.0,2.0,6.0,1.33
-Sabre Versatile,Versatil Saber,6,18,0.33,33%,11.0,3.67,66,1,11.0,3.67,5.5,1.83
-Chasseur d'Âmes,Soul Hunter,3,18,0.17,17%,20.0,3.33,60,1,20.0,3.33,10.0,1.67
-Le Marionnettiste,The Puppeteer,3,18,0.17,17%,20.0,3.33,60,2,10.0,1.67,6.67,1.11
-Gantelet Impérieux,Imperious Gauntlet,2,18,0.11,11%,30.0,3.33,60,1,30.0,3.33,15.0,1.67
-Totem du Gardien,Guardian Totem,13,18,0.72,72%,4.31,3.11,56,3,1.44,1.04,1.08,0.78
-Œil de Lynx,Hawk's Eye,6,18,0.33,33%,9.33,3.11,56,0,Gratuit,Gratuit,9.33,3.11
-Parchemin Secret,Secret Scroll,3,18,0.17,17%,18.0,3.0,54,2,9.0,1.5,6.0,1.0
-Faux Assoiffées,Thirsty Scythes,2,18,0.11,11%,25.0,2.78,50,3,8.33,0.93,6.25,0.69
-Tombeau Rocheux,Rock Tomb,5,18,0.28,28%,10.0,2.78,50,1,10.0,2.78,5.0,1.39
-Coup de Mort,Death Helper,4,18,0.22,22%,12.25,2.72,49,1,12.25,2.72,6.12,1.36
-Lame Insatiable,Fast Furious Blade,3,18,0.17,17%,16.0,2.67,48,2,8.0,1.33,5.33,0.89
-Danse Macabre,Dance of Death,6,18,0.33,33%,8.0,2.67,48,1,8.0,2.67,4.0,1.33
-Elan de Fureur,Rampage Momentum,3,18,0.17,17%,15.0,2.5,45,2,7.5,1.25,5.0,0.83
-Marteleur précis,Precise Hammer,2,18,0.11,11%,18.0,2.0,36,1,18.0,2.0,9.0,1.0
-Désintégrateur Magnétique,Magnetic Disintegrator,3,18,0.17,17%,11.0,1.83,33,0,Gratuit,Gratuit,11.0,1.83
-Épé Sainte,Holy Sword,3,18,0.17,17%,10.0,1.67,30,0,Gratuit,Gratuit,10.0,1.67
-Force Divine,Divine Impetu,2,18,0.11,11%,13.0,1.44,26,0,Gratuit,Gratuit,13.0,1.44
-Bâton de Conquête,Conquering Staff,1,18,0.06,6%,24.0,1.33,24,2,12.0,0.67,8.0,0.44
-Explosion Arcanique,Arcane Explosive,2,18,0.11,11%,12.0,1.33,24,1,12.0,1.33,6.0,0.67
-Enchaînement Éclair,Unstoppable Lightning,1,18,0.06,6%,18.0,1.0,18,1,18.0,1.0,9.0,0.5
-Masse de Siège,Siege Mace,1,18,0.06,6%,16.0,0.89,16,0,Gratuit,Gratuit,16.0,0.89
-Amulette Omnisciente,Omnipresent Amulet,1,18,0.06,6%,15.0,0.83,15,0,Gratuit,Gratuit,15.0,0.83
-Couronne du Roi Nain,Crown of the Dwarf King,1,18,0.06,6%,13.0,0.72,13,0,Gratuit,Gratuit,13.0,0.72
-Griffes Sauvages,Wild Claw,6,18,0.33,33%,2.0,0.67,12,3,0.67,0.22,0.5,0.17
+Hache Frénétique,Berseker Ax,2,2,1.0,100%,16.0,16.0,32,2,8.0,8.0,5.33,5.33
+Totem Équivalent,Equivalent Totem,2,2,1.0,100%,15.5,15.5,31,3,5.17,5.17,3.88,3.88
+Faux,Scythe,2,2,1.0,100%,13.0,13.0,26,3,4.33,4.33,3.25,3.25
+Chasseur d'Âmes,Soul Hunter,1,2,0.5,50%,20.0,10.0,20,1,20.0,10.0,10.0,5.0
+Esprit omniprésent,Omnipresent Spirit,1,2,0.5,50%,18.0,9.0,18,2,9.0,4.5,6.0,3.0
+Totem du Gardien,Guardian Totem,2,2,1.0,100%,6.5,6.5,13,3,2.17,2.17,1.62,1.62
+Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5,1.12,1.12
+Aveuglement,Incapacitor,1,2,0.5,50%,9.0,4.5,9,3,3.0,1.5,2.25,1.12
+Œil de Lynx,Hawk's Eye,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit,8.0,4.0
+Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,7.0,3.5,7,2,3.5,1.75,2.33,1.17
+Lame Affutée,Sharp Blade,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5,0.75,0.38
