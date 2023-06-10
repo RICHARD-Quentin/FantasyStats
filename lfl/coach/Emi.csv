@@ -1,7 +1,7 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,2,3,0.67,67%,25.0,16.67,50,2,12.5,8.34,8.33,5.56
-Écailles Magiques,Magic Scales,2,3,0.67,67%,25.0,16.67,50,2,12.5,8.34,8.33,5.56
-L'Oeil du Héraut,Eye of the Void,2,3,0.67,67%,18.0,12.0,36,0,Gratuit,Gratuit,18.0,12.0
-Perce-Écailles,Scale Tearer,2,3,0.67,67%,14.0,9.33,28,3,4.67,3.11,3.5,2.33
-Première Ligne,First Line,2,3,0.67,67%,8.0,5.33,16,0,Gratuit,Gratuit,8.0,5.33
-Marteau Dévastateur,Destroyer Hammer,3,3,1.0,100%,4.67,4.67,14,2,2.33,2.33,1.56,1.56
+Écailles Magiques,Magic Scales,3,4,0.75,75%,25.0,18.75,75,2,12.5,9.38,8.33,6.25
+Esprit de la Faille,Spirit of the Rift,2,4,0.5,50%,25.0,12.5,50,2,12.5,6.25,8.33,4.17
+L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,15.0,11.25,45,0,Gratuit,Gratuit,15.0,11.25
+Perce-Écailles,Scale Tearer,3,4,0.75,75%,14.0,10.5,42,3,4.67,3.5,3.5,2.62
+Première Ligne,First Line,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit,8.0,6.0
+Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,5.5,5.5,22,2,2.75,2.75,1.83,1.83

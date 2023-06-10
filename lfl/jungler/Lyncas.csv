@@ -1,26 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,3,3,1.0,100%,20.0,20.0,60,2,10.0,10.0,6.67,6.67
-Décharge Élémentaire,Elemental Discharge,3,3,1.0,100%,20.0,20.0,60,1,20.0,20.0,10.0,10.0
-Griffes Sauvages,Wild Claw,3,3,1.0,100%,15.67,15.67,47,3,5.22,5.22,3.92,3.92
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,15.0,15.0,45,3,5.0,5.0,3.75,3.75
-Être de Lumière,Being of Light,2,3,0.67,67%,20.0,13.33,40,1,20.0,13.33,10.0,6.67
-Le Marionnettiste,The Puppeteer,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67,6.67,4.44
-Pillard Féroce,Savage Looter,2,3,0.67,67%,20.0,13.33,40,1,20.0,13.33,10.0,6.67
-Mental d'Acier,Steel Aura,2,3,0.67,67%,18.0,12.0,36,2,9.0,6.0,6.0,4.0
-Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,10.0,10.0,30,3,3.33,3.33,2.5,2.5
-Lame Affutée,Sharp Blade,3,3,1.0,100%,9.0,9.0,27,3,3.0,3.0,2.25,2.25
-Aveuglement,Incapacitor,3,3,1.0,100%,9.0,9.0,27,3,3.0,3.0,2.25,2.25
-Faux,Scythe,3,3,1.0,100%,8.67,8.67,26,3,2.89,2.89,2.17,2.17
-Marteau Collecteur,Collecting Hammer,2,3,0.67,67%,10.5,7.0,21,2,5.25,3.5,3.5,2.33
-Armure d'Obsidienne,Obsidian Battle Plate,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33,6.67,2.22
-Épée Obscure,Swords of Darkness,1,3,0.33,33%,20.0,6.67,20,1,20.0,6.67,10.0,3.33
-Sabre Versatile,Versatil Saber,1,3,0.33,33%,18.0,6.0,18,1,18.0,6.0,9.0,3.0
-Chasseur de Bêtes,Beast Hunter,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
-Esprit omniprésent,Omnipresent Spirit,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
-Hache Frénétique,Berseker Ax,1,3,0.33,33%,16.0,5.33,16,2,8.0,2.67,5.33,1.78
-Esprit Sauvage,Wild Spirit,2,3,0.67,67%,8.0,5.33,16,0,Gratuit,Gratuit,8.0,5.33
-Soif de Sang,Thirsty Dagger,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
-Force Divine,Divine Impetu,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
-Coup de Mort,Death Helper,1,3,0.33,33%,13.0,4.33,13,1,13.0,4.33,6.5,2.17
-Danse Macabre,Dance of Death,1,3,0.33,33%,10.0,3.33,10,1,10.0,3.33,5.0,1.67
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,3.0,3.0,9,3,1.0,1.0,0.75,0.75
+Décharge Élémentaire,Elemental Discharge,4,4,1.0,100%,20.0,20.0,80,1,20.0,20.0,10.0,10.0
+Assistance Divine,Sacred Help,4,4,1.0,100%,20.0,20.0,80,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,4,4,1.0,100%,15.5,15.5,62,3,5.17,5.17,3.88,3.88
+Être de Lumière,Being of Light,3,4,0.75,75%,20.0,15.0,60,1,20.0,15.0,10.0,7.5
+Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.75,14.75,59,3,4.92,4.92,3.69,3.69
+Le Marionnettiste,The Puppeteer,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
+Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
+Pillard Féroce,Savage Looter,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0,10.0,5.0
+Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
+Mental d'Acier,Steel Aura,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
+Sabre Versatile,Versatil Saber,2,4,0.5,50%,18.0,9.0,36,1,18.0,9.0,9.0,4.5
+Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,11.67,8.75,35,2,5.83,4.38,3.89,2.92
+Faux,Scythe,4,4,1.0,100%,8.5,8.5,34,3,2.83,2.83,2.12,2.12
+Lame Affutée,Sharp Blade,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5,1.88,1.88
+Aveuglement,Incapacitor,4,4,1.0,100%,7.5,7.5,30,3,2.5,2.5,1.88,1.88
+Épée Obscure,Swords of Darkness,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
+Chasseur de Bêtes,Beast Hunter,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
+Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
+Hache Frénétique,Berseker Ax,1,4,0.25,25%,16.0,4.0,16,2,8.0,2.0,5.33,1.33
+Esprit Sauvage,Wild Spirit,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0
+Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
+Force Divine,Divine Impetu,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
+Coup de Mort,Death Helper,1,4,0.25,25%,13.0,3.25,13,1,13.0,3.25,6.5,1.62
+Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.75,2.75,11,3,0.92,0.92,0.69,0.69
+Danse Macabre,Dance of Death,1,4,0.25,25%,10.0,2.5,10,1,10.0,2.5,5.0,1.25
