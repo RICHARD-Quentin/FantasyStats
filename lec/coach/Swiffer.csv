@@ -1,17 +1,8 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,7,13,0.54,54%,25.0,13.46,175,2,12.5,6.73,8.33,4.49
-Écailles Magiques,Magic Scales,6,13,0.46,46%,25.0,11.54,150,2,12.5,5.77,8.33,3.85
-Perce-Écailles,Scale Tearer,9,13,0.69,69%,15.56,10.77,140,3,5.19,3.59,3.89,2.69
-Masque du Baron,Baron' s Mask,5,13,0.38,38%,25.0,9.62,125,2,12.5,4.81,8.33,3.21
-L'Oeil du Héraut,Eye of the Void,9,13,0.69,69%,13.0,9.0,117,0,Gratuit,Gratuit,13.0,9.0
-Marteau Dévastateur,Destroyer Hammer,12,13,0.92,92%,9.5,8.77,114,2,4.75,4.38,3.17,2.92
-Marteau Conquérant,Conquest Hammer,4,13,0.31,31%,22.0,6.77,88,3,7.33,2.26,5.5,1.69
-Chasse au Gros,Big Worm Hunter,5,13,0.38,38%,15.0,5.77,75,3,5.0,1.92,3.75,1.44
-Première Ligne,First Line,9,13,0.69,69%,8.0,5.54,72,0,Gratuit,Gratuit,8.0,5.54
-Poigne d'Or,Golden Force,3,13,0.23,23%,23.0,5.31,69,1,23.0,5.31,11.5,2.65
-Protection Royale,Royal Protector,4,13,0.31,31%,17.0,5.23,68,1,17.0,5.23,8.5,2.62
-Gardien Sous-terrain,Underworld Guardian,4,13,0.31,31%,15.0,4.62,60,1,15.0,4.62,7.5,2.31
-Âme de Dragon Élémentaire,Elemental Dragon Soul,2,13,0.15,15%,25.0,3.85,50,1,25.0,3.85,12.5,1.93
-Folie Meurtrière,Killer Momentum,2,13,0.15,15%,22.0,3.38,44,0,Gratuit,Gratuit,22.0,3.38
-Frappes Éclair,Light Swords,3,13,0.23,23%,12.0,2.77,36,0,Gratuit,Gratuit,12.0,2.77
-Sceau Profanateur,Seal of Desecration,4,13,0.31,31%,8.0,2.46,32,2,4.0,1.23,2.67,0.82
+Esprit de la Faille,Spirit of the Rift,1,1,1.0,100%,25.0,25.0,25,2,12.5,12.5,8.33,8.33
+Masque du Baron,Baron' s Mask,1,1,1.0,100%,25.0,25.0,25,2,12.5,12.5,8.33,8.33
+Gardien Sous-terrain,Underworld Guardian,1,1,1.0,100%,18.0,18.0,18,1,18.0,18.0,9.0,9.0
+L'Oeil du Héraut,Eye of the Void,1,1,1.0,100%,18.0,18.0,18,0,Gratuit,Gratuit,18.0,18.0
+Chasse au Gros,Big Worm Hunter,1,1,1.0,100%,15.0,15.0,15,3,5.0,5.0,3.75,3.75
+Marteau Dévastateur,Destroyer Hammer,1,1,1.0,100%,12.0,12.0,12,2,6.0,6.0,4.0,4.0
+Première Ligne,First Line,1,1,1.0,100%,8.0,8.0,8,0,Gratuit,Gratuit,8.0,8.0

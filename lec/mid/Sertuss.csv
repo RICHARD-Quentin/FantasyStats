@@ -1,40 +1,11 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,13,13,1.0,100%,15.92,15.92,207,2,7.96,7.96,5.31,5.31
-Faux,Scythe,13,13,1.0,100%,13.46,13.46,175,3,4.49,4.49,3.37,3.37
-Armure d'Obsidienne,Obsidian Battle Plate,7,13,0.54,54%,20.0,10.77,140,2,10.0,5.38,6.67,3.59
-Faux Parfaite,Perfect Scythe,9,13,0.69,69%,15.0,10.38,135,0,Gratuit,Gratuit,15.0,10.38
-Lame Affutée,Sharp Blade,12,13,0.92,92%,10.75,9.92,129,3,3.58,3.31,2.69,2.48
-Gantelet Impérieux,Imperious Gauntlet,4,13,0.31,31%,30.0,9.23,120,1,30.0,9.23,15.0,4.62
-Hache Frénétique,Berseker Ax,7,13,0.54,54%,14.0,7.54,98,2,7.0,3.77,4.67,2.51
-Ascension Divine,Divine Ascent,3,13,0.23,23%,25.0,5.77,75,3,8.33,1.92,6.25,1.44
-Esprit de l'Écuyer,Spirit of the Squire,13,13,1.0,100%,5.31,5.31,69,3,1.77,1.77,1.33,1.33
-Aveuglement,Incapacitor,11,13,0.85,85%,6.0,5.08,66,3,2.0,1.69,1.5,1.27
-Adrénaline Arcanique,Arcane Adrenaline,4,13,0.31,31%,16.0,4.92,64,1,16.0,4.92,8.0,2.46
-Totem du Gardien,Guardian Totem,13,13,1.0,100%,4.54,4.54,59,3,1.51,1.51,1.14,1.14
-Économe Sagesse du Trésorier,Treasurer's Wisdom,3,13,0.23,23%,17.0,3.92,51,2,8.5,1.96,5.67,1.31
-Épée Obscure,Swords of Darkness,3,13,0.23,23%,17.0,3.92,51,1,17.0,3.92,8.5,1.96
-Marteau Collecteur,Collecting Hammer,4,13,0.31,31%,10.5,3.23,42,2,5.25,1.61,3.5,1.08
-Aura Légendaire,Legend Aura,1,13,0.08,8%,40.0,3.08,40,3,13.33,1.03,10.0,0.77
-Danse Macabre,Dance of Death,5,13,0.38,38%,8.0,3.08,40,1,8.0,3.08,4.0,1.54
-Parchemin Secret,Secret Scroll,2,13,0.15,15%,18.0,2.77,36,2,9.0,1.39,6.0,0.92
-Enchaînement Éclair,Unstoppable Lightning,2,13,0.15,15%,18.0,2.77,36,1,18.0,2.77,9.0,1.39
-Marteleur précis,Precise Hammer,2,13,0.15,15%,18.0,2.77,36,1,18.0,2.77,9.0,1.39
-Sabre Versatile,Versatil Saber,3,13,0.23,23%,11.0,2.54,33,1,11.0,2.54,5.5,1.27
-Lame Insatiable,Fast Furious Blade,2,13,0.15,15%,16.0,2.46,32,2,8.0,1.23,5.33,0.82
-Armure d'Immortel,Immortal Breastplate,2,13,0.15,15%,16.0,2.46,32,1,16.0,2.46,8.0,1.23
-Triple Météore,Trimeteor,1,13,0.08,8%,30.0,2.31,30,0,Gratuit,Gratuit,30.0,2.31
-Épé Sainte,Holy Sword,3,13,0.23,23%,10.0,2.31,30,0,Gratuit,Gratuit,10.0,2.31
-Elan de Fureur,Rampage Momentum,2,13,0.15,15%,15.0,2.31,30,2,7.5,1.16,5.0,0.77
-Couronne du Roi Nain,Crown of the Dwarf King,2,13,0.15,15%,13.0,2.0,26,0,Gratuit,Gratuit,13.0,2.0
-Faux Assoiffées,Thirsty Scythes,1,13,0.08,8%,25.0,1.92,25,3,8.33,0.64,6.25,0.48
-Le Marionnettiste,The Puppeteer,1,13,0.08,8%,20.0,1.54,20,2,10.0,0.77,6.67,0.51
-Assistance Divine,Sacred Help,1,13,0.08,8%,20.0,1.54,20,2,10.0,0.77,6.67,0.51
-Chasseur d'Âmes,Soul Hunter,1,13,0.08,8%,20.0,1.54,20,1,20.0,1.54,10.0,0.77
-Force Divine,Divine Impetu,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit,15.0,1.15
-Masse Colossale,Colossal Mace,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit,15.0,1.15
-Soif de Sang,Thirsty Dagger,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit,15.0,1.15
-Coup de Mort,Death Helper,1,13,0.08,8%,13.0,1.0,13,1,13.0,1.0,6.5,0.5
-Explosion Arcanique,Arcane Explosive,1,13,0.08,8%,12.0,0.92,12,1,12.0,0.92,6.0,0.46
-Œil de Lynx,Hawk's Eye,1,13,0.08,8%,10.0,0.77,10,0,Gratuit,Gratuit,10.0,0.77
-Tombeau Rocheux,Rock Tomb,1,13,0.08,8%,10.0,0.77,10,1,10.0,0.77,5.0,0.39
-Griffes Sauvages,Wild Claw,3,13,0.23,23%,2.67,0.62,8,3,0.89,0.21,0.67,0.15
+Marteau Collecteur,Collecting Hammer,1,1,1.0,100%,21.0,21.0,21,2,10.5,10.5,7.0,7.0
+Totem Équivalent,Equivalent Totem,1,1,1.0,100%,17.0,17.0,17,3,5.67,5.67,4.25,4.25
+Hache Frénétique,Berseker Ax,1,1,1.0,100%,16.0,16.0,16,2,8.0,8.0,5.33,5.33
+Faux Parfaite,Perfect Scythe,1,1,1.0,100%,15.0,15.0,15,0,Gratuit,Gratuit,15.0,15.0
+Faux,Scythe,1,1,1.0,100%,12.0,12.0,12,3,4.0,4.0,3.0,3.0
+Danse Macabre,Dance of Death,1,1,1.0,100%,10.0,10.0,10,1,10.0,10.0,5.0,5.0
+Lame Affutée,Sharp Blade,1,1,1.0,100%,9.0,9.0,9,3,3.0,3.0,2.25,2.25
+Esprit de l'Écuyer,Spirit of the Squire,1,1,1.0,100%,9.0,9.0,9,3,3.0,3.0,2.25,2.25
+Totem du Gardien,Guardian Totem,1,1,1.0,100%,7.0,7.0,7,3,2.33,2.33,1.75,1.75
+Aveuglement,Incapacitor,1,1,1.0,100%,6.0,6.0,6,3,2.0,2.0,1.5,1.5
