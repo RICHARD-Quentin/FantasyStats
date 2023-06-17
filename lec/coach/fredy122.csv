@@ -1,17 +1,9 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Dévastateur,Destroyer Hammer,16,17,0.94,94%,11.5,10.82,184,2,5.75,5.41,3.83,3.61
-Chasse au Gros,Big Worm Hunter,9,17,0.53,53%,18.33,9.71,165,3,6.11,3.24,4.58,2.43
-Marteau Conquérant,Conquest Hammer,7,17,0.41,41%,22.0,9.06,154,3,7.33,3.02,5.5,2.27
-Esprit de la Faille,Spirit of the Rift,6,17,0.35,35%,25.0,8.82,150,2,12.5,4.41,8.33,2.94
-Masque du Baron,Baron' s Mask,6,17,0.35,35%,25.0,8.82,150,2,12.5,4.41,8.33,2.94
-Perce-Écailles,Scale Tearer,10,17,0.59,59%,12.6,7.41,126,3,4.2,2.47,3.15,1.85
-L'Oeil du Héraut,Eye of the Void,10,17,0.59,59%,11.7,6.88,117,0,Gratuit,Gratuit,11.7,6.88
-Sceau Profanateur,Seal of Desecration,7,17,0.41,41%,16.0,6.59,112,2,8.0,3.29,5.33,2.2
-Protection Royale,Royal Protector,6,17,0.35,35%,17.0,6.0,102,1,17.0,6.0,8.5,3.0
-Première Ligne,First Line,12,17,0.71,71%,8.0,5.65,96,0,Gratuit,Gratuit,8.0,5.65
-Gardien Sous-terrain,Underworld Guardian,5,17,0.29,29%,15.0,4.41,75,1,15.0,4.41,7.5,2.21
-Poigne d'Or,Golden Force,3,17,0.18,18%,23.0,4.06,69,1,23.0,4.06,11.5,2.03
-Frappes Éclair,Light Swords,4,17,0.24,24%,12.0,2.82,48,0,Gratuit,Gratuit,12.0,2.82
-Folie Meurtrière,Killer Momentum,2,17,0.12,12%,22.0,2.59,44,0,Gratuit,Gratuit,22.0,2.59
-Écailles Magiques,Magic Scales,1,17,0.06,6%,25.0,1.47,25,2,12.5,0.73,8.33,0.49
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,17,0.06,6%,25.0,1.47,25,1,25.0,1.47,12.5,0.73
+Marteau Conquérant,Conquest Hammer,1,1,1.0,100%,22.0,22.0,22,3,7.33,7.33,5.5,5.5
+Perce-Écailles,Scale Tearer,1,1,1.0,100%,21.0,21.0,21,3,7.0,7.0,5.25,5.25
+Marteau Dévastateur,Destroyer Hammer,1,1,1.0,100%,18.0,18.0,18,2,9.0,9.0,6.0,6.0
+Protection Royale,Royal Protector,1,1,1.0,100%,17.0,17.0,17,1,17.0,17.0,8.5,8.5
+Chasse au Gros,Big Worm Hunter,1,1,1.0,100%,15.0,15.0,15,3,5.0,5.0,3.75,3.75
+L'Oeil du Héraut,Eye of the Void,1,1,1.0,100%,9.0,9.0,9,0,Gratuit,Gratuit,9.0,9.0
+Sceau Profanateur,Seal of Desecration,1,1,1.0,100%,8.0,8.0,8,2,4.0,4.0,2.67,2.67
+Première Ligne,First Line,1,1,1.0,100%,8.0,8.0,8,0,Gratuit,Gratuit,8.0,8.0
