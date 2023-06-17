@@ -1,7 +1,8 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Écailles Magiques,Magic Scales,3,4,0.75,75%,25.0,18.75,75,2,12.5,9.38,8.33,6.25
-Esprit de la Faille,Spirit of the Rift,2,4,0.5,50%,25.0,12.5,50,2,12.5,6.25,8.33,4.17
-L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,15.0,11.25,45,0,Gratuit,Gratuit,15.0,11.25
-Perce-Écailles,Scale Tearer,3,4,0.75,75%,14.0,10.5,42,3,4.67,3.5,3.5,2.62
-Première Ligne,First Line,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit,8.0,6.0
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,5.5,5.5,22,2,2.75,2.75,1.83,1.83
+Écailles Magiques,Magic Scales,5,6,0.83,83%,25.0,20.83,125,2,12.5,10.41,8.33,6.94
+Perce-Écailles,Scale Tearer,5,6,0.83,83%,12.6,10.5,63,3,4.2,3.5,3.15,2.62
+L'Oeil du Héraut,Eye of the Void,4,6,0.67,67%,13.5,9.0,54,0,Gratuit,Gratuit,13.5,9.0
+Esprit de la Faille,Spirit of the Rift,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
+Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,4.67,4.67,28,2,2.33,2.33,1.56,1.56
+Première Ligne,First Line,3,6,0.5,50%,8.0,4.0,24,0,Gratuit,Gratuit,8.0,4.0
+Gardien Sous-terrain,Underworld Guardian,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5

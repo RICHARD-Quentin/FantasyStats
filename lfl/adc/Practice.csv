@@ -1,21 +1,22 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Faux,Scythe,4,4,1.0,100%,14.75,14.75,59,3,4.92,4.92,3.69,3.69
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.25,14.25,57,3,4.75,4.75,3.56,3.56
-Marteau Collecteur,Collecting Hammer,2,4,0.5,50%,21.0,10.5,42,2,10.5,5.25,7.0,3.5
-Armure d'Obsidienne,Obsidian Battle Plate,2,4,0.5,50%,20.0,10.0,40,2,10.0,5.0,6.67,3.33
-Lame Insatiable,Fast Furious Blade,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Hache Frénétique,Berseker Ax,2,4,0.5,50%,16.0,8.0,32,2,8.0,4.0,5.33,2.67
-Aveuglement,Incapacitor,2,4,0.5,50%,13.5,6.75,27,3,4.5,2.25,3.38,1.69
-Faux Assoiffées,Thirsty Scythes,1,4,0.25,25%,25.0,6.25,25,3,8.33,2.08,6.25,1.56
-Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0,8.0,2.0
-Chasseresse d'Âmes,Huntress of Souls,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Griffes Démoniaques,Demon Claws,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25,8.5,2.12
-Esprit Guerrier,Spirit of the Warrior,1,4,0.25,25%,16.0,4.0,16,1,16.0,4.0,8.0,2.0
-Bâton du Conquérant,Staff of Conquered Worlds,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Faux Parfaite,Perfect Scythe,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.75,2.75,11,3,0.92,0.92,0.69,0.69
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,3.0,2.25,9,3,1.0,0.75,0.75,0.56
-Lame Affutée,Sharp Blade,2,4,0.5,50%,4.5,2.25,9,3,1.5,0.75,1.12,0.56
-Œil de Lynx,Hawk's Eye,1,4,0.25,25%,8.0,2.0,8,0,Gratuit,Gratuit,8.0,2.0
-Griffes Sauvages,Wild Claw,2,4,0.5,50%,2.5,1.25,5,3,0.83,0.42,0.62,0.31
+Faux,Scythe,6,6,1.0,100%,14.67,14.67,88,3,4.89,4.89,3.67,3.67
+Totem Équivalent,Equivalent Totem,6,6,1.0,100%,14.17,14.17,85,3,4.72,4.72,3.54,3.54
+Lame Insatiable,Fast Furious Blade,4,6,0.67,67%,18.0,12.0,72,2,9.0,6.0,6.0,4.0
+Hache Frénétique,Berseker Ax,4,6,0.67,67%,16.0,10.67,64,2,8.0,5.33,5.33,3.56
+Armure d'Obsidienne,Obsidian Battle Plate,3,6,0.5,50%,20.0,10.0,60,2,10.0,5.0,6.67,3.33
+Marteau Collecteur,Collecting Hammer,3,6,0.5,50%,16.33,8.17,49,2,8.16,4.08,5.44,2.72
+Marteleur précis,Precise Hammer,2,6,0.33,33%,18.0,6.0,36,1,18.0,6.0,9.0,3.0
+Aveuglement,Incapacitor,4,6,0.67,67%,8.25,5.5,33,3,2.75,1.83,2.06,1.38
+Esprit Guerrier,Spirit of the Warrior,2,6,0.33,33%,16.0,5.33,32,1,16.0,5.33,8.0,2.67
+Faux Assoiffées,Thirsty Scythes,1,6,0.17,17%,25.0,4.17,25,3,8.33,1.39,6.25,1.04
+Bâton de Conquête,Conquering Staff,1,6,0.17,17%,24.0,4.0,24,2,12.0,2.0,8.0,1.33
+Chasseresse d'Âmes,Huntress of Souls,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
+Épée Obscure,Swords of Darkness,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
+Griffes Démoniaques,Demon Claws,1,6,0.17,17%,17.0,2.83,17,1,17.0,2.83,8.5,1.42
+Esprit de l'Écuyer,Spirit of the Squire,4,6,0.67,67%,3.75,2.5,15,3,1.25,0.83,0.94,0.62
+Bâton du Conquérant,Staff of Conquered Worlds,1,6,0.17,17%,15.0,2.5,15,0,Gratuit,Gratuit,15.0,2.5
+Lame Affutée,Sharp Blade,3,6,0.5,50%,5.0,2.5,15,3,1.67,0.83,1.25,0.62
+Totem du Gardien,Guardian Totem,6,6,1.0,100%,2.5,2.5,15,3,0.83,0.83,0.62,0.62
+Faux Parfaite,Perfect Scythe,1,6,0.17,17%,15.0,2.5,15,0,Gratuit,Gratuit,15.0,2.5
+Œil de Lynx,Hawk's Eye,1,6,0.17,17%,8.0,1.33,8,0,Gratuit,Gratuit,8.0,1.33
+Griffes Sauvages,Wild Claw,4,6,0.67,67%,1.75,1.17,7,3,0.58,0.39,0.44,0.29
