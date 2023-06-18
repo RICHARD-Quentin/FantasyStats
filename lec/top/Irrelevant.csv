@@ -1,12 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Collecteur,Collecting Hammer,1,1,1.0,100%,28.0,28.0,28,2,14.0,14.0,9.33,9.33
-Assistance Divine,Sacred Help,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0,6.67,6.67
-Le Marionnettiste,The Puppeteer,1,1,1.0,100%,20.0,20.0,20,2,10.0,10.0,6.67,6.67
-Marteleur précis,Precise Hammer,1,1,1.0,100%,18.0,18.0,18,1,18.0,18.0,9.0,9.0
-Totem Équivalent,Equivalent Totem,1,1,1.0,100%,17.0,17.0,17,3,5.67,5.67,4.25,4.25
-Hache Frénétique,Berseker Ax,1,1,1.0,100%,16.0,16.0,16,2,8.0,8.0,5.33,5.33
-Faux,Scythe,1,1,1.0,100%,13.0,13.0,13,3,4.33,4.33,3.25,3.25
-Explosion Arcanique,Arcane Explosive,1,1,1.0,100%,12.0,12.0,12,1,12.0,12.0,6.0,6.0
-Esprit de l'Écuyer,Spirit of the Squire,1,1,1.0,100%,9.0,9.0,9,3,3.0,3.0,2.25,2.25
-Aveuglement,Incapacitor,1,1,1.0,100%,6.0,6.0,6,3,2.0,2.0,1.5,1.5
-Totem du Gardien,Guardian Totem,1,1,1.0,100%,3.0,3.0,3,3,1.0,1.0,0.75,0.75
+Le Marionnettiste,The Puppeteer,2,2,1.0,100%,20.0,20.0,40,2,10.0,10.0,6.67,6.67
+Totem Équivalent,Equivalent Totem,2,2,1.0,100%,16.5,16.5,33,3,5.5,5.5,4.12,4.12
+Hache Frénétique,Berseker Ax,2,2,1.0,100%,16.0,16.0,32,2,8.0,8.0,5.33,5.33
+Marteau Collecteur,Collecting Hammer,1,2,0.5,50%,28.0,14.0,28,2,14.0,7.0,9.33,4.67
+Faux,Scythe,2,2,1.0,100%,12.5,12.5,25,3,4.17,4.17,3.12,3.12
+Armure d'Obsidienne,Obsidian Battle Plate,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0,6.67,3.33
+Armure d'Immortel,Immortal Breastplate,1,2,0.5,50%,20.0,10.0,20,1,20.0,10.0,10.0,5.0
+Assistance Divine,Sacred Help,1,2,0.5,50%,20.0,10.0,20,2,10.0,5.0,6.67,3.33
+Esprit de l'Écuyer,Spirit of the Squire,2,2,1.0,100%,9.0,9.0,18,3,3.0,3.0,2.25,2.25
+Marteleur précis,Precise Hammer,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0,9.0,4.5
+Sabre Versatile,Versatil Saber,1,2,0.5,50%,18.0,9.0,18,1,18.0,9.0,9.0,4.5
+Explosion Arcanique,Arcane Explosive,1,2,0.5,50%,12.0,6.0,12,1,12.0,6.0,6.0,3.0
+Aveuglement,Incapacitor,2,2,1.0,100%,4.5,4.5,9,3,1.5,1.5,1.12,1.12
+Totem du Gardien,Guardian Totem,2,2,1.0,100%,3.0,3.0,6,3,1.0,1.0,0.75,0.75
+Lame Affutée,Sharp Blade,1,2,0.5,50%,3.0,1.5,3,3,1.0,0.5,0.75,0.38

@@ -1,9 +1,10 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Conquérant,Conquest Hammer,1,1,1.0,100%,22.0,22.0,22,3,7.33,7.33,5.5,5.5
-Perce-Écailles,Scale Tearer,1,1,1.0,100%,21.0,21.0,21,3,7.0,7.0,5.25,5.25
-Marteau Dévastateur,Destroyer Hammer,1,1,1.0,100%,18.0,18.0,18,2,9.0,9.0,6.0,6.0
-Protection Royale,Royal Protector,1,1,1.0,100%,17.0,17.0,17,1,17.0,17.0,8.5,8.5
-Chasse au Gros,Big Worm Hunter,1,1,1.0,100%,15.0,15.0,15,3,5.0,5.0,3.75,3.75
-L'Oeil du Héraut,Eye of the Void,1,1,1.0,100%,9.0,9.0,9,0,Gratuit,Gratuit,9.0,9.0
-Sceau Profanateur,Seal of Desecration,1,1,1.0,100%,8.0,8.0,8,2,4.0,4.0,2.67,2.67
-Première Ligne,First Line,1,1,1.0,100%,8.0,8.0,8,0,Gratuit,Gratuit,8.0,8.0
+Esprit de la Faille,Spirit of the Rift,1,2,0.5,50%,25.0,12.5,25,2,12.5,6.25,8.33,4.17
+Marteau Dévastateur,Destroyer Hammer,2,2,1.0,100%,11.0,11.0,22,2,5.5,5.5,3.67,3.67
+Marteau Conquérant,Conquest Hammer,1,2,0.5,50%,22.0,11.0,22,3,7.33,3.67,5.5,2.75
+Perce-Écailles,Scale Tearer,1,2,0.5,50%,21.0,10.5,21,3,7.0,3.5,5.25,2.62
+L'Oeil du Héraut,Eye of the Void,2,2,1.0,100%,9.0,9.0,18,0,Gratuit,Gratuit,9.0,9.0
+Protection Royale,Royal Protector,1,2,0.5,50%,17.0,8.5,17,1,17.0,8.5,8.5,4.25
+Chasse au Gros,Big Worm Hunter,1,2,0.5,50%,15.0,7.5,15,3,5.0,2.5,3.75,1.88
+Sceau Profanateur,Seal of Desecration,1,2,0.5,50%,8.0,4.0,8,2,4.0,2.0,2.67,1.33
+Première Ligne,First Line,1,2,0.5,50%,8.0,4.0,8,0,Gratuit,Gratuit,8.0,4.0
