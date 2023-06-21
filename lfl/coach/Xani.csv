@@ -1,17 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Perce-Écailles,Scale Tearer,6,6,1.0,100%,26.83,26.83,161,3,8.94,8.94,6.71,6.71
-Marteau Conquérant,Conquest Hammer,6,6,1.0,100%,22.0,22.0,132,3,7.33,7.33,5.5,5.5
-Masque du Baron,Baron' s Mask,5,6,0.83,83%,25.0,20.83,125,2,12.5,10.41,8.33,6.94
-Chasse au Gros,Big Worm Hunter,6,6,1.0,100%,20.0,20.0,120,3,6.67,6.67,5.0,5.0
-Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,17.0,17.0,102,2,8.5,8.5,5.67,5.67
-Protection Royale,Royal Protector,6,6,1.0,100%,17.0,17.0,102,1,17.0,17.0,8.5,8.5
-Âme de Dragon Élémentaire,Elemental Dragon Soul,4,6,0.67,67%,25.0,16.67,100,1,25.0,16.67,12.5,8.34
-Écailles Magiques,Magic Scales,4,6,0.67,67%,25.0,16.67,100,2,12.5,8.34,8.33,5.56
-Gardien Sous-terrain,Underworld Guardian,5,6,0.83,83%,18.0,15.0,90,1,18.0,15.0,9.0,7.5
-Folie Meurtrière,Killer Momentum,4,6,0.67,67%,22.0,14.67,88,0,Gratuit,Gratuit,22.0,14.67
-Poigne d'Or,Golden Force,4,6,0.67,67%,20.0,13.33,80,1,20.0,13.33,10.0,6.67
-Esprit de la Faille,Spirit of the Rift,3,6,0.5,50%,25.0,12.5,75,2,12.5,6.25,8.33,4.17
-Sceau Profanateur,Seal of Desecration,6,6,1.0,100%,12.0,12.0,72,2,6.0,6.0,4.0,4.0
-Première Ligne,First Line,6,6,1.0,100%,8.0,8.0,48,0,Gratuit,Gratuit,8.0,8.0
-Frappes Éclair,Light Swords,4,6,0.67,67%,12.0,8.0,48,0,Gratuit,Gratuit,12.0,8.0
-L'Oeil du Héraut,Eye of the Void,3,6,0.5,50%,15.0,7.5,45,0,Gratuit,Gratuit,15.0,7.5
+Perce-Écailles,Scale Tearer,6,7,0.86,86%,26.83,23.0,161,3,8.94,7.67,6.71,5.75
+Marteau Conquérant,Conquest Hammer,6,7,0.86,86%,22.0,18.86,132,3,7.33,6.29,5.5,4.71
+Masque du Baron,Baron' s Mask,5,7,0.71,71%,25.0,17.86,125,2,12.5,8.93,8.33,5.95
+Chasse au Gros,Big Worm Hunter,6,7,0.86,86%,20.0,17.14,120,3,6.67,5.71,5.0,4.29
+Marteau Dévastateur,Destroyer Hammer,7,7,1.0,100%,15.43,15.43,108,2,7.71,7.71,5.14,5.14
+Protection Royale,Royal Protector,6,7,0.86,86%,17.0,14.57,102,1,17.0,14.57,8.5,7.29
+Âme de Dragon Élémentaire,Elemental Dragon Soul,4,7,0.57,57%,25.0,14.29,100,1,25.0,14.29,12.5,7.14
+Esprit de la Faille,Spirit of the Rift,4,7,0.57,57%,25.0,14.29,100,2,12.5,7.14,8.33,4.76
+Écailles Magiques,Magic Scales,4,7,0.57,57%,25.0,14.29,100,2,12.5,7.14,8.33,4.76
+Gardien Sous-terrain,Underworld Guardian,5,7,0.71,71%,18.0,12.86,90,1,18.0,12.86,9.0,6.43
+Folie Meurtrière,Killer Momentum,4,7,0.57,57%,22.0,12.57,88,0,Gratuit,Gratuit,22.0,12.57
+Poigne d'Or,Golden Force,4,7,0.57,57%,20.0,11.43,80,1,20.0,11.43,10.0,5.71
+Sceau Profanateur,Seal of Desecration,6,7,0.86,86%,12.0,10.29,72,2,6.0,5.14,4.0,3.43
+Première Ligne,First Line,7,7,1.0,100%,8.0,8.0,56,0,Gratuit,Gratuit,8.0,8.0
+L'Oeil du Héraut,Eye of the Void,4,7,0.57,57%,13.5,7.71,54,0,Gratuit,Gratuit,13.5,7.71
+Frappes Éclair,Light Swords,4,7,0.57,57%,12.0,6.86,48,0,Gratuit,Gratuit,12.0,6.86

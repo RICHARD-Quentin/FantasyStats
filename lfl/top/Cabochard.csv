@@ -1,25 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,6,6,1.0,100%,15.67,15.67,94,3,5.22,5.22,3.92,3.92
-Armure d'Obsidienne,Obsidian Battle Plate,4,6,0.67,67%,20.0,13.33,80,2,10.0,6.67,6.67,4.44
-Faux,Scythe,6,6,1.0,100%,12.33,12.33,74,3,4.11,4.11,3.08,3.08
-Sabre Versatile,Versatil Saber,3,6,0.5,50%,18.0,9.0,54,1,18.0,9.0,9.0,4.5
-Esprit de l'Écuyer,Spirit of the Squire,6,6,1.0,100%,8.0,8.0,48,3,2.67,2.67,2.0,2.0
-Faux Parfaite,Perfect Scythe,3,6,0.5,50%,15.0,7.5,45,0,Gratuit,Gratuit,15.0,7.5
-Assistance Divine,Sacred Help,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33,6.67,2.22
-Armure d'Immortel,Immortal Breastplate,2,6,0.33,33%,20.0,6.67,40,1,20.0,6.67,10.0,3.33
-Marteleur précis,Precise Hammer,2,6,0.33,33%,18.0,6.0,36,1,18.0,6.0,9.0,3.0
-Lame Insatiable,Fast Furious Blade,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
-Marteau Collecteur,Collecting Hammer,4,6,0.67,67%,8.75,5.83,35,2,4.38,2.92,2.92,1.94
-Hache Frénétique,Berseker Ax,2,6,0.33,33%,16.0,5.33,32,2,8.0,2.67,5.33,1.78
-Lame Affutée,Sharp Blade,5,6,0.83,83%,5.4,4.5,27,3,1.8,1.5,1.35,1.12
-Coup de Mort,Death Helper,2,6,0.33,33%,13.0,4.33,26,1,13.0,4.33,6.5,2.17
-Ascension Divine,Divine Ascent,1,6,0.17,17%,25.0,4.17,25,3,8.33,1.39,6.25,1.04
-Gantelet Impérieux,Imperious Gauntlet,1,6,0.17,17%,22.0,3.67,22,1,22.0,3.67,11.0,1.83
-Aveuglement,Incapacitor,4,6,0.67,67%,5.25,3.5,21,3,1.75,1.17,1.31,0.88
-Le Marionnettiste,The Puppeteer,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
-Épée Obscure,Swords of Darkness,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
-Être de Lumière,Being of Light,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
-Mental d'Acier,Steel Aura,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
-Totem du Gardien,Guardian Totem,6,6,1.0,100%,2.83,2.83,17,3,0.94,0.94,0.71,0.71
-Explosion Arcanique,Arcane Explosive,1,6,0.17,17%,12.0,2.0,12,1,12.0,2.0,6.0,1.0
-Griffes Sauvages,Wild Claw,2,6,0.33,33%,1.0,0.33,2,3,0.33,0.11,0.25,0.08
+Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.43,15.43,108,3,5.14,5.14,3.86,3.86
+Armure d'Obsidienne,Obsidian Battle Plate,5,7,0.71,71%,20.0,14.29,100,2,10.0,7.14,6.67,4.76
+Faux,Scythe,7,7,1.0,100%,12.14,12.14,85,3,4.05,4.05,3.04,3.04
+Marteau Collecteur,Collecting Hammer,5,7,0.71,71%,12.6,9.0,63,2,6.3,4.5,4.2,3.0
+Assistance Divine,Sacred Help,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29,6.67,2.86
+Faux Parfaite,Perfect Scythe,4,7,0.57,57%,15.0,8.57,60,0,Gratuit,Gratuit,15.0,8.57
+Sabre Versatile,Versatil Saber,3,7,0.43,43%,18.0,7.71,54,1,18.0,7.71,9.0,3.85
+Esprit de l'Écuyer,Spirit of the Squire,7,7,1.0,100%,7.71,7.71,54,3,2.57,2.57,1.93,1.93
+Gantelet Impérieux,Imperious Gauntlet,2,7,0.29,29%,22.0,6.29,44,1,22.0,6.29,11.0,3.15
+Armure d'Immortel,Immortal Breastplate,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
+Épée Obscure,Swords of Darkness,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
+Lame Affutée,Sharp Blade,6,7,0.86,86%,6.0,5.14,36,3,2.0,1.71,1.5,1.28
+Marteleur précis,Precise Hammer,2,7,0.29,29%,18.0,5.14,36,1,18.0,5.14,9.0,2.57
+Lame Insatiable,Fast Furious Blade,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57,6.0,1.71
+Hache Frénétique,Berseker Ax,2,7,0.29,29%,16.0,4.57,32,2,8.0,2.29,5.33,1.52
+Coup de Mort,Death Helper,2,7,0.29,29%,13.0,3.71,26,1,13.0,3.71,6.5,1.85
+Ascension Divine,Divine Ascent,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19,6.25,0.89
+Explosion Arcanique,Arcane Explosive,2,7,0.29,29%,12.0,3.43,24,1,12.0,3.43,6.0,1.72
+Aveuglement,Incapacitor,4,7,0.57,57%,5.25,3.0,21,3,1.75,1.0,1.31,0.75
+Le Marionnettiste,The Puppeteer,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
+Être de Lumière,Being of Light,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,2.86,2.86,20,3,0.95,0.95,0.71,0.71
+Parchemin Secret,Secret Scroll,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
+Mental d'Acier,Steel Aura,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
+Danse Macabre,Dance of Death,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43,5.0,0.71
+Griffes Sauvages,Wild Claw,2,7,0.29,29%,1.0,0.29,2,3,0.33,0.1,0.25,0.07

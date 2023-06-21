@@ -1,21 +1,24 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Armure d'Obsidienne,Obsidian Battle Plate,5,6,0.83,83%,20.0,16.67,100,2,10.0,8.34,6.67,5.56
-Totem Équivalent,Equivalent Totem,6,6,1.0,100%,15.33,15.33,92,3,5.11,5.11,3.83,3.83
-Faux,Scythe,6,6,1.0,100%,13.33,13.33,80,3,4.44,4.44,3.33,3.33
-Faux Parfaite,Perfect Scythe,4,6,0.67,67%,15.0,10.0,60,0,Gratuit,Gratuit,15.0,10.0
-Lame Insatiable,Fast Furious Blade,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
-Esprit omniprésent,Omnipresent Spirit,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
-Lame Affutée,Sharp Blade,5,6,0.83,83%,6.6,5.5,33,3,2.2,1.83,1.65,1.38
-Esprit de l'Écuyer,Spirit of the Squire,4,6,0.67,67%,7.5,5.0,30,3,2.5,1.67,1.88,1.25
-Soif de Sang,Thirsty Dagger,2,6,0.33,33%,15.0,5.0,30,0,Gratuit,Gratuit,15.0,5.0
-Totem du Gardien,Guardian Totem,6,6,1.0,100%,3.83,3.83,23,3,1.28,1.28,0.96,0.96
-Gantelet Impérieux,Imperious Gauntlet,1,6,0.17,17%,22.0,3.67,22,1,22.0,3.67,11.0,1.83
-Danse Macabre,Dance of Death,2,6,0.33,33%,10.0,3.33,20,1,10.0,3.33,5.0,1.67
-Armure d'Immortel,Immortal Breastplate,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
-Sabre Versatile,Versatil Saber,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
-Griffes Démoniaques,Demon Claws,1,6,0.17,17%,17.0,2.83,17,1,17.0,2.83,8.5,1.42
-Hache Frénétique,Berseker Ax,1,6,0.17,17%,16.0,2.67,16,2,8.0,1.33,5.33,0.89
-Adrénaline Arcanique,Arcane Adrenaline,1,6,0.17,17%,16.0,2.67,16,1,16.0,2.67,8.0,1.33
-Coup de Mort,Death Helper,1,6,0.17,17%,13.0,2.17,13,1,13.0,2.17,6.5,1.08
-Aveuglement,Incapacitor,3,6,0.5,50%,3.0,1.5,9,3,1.0,0.5,0.75,0.38
-Marteau Collecteur,Collecting Hammer,1,6,0.17,17%,7.0,1.17,7,2,3.5,0.58,2.33,0.39
+Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.71,15.71,110,3,5.24,5.24,3.93,3.93
+Faux,Scythe,7,7,1.0,100%,14.43,14.43,101,3,4.81,4.81,3.61,3.61
+Armure d'Obsidienne,Obsidian Battle Plate,5,7,0.71,71%,20.0,14.29,100,2,10.0,7.14,6.67,4.76
+Faux Parfaite,Perfect Scythe,4,7,0.57,57%,15.0,8.57,60,0,Gratuit,Gratuit,15.0,8.57
+Lame Insatiable,Fast Furious Blade,3,7,0.43,43%,18.0,7.71,54,2,9.0,3.85,6.0,2.57
+Lame Affutée,Sharp Blade,6,7,0.86,86%,6.5,5.57,39,3,2.17,1.86,1.62,1.39
+Esprit de l'Écuyer,Spirit of the Squire,5,7,0.71,71%,7.8,5.57,39,3,2.6,1.86,1.95,1.39
+Esprit omniprésent,Omnipresent Spirit,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57,6.0,1.71
+Adrénaline Arcanique,Arcane Adrenaline,2,7,0.29,29%,16.0,4.57,32,1,16.0,4.57,8.0,2.29
+Hache Frénétique,Berseker Ax,2,7,0.29,29%,16.0,4.57,32,2,8.0,2.29,5.33,1.52
+Soif de Sang,Thirsty Dagger,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,3.71,3.71,26,3,1.24,1.24,0.93,0.93
+Faux Assoiffées,Thirsty Scythes,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19,6.25,0.89
+Ascension Divine,Divine Ascent,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19,6.25,0.89
+Gantelet Impérieux,Imperious Gauntlet,1,7,0.14,14%,22.0,3.14,22,1,22.0,3.14,11.0,1.57
+Danse Macabre,Dance of Death,2,7,0.29,29%,10.0,2.86,20,1,10.0,2.86,5.0,1.43
+Armure d'Immortel,Immortal Breastplate,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
+Sabre Versatile,Versatil Saber,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
+Aveuglement,Incapacitor,4,7,0.57,57%,4.5,2.57,18,3,1.5,0.86,1.12,0.64
+Griffes Démoniaques,Demon Claws,1,7,0.14,14%,17.0,2.43,17,1,17.0,2.43,8.5,1.22
+Coup de Mort,Death Helper,1,7,0.14,14%,13.0,1.86,13,1,13.0,1.86,6.5,0.93
+Marteau Collecteur,Collecting Hammer,1,7,0.14,14%,7.0,1.0,7,2,3.5,0.5,2.33,0.33
+Griffes Sauvages,Wild Claw,1,7,0.14,14%,2.0,0.29,2,3,0.67,0.1,0.5,0.07
