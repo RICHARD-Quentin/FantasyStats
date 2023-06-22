@@ -1,20 +1,20 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.0,15.0,105,3,5.0,5.0,3.75,3.75
-Faux,Scythe,7,7,1.0,100%,11.57,11.57,81,3,3.86,3.86,2.89,2.89
-Armure d'Obsidienne,Obsidian Battle Plate,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29,6.67,2.86
-Marteau Collecteur,Collecting Hammer,3,7,0.43,43%,16.33,7.0,49,2,8.16,3.5,5.44,2.33
-Explosion Arcanique,Arcane Explosive,4,7,0.57,57%,12.0,6.86,48,1,12.0,6.86,6.0,3.43
-Marteleur précis,Precise Hammer,2,7,0.29,29%,18.0,5.14,36,1,18.0,5.14,9.0,2.57
-Hache Frénétique,Berseker Ax,2,7,0.29,29%,16.0,4.57,32,2,8.0,2.29,5.33,1.52
-Faux Parfaite,Perfect Scythe,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
-Lame Affutée,Sharp Blade,5,7,0.71,71%,5.4,3.86,27,3,1.8,1.29,1.35,0.96
-Esprit de l'Écuyer,Spirit of the Squire,4,7,0.57,57%,5.25,3.0,21,3,1.75,1.0,1.31,0.75
-Le Marionnettiste,The Puppeteer,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
-Armure d'Immortel,Immortal Breastplate,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
-Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,2.86,2.86,20,3,0.95,0.95,0.71,0.71
-Assistance Divine,Sacred Help,1,7,0.14,14%,20.0,2.86,20,2,10.0,1.43,6.67,0.95
-Mental d'Acier,Steel Aura,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
-Aveuglement,Incapacitor,3,7,0.43,43%,5.0,2.14,15,3,1.67,0.71,1.25,0.54
-Masse Colossale,Colossal Mace,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
-Danse Macabre,Dance of Death,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43,5.0,0.71
+Totem Équivalent,Equivalent Totem,8,8,1.0,100%,14.88,14.88,119,3,4.96,4.96,3.72,3.72
+Faux,Scythe,8,8,1.0,100%,11.5,11.5,92,3,3.83,3.83,2.88,2.88
+Marteau Collecteur,Collecting Hammer,4,8,0.5,50%,15.75,7.88,63,2,7.88,3.94,5.25,2.63
+Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
+Explosion Arcanique,Arcane Explosive,4,8,0.5,50%,12.0,6.0,48,1,12.0,6.0,6.0,3.0
+Faux Parfaite,Perfect Scythe,3,8,0.38,38%,15.0,5.62,45,0,Gratuit,Gratuit,15.0,5.62
+Marteleur précis,Precise Hammer,2,8,0.25,25%,18.0,4.5,36,1,18.0,4.5,9.0,2.25
+Mental d'Acier,Steel Aura,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
+Hache Frénétique,Berseker Ax,2,8,0.25,25%,16.0,4.0,32,2,8.0,2.0,5.33,1.33
+Lame Affutée,Sharp Blade,6,8,0.75,75%,5.0,3.75,30,3,1.67,1.25,1.25,0.94
+Esprit de l'Écuyer,Spirit of the Squire,5,8,0.62,62%,4.8,3.0,24,3,1.6,1.0,1.2,0.75
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.75,2.75,22,3,0.92,0.92,0.69,0.69
+Le Marionnettiste,The Puppeteer,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
+Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
+Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
+Assistance Divine,Sacred Help,1,8,0.12,12%,20.0,2.5,20,2,10.0,1.25,6.67,0.83
+Aveuglement,Incapacitor,4,8,0.5,50%,4.5,2.25,18,3,1.5,0.75,1.12,0.56
+Masse Colossale,Colossal Mace,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
+Danse Macabre,Dance of Death,1,8,0.12,12%,10.0,1.25,10,1,10.0,1.25,5.0,0.62

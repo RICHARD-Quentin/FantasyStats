@@ -1,27 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,7,7,1.0,100%,20.0,20.0,140,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,7,7,1.0,100%,14.43,14.43,101,3,4.81,4.81,3.61,3.61
-Totem Équivalent,Equivalent Totem,7,7,1.0,100%,14.14,14.14,99,3,4.71,4.71,3.54,3.54
-Armure d'Obsidienne,Obsidian Battle Plate,4,7,0.57,57%,20.0,11.43,80,2,10.0,5.71,6.67,3.81
-Être de Lumière,Being of Light,4,7,0.57,57%,20.0,11.43,80,1,20.0,11.43,10.0,5.71
-Décharge Élémentaire,Elemental Discharge,4,7,0.57,57%,20.0,11.43,80,1,20.0,11.43,10.0,5.71
-Marteau Collecteur,Collecting Hammer,6,7,0.86,86%,12.83,11.0,77,2,6.42,5.5,4.28,3.67
-Esprit de l'Écuyer,Spirit of the Squire,7,7,1.0,100%,9.0,9.0,63,3,3.0,3.0,2.25,2.25
-Faux,Scythe,7,7,1.0,100%,8.0,8.0,56,3,2.67,2.67,2.0,2.0
-Mental d'Acier,Steel Aura,3,7,0.43,43%,18.0,7.71,54,2,9.0,3.85,6.0,2.57
-Sabre Versatile,Versatil Saber,3,7,0.43,43%,18.0,7.71,54,1,18.0,7.71,9.0,3.85
-Aveuglement,Incapacitor,7,7,1.0,100%,6.43,6.43,45,3,2.14,2.14,1.61,1.61
-Le Marionnettiste,The Puppeteer,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
-Pillard Féroce,Savage Looter,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
-Lame Affutée,Sharp Blade,6,7,0.86,86%,6.5,5.57,39,3,2.17,1.86,1.62,1.39
-Soif de Sang,Thirsty Dagger,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
-Coup de Mort,Death Helper,2,7,0.29,29%,13.0,3.71,26,1,13.0,3.71,6.5,1.85
-Esprit Sauvage,Wild Spirit,3,7,0.43,43%,8.0,3.43,24,0,Gratuit,Gratuit,8.0,3.43
-Épée Obscure,Swords of Darkness,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
-Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,2.71,2.71,19,3,0.9,0.9,0.68,0.68
-Chasseur de Bêtes,Beast Hunter,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
-Esprit omniprésent,Omnipresent Spirit,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
-Hache Frénétique,Berseker Ax,1,7,0.14,14%,16.0,2.29,16,2,8.0,1.15,5.33,0.76
-Force Divine,Divine Impetu,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
-Danse Macabre,Dance of Death,1,7,0.14,14%,10.0,1.43,10,1,10.0,1.43,5.0,0.71
+Assistance Divine,Sacred Help,8,8,1.0,100%,20.0,20.0,160,2,10.0,10.0,6.67,6.67
+Totem Équivalent,Equivalent Totem,8,8,1.0,100%,14.38,14.38,115,3,4.79,4.79,3.6,3.6
+Griffes Sauvages,Wild Claw,8,8,1.0,100%,14.12,14.12,113,3,4.71,4.71,3.53,3.53
+Armure d'Obsidienne,Obsidian Battle Plate,5,8,0.62,62%,20.0,12.5,100,2,10.0,6.25,6.67,4.17
+Être de Lumière,Being of Light,5,8,0.62,62%,20.0,12.5,100,1,20.0,12.5,10.0,6.25
+Décharge Élémentaire,Elemental Discharge,4,8,0.5,50%,20.0,10.0,80,1,20.0,10.0,10.0,5.0
+Esprit de l'Écuyer,Spirit of the Squire,8,8,1.0,100%,9.75,9.75,78,3,3.25,3.25,2.44,2.44
+Marteau Collecteur,Collecting Hammer,6,8,0.75,75%,12.83,9.62,77,2,6.42,4.81,4.28,3.21
+Sabre Versatile,Versatil Saber,4,8,0.5,50%,18.0,9.0,72,1,18.0,9.0,9.0,4.5
+Faux,Scythe,8,8,1.0,100%,7.88,7.88,63,3,2.63,2.63,1.97,1.97
+Le Marionnettiste,The Puppeteer,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
+Mental d'Acier,Steel Aura,3,8,0.38,38%,18.0,6.75,54,2,9.0,3.38,6.0,2.25
+Aveuglement,Incapacitor,8,8,1.0,100%,6.38,6.38,51,3,2.13,2.13,1.59,1.59
+Lame Affutée,Sharp Blade,7,8,0.88,88%,6.0,5.25,42,3,2.0,1.75,1.5,1.31
+Pillard Féroce,Savage Looter,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
+Coup de Mort,Death Helper,3,8,0.38,38%,13.0,4.88,39,1,13.0,4.88,6.5,2.44
+Soif de Sang,Thirsty Dagger,2,8,0.25,25%,15.0,3.75,30,0,Gratuit,Gratuit,15.0,3.75
+Esprit Sauvage,Wild Spirit,3,8,0.38,38%,8.0,3.0,24,0,Gratuit,Gratuit,8.0,3.0
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.88,2.88,23,3,0.96,0.96,0.72,0.72
+Épée Obscure,Swords of Darkness,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
+Armure d'Immortel,Immortal Breastplate,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
+Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
+Chasseur de Bêtes,Beast Hunter,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
+Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
+Hache Frénétique,Berseker Ax,1,8,0.12,12%,16.0,2.0,16,2,8.0,1.0,5.33,0.67
+Force Divine,Divine Impetu,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
+Danse Macabre,Dance of Death,1,8,0.12,12%,10.0,1.25,10,1,10.0,1.25,5.0,0.62

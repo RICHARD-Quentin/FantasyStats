@@ -1,27 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.43,15.43,108,3,5.14,5.14,3.86,3.86
-Faux,Scythe,7,7,1.0,100%,12.14,12.14,85,3,4.05,4.05,3.04,3.04
-Hache Frénétique,Berseker Ax,5,7,0.71,71%,16.0,11.43,80,2,8.0,5.71,5.33,3.81
-Armure d'Obsidienne,Obsidian Battle Plate,4,7,0.57,57%,20.0,11.43,80,2,10.0,5.71,6.67,3.81
-Esprit de l'Écuyer,Spirit of the Squire,6,7,0.86,86%,11.0,9.43,66,3,3.67,3.14,2.75,2.36
-Lame Affutée,Sharp Blade,5,7,0.71,71%,12.6,9.0,63,3,4.2,3.0,3.15,2.25
-Triple Météore,Trimeteor,2,7,0.29,29%,30.0,8.57,60,0,Gratuit,Gratuit,30.0,8.57
-Marteau Collecteur,Collecting Hammer,4,7,0.57,57%,14.0,8.0,56,2,7.0,4.0,4.67,2.67
-Sabre Versatile,Versatil Saber,3,7,0.43,43%,18.0,7.71,54,1,18.0,7.71,9.0,3.85
-Explosion Arcanique,Arcane Explosive,4,7,0.57,57%,12.0,6.86,48,1,12.0,6.86,6.0,3.43
-Épée Obscure,Swords of Darkness,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
-Danse Macabre,Dance of Death,4,7,0.57,57%,10.0,5.71,40,1,10.0,5.71,5.0,2.85
-Parchemin Secret,Secret Scroll,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57,6.0,1.71
-Aveuglement,Incapacitor,6,7,0.86,86%,5.5,4.71,33,3,1.83,1.57,1.38,1.18
-Faux Parfaite,Perfect Scythe,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
-Épé Sainte,Holy Sword,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
-Coup de Mort,Death Helper,2,7,0.29,29%,13.0,3.71,26,1,13.0,3.71,6.5,1.85
-Totem du Gardien,Guardian Totem,7,7,1.0,100%,3.57,3.57,25,3,1.19,1.19,0.89,0.89
-Enchaînement Éclair,Unstoppable Lightning,1,7,0.14,14%,22.0,3.14,22,2,11.0,1.57,7.33,1.05
-Chasseur d'Âmes,Soul Hunter,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
-Esprit omniprésent,Omnipresent Spirit,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86
-Marteleur précis,Precise Hammer,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
-Adrénaline Arcanique,Arcane Adrenaline,1,7,0.14,14%,16.0,2.29,16,1,16.0,2.29,8.0,1.15
-Elan de Fureur,Rampage Momentum,1,7,0.14,14%,15.0,2.14,15,1,15.0,2.14,7.5,1.07
-Force Divine,Divine Impetu,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
-Œil de Lynx,Hawk's Eye,1,7,0.14,14%,8.0,1.14,8,0,Gratuit,Gratuit,8.0,1.14
+Totem Équivalent,Equivalent Totem,8,8,1.0,100%,15.5,15.5,124,3,5.17,5.17,3.88,3.88
+Faux,Scythe,8,8,1.0,100%,12.25,12.25,98,3,4.08,4.08,3.06,3.06
+Hache Frénétique,Berseker Ax,6,8,0.75,75%,16.0,12.0,96,2,8.0,6.0,5.33,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,4,8,0.5,50%,20.0,10.0,80,2,10.0,5.0,6.67,3.33
+Esprit de l'Écuyer,Spirit of the Squire,7,8,0.88,88%,10.29,9.0,72,3,3.43,3.0,2.57,2.25
+Lame Affutée,Sharp Blade,6,8,0.75,75%,11.0,8.25,66,3,3.67,2.75,2.75,2.06
+Marteau Collecteur,Collecting Hammer,5,8,0.62,62%,12.6,7.88,63,2,6.3,3.94,4.2,2.63
+Triple Météore,Trimeteor,2,8,0.25,25%,30.0,7.5,60,0,Gratuit,Gratuit,30.0,7.5
+Sabre Versatile,Versatil Saber,3,8,0.38,38%,18.0,6.75,54,1,18.0,6.75,9.0,3.38
+Explosion Arcanique,Arcane Explosive,4,8,0.5,50%,12.0,6.0,48,1,12.0,6.0,6.0,3.0
+Épée Obscure,Swords of Darkness,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
+Danse Macabre,Dance of Death,4,8,0.5,50%,10.0,5.0,40,1,10.0,5.0,5.0,2.5
+Aveuglement,Incapacitor,7,8,0.88,88%,5.57,4.88,39,3,1.86,1.63,1.39,1.22
+Parchemin Secret,Secret Scroll,2,8,0.25,25%,18.0,4.5,36,2,9.0,2.25,6.0,1.5
+Adrénaline Arcanique,Arcane Adrenaline,2,8,0.25,25%,16.0,4.0,32,1,16.0,4.0,8.0,2.0
+Faux Parfaite,Perfect Scythe,2,8,0.25,25%,15.0,3.75,30,0,Gratuit,Gratuit,15.0,3.75
+Totem du Gardien,Guardian Totem,8,8,1.0,100%,3.75,3.75,30,3,1.25,1.25,0.94,0.94
+Épé Sainte,Holy Sword,2,8,0.25,25%,15.0,3.75,30,0,Gratuit,Gratuit,15.0,3.75
+Coup de Mort,Death Helper,2,8,0.25,25%,13.0,3.25,26,1,13.0,3.25,6.5,1.62
+Enchaînement Éclair,Unstoppable Lightning,1,8,0.12,12%,22.0,2.75,22,2,11.0,1.38,7.33,0.92
+Chasseur d'Âmes,Soul Hunter,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
+Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
+Marteleur précis,Precise Hammer,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
+Elan de Fureur,Rampage Momentum,1,8,0.12,12%,15.0,1.88,15,1,15.0,1.88,7.5,0.94
+Force Divine,Divine Impetu,1,8,0.12,12%,15.0,1.88,15,0,Gratuit,Gratuit,15.0,1.88
+Œil de Lynx,Hawk's Eye,1,8,0.12,12%,8.0,1.0,8,0,Gratuit,Gratuit,8.0,1.0
