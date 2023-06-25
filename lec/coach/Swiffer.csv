@@ -1,13 +1,13 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,3,4,0.75,75%,25.0,18.75,75,2,12.5,9.38,8.33,6.25
-L'Oeil du Héraut,Eye of the Void,4,4,1.0,100%,11.25,11.25,45,0,Gratuit,Gratuit,11.25,11.25
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,8.5,8.5,34,2,4.25,4.25,2.83,2.83
-Chasse au Gros,Big Worm Hunter,2,4,0.5,50%,15.0,7.5,30,3,5.0,2.5,3.75,1.88
-Perce-Écailles,Scale Tearer,1,4,0.25,25%,28.0,7.0,28,3,9.33,2.33,7.0,1.75
-Masque du Baron,Baron' s Mask,1,4,0.25,25%,25.0,6.25,25,2,12.5,3.12,8.33,2.08
-Écailles Magiques,Magic Scales,1,4,0.25,25%,25.0,6.25,25,2,12.5,3.12,8.33,2.08
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,4,0.25,25%,25.0,6.25,25,1,25.0,6.25,12.5,3.12
-Première Ligne,First Line,3,4,0.75,75%,8.0,6.0,24,0,Gratuit,Gratuit,8.0,6.0
-Marteau Conquérant,Conquest Hammer,1,4,0.25,25%,22.0,5.5,22,3,7.33,1.83,5.5,1.38
-Gardien Sous-terrain,Underworld Guardian,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Sceau Profanateur,Seal of Desecration,1,4,0.25,25%,16.0,4.0,16,2,8.0,2.0,5.33,1.33
+Esprit de la Faille,Spirit of the Rift,4,5,0.8,80%,25.0,20.0,100,2,12.5,10.0,8.33,6.67
+L'Oeil du Héraut,Eye of the Void,5,5,1.0,100%,10.8,10.8,54,0,Gratuit,Gratuit,10.8,10.8
+Masque du Baron,Baron' s Mask,2,5,0.4,40%,25.0,10.0,50,2,12.5,5.0,8.33,3.33
+Perce-Écailles,Scale Tearer,2,5,0.4,40%,24.5,9.8,49,3,8.17,3.27,6.12,2.45
+Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,9.2,9.2,46,2,4.6,4.6,3.07,3.07
+Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,15.0,9.0,45,3,5.0,3.0,3.75,2.25
+Première Ligne,First Line,4,5,0.8,80%,8.0,6.4,32,0,Gratuit,Gratuit,8.0,6.4
+Écailles Magiques,Magic Scales,1,5,0.2,20%,25.0,5.0,25,2,12.5,2.5,8.33,1.67
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,5,0.2,20%,25.0,5.0,25,1,25.0,5.0,12.5,2.5
+Marteau Conquérant,Conquest Hammer,1,5,0.2,20%,22.0,4.4,22,3,7.33,1.47,5.5,1.1
+Gardien Sous-terrain,Underworld Guardian,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Sceau Profanateur,Seal of Desecration,1,5,0.2,20%,16.0,3.2,16,2,8.0,1.6,5.33,1.07

@@ -1,23 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,3,4,0.75,75%,20.0,15.0,60,2,10.0,7.5,6.67,5.0
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0,3.0,3.0
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,11.5,11.5,46,3,3.83,3.83,2.88,2.88
-Lame Affutée,Sharp Blade,4,4,1.0,100%,9.0,9.0,36,3,3.0,3.0,2.25,2.25
-Danse Macabre,Dance of Death,3,4,0.75,75%,10.0,7.5,30,1,10.0,7.5,5.0,3.75
-Faux,Scythe,4,4,1.0,100%,6.5,6.5,26,3,2.17,2.17,1.62,1.62
-Esprit de l'Écuyer,Spirit of the Squire,4,4,1.0,100%,6.0,6.0,24,3,2.0,2.0,1.5,1.5
-Aveuglement,Incapacitor,4,4,1.0,100%,5.25,5.25,21,3,1.75,1.75,1.31,1.31
-Armure d'Immortel,Immortal Breastplate,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Décharge Élémentaire,Elemental Discharge,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Être de Lumière,Being of Light,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Chasseur d'Âmes,Soul Hunter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Sabre Versatile,Versatil Saber,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
-Soif de Sang,Thirsty Dagger,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Force Divine,Divine Impetu,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Épé Sainte,Holy Sword,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Amulette Omnisciente,Omnipresent Amulet,1,4,0.25,25%,15.0,3.75,15,0,Gratuit,Gratuit,15.0,3.75
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,2.0,2.0,8,3,0.67,0.67,0.5,0.5
-Marteau Collecteur,Collecting Hammer,1,4,0.25,25%,7.0,1.75,7,2,3.5,0.88,2.33,0.58
+Assistance Divine,Sacred Help,4,5,0.8,80%,20.0,16.0,80,2,10.0,8.0,6.67,5.33
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,13.2,13.2,66,3,4.4,4.4,3.3,3.3
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,12.8,12.8,64,3,4.27,4.27,3.2,3.2
+Lame Affutée,Sharp Blade,5,5,1.0,100%,9.6,9.6,48,3,3.2,3.2,2.4,2.4
+Être de Lumière,Being of Light,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Danse Macabre,Dance of Death,4,5,0.8,80%,10.0,8.0,40,1,10.0,8.0,5.0,4.0
+Décharge Élémentaire,Elemental Discharge,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Armure d'Immortel,Immortal Breastplate,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Faux,Scythe,5,5,1.0,100%,7.4,7.4,37,3,2.47,2.47,1.85,1.85
+Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,7.2,7.2,36,3,2.4,2.4,1.8,1.8
+Sabre Versatile,Versatil Saber,2,5,0.4,40%,18.0,7.2,36,1,18.0,7.2,9.0,3.6
+Esprit omniprésent,Omnipresent Spirit,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
+Aveuglement,Incapacitor,5,5,1.0,100%,6.6,6.6,33,3,2.2,2.2,1.65,1.65
+Force Divine,Divine Impetu,2,5,0.4,40%,15.0,6.0,30,0,Gratuit,Gratuit,15.0,6.0
+Elan de Fureur,Rampage Momentum,2,5,0.4,40%,15.0,6.0,30,1,15.0,6.0,7.5,3.0
+Marteau Collecteur,Collecting Hammer,2,5,0.4,40%,10.5,4.2,21,2,5.25,2.1,3.5,1.4
+Chasseur d'Âmes,Soul Hunter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Épé Sainte,Holy Sword,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Amulette Omnisciente,Omnipresent Amulet,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
+Coup de Mort,Death Helper,1,5,0.2,20%,13.0,2.6,13,1,13.0,2.6,6.5,1.3
+Explosion Arcanique,Arcane Explosive,1,5,0.2,20%,12.0,2.4,12,1,12.0,2.4,6.0,1.2
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,2.0,2.0,10,3,0.67,0.67,0.5,0.5
+Esprit Sauvage,Wild Spirit,1,5,0.2,20%,8.0,1.6,8,0,Gratuit,Gratuit,8.0,1.6

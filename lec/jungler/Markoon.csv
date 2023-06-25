@@ -1,27 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,4,4,1.0,100%,20.0,20.0,80,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,4,4,1.0,100%,15.25,15.25,61,3,5.08,5.08,3.81,3.81
-Totem Équivalent,Equivalent Totem,4,4,1.0,100%,14.25,14.25,57,3,4.75,4.75,3.56,3.56
-Aveuglement,Incapacitor,4,4,1.0,100%,12.0,12.0,48,3,4.0,4.0,3.0,3.0
-Chasseur d'Âmes,Soul Hunter,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0,10.0,5.0
-Épée Obscure,Swords of Darkness,2,4,0.5,50%,20.0,10.0,40,1,20.0,10.0,10.0,5.0
-Chasseur de Bêtes,Beast Hunter,2,4,0.5,50%,18.0,9.0,36,2,9.0,4.5,6.0,3.0
-Faux,Scythe,4,4,1.0,100%,8.25,8.25,33,3,2.75,2.75,2.06,2.06
-Hache Frénétique,Berseker Ax,2,4,0.5,50%,16.0,8.0,32,2,8.0,4.0,5.33,2.67
-Esprit de l'Écuyer,Spirit of the Squire,3,4,0.75,75%,10.0,7.5,30,3,3.33,2.5,2.5,1.88
-Marteau Collecteur,Collecting Hammer,3,4,0.75,75%,9.33,7.0,28,2,4.67,3.5,3.11,2.33
-Lame Affutée,Sharp Blade,2,4,0.5,50%,12.0,6.0,24,3,4.0,2.0,3.0,1.5
-Bâton de Conquête,Conquering Staff,1,4,0.25,25%,24.0,6.0,24,2,12.0,3.0,8.0,2.0
-Totem du Gardien,Guardian Totem,4,4,1.0,100%,5.25,5.25,21,3,1.75,1.75,1.31,1.31
-Être de Lumière,Being of Light,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Pillard Féroce,Savage Looter,1,4,0.25,25%,20.0,5.0,20,1,20.0,5.0,10.0,2.5
-Armure d'Obsidienne,Obsidian Battle Plate,1,4,0.25,25%,20.0,5.0,20,2,10.0,2.5,6.67,1.67
-Le Traqueur,The Stalker,1,4,0.25,25%,20.0,5.0,20,3,6.67,1.67,5.0,1.25
-Danse Macabre,Dance of Death,2,4,0.5,50%,10.0,5.0,20,1,10.0,5.0,5.0,2.5
-Marteleur précis,Precise Hammer,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Sabre Versatile,Versatil Saber,1,4,0.25,25%,18.0,4.5,18,1,18.0,4.5,9.0,2.25
-Esprit omniprésent,Omnipresent Spirit,1,4,0.25,25%,18.0,4.5,18,2,9.0,2.25,6.0,1.5
-Œil de Lynx,Hawk's Eye,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0
-Esprit Sauvage,Wild Spirit,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0
-Elan de Fureur,Rampage Momentum,1,4,0.25,25%,15.0,3.75,15,1,15.0,3.75,7.5,1.88
-Coup de Mort,Death Helper,1,4,0.25,25%,13.0,3.25,13,1,13.0,3.25,6.5,1.62
+Assistance Divine,Sacred Help,5,5,1.0,100%,20.0,20.0,100,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,5,5,1.0,100%,14.8,14.8,74,3,4.93,4.93,3.7,3.7
+Totem Équivalent,Equivalent Totem,5,5,1.0,100%,14.4,14.4,72,3,4.8,4.8,3.6,3.6
+Aveuglement,Incapacitor,5,5,1.0,100%,10.2,10.2,51,3,3.4,3.4,2.55,2.55
+Marteau Collecteur,Collecting Hammer,4,5,0.8,80%,12.25,9.8,49,2,6.12,4.9,4.08,3.27
+Esprit de l'Écuyer,Spirit of the Squire,4,5,0.8,80%,11.25,9.0,45,3,3.75,3.0,2.81,2.25
+Faux,Scythe,5,5,1.0,100%,8.0,8.0,40,3,2.67,2.67,2.0,2.0
+Épée Obscure,Swords of Darkness,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Chasseur d'Âmes,Soul Hunter,2,5,0.4,40%,20.0,8.0,40,1,20.0,8.0,10.0,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,2,5,0.4,40%,20.0,8.0,40,2,10.0,4.0,6.67,2.67
+Chasseur de Bêtes,Beast Hunter,2,5,0.4,40%,18.0,7.2,36,2,9.0,3.6,6.0,2.4
+Sabre Versatile,Versatil Saber,2,5,0.4,40%,18.0,7.2,36,1,18.0,7.2,9.0,3.6
+Hache Frénétique,Berseker Ax,2,5,0.4,40%,16.0,6.4,32,2,8.0,3.2,5.33,2.13
+Coup de Mort,Death Helper,2,5,0.4,40%,13.0,5.2,26,1,13.0,5.2,6.5,2.6
+Totem du Gardien,Guardian Totem,5,5,1.0,100%,5.0,5.0,25,3,1.67,1.67,1.25,1.25
+Bâton de Conquête,Conquering Staff,1,5,0.2,20%,24.0,4.8,24,2,12.0,2.4,8.0,1.6
+Lame Affutée,Sharp Blade,2,5,0.4,40%,12.0,4.8,24,3,4.0,1.6,3.0,1.2
+Le Traqueur,The Stalker,1,5,0.2,20%,20.0,4.0,20,3,6.67,1.33,5.0,1.0
+Pillard Féroce,Savage Looter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Être de Lumière,Being of Light,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Danse Macabre,Dance of Death,2,5,0.4,40%,10.0,4.0,20,1,10.0,4.0,5.0,2.0
+Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
+Esprit omniprésent,Omnipresent Spirit,1,5,0.2,20%,18.0,3.6,18,2,9.0,1.8,6.0,1.2
+Œil de Lynx,Hawk's Eye,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit,8.0,3.2
+Esprit Sauvage,Wild Spirit,2,5,0.4,40%,8.0,3.2,16,0,Gratuit,Gratuit,8.0,3.2
+Elan de Fureur,Rampage Momentum,1,5,0.2,20%,15.0,3.0,15,1,15.0,3.0,7.5,1.5
+Amulette Omnisciente,Omnipresent Amulet,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0

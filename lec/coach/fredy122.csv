@@ -1,10 +1,12 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,2,4,0.5,50%,25.0,12.5,50,2,12.5,6.25,8.33,4.17
-L'Oeil du Héraut,Eye of the Void,3,4,0.75,75%,12.0,9.0,36,0,Gratuit,Gratuit,12.0,9.0
-Perce-Écailles,Scale Tearer,2,4,0.5,50%,17.5,8.75,35,3,5.83,2.92,4.38,2.19
-Marteau Dévastateur,Destroyer Hammer,4,4,1.0,100%,8.5,8.5,34,2,4.25,4.25,2.83,2.83
-Chasse au Gros,Big Worm Hunter,2,4,0.5,50%,15.0,7.5,30,3,5.0,2.5,3.75,1.88
-Marteau Conquérant,Conquest Hammer,1,4,0.25,25%,22.0,5.5,22,3,7.33,1.83,5.5,1.38
-Protection Royale,Royal Protector,1,4,0.25,25%,17.0,4.25,17,1,17.0,4.25,8.5,2.12
-Première Ligne,First Line,2,4,0.5,50%,8.0,4.0,16,0,Gratuit,Gratuit,8.0,4.0
-Sceau Profanateur,Seal of Desecration,1,4,0.25,25%,8.0,2.0,8,2,4.0,1.0,2.67,0.67
+Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,11.2,11.2,56,2,5.6,5.6,3.73,3.73
+Perce-Écailles,Scale Tearer,3,5,0.6,60%,18.67,11.2,56,3,6.22,3.73,4.67,2.8
+Esprit de la Faille,Spirit of the Rift,2,5,0.4,40%,25.0,10.0,50,2,12.5,5.0,8.33,3.33
+L'Oeil du Héraut,Eye of the Void,4,5,0.8,80%,11.25,9.0,45,0,Gratuit,Gratuit,11.25,9.0
+Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,15.0,9.0,45,3,5.0,3.0,3.75,2.25
+Marteau Conquérant,Conquest Hammer,2,5,0.4,40%,22.0,8.8,44,3,7.33,2.93,5.5,2.2
+Protection Royale,Royal Protector,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
+Sceau Profanateur,Seal of Desecration,2,5,0.4,40%,16.0,6.4,32,2,8.0,3.2,5.33,2.13
+Écailles Magiques,Magic Scales,1,5,0.2,20%,25.0,5.0,25,2,12.5,2.5,8.33,1.67
+Première Ligne,First Line,3,5,0.6,60%,8.0,4.8,24,0,Gratuit,Gratuit,8.0,4.8
+Poigne d'Or,Golden Force,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
