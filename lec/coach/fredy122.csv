@@ -1,12 +1,12 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,11.2,11.2,56,2,5.6,5.6,3.73,3.73
-Perce-Écailles,Scale Tearer,3,5,0.6,60%,18.67,11.2,56,3,6.22,3.73,4.67,2.8
-Esprit de la Faille,Spirit of the Rift,2,5,0.4,40%,25.0,10.0,50,2,12.5,5.0,8.33,3.33
-L'Oeil du Héraut,Eye of the Void,4,5,0.8,80%,11.25,9.0,45,0,Gratuit,Gratuit,11.25,9.0
-Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,15.0,9.0,45,3,5.0,3.0,3.75,2.25
-Marteau Conquérant,Conquest Hammer,2,5,0.4,40%,22.0,8.8,44,3,7.33,2.93,5.5,2.2
-Protection Royale,Royal Protector,2,5,0.4,40%,17.0,6.8,34,1,17.0,6.8,8.5,3.4
-Sceau Profanateur,Seal of Desecration,2,5,0.4,40%,16.0,6.4,32,2,8.0,3.2,5.33,2.13
-Écailles Magiques,Magic Scales,1,5,0.2,20%,25.0,5.0,25,2,12.5,2.5,8.33,1.67
-Première Ligne,First Line,3,5,0.6,60%,8.0,4.8,24,0,Gratuit,Gratuit,8.0,4.8
-Poigne d'Or,Golden Force,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
+Perce-Écailles,Scale Tearer,4,6,0.67,67%,17.5,11.67,70,3,5.83,3.89,4.38,2.92
+Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,10.67,10.67,64,2,5.33,5.33,3.56,3.56
+Esprit de la Faille,Spirit of the Rift,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
+Écailles Magiques,Magic Scales,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
+L'Oeil du Héraut,Eye of the Void,4,6,0.67,67%,11.25,7.5,45,0,Gratuit,Gratuit,11.25,7.5
+Chasse au Gros,Big Worm Hunter,3,6,0.5,50%,15.0,7.5,45,3,5.0,2.5,3.75,1.88
+Marteau Conquérant,Conquest Hammer,2,6,0.33,33%,22.0,7.33,44,3,7.33,2.44,5.5,1.83
+Protection Royale,Royal Protector,2,6,0.33,33%,17.0,5.67,34,1,17.0,5.67,8.5,2.83
+Sceau Profanateur,Seal of Desecration,2,6,0.33,33%,16.0,5.33,32,2,8.0,2.67,5.33,1.78
+Première Ligne,First Line,4,6,0.67,67%,8.0,5.33,32,0,Gratuit,Gratuit,8.0,5.33
+Poigne d'Or,Golden Force,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67

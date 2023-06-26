@@ -1,21 +1,22 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,5,5,1.0,100%,16.0,16.0,80,3,5.33,5.33,4.0,4.0
-Faux Parfaite,Perfect Scythe,5,5,1.0,100%,15.0,15.0,75,0,Gratuit,Gratuit,15.0,15.0
-Faux,Scythe,5,5,1.0,100%,12.2,12.2,61,3,4.07,4.07,3.05,3.05
-Armure d'Obsidienne,Obsidian Battle Plate,3,5,0.6,60%,20.0,12.0,60,2,10.0,6.0,6.67,4.0
-Esprit de l'Écuyer,Spirit of the Squire,5,5,1.0,100%,9.6,9.6,48,3,3.2,3.2,2.4,2.4
-Sabre Versatile,Versatil Saber,2,5,0.4,40%,18.0,7.2,36,1,18.0,7.2,9.0,3.6
-Lame Affutée,Sharp Blade,5,5,1.0,100%,5.4,5.4,27,3,1.8,1.8,1.35,1.35
-Coup de Mort,Death Helper,2,5,0.4,40%,13.0,5.2,26,1,13.0,5.2,6.5,2.6
-Aveuglement,Incapacitor,5,5,1.0,100%,4.8,4.8,24,3,1.6,1.6,1.2,1.2
-Gantelet Impérieux,Imperious Gauntlet,1,5,0.2,20%,22.0,4.4,22,1,22.0,4.4,11.0,2.2
-Armure d'Immortel,Immortal Breastplate,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
-Le Marionnettiste,The Puppeteer,1,5,0.2,20%,20.0,4.0,20,2,10.0,2.0,6.67,1.33
-Totem du Gardien,Guardian Totem,5,5,1.0,100%,4.0,4.0,20,3,1.33,1.33,1.0,1.0
-Chasseur d'Âmes,Soul Hunter,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
-Épée Obscure,Swords of Darkness,1,5,0.2,20%,20.0,4.0,20,1,20.0,4.0,10.0,2.0
-Marteleur précis,Precise Hammer,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
-Soif de Sang,Thirsty Dagger,1,5,0.2,20%,15.0,3.0,15,0,Gratuit,Gratuit,15.0,3.0
-Marteau Collecteur,Collecting Hammer,2,5,0.4,40%,7.0,2.8,14,2,3.5,1.4,2.33,0.93
-Explosion Arcanique,Arcane Explosive,1,5,0.2,20%,12.0,2.4,12,1,12.0,2.4,6.0,1.2
-Danse Macabre,Dance of Death,1,5,0.2,20%,10.0,2.0,10,1,10.0,2.0,5.0,1.0
+Totem Équivalent,Equivalent Totem,6,6,1.0,100%,16.0,16.0,96,3,5.33,5.33,4.0,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,4,6,0.67,67%,20.0,13.33,80,2,10.0,6.67,6.67,4.44
+Faux Parfaite,Perfect Scythe,5,6,0.83,83%,15.0,12.5,75,0,Gratuit,Gratuit,15.0,12.5
+Faux,Scythe,6,6,1.0,100%,12.0,12.0,72,3,4.0,4.0,3.0,3.0
+Esprit de l'Écuyer,Spirit of the Squire,6,6,1.0,100%,9.5,9.5,57,3,3.17,3.17,2.38,2.38
+Sabre Versatile,Versatil Saber,3,6,0.5,50%,18.0,9.0,54,1,18.0,9.0,9.0,4.5
+Armure d'Immortel,Immortal Breastplate,2,6,0.33,33%,20.0,6.67,40,1,20.0,6.67,10.0,3.33
+Lame Affutée,Sharp Blade,6,6,1.0,100%,6.5,6.5,39,3,2.17,2.17,1.62,1.62
+Aveuglement,Incapacitor,6,6,1.0,100%,5.5,5.5,33,3,1.83,1.83,1.38,1.38
+Coup de Mort,Death Helper,2,6,0.33,33%,13.0,4.33,26,1,13.0,4.33,6.5,2.17
+Totem du Gardien,Guardian Totem,6,6,1.0,100%,4.0,4.0,24,3,1.33,1.33,1.0,1.0
+Explosion Arcanique,Arcane Explosive,2,6,0.33,33%,12.0,4.0,24,1,12.0,4.0,6.0,2.0
+Gantelet Impérieux,Imperious Gauntlet,1,6,0.17,17%,22.0,3.67,22,1,22.0,3.67,11.0,1.83
+Chasseur d'Âmes,Soul Hunter,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
+Épée Obscure,Swords of Darkness,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
+Danse Macabre,Dance of Death,2,6,0.33,33%,10.0,3.33,20,1,10.0,3.33,5.0,1.67
+Le Marionnettiste,The Puppeteer,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
+Marteleur précis,Precise Hammer,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
+Soif de Sang,Thirsty Dagger,1,6,0.17,17%,15.0,2.5,15,0,Gratuit,Gratuit,15.0,2.5
+Elan de Fureur,Rampage Momentum,1,6,0.17,17%,15.0,2.5,15,1,15.0,2.5,7.5,1.25
+Marteau Collecteur,Collecting Hammer,2,6,0.33,33%,7.0,2.33,14,2,3.5,1.17,2.33,0.78

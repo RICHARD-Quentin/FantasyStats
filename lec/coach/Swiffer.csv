@@ -1,13 +1,14 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,4,5,0.8,80%,25.0,20.0,100,2,12.5,10.0,8.33,6.67
-L'Oeil du Héraut,Eye of the Void,5,5,1.0,100%,10.8,10.8,54,0,Gratuit,Gratuit,10.8,10.8
-Masque du Baron,Baron' s Mask,2,5,0.4,40%,25.0,10.0,50,2,12.5,5.0,8.33,3.33
-Perce-Écailles,Scale Tearer,2,5,0.4,40%,24.5,9.8,49,3,8.17,3.27,6.12,2.45
-Marteau Dévastateur,Destroyer Hammer,5,5,1.0,100%,9.2,9.2,46,2,4.6,4.6,3.07,3.07
-Chasse au Gros,Big Worm Hunter,3,5,0.6,60%,15.0,9.0,45,3,5.0,3.0,3.75,2.25
-Première Ligne,First Line,4,5,0.8,80%,8.0,6.4,32,0,Gratuit,Gratuit,8.0,6.4
-Écailles Magiques,Magic Scales,1,5,0.2,20%,25.0,5.0,25,2,12.5,2.5,8.33,1.67
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,5,0.2,20%,25.0,5.0,25,1,25.0,5.0,12.5,2.5
-Marteau Conquérant,Conquest Hammer,1,5,0.2,20%,22.0,4.4,22,3,7.33,1.47,5.5,1.1
-Gardien Sous-terrain,Underworld Guardian,1,5,0.2,20%,18.0,3.6,18,1,18.0,3.6,9.0,1.8
-Sceau Profanateur,Seal of Desecration,1,5,0.2,20%,16.0,3.2,16,2,8.0,1.6,5.33,1.07
+Esprit de la Faille,Spirit of the Rift,5,6,0.83,83%,25.0,20.83,125,2,12.5,10.41,8.33,6.94
+Masque du Baron,Baron' s Mask,3,6,0.5,50%,25.0,12.5,75,2,12.5,6.25,8.33,4.17
+L'Oeil du Héraut,Eye of the Void,6,6,1.0,100%,12.0,12.0,72,0,Gratuit,Gratuit,12.0,12.0
+Perce-Écailles,Scale Tearer,3,6,0.5,50%,23.33,11.67,70,3,7.78,3.89,5.83,2.92
+Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,11.0,11.0,66,2,5.5,5.5,3.67,3.67
+Chasse au Gros,Big Worm Hunter,4,6,0.67,67%,15.0,10.0,60,3,5.0,3.33,3.75,2.5
+Marteau Conquérant,Conquest Hammer,2,6,0.33,33%,22.0,7.33,44,3,7.33,2.44,5.5,1.83
+Sceau Profanateur,Seal of Desecration,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33,6.67,2.22
+Première Ligne,First Line,5,6,0.83,83%,8.0,6.67,40,0,Gratuit,Gratuit,8.0,6.67
+Gardien Sous-terrain,Underworld Guardian,2,6,0.33,33%,18.0,6.0,36,1,18.0,6.0,9.0,3.0
+Écailles Magiques,Magic Scales,1,6,0.17,17%,25.0,4.17,25,2,12.5,2.08,8.33,1.39
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,6,0.17,17%,25.0,4.17,25,1,25.0,4.17,12.5,2.08
+Protection Royale,Royal Protector,1,6,0.17,17%,17.0,2.83,17,1,17.0,2.83,8.5,1.42
