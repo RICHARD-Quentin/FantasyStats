@@ -1,26 +1,26 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,8,8,1.0,100%,20.0,20.0,160,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,8,8,1.0,100%,18.25,18.25,146,3,6.08,6.08,4.56,4.56
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,14.38,14.38,115,3,4.79,4.79,3.6,3.6
-Mental d'Acier,Steel Aura,5,8,0.62,62%,18.0,11.25,90,2,9.0,5.62,6.0,3.75
-Chasseur de Bêtes,Beast Hunter,5,8,0.62,62%,18.0,11.25,90,2,9.0,5.62,6.0,3.75
-Faux,Scythe,8,8,1.0,100%,10.12,10.12,81,3,3.37,3.37,2.53,2.53
-Être de Lumière,Being of Light,4,8,0.5,50%,20.0,10.0,80,1,20.0,10.0,10.0,5.0
-Pillard Féroce,Savage Looter,4,8,0.5,50%,20.0,10.0,80,1,20.0,10.0,10.0,5.0
-Armure d'Obsidienne,Obsidian Battle Plate,3,8,0.38,38%,20.0,7.5,60,2,10.0,3.75,6.67,2.5
-Esprit de l'Écuyer,Spirit of the Squire,7,8,0.88,88%,8.57,7.5,60,3,2.86,2.5,2.14,1.88
-Esprit Sauvage,Wild Spirit,7,8,0.88,88%,8.0,7.0,56,0,Gratuit,Gratuit,8.0,7.0
-Aveuglement,Incapacitor,8,8,1.0,100%,6.75,6.75,54,3,2.25,2.25,1.69,1.69
-Lame Affutée,Sharp Blade,5,8,0.62,62%,10.2,6.38,51,3,3.4,2.13,2.55,1.59
-Décharge Élémentaire,Elemental Discharge,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
-Le Marionnettiste,The Puppeteer,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
-Chasseur d'Âmes,Soul Hunter,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
-Sabre Versatile,Versatil Saber,2,8,0.25,25%,18.0,4.5,36,1,18.0,4.5,9.0,2.25
-Hache Frénétique,Berseker Ax,2,8,0.25,25%,16.0,4.0,32,2,8.0,2.0,5.33,1.33
-Danse Macabre,Dance of Death,3,8,0.38,38%,10.0,3.75,30,1,10.0,3.75,5.0,1.88
-Coup de Mort,Death Helper,2,8,0.25,25%,13.0,3.25,26,1,13.0,3.25,6.5,1.62
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,2.75,2.75,22,3,0.92,0.92,0.69,0.69
-Épée Obscure,Swords of Darkness,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
-Esprit omniprésent,Omnipresent Spirit,1,8,0.12,12%,18.0,2.25,18,2,9.0,1.12,6.0,0.75
-Marteau Collecteur,Collecting Hammer,1,8,0.12,12%,14.0,1.75,14,2,7.0,0.88,4.67,0.58
-Œil de Lynx,Hawk's Eye,1,8,0.12,12%,8.0,1.0,8,0,Gratuit,Gratuit,8.0,1.0
+Assistance Divine,Sacred Help,9,9,1.0,100%,20.0,20.0,180,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,9,9,1.0,100%,17.78,17.78,160,3,5.93,5.93,4.45,4.45
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,14.11,14.11,127,3,4.7,4.7,3.53,3.53
+Chasseur de Bêtes,Beast Hunter,6,9,0.67,67%,18.0,12.0,108,2,9.0,6.0,6.0,4.0
+Pillard Féroce,Savage Looter,5,9,0.56,56%,20.0,11.11,100,1,20.0,11.11,10.0,5.55
+Mental d'Acier,Steel Aura,5,9,0.56,56%,18.0,10.0,90,2,9.0,5.0,6.0,3.33
+Faux,Scythe,9,9,1.0,100%,9.78,9.78,88,3,3.26,3.26,2.44,2.44
+Être de Lumière,Being of Light,4,9,0.44,44%,20.0,8.89,80,1,20.0,8.89,10.0,4.45
+Esprit de l'Écuyer,Spirit of the Squire,8,9,0.89,89%,8.25,7.33,66,3,2.75,2.44,2.06,1.83
+Aveuglement,Incapacitor,9,9,1.0,100%,6.67,6.67,60,3,2.22,2.22,1.67,1.67
+Armure d'Obsidienne,Obsidian Battle Plate,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Le Marionnettiste,The Puppeteer,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Esprit Sauvage,Wild Spirit,7,9,0.78,78%,8.0,6.22,56,0,Gratuit,Gratuit,8.0,6.22
+Lame Affutée,Sharp Blade,5,9,0.56,56%,10.2,5.67,51,3,3.4,1.89,2.55,1.42
+Hache Frénétique,Berseker Ax,3,9,0.33,33%,16.0,5.33,48,2,8.0,2.67,5.33,1.78
+Décharge Élémentaire,Elemental Discharge,2,9,0.22,22%,20.0,4.44,40,1,20.0,4.44,10.0,2.22
+Chasseur d'Âmes,Soul Hunter,2,9,0.22,22%,20.0,4.44,40,1,20.0,4.44,10.0,2.22
+Sabre Versatile,Versatil Saber,2,9,0.22,22%,18.0,4.0,36,1,18.0,4.0,9.0,2.0
+Danse Macabre,Dance of Death,3,9,0.33,33%,10.0,3.33,30,1,10.0,3.33,5.0,1.67
+Coup de Mort,Death Helper,2,9,0.22,22%,13.0,2.89,26,1,13.0,2.89,6.5,1.45
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,2.78,2.78,25,3,0.93,0.93,0.69,0.69
+Épée Obscure,Swords of Darkness,1,9,0.11,11%,20.0,2.22,20,1,20.0,2.22,10.0,1.11
+Esprit omniprésent,Omnipresent Spirit,1,9,0.11,11%,18.0,2.0,18,2,9.0,1.0,6.0,0.67
+Marteau Collecteur,Collecting Hammer,1,9,0.11,11%,14.0,1.56,14,2,7.0,0.78,4.67,0.52
+Œil de Lynx,Hawk's Eye,1,9,0.11,11%,8.0,0.89,8,0,Gratuit,Gratuit,8.0,0.89
