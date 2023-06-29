@@ -1,24 +1,25 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Le Traqueur,The Stalker,9,9,1.0,100%,20.0,20.0,180,3,6.67,6.67,5.0,5.0
-Totem du Gardien,Guardian Totem,9,9,1.0,100%,16.78,16.78,151,3,5.59,5.59,4.2,4.2
-Vision Céleste,Heavenly Vision,6,9,0.67,67%,20.0,13.33,120,2,10.0,6.67,6.67,4.44
-Le Visionnaire,The Visionary,6,9,0.67,67%,18.0,12.0,108,2,9.0,6.0,6.0,4.0
-Totem Équivalent,Equivalent Totem,9,9,1.0,100%,11.11,11.11,100,3,3.7,3.7,2.78,2.78
-Armure d'Obsidienne,Obsidian Battle Plate,5,9,0.56,56%,20.0,11.11,100,2,10.0,5.55,6.67,3.7
-Aveuglement,Incapacitor,9,9,1.0,100%,9.0,9.0,81,3,3.0,3.0,2.25,2.25
-Œil de Lynx,Hawk's Eye,9,9,1.0,100%,8.0,8.0,72,0,Gratuit,Gratuit,8.0,8.0
-Esprit omniprésent,Omnipresent Spirit,4,9,0.44,44%,18.0,8.0,72,2,9.0,4.0,6.0,2.67
-Esprit de l'Écuyer,Spirit of the Squire,8,9,0.89,89%,7.88,7.0,63,3,2.63,2.33,1.97,1.75
-Bâton de Conquête,Conquering Staff,2,9,0.22,22%,24.0,5.33,48,2,12.0,2.67,8.0,1.78
-Marteau Collecteur,Collecting Hammer,3,9,0.33,33%,14.0,4.67,42,2,7.0,2.33,4.67,1.56
-Le Marionnettiste,The Puppeteer,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
-Bâton du Conquérant,Staff of Conquered Worlds,2,9,0.22,22%,15.0,3.33,30,0,Gratuit,Gratuit,15.0,3.33
-Amulette Omnisciente,Omnipresent Amulet,2,9,0.22,22%,15.0,3.33,30,0,Gratuit,Gratuit,15.0,3.33
-Coup de Mort,Death Helper,2,9,0.22,22%,13.0,2.89,26,1,13.0,2.89,6.5,1.45
-Assistance Divine,Sacred Help,1,9,0.11,11%,20.0,2.22,20,2,10.0,1.11,6.67,0.74
-Lame Affutée,Sharp Blade,3,9,0.33,33%,6.0,2.0,18,3,2.0,0.67,1.5,0.5
-Marteleur précis,Precise Hammer,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
-Sabre Versatile,Versatil Saber,1,9,0.11,11%,18.0,2.0,18,1,18.0,2.0,9.0,1.0
-Force Divine,Divine Impetu,1,9,0.11,11%,15.0,1.67,15,0,Gratuit,Gratuit,15.0,1.67
-Faux,Scythe,8,9,0.89,89%,1.38,1.22,11,3,0.46,0.41,0.34,0.3
-Danse Macabre,Dance of Death,1,9,0.11,11%,10.0,1.11,10,1,10.0,1.11,5.0,0.56
+Le Traqueur,The Stalker,10,10,1.0,100%,20.0,20.0,200,3,6.67,6.67,5.0,5.0
+Totem du Gardien,Guardian Totem,10,10,1.0,100%,16.3,16.3,163,3,5.43,5.43,4.08,4.08
+Vision Céleste,Heavenly Vision,6,10,0.6,60%,20.0,12.0,120,2,10.0,6.0,6.67,4.0
+Armure d'Obsidienne,Obsidian Battle Plate,6,10,0.6,60%,20.0,12.0,120,2,10.0,6.0,6.67,4.0
+Totem Équivalent,Equivalent Totem,10,10,1.0,100%,11.1,11.1,111,3,3.7,3.7,2.77,2.77
+Le Visionnaire,The Visionary,6,10,0.6,60%,18.0,10.8,108,2,9.0,5.4,6.0,3.6
+Aveuglement,Incapacitor,10,10,1.0,100%,8.7,8.7,87,3,2.9,2.9,2.17,2.17
+Œil de Lynx,Hawk's Eye,10,10,1.0,100%,8.0,8.0,80,0,Gratuit,Gratuit,8.0,8.0
+Esprit de l'Écuyer,Spirit of the Squire,9,10,0.9,90%,8.33,7.5,75,3,2.78,2.5,2.08,1.88
+Esprit omniprésent,Omnipresent Spirit,4,10,0.4,40%,18.0,7.2,72,2,9.0,3.6,6.0,2.4
+Bâton de Conquête,Conquering Staff,2,10,0.2,20%,24.0,4.8,48,2,12.0,2.4,8.0,1.6
+Amulette Omnisciente,Omnipresent Amulet,3,10,0.3,30%,15.0,4.5,45,0,Gratuit,Gratuit,15.0,4.5
+Marteau Collecteur,Collecting Hammer,3,10,0.3,30%,14.0,4.2,42,2,7.0,2.1,4.67,1.4
+Le Marionnettiste,The Puppeteer,2,10,0.2,20%,20.0,4.0,40,2,10.0,2.0,6.67,1.33
+Coup de Mort,Death Helper,3,10,0.3,30%,13.0,3.9,39,1,13.0,3.9,6.5,1.95
+Sabre Versatile,Versatil Saber,2,10,0.2,20%,18.0,3.6,36,1,18.0,3.6,9.0,1.8
+Bâton du Conquérant,Staff of Conquered Worlds,2,10,0.2,20%,15.0,3.0,30,0,Gratuit,Gratuit,15.0,3.0
+Armure d'Immortel,Immortal Breastplate,1,10,0.1,10%,20.0,2.0,20,1,20.0,2.0,10.0,1.0
+Assistance Divine,Sacred Help,1,10,0.1,10%,20.0,2.0,20,2,10.0,1.0,6.67,0.67
+Lame Affutée,Sharp Blade,3,10,0.3,30%,6.0,1.8,18,3,2.0,0.6,1.5,0.45
+Marteleur précis,Precise Hammer,1,10,0.1,10%,18.0,1.8,18,1,18.0,1.8,9.0,0.9
+Force Divine,Divine Impetu,1,10,0.1,10%,15.0,1.5,15,0,Gratuit,Gratuit,15.0,1.5
+Faux,Scythe,9,10,0.9,90%,1.33,1.2,12,3,0.44,0.4,0.33,0.3
+Danse Macabre,Dance of Death,1,10,0.1,10%,10.0,1.0,10,1,10.0,1.0,5.0,0.5
