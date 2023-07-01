@@ -1,14 +1,14 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,5,6,0.83,83%,25.0,20.83,125,2,12.5,10.41,8.33,6.94
-Masque du Baron,Baron' s Mask,3,6,0.5,50%,25.0,12.5,75,2,12.5,6.25,8.33,4.17
-L'Oeil du Héraut,Eye of the Void,6,6,1.0,100%,12.0,12.0,72,0,Gratuit,Gratuit,12.0,12.0
-Perce-Écailles,Scale Tearer,3,6,0.5,50%,23.33,11.67,70,3,7.78,3.89,5.83,2.92
-Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,11.0,11.0,66,2,5.5,5.5,3.67,3.67
-Chasse au Gros,Big Worm Hunter,4,6,0.67,67%,15.0,10.0,60,3,5.0,3.33,3.75,2.5
-Marteau Conquérant,Conquest Hammer,2,6,0.33,33%,22.0,7.33,44,3,7.33,2.44,5.5,1.83
-Sceau Profanateur,Seal of Desecration,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33,6.67,2.22
-Première Ligne,First Line,5,6,0.83,83%,8.0,6.67,40,0,Gratuit,Gratuit,8.0,6.67
-Gardien Sous-terrain,Underworld Guardian,2,6,0.33,33%,18.0,6.0,36,1,18.0,6.0,9.0,3.0
-Écailles Magiques,Magic Scales,1,6,0.17,17%,25.0,4.17,25,2,12.5,2.08,8.33,1.39
-Âme de Dragon Élémentaire,Elemental Dragon Soul,1,6,0.17,17%,25.0,4.17,25,1,25.0,4.17,12.5,2.08
-Protection Royale,Royal Protector,1,6,0.17,17%,17.0,2.83,17,1,17.0,2.83,8.5,1.42
+Esprit de la Faille,Spirit of the Rift,5,7,0.71,71%,25.0,17.86,125,2,12.5,8.93,8.33,5.95
+Perce-Écailles,Scale Tearer,4,7,0.57,57%,22.75,13.0,91,3,7.58,4.33,5.69,3.25
+Masque du Baron,Baron' s Mask,3,7,0.43,43%,25.0,10.71,75,2,12.5,5.36,8.33,3.57
+L'Oeil du Héraut,Eye of the Void,6,7,0.86,86%,12.0,10.29,72,0,Gratuit,Gratuit,12.0,10.29
+Marteau Dévastateur,Destroyer Hammer,7,7,1.0,100%,9.71,9.71,68,2,4.86,4.86,3.24,3.24
+Chasse au Gros,Big Worm Hunter,4,7,0.57,57%,15.0,8.57,60,3,5.0,2.86,3.75,2.14
+Écailles Magiques,Magic Scales,2,7,0.29,29%,25.0,7.14,50,2,12.5,3.57,8.33,2.38
+Marteau Conquérant,Conquest Hammer,2,7,0.29,29%,22.0,6.29,44,3,7.33,2.1,5.5,1.57
+Sceau Profanateur,Seal of Desecration,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
+Première Ligne,First Line,5,7,0.71,71%,8.0,5.71,40,0,Gratuit,Gratuit,8.0,5.71
+Gardien Sous-terrain,Underworld Guardian,2,7,0.29,29%,18.0,5.14,36,1,18.0,5.14,9.0,2.57
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,7,0.14,14%,25.0,3.57,25,1,25.0,3.57,12.5,1.78
+Protection Royale,Royal Protector,1,7,0.14,14%,17.0,2.43,17,1,17.0,2.43,8.5,1.22

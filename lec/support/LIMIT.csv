@@ -1,17 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem du Gardien,Guardian Totem,6,6,1.0,100%,24.83,24.83,149,3,8.28,8.28,6.21,6.21
-Le Traqueur,The Stalker,6,6,1.0,100%,20.0,20.0,120,3,6.67,6.67,5.0,5.0
-Le Visionnaire,The Visionary,6,6,1.0,100%,18.0,18.0,108,2,9.0,9.0,6.0,6.0
-Vision Céleste,Heavenly Vision,5,6,0.83,83%,20.0,16.67,100,2,10.0,8.34,6.67,5.56
-Esprit de l'Écuyer,Spirit of the Squire,6,6,1.0,100%,14.5,14.5,87,3,4.83,4.83,3.62,3.62
-Totem Équivalent,Equivalent Totem,6,6,1.0,100%,13.67,13.67,82,3,4.56,4.56,3.42,3.42
-Coup de Mort,Death Helper,5,6,0.83,83%,13.0,10.83,65,1,13.0,10.83,6.5,5.42
-Œil de Lynx,Hawk's Eye,6,6,1.0,100%,8.0,8.0,48,0,Gratuit,Gratuit,8.0,8.0
-Amulette Omnisciente,Omnipresent Amulet,3,6,0.5,50%,15.0,7.5,45,0,Gratuit,Gratuit,15.0,7.5
-Aveuglement,Incapacitor,5,6,0.83,83%,7.8,6.5,39,3,2.6,2.17,1.95,1.62
-Esprit omniprésent,Omnipresent Spirit,2,6,0.33,33%,18.0,6.0,36,2,9.0,3.0,6.0,2.0
-Bâton de Conquête,Conquering Staff,1,6,0.17,17%,24.0,4.0,24,2,12.0,2.0,8.0,1.33
-Armure d'Obsidienne,Obsidian Battle Plate,1,6,0.17,17%,20.0,3.33,20,2,10.0,1.67,6.67,1.11
-Lame Affutée,Sharp Blade,4,6,0.67,67%,3.75,2.5,15,3,1.25,0.83,0.94,0.62
-Marteau Collecteur,Collecting Hammer,1,6,0.17,17%,7.0,1.17,7,2,3.5,0.58,2.33,0.39
-Faux,Scythe,5,6,0.83,83%,1.4,1.17,7,3,0.47,0.39,0.35,0.29
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,23.29,23.29,163,3,7.76,7.76,5.82,5.82
+Le Traqueur,The Stalker,7,7,1.0,100%,20.0,20.0,140,3,6.67,6.67,5.0,5.0
+Le Visionnaire,The Visionary,6,7,0.86,86%,18.0,15.43,108,2,9.0,7.71,6.0,5.14
+Vision Céleste,Heavenly Vision,5,7,0.71,71%,20.0,14.29,100,2,10.0,7.14,6.67,4.76
+Totem Équivalent,Equivalent Totem,7,7,1.0,100%,13.29,13.29,93,3,4.43,4.43,3.32,3.32
+Esprit de l'Écuyer,Spirit of the Squire,7,7,1.0,100%,12.86,12.86,90,3,4.29,4.29,3.21,3.21
+Coup de Mort,Death Helper,5,7,0.71,71%,13.0,9.29,65,1,13.0,9.29,6.5,4.64
+Œil de Lynx,Hawk's Eye,7,7,1.0,100%,8.0,8.0,56,0,Gratuit,Gratuit,8.0,8.0
+Amulette Omnisciente,Omnipresent Amulet,3,7,0.43,43%,15.0,6.43,45,0,Gratuit,Gratuit,15.0,6.43
+Aveuglement,Incapacitor,6,7,0.86,86%,7.5,6.43,45,3,2.5,2.14,1.88,1.61
+Armure d'Obsidienne,Obsidian Battle Plate,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
+Esprit omniprésent,Omnipresent Spirit,2,7,0.29,29%,18.0,5.14,36,2,9.0,2.57,6.0,1.71
+Bâton de Conquête,Conquering Staff,1,7,0.14,14%,24.0,3.43,24,2,12.0,1.72,8.0,1.14
+Lame Affutée,Sharp Blade,5,7,0.71,71%,3.6,2.57,18,3,1.2,0.86,0.9,0.64
+Faux,Scythe,6,7,0.86,86%,1.5,1.29,9,3,0.5,0.43,0.38,0.32
+Marteau Collecteur,Collecting Hammer,1,7,0.14,14%,7.0,1.0,7,2,3.5,0.5,2.33,0.33

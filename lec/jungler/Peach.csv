@@ -1,27 +1,27 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,6,6,1.0,100%,20.0,20.0,120,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,6,6,1.0,100%,19.0,19.0,114,3,6.33,6.33,4.75,4.75
-Être de Lumière,Being of Light,5,6,0.83,83%,20.0,16.67,100,1,20.0,16.67,10.0,8.34
-Aveuglement,Incapacitor,6,6,1.0,100%,16.0,16.0,96,3,5.33,5.33,4.0,4.0
-Bâton de Conquête,Conquering Staff,4,6,0.67,67%,24.0,16.0,96,2,12.0,8.0,8.0,5.33
-Totem Équivalent,Equivalent Totem,6,6,1.0,100%,15.83,15.83,95,3,5.28,5.28,3.96,3.96
-Pillard Féroce,Savage Looter,4,6,0.67,67%,20.0,13.33,80,1,20.0,13.33,10.0,6.67
-Esprit de l'Écuyer,Spirit of the Squire,6,6,1.0,100%,12.5,12.5,75,3,4.17,4.17,3.12,3.12
-Chasseur de Bêtes,Beast Hunter,4,6,0.67,67%,18.0,12.0,72,2,9.0,6.0,6.0,4.0
-Faux,Scythe,6,6,1.0,100%,10.5,10.5,63,3,3.5,3.5,2.62,2.62
-Décharge Élémentaire,Elemental Discharge,3,6,0.5,50%,20.0,10.0,60,1,20.0,10.0,10.0,5.0
-Mental d'Acier,Steel Aura,3,6,0.5,50%,18.0,9.0,54,2,9.0,4.5,6.0,3.0
-Coup de Mort,Death Helper,4,6,0.67,67%,13.0,8.67,52,1,13.0,8.67,6.5,4.33
-Esprit Sauvage,Wild Spirit,6,6,1.0,100%,8.0,8.0,48,0,Gratuit,Gratuit,8.0,8.0
-Bâton du Conquérant,Staff of Conquered Worlds,3,6,0.5,50%,15.0,7.5,45,0,Gratuit,Gratuit,15.0,7.5
-Armure d'Obsidienne,Obsidian Battle Plate,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33,6.67,2.22
-Le Marionnettiste,The Puppeteer,2,6,0.33,33%,20.0,6.67,40,2,10.0,3.33,6.67,2.22
-Œil de Lynx,Hawk's Eye,4,6,0.67,67%,8.0,5.33,32,0,Gratuit,Gratuit,8.0,5.33
-Hache Frénétique,Berseker Ax,2,6,0.33,33%,16.0,5.33,32,2,8.0,2.67,5.33,1.78
-Amulette Omnisciente,Omnipresent Amulet,2,6,0.33,33%,15.0,5.0,30,0,Gratuit,Gratuit,15.0,5.0
-Lame Affutée,Sharp Blade,5,6,0.83,83%,4.8,4.0,24,3,1.6,1.33,1.2,1.0
-Marteau Collecteur,Collecting Hammer,2,6,0.33,33%,10.5,3.5,21,2,5.25,1.75,3.5,1.17
-Totem du Gardien,Guardian Totem,6,6,1.0,100%,3.17,3.17,19,3,1.06,1.06,0.79,0.79
-Sabre Versatile,Versatil Saber,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
-Marteleur précis,Precise Hammer,1,6,0.17,17%,18.0,3.0,18,1,18.0,3.0,9.0,1.5
-Esprit omniprésent,Omnipresent Spirit,1,6,0.17,17%,18.0,3.0,18,2,9.0,1.5,6.0,1.0
+Assistance Divine,Sacred Help,7,7,1.0,100%,20.0,20.0,140,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,7,7,1.0,100%,18.14,18.14,127,3,6.05,6.05,4.54,4.54
+Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.29,15.29,107,3,5.1,5.1,3.82,3.82
+Aveuglement,Incapacitor,7,7,1.0,100%,15.0,15.0,105,3,5.0,5.0,3.75,3.75
+Être de Lumière,Being of Light,5,7,0.71,71%,20.0,14.29,100,1,20.0,14.29,10.0,7.14
+Bâton de Conquête,Conquering Staff,4,7,0.57,57%,24.0,13.71,96,2,12.0,6.86,8.0,4.57
+Pillard Féroce,Savage Looter,4,7,0.57,57%,20.0,11.43,80,1,20.0,11.43,10.0,5.71
+Esprit de l'Écuyer,Spirit of the Squire,6,7,0.86,86%,12.5,10.71,75,3,4.17,3.57,3.12,2.68
+Mental d'Acier,Steel Aura,4,7,0.57,57%,18.0,10.29,72,2,9.0,5.14,6.0,3.43
+Chasseur de Bêtes,Beast Hunter,4,7,0.57,57%,18.0,10.29,72,2,9.0,5.14,6.0,3.43
+Faux,Scythe,7,7,1.0,100%,10.0,10.0,70,3,3.33,3.33,2.5,2.5
+Le Marionnettiste,The Puppeteer,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29,6.67,2.86
+Décharge Élémentaire,Elemental Discharge,3,7,0.43,43%,20.0,8.57,60,1,20.0,8.57,10.0,4.29
+Coup de Mort,Death Helper,4,7,0.57,57%,13.0,7.43,52,1,13.0,7.43,6.5,3.71
+Esprit Sauvage,Wild Spirit,6,7,0.86,86%,8.0,6.86,48,0,Gratuit,Gratuit,8.0,6.86
+Bâton du Conquérant,Staff of Conquered Worlds,3,7,0.43,43%,15.0,6.43,45,0,Gratuit,Gratuit,15.0,6.43
+Armure d'Obsidienne,Obsidian Battle Plate,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
+Œil de Lynx,Hawk's Eye,5,7,0.71,71%,8.0,5.71,40,0,Gratuit,Gratuit,8.0,5.71
+Hache Frénétique,Berseker Ax,2,7,0.29,29%,16.0,4.57,32,2,8.0,2.29,5.33,1.52
+Amulette Omnisciente,Omnipresent Amulet,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
+Lame Affutée,Sharp Blade,6,7,0.86,86%,4.5,3.86,27,3,1.5,1.29,1.12,0.96
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,3.71,3.71,26,3,1.24,1.24,0.93,0.93
+Marteau Collecteur,Collecting Hammer,2,7,0.29,29%,10.5,3.0,21,2,5.25,1.5,3.5,1.0
+Sabre Versatile,Versatil Saber,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
+Marteleur précis,Precise Hammer,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
+Esprit omniprésent,Omnipresent Spirit,1,7,0.14,14%,18.0,2.57,18,2,9.0,1.28,6.0,0.86

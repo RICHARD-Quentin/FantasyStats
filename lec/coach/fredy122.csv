@@ -1,12 +1,15 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Perce-Écailles,Scale Tearer,4,6,0.67,67%,17.5,11.67,70,3,5.83,3.89,4.38,2.92
-Marteau Dévastateur,Destroyer Hammer,6,6,1.0,100%,10.67,10.67,64,2,5.33,5.33,3.56,3.56
-Esprit de la Faille,Spirit of the Rift,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
-Écailles Magiques,Magic Scales,2,6,0.33,33%,25.0,8.33,50,2,12.5,4.17,8.33,2.78
-L'Oeil du Héraut,Eye of the Void,4,6,0.67,67%,11.25,7.5,45,0,Gratuit,Gratuit,11.25,7.5
-Chasse au Gros,Big Worm Hunter,3,6,0.5,50%,15.0,7.5,45,3,5.0,2.5,3.75,1.88
-Marteau Conquérant,Conquest Hammer,2,6,0.33,33%,22.0,7.33,44,3,7.33,2.44,5.5,1.83
-Protection Royale,Royal Protector,2,6,0.33,33%,17.0,5.67,34,1,17.0,5.67,8.5,2.83
-Sceau Profanateur,Seal of Desecration,2,6,0.33,33%,16.0,5.33,32,2,8.0,2.67,5.33,1.78
-Première Ligne,First Line,4,6,0.67,67%,8.0,5.33,32,0,Gratuit,Gratuit,8.0,5.33
-Poigne d'Or,Golden Force,1,6,0.17,17%,20.0,3.33,20,1,20.0,3.33,10.0,1.67
+Perce-Écailles,Scale Tearer,5,7,0.71,71%,18.2,13.0,91,3,6.07,4.33,4.55,3.25
+Marteau Dévastateur,Destroyer Hammer,7,7,1.0,100%,12.29,12.29,86,2,6.14,6.14,4.1,4.1
+Écailles Magiques,Magic Scales,3,7,0.43,43%,25.0,10.71,75,2,12.5,5.36,8.33,3.57
+Marteau Conquérant,Conquest Hammer,3,7,0.43,43%,22.0,9.43,66,3,7.33,3.14,5.5,2.36
+Chasse au Gros,Big Worm Hunter,4,7,0.57,57%,15.0,8.57,60,3,5.0,2.86,3.75,2.14
+Sceau Profanateur,Seal of Desecration,3,7,0.43,43%,18.67,8.0,56,2,9.34,4.0,6.22,2.67
+Protection Royale,Royal Protector,3,7,0.43,43%,17.0,7.29,51,1,17.0,7.29,8.5,3.65
+Esprit de la Faille,Spirit of the Rift,2,7,0.29,29%,25.0,7.14,50,2,12.5,3.57,8.33,2.38
+L'Oeil du Héraut,Eye of the Void,4,7,0.57,57%,11.25,6.43,45,0,Gratuit,Gratuit,11.25,6.43
+Première Ligne,First Line,5,7,0.71,71%,8.0,5.71,40,0,Gratuit,Gratuit,8.0,5.71
+Poigne d'Or,Golden Force,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
+Masque du Baron,Baron' s Mask,1,7,0.14,14%,25.0,3.57,25,2,12.5,1.78,8.33,1.19
+Gardien Sous-terrain,Underworld Guardian,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
+Frappes Éclair,Light Swords,1,7,0.14,14%,12.0,1.71,12,0,Gratuit,Gratuit,12.0,1.71
