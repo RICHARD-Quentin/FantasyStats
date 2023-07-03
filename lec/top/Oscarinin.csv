@@ -1,28 +1,28 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Totem Équivalent,Equivalent Totem,8,8,1.0,100%,16.25,16.25,130,3,5.42,5.42,4.06,4.06
-Faux,Scythe,8,8,1.0,100%,12.75,12.75,102,3,4.25,4.25,3.19,3.19
-Armure d'Obsidienne,Obsidian Battle Plate,5,8,0.62,62%,20.0,12.5,100,2,10.0,6.25,6.67,4.17
-Faux Parfaite,Perfect Scythe,6,8,0.75,75%,15.0,11.25,90,0,Gratuit,Gratuit,15.0,11.25
-Esprit de l'Écuyer,Spirit of the Squire,8,8,1.0,100%,10.12,10.12,81,3,3.37,3.37,2.53,2.53
-Sabre Versatile,Versatil Saber,4,8,0.5,50%,18.0,9.0,72,1,18.0,9.0,9.0,4.5
-Marteau Collecteur,Collecting Hammer,4,8,0.5,50%,15.75,7.88,63,2,7.88,3.94,5.25,2.63
-Lame Affutée,Sharp Blade,8,8,1.0,100%,7.12,7.12,57,3,2.37,2.37,1.78,1.78
-Marteleur précis,Precise Hammer,3,8,0.38,38%,18.0,6.75,54,1,18.0,6.75,9.0,3.38
-Coup de Mort,Death Helper,4,8,0.5,50%,13.0,6.5,52,1,13.0,6.5,6.5,3.25
-Explosion Arcanique,Arcane Explosive,4,8,0.5,50%,12.0,6.0,48,1,12.0,6.0,6.0,3.0
-Armure d'Immortel,Immortal Breastplate,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
-Le Marionnettiste,The Puppeteer,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
-Assistance Divine,Sacred Help,2,8,0.25,25%,20.0,5.0,40,2,10.0,2.5,6.67,1.67
-Chasseur d'Âmes,Soul Hunter,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
-Aveuglement,Incapacitor,8,8,1.0,100%,4.88,4.88,39,3,1.63,1.63,1.22,1.22
-Totem du Gardien,Guardian Totem,8,8,1.0,100%,4.25,4.25,34,3,1.42,1.42,1.06,1.06
-Hache Frénétique,Berseker Ax,2,8,0.25,25%,16.0,4.0,32,2,8.0,2.0,5.33,1.33
-Soif de Sang,Thirsty Dagger,2,8,0.25,25%,15.0,3.75,30,0,Gratuit,Gratuit,15.0,3.75
-Elan de Fureur,Rampage Momentum,2,8,0.25,25%,15.0,3.75,30,1,15.0,3.75,7.5,1.88
-Danse Macabre,Dance of Death,3,8,0.38,38%,10.0,3.75,30,1,10.0,3.75,5.0,1.88
-Ascension Divine,Divine Ascent,1,8,0.12,12%,25.0,3.12,25,3,8.33,1.04,6.25,0.78
-Faux Assoiffées,Thirsty Scythes,1,8,0.12,12%,25.0,3.12,25,3,8.33,1.04,6.25,0.78
-Gantelet Impérieux,Imperious Gauntlet,1,8,0.12,12%,22.0,2.75,22,1,22.0,2.75,11.0,1.38
-Épée Obscure,Swords of Darkness,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
-Être de Lumière,Being of Light,1,8,0.12,12%,20.0,2.5,20,1,20.0,2.5,10.0,1.25
-Griffes Sauvages,Wild Claw,2,8,0.25,25%,1.5,0.38,3,3,0.5,0.13,0.38,0.1
+Totem Équivalent,Equivalent Totem,9,9,1.0,100%,16.22,16.22,146,3,5.41,5.41,4.05,4.05
+Faux,Scythe,9,9,1.0,100%,12.89,12.89,116,3,4.3,4.3,3.22,3.22
+Armure d'Obsidienne,Obsidian Battle Plate,5,9,0.56,56%,20.0,11.11,100,2,10.0,5.55,6.67,3.7
+Faux Parfaite,Perfect Scythe,6,9,0.67,67%,15.0,10.0,90,0,Gratuit,Gratuit,15.0,10.0
+Marteau Collecteur,Collecting Hammer,5,9,0.56,56%,16.8,9.33,84,2,8.4,4.67,5.6,3.11
+Esprit de l'Écuyer,Spirit of the Squire,9,9,1.0,100%,9.33,9.33,84,3,3.11,3.11,2.33,2.33
+Sabre Versatile,Versatil Saber,4,9,0.44,44%,18.0,8.0,72,1,18.0,8.0,9.0,4.0
+Assistance Divine,Sacred Help,3,9,0.33,33%,20.0,6.67,60,2,10.0,3.33,6.67,2.22
+Lame Affutée,Sharp Blade,8,9,0.89,89%,7.12,6.33,57,3,2.37,2.11,1.78,1.58
+Marteleur précis,Precise Hammer,3,9,0.33,33%,18.0,6.0,54,1,18.0,6.0,9.0,3.0
+Coup de Mort,Death Helper,4,9,0.44,44%,13.0,5.78,52,1,13.0,5.78,6.5,2.89
+Explosion Arcanique,Arcane Explosive,4,9,0.44,44%,12.0,5.33,48,1,12.0,5.33,6.0,2.67
+Aveuglement,Incapacitor,9,9,1.0,100%,4.67,4.67,42,3,1.56,1.56,1.17,1.17
+Armure d'Immortel,Immortal Breastplate,2,9,0.22,22%,20.0,4.44,40,1,20.0,4.44,10.0,2.22
+Le Marionnettiste,The Puppeteer,2,9,0.22,22%,20.0,4.44,40,2,10.0,2.22,6.67,1.48
+Chasseur d'Âmes,Soul Hunter,2,9,0.22,22%,20.0,4.44,40,1,20.0,4.44,10.0,2.22
+Totem du Gardien,Guardian Totem,9,9,1.0,100%,4.33,4.33,39,3,1.44,1.44,1.08,1.08
+Hache Frénétique,Berseker Ax,2,9,0.22,22%,16.0,3.56,32,2,8.0,1.78,5.33,1.19
+Elan de Fureur,Rampage Momentum,2,9,0.22,22%,15.0,3.33,30,1,15.0,3.33,7.5,1.67
+Soif de Sang,Thirsty Dagger,2,9,0.22,22%,15.0,3.33,30,0,Gratuit,Gratuit,15.0,3.33
+Danse Macabre,Dance of Death,3,9,0.33,33%,10.0,3.33,30,1,10.0,3.33,5.0,1.67
+Ascension Divine,Divine Ascent,1,9,0.11,11%,25.0,2.78,25,3,8.33,0.93,6.25,0.69
+Faux Assoiffées,Thirsty Scythes,1,9,0.11,11%,25.0,2.78,25,3,8.33,0.93,6.25,0.69
+Gantelet Impérieux,Imperious Gauntlet,1,9,0.11,11%,22.0,2.44,22,1,22.0,2.44,11.0,1.22
+Épée Obscure,Swords of Darkness,1,9,0.11,11%,20.0,2.22,20,1,20.0,2.22,10.0,1.11
+Être de Lumière,Being of Light,1,9,0.11,11%,20.0,2.22,20,1,20.0,2.22,10.0,1.11
+Griffes Sauvages,Wild Claw,3,9,0.33,33%,1.33,0.44,4,3,0.44,0.15,0.33,0.11
