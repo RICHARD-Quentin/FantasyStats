@@ -1,37 +1,38 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,12,12,1.0,100%,20.0,20.0,240,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,12,12,1.0,100%,16.5,16.5,198,3,5.5,5.5,4.12,4.12
-Pillard Féroce,Savage Looter,9,12,0.75,75%,20.0,15.0,180,1,20.0,15.0,10.0,7.5
-Totem Équivalent,Equivalent Totem,12,12,1.0,100%,14.83,14.83,178,3,4.94,4.94,3.71,3.71
-Marteau Collecteur,Collecting Hammer,8,12,0.67,67%,19.25,12.83,154,2,9.62,6.42,6.42,4.28
-Être de Lumière,Being of Light,7,12,0.58,58%,20.0,11.67,140,1,20.0,11.67,10.0,5.83
-Lame Affutée,Sharp Blade,12,12,1.0,100%,11.5,11.5,138,3,3.83,3.83,2.88,2.88
-Esprit de l'Écuyer,Spirit of the Squire,11,12,0.92,92%,10.91,10.0,120,3,3.64,3.33,2.73,2.5
-Faux,Scythe,12,12,1.0,100%,9.83,9.83,118,3,3.28,3.28,2.46,2.46
-Aveuglement,Incapacitor,12,12,1.0,100%,9.25,9.25,111,3,3.08,3.08,2.31,2.31
-Mental d'Acier,Steel Aura,6,12,0.5,50%,18.0,9.0,108,2,9.0,4.5,6.0,3.0
-Coup de Mort,Death Helper,7,12,0.58,58%,13.0,7.58,91,1,13.0,7.58,6.5,3.79
-Chasseur de Bêtes,Beast Hunter,5,12,0.42,42%,18.0,7.5,90,2,9.0,3.75,6.0,2.5
-Esprit omniprésent,Omnipresent Spirit,4,12,0.33,33%,18.0,6.0,72,2,9.0,3.0,6.0,2.0
-Danse Macabre,Dance of Death,7,12,0.58,58%,10.0,5.83,70,1,10.0,5.83,5.0,2.92
-Esprit Sauvage,Wild Spirit,8,12,0.67,67%,8.0,5.33,64,0,Gratuit,Gratuit,8.0,5.33
-Soif de Sang,Thirsty Dagger,4,12,0.33,33%,15.0,5.0,60,0,Gratuit,Gratuit,15.0,5.0
-Décharge Élémentaire,Elemental Discharge,3,12,0.25,25%,20.0,5.0,60,1,20.0,5.0,10.0,2.5
-Totem du Gardien,Guardian Totem,12,12,1.0,100%,4.67,4.67,56,3,1.56,1.56,1.17,1.17
-Œil de Lynx,Hawk's Eye,7,12,0.58,58%,8.0,4.67,56,0,Gratuit,Gratuit,8.0,4.67
-Marteleur précis,Precise Hammer,3,12,0.25,25%,18.0,4.5,54,1,18.0,4.5,9.0,2.25
-Bâton de Conquête,Conquering Staff,2,12,0.17,17%,24.0,4.0,48,2,12.0,2.0,8.0,1.33
-Bâton du Conquérant,Staff of Conquered Worlds,3,12,0.25,25%,15.0,3.75,45,0,Gratuit,Gratuit,15.0,3.75
-Armure d'Obsidienne,Obsidian Battle Plate,2,12,0.17,17%,20.0,3.33,40,2,10.0,1.67,6.67,1.11
-Épée Obscure,Swords of Darkness,2,12,0.17,17%,20.0,3.33,40,1,20.0,3.33,10.0,1.67
-Chasseur d'Âmes,Soul Hunter,2,12,0.17,17%,20.0,3.33,40,1,20.0,3.33,10.0,1.67
-Parchemin Secret,Secret Scroll,2,12,0.17,17%,18.0,3.0,36,2,9.0,1.5,6.0,1.0
-Sabre Versatile,Versatil Saber,2,12,0.17,17%,18.0,3.0,36,1,18.0,3.0,9.0,1.5
-Hache Frénétique,Berseker Ax,2,12,0.17,17%,16.0,2.67,32,2,8.0,1.33,5.33,0.89
-Triple Météore,Trimeteor,1,12,0.08,8%,30.0,2.5,30,0,Gratuit,Gratuit,30.0,2.5
-Elan de Fureur,Rampage Momentum,2,12,0.17,17%,15.0,2.5,30,1,15.0,2.5,7.5,1.25
-Enchaînement Éclair,Unstoppable Lightning,1,12,0.08,8%,22.0,1.83,22,2,11.0,0.92,7.33,0.61
-Le Marionnettiste,The Puppeteer,1,12,0.08,8%,20.0,1.67,20,2,10.0,0.83,6.67,0.56
-Force Divine,Divine Impetu,1,12,0.08,8%,15.0,1.25,15,0,Gratuit,Gratuit,15.0,1.25
-Amulette Omnisciente,Omnipresent Amulet,1,12,0.08,8%,15.0,1.25,15,0,Gratuit,Gratuit,15.0,1.25
-Explosion Arcanique,Arcane Explosive,1,12,0.08,8%,12.0,1.0,12,1,12.0,1.0,6.0,0.5
+Assistance Divine,Sacred Help,13,13,1.0,100%,20.0,20.0,260,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,13,13,1.0,100%,16.85,16.85,219,3,5.62,5.62,4.21,4.21
+Pillard Féroce,Savage Looter,10,13,0.77,77%,20.0,15.38,200,1,20.0,15.38,10.0,7.69
+Totem Équivalent,Equivalent Totem,13,13,1.0,100%,15.0,15.0,195,3,5.0,5.0,3.75,3.75
+Lame Affutée,Sharp Blade,13,13,1.0,100%,12.92,12.92,168,3,4.31,4.31,3.23,3.23
+Marteau Collecteur,Collecting Hammer,8,13,0.62,62%,19.25,11.85,154,2,9.62,5.92,6.42,3.95
+Être de Lumière,Being of Light,7,13,0.54,54%,20.0,10.77,140,1,20.0,10.77,10.0,5.38
+Esprit de l'Écuyer,Spirit of the Squire,12,13,0.92,92%,11.0,10.15,132,3,3.67,3.38,2.75,2.54
+Faux,Scythe,13,13,1.0,100%,10.0,10.0,130,3,3.33,3.33,2.5,2.5
+Aveuglement,Incapacitor,13,13,1.0,100%,9.0,9.0,117,3,3.0,3.0,2.25,2.25
+Mental d'Acier,Steel Aura,6,13,0.46,46%,18.0,8.31,108,2,9.0,4.16,6.0,2.77
+Chasseur de Bêtes,Beast Hunter,6,13,0.46,46%,18.0,8.31,108,2,9.0,4.16,6.0,2.77
+Coup de Mort,Death Helper,8,13,0.62,62%,13.0,8.0,104,1,13.0,8.0,6.5,4.0
+Décharge Élémentaire,Elemental Discharge,4,13,0.31,31%,20.0,6.15,80,1,20.0,6.15,10.0,3.08
+Danse Macabre,Dance of Death,8,13,0.62,62%,10.0,6.15,80,1,10.0,6.15,5.0,3.08
+Soif de Sang,Thirsty Dagger,5,13,0.38,38%,15.0,5.77,75,0,Gratuit,Gratuit,15.0,5.77
+Esprit Sauvage,Wild Spirit,9,13,0.69,69%,8.0,5.54,72,0,Gratuit,Gratuit,8.0,5.54
+Esprit omniprésent,Omnipresent Spirit,4,13,0.31,31%,18.0,5.54,72,2,9.0,2.77,6.0,1.85
+Œil de Lynx,Hawk's Eye,8,13,0.62,62%,8.0,4.92,64,0,Gratuit,Gratuit,8.0,4.92
+Totem du Gardien,Guardian Totem,13,13,1.0,100%,4.92,4.92,64,3,1.64,1.64,1.23,1.23
+Marteleur précis,Precise Hammer,3,13,0.23,23%,18.0,4.15,54,1,18.0,4.15,9.0,2.08
+Sabre Versatile,Versatil Saber,3,13,0.23,23%,18.0,4.15,54,1,18.0,4.15,9.0,2.08
+Bâton de Conquête,Conquering Staff,2,13,0.15,15%,24.0,3.69,48,2,12.0,1.84,8.0,1.23
+Hache Frénétique,Berseker Ax,3,13,0.23,23%,16.0,3.69,48,2,8.0,1.84,5.33,1.23
+Bâton du Conquérant,Staff of Conquered Worlds,3,13,0.23,23%,15.0,3.46,45,0,Gratuit,Gratuit,15.0,3.46
+Elan de Fureur,Rampage Momentum,3,13,0.23,23%,15.0,3.46,45,1,15.0,3.46,7.5,1.73
+Enchaînement Éclair,Unstoppable Lightning,2,13,0.15,15%,22.0,3.38,44,2,11.0,1.69,7.33,1.13
+Armure d'Obsidienne,Obsidian Battle Plate,2,13,0.15,15%,20.0,3.08,40,2,10.0,1.54,6.67,1.03
+Chasseur d'Âmes,Soul Hunter,2,13,0.15,15%,20.0,3.08,40,1,20.0,3.08,10.0,1.54
+Épée Obscure,Swords of Darkness,2,13,0.15,15%,20.0,3.08,40,1,20.0,3.08,10.0,1.54
+Parchemin Secret,Secret Scroll,2,13,0.15,15%,18.0,2.77,36,2,9.0,1.39,6.0,0.92
+Triple Météore,Trimeteor,1,13,0.08,8%,30.0,2.31,30,0,Gratuit,Gratuit,30.0,2.31
+Le Marionnettiste,The Puppeteer,1,13,0.08,8%,20.0,1.54,20,2,10.0,0.77,6.67,0.51
+Épé Sainte,Holy Sword,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit,15.0,1.15
+Force Divine,Divine Impetu,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit,15.0,1.15
+Amulette Omnisciente,Omnipresent Amulet,1,13,0.08,8%,15.0,1.15,15,0,Gratuit,Gratuit,15.0,1.15
+Explosion Arcanique,Arcane Explosive,1,13,0.08,8%,12.0,0.92,12,1,12.0,0.92,6.0,0.46
