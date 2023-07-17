@@ -1,38 +1,39 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Assistance Divine,Sacred Help,11,11,1.0,100%,20.0,20.0,220,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,11,11,1.0,100%,18.18,18.18,200,3,6.06,6.06,4.54,4.54
-Totem Équivalent,Equivalent Totem,11,11,1.0,100%,15.27,15.27,168,3,5.09,5.09,3.82,3.82
-Aveuglement,Incapacitor,11,11,1.0,100%,14.73,14.73,162,3,4.91,4.91,3.68,3.68
-Être de Lumière,Being of Light,8,11,0.73,73%,20.0,14.55,160,1,20.0,14.55,10.0,7.28
-Bâton de Conquête,Conquering Staff,6,11,0.55,55%,24.0,13.09,144,2,12.0,6.54,8.0,4.36
-Esprit de l'Écuyer,Spirit of the Squire,10,11,0.91,91%,13.8,12.55,138,3,4.6,4.18,3.45,3.14
-Mental d'Acier,Steel Aura,7,11,0.64,64%,18.0,11.45,126,2,9.0,5.72,6.0,3.82
-Chasseur de Bêtes,Beast Hunter,7,11,0.64,64%,18.0,11.45,126,2,9.0,5.72,6.0,3.82
-Armure d'Obsidienne,Obsidian Battle Plate,6,11,0.55,55%,20.0,10.91,120,2,10.0,5.46,6.67,3.64
-Faux,Scythe,11,11,1.0,100%,10.27,10.27,113,3,3.42,3.42,2.57,2.57
-Coup de Mort,Death Helper,8,11,0.73,73%,13.0,9.45,104,1,13.0,9.45,6.5,4.72
-Pillard Féroce,Savage Looter,5,11,0.45,45%,20.0,9.09,100,1,20.0,9.09,10.0,4.54
-Décharge Élémentaire,Elemental Discharge,5,11,0.45,45%,20.0,9.09,100,1,20.0,9.09,10.0,4.54
-Marteau Collecteur,Collecting Hammer,6,11,0.55,55%,15.17,8.27,91,2,7.58,4.13,5.06,2.76
-Sabre Versatile,Versatil Saber,5,11,0.45,45%,18.0,8.18,90,1,18.0,8.18,9.0,4.09
-Esprit Sauvage,Wild Spirit,10,11,0.91,91%,8.0,7.27,80,0,Gratuit,Gratuit,8.0,7.27
-Le Marionnettiste,The Puppeteer,4,11,0.36,36%,20.0,7.27,80,2,10.0,3.63,6.67,2.42
-Lame Affutée,Sharp Blade,10,11,0.91,91%,7.5,6.82,75,3,2.5,2.27,1.88,1.71
-Esprit omniprésent,Omnipresent Spirit,4,11,0.36,36%,18.0,6.55,72,2,9.0,3.27,6.0,2.18
-Bâton du Conquérant,Staff of Conquered Worlds,4,11,0.36,36%,15.0,5.45,60,0,Gratuit,Gratuit,15.0,5.45
-Œil de Lynx,Hawk's Eye,7,11,0.64,64%,8.0,5.09,56,0,Gratuit,Gratuit,8.0,5.09
-Force Divine,Divine Impetu,3,11,0.27,27%,15.0,4.09,45,0,Gratuit,Gratuit,15.0,4.09
-Totem du Gardien,Guardian Totem,11,11,1.0,100%,3.73,3.73,41,3,1.24,1.24,0.93,0.93
-Aura Légendaire,Legend Aura,1,11,0.09,9%,40.0,3.64,40,3,13.33,1.21,10.0,0.91
-Armure d'Immortel,Immortal Breastplate,2,11,0.18,18%,20.0,3.64,40,1,20.0,3.64,10.0,1.82
-Marteleur précis,Precise Hammer,2,11,0.18,18%,18.0,3.27,36,1,18.0,3.27,9.0,1.64
-Hache Frénétique,Berseker Ax,2,11,0.18,18%,16.0,2.91,32,2,8.0,1.46,5.33,0.97
-Amulette Omnisciente,Omnipresent Amulet,2,11,0.18,18%,15.0,2.73,30,0,Gratuit,Gratuit,15.0,2.73
-Elan de Fureur,Rampage Momentum,2,11,0.18,18%,15.0,2.73,30,1,15.0,2.73,7.5,1.36
-Triple Météore,Trimeteor,1,11,0.09,9%,30.0,2.73,30,0,Gratuit,Gratuit,30.0,2.73
-Danse Macabre,Dance of Death,3,11,0.27,27%,10.0,2.73,30,1,10.0,2.73,5.0,1.36
-Enchaînement Éclair,Unstoppable Lightning,1,11,0.09,9%,22.0,2.0,22,2,11.0,1.0,7.33,0.67
-Épée Obscure,Swords of Darkness,1,11,0.09,9%,20.0,1.82,20,1,20.0,1.82,10.0,0.91
-Parchemin Secret,Secret Scroll,1,11,0.09,9%,18.0,1.64,18,2,9.0,0.82,6.0,0.55
-Épé Sainte,Holy Sword,1,11,0.09,9%,15.0,1.36,15,0,Gratuit,Gratuit,15.0,1.36
-Couronne du Roi Nain,Crown of the Dwarf King,1,11,0.09,9%,13.0,1.18,13,0,Gratuit,Gratuit,13.0,1.18
+Assistance Divine,Sacred Help,14,14,1.0,100%,20.0,20.0,280,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,14,14,1.0,100%,17.93,17.93,251,3,5.98,5.98,4.48,4.48
+Être de Lumière,Being of Light,11,14,0.79,79%,20.0,15.71,220,1,20.0,15.71,10.0,7.86
+Totem Équivalent,Equivalent Totem,14,14,1.0,100%,15.0,15.0,210,3,5.0,5.0,3.75,3.75
+Aveuglement,Incapacitor,14,14,1.0,100%,14.36,14.36,201,3,4.79,4.79,3.59,3.59
+Esprit de l'Écuyer,Spirit of the Squire,13,14,0.93,93%,13.85,12.86,180,3,4.62,4.29,3.46,3.21
+Mental d'Acier,Steel Aura,10,14,0.71,71%,18.0,12.86,180,2,9.0,6.43,6.0,4.29
+Chasseur de Bêtes,Beast Hunter,10,14,0.71,71%,18.0,12.86,180,2,9.0,6.43,6.0,4.29
+Bâton de Conquête,Conquering Staff,7,14,0.5,50%,24.0,12.0,168,2,12.0,6.0,8.0,4.0
+Faux,Scythe,14,14,1.0,100%,10.14,10.14,142,3,3.38,3.38,2.54,2.54
+Armure d'Obsidienne,Obsidian Battle Plate,7,14,0.5,50%,20.0,10.0,140,2,10.0,5.0,6.67,3.33
+Pillard Féroce,Savage Looter,7,14,0.5,50%,20.0,10.0,140,1,20.0,10.0,10.0,5.0
+Coup de Mort,Death Helper,10,14,0.71,71%,13.0,9.29,130,1,13.0,9.29,6.5,4.64
+Décharge Élémentaire,Elemental Discharge,6,14,0.43,43%,20.0,8.57,120,1,20.0,8.57,10.0,4.29
+Marteau Collecteur,Collecting Hammer,8,14,0.57,57%,14.0,8.0,112,2,7.0,4.0,4.67,2.67
+Le Marionnettiste,The Puppeteer,5,14,0.36,36%,20.0,7.14,100,2,10.0,3.57,6.67,2.38
+Lame Affutée,Sharp Blade,12,14,0.86,86%,8.25,7.07,99,3,2.75,2.36,2.06,1.77
+Esprit Sauvage,Wild Spirit,12,14,0.86,86%,8.0,6.86,96,0,Gratuit,Gratuit,8.0,6.86
+Sabre Versatile,Versatil Saber,5,14,0.36,36%,18.0,6.43,90,1,18.0,6.43,9.0,3.21
+Esprit omniprésent,Omnipresent Spirit,5,14,0.36,36%,18.0,6.43,90,2,9.0,3.21,6.0,2.14
+Bâton du Conquérant,Staff of Conquered Worlds,5,14,0.36,36%,15.0,5.36,75,0,Gratuit,Gratuit,15.0,5.36
+Œil de Lynx,Hawk's Eye,9,14,0.64,64%,8.0,5.14,72,0,Gratuit,Gratuit,8.0,5.14
+Hache Frénétique,Berseker Ax,4,14,0.29,29%,16.0,4.57,64,2,8.0,2.29,5.33,1.52
+Totem du Gardien,Guardian Totem,14,14,1.0,100%,3.57,3.57,50,3,1.19,1.19,0.89,0.89
+Force Divine,Divine Impetu,3,14,0.21,21%,15.0,3.21,45,0,Gratuit,Gratuit,15.0,3.21
+Danse Macabre,Dance of Death,4,14,0.29,29%,10.0,2.86,40,1,10.0,2.86,5.0,1.43
+Aura Légendaire,Legend Aura,1,14,0.07,7%,40.0,2.86,40,3,13.33,0.95,10.0,0.71
+Armure d'Immortel,Immortal Breastplate,2,14,0.14,14%,20.0,2.86,40,1,20.0,2.86,10.0,1.43
+Marteleur précis,Precise Hammer,2,14,0.14,14%,18.0,2.57,36,1,18.0,2.57,9.0,1.28
+Elan de Fureur,Rampage Momentum,2,14,0.14,14%,15.0,2.14,30,1,15.0,2.14,7.5,1.07
+Amulette Omnisciente,Omnipresent Amulet,2,14,0.14,14%,15.0,2.14,30,0,Gratuit,Gratuit,15.0,2.14
+Triple Météore,Trimeteor,1,14,0.07,7%,30.0,2.14,30,0,Gratuit,Gratuit,30.0,2.14
+Enchaînement Éclair,Unstoppable Lightning,1,14,0.07,7%,22.0,1.57,22,2,11.0,0.79,7.33,0.52
+Épée Obscure,Swords of Darkness,1,14,0.07,7%,20.0,1.43,20,1,20.0,1.43,10.0,0.71
+Parchemin Secret,Secret Scroll,1,14,0.07,7%,18.0,1.29,18,2,9.0,0.65,6.0,0.43
+Épé Sainte,Holy Sword,1,14,0.07,7%,15.0,1.07,15,0,Gratuit,Gratuit,15.0,1.07
+Soif de Sang,Thirsty Dagger,1,14,0.07,7%,15.0,1.07,15,0,Gratuit,Gratuit,15.0,1.07
+Couronne du Roi Nain,Crown of the Dwarf King,1,14,0.07,7%,13.0,0.93,13,0,Gratuit,Gratuit,13.0,0.93
