@@ -1,10 +1,17 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Esprit de la Faille,Spirit of the Rift,3,3,1.0,100%,25.0,25.0,75,2,12.5,12.5,8.33,8.33
-Écailles Magiques,Magic Scales,2,3,0.67,67%,25.0,16.67,50,2,12.5,8.34,8.33,5.56
-Perce-Écailles,Scale Tearer,3,3,1.0,100%,14.0,14.0,42,3,4.67,4.67,3.5,3.5
-L'Oeil du Héraut,Eye of the Void,3,3,1.0,100%,12.0,12.0,36,0,Gratuit,Gratuit,12.0,12.0
-Chasse au Gros,Big Worm Hunter,1,3,0.33,33%,30.0,10.0,30,3,10.0,3.33,7.5,2.5
-Masque du Baron,Baron' s Mask,1,3,0.33,33%,25.0,8.33,25,2,12.5,4.17,8.33,2.78
-Marteau Dévastateur,Destroyer Hammer,3,3,1.0,100%,7.33,7.33,22,2,3.67,3.67,2.44,2.44
-Marteau Conquérant,Conquest Hammer,1,3,0.33,33%,22.0,7.33,22,3,7.33,2.44,5.5,1.83
-Première Ligne,First Line,1,3,0.33,33%,8.0,2.67,8,0,Gratuit,Gratuit,8.0,2.67
+Esprit de la Faille,Spirit of the Rift,7,8,0.88,88%,25.0,21.88,175,2,12.5,10.94,8.33,7.29
+Écailles Magiques,Magic Scales,5,8,0.62,62%,25.0,15.62,125,2,12.5,7.81,8.33,5.21
+Perce-Écailles,Scale Tearer,8,8,1.0,100%,14.0,14.0,112,3,4.67,4.67,3.5,3.5
+L'Oeil du Héraut,Eye of the Void,7,8,0.88,88%,12.86,11.25,90,0,Gratuit,Gratuit,12.86,11.25
+Marteau Dévastateur,Destroyer Hammer,8,8,1.0,100%,9.5,9.5,76,2,4.75,4.75,3.17,3.17
+Marteau Conquérant,Conquest Hammer,3,8,0.38,38%,22.0,8.25,66,3,7.33,2.75,5.5,2.06
+Chasse au Gros,Big Worm Hunter,3,8,0.38,38%,20.0,7.5,60,3,6.67,2.5,5.0,1.88
+Masque du Baron,Baron' s Mask,2,8,0.25,25%,25.0,6.25,50,2,12.5,3.12,8.33,2.08
+Folie Meurtrière,Killer Momentum,2,8,0.25,25%,22.0,5.5,44,0,Gratuit,Gratuit,22.0,5.5
+Première Ligne,First Line,5,8,0.62,62%,8.0,5.0,40,0,Gratuit,Gratuit,8.0,5.0
+Poigne d'Or,Golden Force,2,8,0.25,25%,20.0,5.0,40,1,20.0,5.0,10.0,2.5
+Protection Royale,Royal Protector,2,8,0.25,25%,17.0,4.25,34,1,17.0,4.25,8.5,2.12
+Âme de Dragon Élémentaire,Elemental Dragon Soul,1,8,0.12,12%,25.0,3.12,25,1,25.0,3.12,12.5,1.56
+Frappes Éclair,Light Swords,2,8,0.25,25%,12.0,3.0,24,0,Gratuit,Gratuit,12.0,3.0
+Gardien Sous-terrain,Underworld Guardian,1,8,0.12,12%,18.0,2.25,18,1,18.0,2.25,9.0,1.12
+Sceau Profanateur,Seal of Desecration,2,8,0.25,25%,8.0,2.0,16,2,4.0,1.0,2.67,0.67
