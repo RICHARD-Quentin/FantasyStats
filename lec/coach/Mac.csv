@@ -1,14 +1,16 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Marteau Conquérant,Conquest Hammer,3,3,1.0,100%,22.0,22.0,66,3,7.33,7.33,5.5,5.5
-Marteau Dévastateur,Destroyer Hammer,3,3,1.0,100%,20.67,20.67,62,2,10.34,10.34,6.89,6.89
-Protection Royale,Royal Protector,3,3,1.0,100%,17.0,17.0,51,1,17.0,17.0,8.5,8.5
-Masque du Baron,Baron' s Mask,2,3,0.67,67%,25.0,16.67,50,2,12.5,8.34,8.33,5.56
-Perce-Écailles,Scale Tearer,3,3,1.0,100%,16.33,16.33,49,3,5.44,5.44,4.08,4.08
-Chasse au Gros,Big Worm Hunter,3,3,1.0,100%,15.0,15.0,45,3,5.0,5.0,3.75,3.75
-Sceau Profanateur,Seal of Desecration,3,3,1.0,100%,13.33,13.33,40,2,6.67,6.67,4.44,4.44
-Gardien Sous-terrain,Underworld Guardian,2,3,0.67,67%,18.0,12.0,36,1,18.0,12.0,9.0,6.0
-Écailles Magiques,Magic Scales,1,3,0.33,33%,25.0,8.33,25,2,12.5,4.17,8.33,2.78
-Frappes Éclair,Light Swords,2,3,0.67,67%,12.0,8.0,24,0,Gratuit,Gratuit,12.0,8.0
-Première Ligne,First Line,3,3,1.0,100%,8.0,8.0,24,0,Gratuit,Gratuit,8.0,8.0
-Poigne d'Or,Golden Force,1,3,0.33,33%,20.0,6.67,20,1,20.0,6.67,10.0,3.33
-L'Oeil du Héraut,Eye of the Void,2,3,0.67,67%,9.0,6.0,18,0,Gratuit,Gratuit,9.0,6.0
+Marteau Dévastateur,Destroyer Hammer,6,7,0.86,86%,16.33,14.0,98,2,8.16,7.0,5.44,4.67
+Marteau Conquérant,Conquest Hammer,4,7,0.57,57%,22.0,12.57,88,3,7.33,4.19,5.5,3.14
+Perce-Écailles,Scale Tearer,6,7,0.86,86%,14.0,12.0,84,3,4.67,4.0,3.5,3.0
+Masque du Baron,Baron' s Mask,3,7,0.43,43%,25.0,10.71,75,2,12.5,5.36,8.33,3.57
+Gardien Sous-terrain,Underworld Guardian,4,7,0.57,57%,18.0,10.29,72,1,18.0,10.29,9.0,5.14
+Protection Royale,Royal Protector,4,7,0.57,57%,17.0,9.71,68,1,17.0,9.71,8.5,4.86
+Sceau Profanateur,Seal of Desecration,4,7,0.57,57%,16.0,9.14,64,2,8.0,4.57,5.33,3.05
+Chasse au Gros,Big Worm Hunter,4,7,0.57,57%,15.0,8.57,60,3,5.0,2.86,3.75,2.14
+Première Ligne,First Line,6,7,0.86,86%,8.0,6.86,48,0,Gratuit,Gratuit,8.0,6.86
+L'Oeil du Héraut,Eye of the Void,4,7,0.57,57%,11.25,6.43,45,0,Gratuit,Gratuit,11.25,6.43
+Poigne d'Or,Golden Force,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
+Frappes Éclair,Light Swords,3,7,0.43,43%,12.0,5.14,36,0,Gratuit,Gratuit,12.0,5.14
+Esprit de la Faille,Spirit of the Rift,1,7,0.14,14%,25.0,3.57,25,2,12.5,1.78,8.33,1.19
+Écailles Magiques,Magic Scales,1,7,0.14,14%,25.0,3.57,25,2,12.5,1.78,8.33,1.19
+Folie Meurtrière,Killer Momentum,1,7,0.14,14%,22.0,3.14,22,0,Gratuit,Gratuit,22.0,3.14
