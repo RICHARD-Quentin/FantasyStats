@@ -1,24 +1,29 @@
 ,Nom Anglais,nb games valide,total games,ratio,%,pts moy,pts moy total,total point,cout,pts par cout moy,pts par cout total,pts par cout moy+1,pts par cout total+1
-Être de Lumière,Being of Light,3,3,1.0,100%,20.0,20.0,60,1,20.0,20.0,10.0,10.0
-Assistance Divine,Sacred Help,3,3,1.0,100%,20.0,20.0,60,2,10.0,10.0,6.67,6.67
-Griffes Sauvages,Wild Claw,3,3,1.0,100%,18.33,18.33,55,3,6.11,6.11,4.58,4.58
-Chasseur de Bêtes,Beast Hunter,3,3,1.0,100%,18.0,18.0,54,2,9.0,9.0,6.0,6.0
-Totem Équivalent,Equivalent Totem,3,3,1.0,100%,15.33,15.33,46,3,5.11,5.11,3.83,3.83
-Armure d'Obsidienne,Obsidian Battle Plate,2,3,0.67,67%,20.0,13.33,40,2,10.0,6.67,6.67,4.44
-Pillard Féroce,Savage Looter,2,3,0.67,67%,20.0,13.33,40,1,20.0,13.33,10.0,6.67
-Décharge Élémentaire,Elemental Discharge,2,3,0.67,67%,20.0,13.33,40,1,20.0,13.33,10.0,6.67
-Sabre Versatile,Versatil Saber,2,3,0.67,67%,18.0,12.0,36,1,18.0,12.0,9.0,6.0
-Faux,Scythe,3,3,1.0,100%,10.0,10.0,30,3,3.33,3.33,2.5,2.5
-Esprit de l'Écuyer,Spirit of the Squire,3,3,1.0,100%,8.0,8.0,24,3,2.67,2.67,2.0,2.0
-Esprit Sauvage,Wild Spirit,3,3,1.0,100%,8.0,8.0,24,0,Gratuit,Gratuit,8.0,8.0
-Aveuglement,Incapacitor,3,3,1.0,100%,8.0,8.0,24,3,2.67,2.67,2.0,2.0
-Le Marionnettiste,The Puppeteer,1,3,0.33,33%,20.0,6.67,20,2,10.0,3.33,6.67,2.22
-Épée Obscure,Swords of Darkness,1,3,0.33,33%,20.0,6.67,20,1,20.0,6.67,10.0,3.33
-Mental d'Acier,Steel Aura,1,3,0.33,33%,18.0,6.0,18,2,9.0,3.0,6.0,2.0
-Hache Frénétique,Berseker Ax,1,3,0.33,33%,16.0,5.33,16,2,8.0,2.67,5.33,1.78
-Soif de Sang,Thirsty Dagger,1,3,0.33,33%,15.0,5.0,15,0,Gratuit,Gratuit,15.0,5.0
-Totem du Gardien,Guardian Totem,3,3,1.0,100%,4.33,4.33,13,3,1.44,1.44,1.08,1.08
-Coup de Mort,Death Helper,1,3,0.33,33%,13.0,4.33,13,1,13.0,4.33,6.5,2.17
-Lame Affutée,Sharp Blade,2,3,0.67,67%,6.0,4.0,12,3,2.0,1.33,1.5,1.0
-Œil de Lynx,Hawk's Eye,1,3,0.33,33%,8.0,2.67,8,0,Gratuit,Gratuit,8.0,2.67
-Marteau Collecteur,Collecting Hammer,1,3,0.33,33%,7.0,2.33,7,2,3.5,1.17,2.33,0.78
+Assistance Divine,Sacred Help,7,7,1.0,100%,20.0,20.0,140,2,10.0,10.0,6.67,6.67
+Griffes Sauvages,Wild Claw,7,7,1.0,100%,17.0,17.0,119,3,5.67,5.67,4.25,4.25
+Totem Équivalent,Equivalent Totem,7,7,1.0,100%,15.43,15.43,108,3,5.14,5.14,3.86,3.86
+Être de Lumière,Being of Light,5,7,0.71,71%,20.0,14.29,100,1,20.0,14.29,10.0,7.14
+Chasseur de Bêtes,Beast Hunter,5,7,0.71,71%,18.0,12.86,90,2,9.0,6.43,6.0,4.29
+Pillard Féroce,Savage Looter,4,7,0.57,57%,20.0,11.43,80,1,20.0,11.43,10.0,5.71
+Aveuglement,Incapacitor,7,7,1.0,100%,10.29,10.29,72,3,3.43,3.43,2.57,2.57
+Faux,Scythe,7,7,1.0,100%,9.71,9.71,68,3,3.24,3.24,2.43,2.43
+Armure d'Obsidienne,Obsidian Battle Plate,3,7,0.43,43%,20.0,8.57,60,2,10.0,4.29,6.67,2.86
+Esprit de l'Écuyer,Spirit of the Squire,7,7,1.0,100%,8.14,8.14,57,3,2.71,2.71,2.04,2.04
+Mental d'Acier,Steel Aura,3,7,0.43,43%,18.0,7.71,54,2,9.0,3.85,6.0,2.57
+Sabre Versatile,Versatil Saber,3,7,0.43,43%,18.0,7.71,54,1,18.0,7.71,9.0,3.85
+Esprit Sauvage,Wild Spirit,6,7,0.86,86%,8.0,6.86,48,0,Gratuit,Gratuit,8.0,6.86
+Bâton de Conquête,Conquering Staff,2,7,0.29,29%,24.0,6.86,48,2,12.0,3.43,8.0,2.29
+Le Marionnettiste,The Puppeteer,2,7,0.29,29%,20.0,5.71,40,2,10.0,2.85,6.67,1.9
+Décharge Élémentaire,Elemental Discharge,2,7,0.29,29%,20.0,5.71,40,1,20.0,5.71,10.0,2.85
+Hache Frénétique,Berseker Ax,2,7,0.29,29%,16.0,4.57,32,2,8.0,2.29,5.33,1.52
+Lame Affutée,Sharp Blade,6,7,0.86,86%,5.0,4.29,30,3,1.67,1.43,1.25,1.07
+Soif de Sang,Thirsty Dagger,2,7,0.29,29%,15.0,4.29,30,0,Gratuit,Gratuit,15.0,4.29
+Marteau Collecteur,Collecting Hammer,3,7,0.43,43%,9.33,4.0,28,2,4.67,2.0,3.11,1.33
+Totem du Gardien,Guardian Totem,7,7,1.0,100%,3.86,3.86,27,3,1.29,1.29,0.96,0.96
+Coup de Mort,Death Helper,2,7,0.29,29%,13.0,3.71,26,1,13.0,3.71,6.5,1.85
+Ascension Divine,Divine Ascent,1,7,0.14,14%,25.0,3.57,25,3,8.33,1.19,6.25,0.89
+Œil de Lynx,Hawk's Eye,3,7,0.43,43%,8.0,3.43,24,0,Gratuit,Gratuit,8.0,3.43
+Épée Obscure,Swords of Darkness,1,7,0.14,14%,20.0,2.86,20,1,20.0,2.86,10.0,1.43
+Marteleur précis,Precise Hammer,1,7,0.14,14%,18.0,2.57,18,1,18.0,2.57,9.0,1.28
+Bâton du Conquérant,Staff of Conquered Worlds,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
+Amulette Omnisciente,Omnipresent Amulet,1,7,0.14,14%,15.0,2.14,15,0,Gratuit,Gratuit,15.0,2.14
